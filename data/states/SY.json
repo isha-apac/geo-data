@@ -1,0 +1,168 @@
+[
+  {
+    "code": "HL",
+    "name": "Aleppo Governorate",
+    "names": {
+      "ja": "アレッポ県",
+      "ko": "알레포주",
+      "vi": "Aleppo",
+      "id": "Kegubernuran Aleppo",
+      "zh-Hans": "阿勒颇省",
+      "zh-Hant": "阿勒頗省"
+    }
+  },
+  {
+    "code": "DI",
+    "name": "Damascus Governorate",
+    "names": {
+      "ja": "ダマスカス県",
+      "ko": "다마스쿠스주",
+      "id": "Kegubernuran Damaskus",
+      "zh-Hans": "大馬士革省"
+    }
+  },
+  {
+    "code": "DR",
+    "name": "Daraa Governorate",
+    "names": {
+      "ja": "ダルアー県",
+      "ko": "다라주",
+      "vi": "Daraa",
+      "id": "Kegubernuran Daraa",
+      "zh-Hans": "德拉省",
+      "zh-Hant": "德拉省"
+    }
+  },
+  {
+    "code": "DY",
+    "name": "Deir ez-Zor Governorate",
+    "names": {
+      "ja": "デリゾール県",
+      "ko": "데이르에조르주",
+      "vi": "Deir ez-Zor",
+      "id": "Kegubernuran Dayr az-Zawr",
+      "zh-Hans": "代尔祖尔省",
+      "zh-Hant": "代爾祖爾省"
+    }
+  },
+  {
+    "code": "HM",
+    "name": "Hama Governorate",
+    "names": {
+      "ja": "ハマー県",
+      "ko": "하마주",
+      "vi": "Hama",
+      "id": "Kegubernuran Hama",
+      "zh-Hans": "哈马省",
+      "zh-Hant": "哈馬省"
+    }
+  },
+  {
+    "code": "HA",
+    "name": "Hasakah Governorate",
+    "names": {
+      "ja": "ハサカ県",
+      "ko": "하사카주",
+      "vi": "Al-Hasakah",
+      "id": "Kegubernuran Al-Hasakah",
+      "zh-Hans": "哈塞克省",
+      "zh-Hant": "哈塞克省"
+    }
+  },
+  {
+    "code": "HI",
+    "name": "Homs Governorate",
+    "names": {
+      "ja": "ホムス県",
+      "ko": "홈스주",
+      "vi": "Homs",
+      "id": "Kegubernuran Homs",
+      "zh-Hans": "霍姆斯省",
+      "zh-Hant": "霍姆斯省"
+    }
+  },
+  {
+    "code": "ID",
+    "name": "Idlib Governorate",
+    "names": {
+      "ja": "イドリブ県",
+      "ko": "이들리브주",
+      "vi": "Idlib",
+      "id": "Kegubernuran Idlib",
+      "zh-Hans": "伊德利卜省",
+      "zh-Hant": "伊德利卜省"
+    }
+  },
+  {
+    "code": "LA",
+    "name": "Latakia Governorate",
+    "names": {
+      "ja": "ラタキア県",
+      "ko": "라타키아주",
+      "vi": "Latakia",
+      "id": "Kegubernuran Latakia",
+      "zh-Hans": "拉塔基亚省",
+      "zh-Hant": "拉塔基亞省"
+    }
+  },
+  {
+    "code": "QU",
+    "name": "Quneitra Governorate",
+    "names": {
+      "ja": "クネイトラ県",
+      "ko": "쿠네이트라주",
+      "vi": "Quneitra",
+      "id": "Kegubernuran Quneitra",
+      "zh-Hans": "库奈特拉省",
+      "zh-Hant": "庫奈特拉省"
+    }
+  },
+  {
+    "code": "RA",
+    "name": "Raqqa Governorate",
+    "names": {
+      "ja": "ラッカ県",
+      "ko": "락까주",
+      "vi": "Ar-Raqqah",
+      "id": "Kegubernuran Ar-Raqqah",
+      "zh-Hans": "拉卡省",
+      "zh-Hant": "拉卡省"
+    }
+  },
+  {
+    "code": "RD",
+    "name": "Rif Dimashq Governorate",
+    "names": {
+      "ja": "ダマスカス郊外県",
+      "ko": "리프디마슈크주",
+      "vi": "Rif Dimashq",
+      "id": "Kegubernuran Rif Dimashq",
+      "zh-Hans": "大马士革农村省",
+      "zh-Hant": "大馬士革農村省"
+    }
+  },
+  {
+    "code": "SU",
+    "name": "Suwayda Governorate",
+    "names": {
+      "ja": "スワイダー県",
+      "ko": "수와이다주",
+      "vi": "As-Suwayda",
+      "id": "Kegubernuran As-Suwayda",
+      "zh-Hans": "苏韦达省",
+      "zh-Hant": "蘇韋達省"
+    }
+  },
+  {
+    "code": "TA",
+    "name": "Tartus Governorate",
+    "names": {
+      "ja": "タルトゥース県",
+      "ko": "타르투스주",
+      "vi": "Tartus",
+      "id": "Kegubernuran Tartus",
+      "zh-Hans": "塔尔图斯省",
+      "zh-Hant": "塔爾圖斯省"
+    }
+  }
+]

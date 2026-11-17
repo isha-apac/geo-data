@@ -1,0 +1,94 @@
+[
+  {
+    "code": "10",
+    "name": "Barbuda",
+    "names": {
+      "ja": "バーブーダ島",
+      "ko": "바부다섬",
+      "vi": "Barbuda",
+      "id": "Barbuda",
+      "zh-Hans": "巴布达岛",
+      "zh-Hant": "巴布達島"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Redonda",
+    "names": {
+      "ja": "レドンダ島",
+      "ko": "레돈다섬",
+      "vi": "Redonda",
+      "id": "Redonda",
+      "zh-Hans": "雷东达岛",
+      "zh-Hant": "雷東達島"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Saint George",
+    "names": {
+      "ja": "セント・ジョージ教区",
+      "ko": "세인트조지구",
+      "vi": "Giáo xứ Saint George",
+      "id": "Paroki Saint George, Antigua dan Barbuda",
+      "zh-Hans": "圣乔治区",
+      "zh-Hant": "聖喬治區"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Saint John",
+    "names": {
+      "ja": "セント・ジョン教区",
+      "ko": "세인트존구",
+      "id": "Paroki Saint John, Antigua dan Barbuda",
+      "zh-Hans": "圣约翰区"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Saint Mary",
+    "names": {
+      "ja": "セント・メアリー教区",
+      "ko": "세인트메리구",
+      "vi": "Giáo xứ Saint Mary",
+      "id": "Paroki Saint Mary, Antigua dan Barbuda",
+      "zh-Hans": "圣玛丽区",
+      "zh-Hant": "聖瑪麗區"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Saint Paul",
+    "names": {
+      "ja": "セント・ポール教区",
+      "ko": "세인트폴구",
+      "vi": "Giáo xứ Saint Paul",
+      "id": "Paroki Saint Paul, Antigua dan Barbuda",
+      "zh-Hans": "圣保罗区"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Saint Peter",
+    "names": {
+      "ja": "セント・ピーター教区",
+      "ko": "세인트피터구",
+      "vi": "Giáo xứ Saint Peter",
+      "id": "Paroki Saint Peter, Antigua dan Barbuda",
+      "zh-Hans": "圣彼得区"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Saint Philip",
+    "names": {
+      "ja": "サンフィリップ教区",
+      "ko": "세인트필립구",
+      "vi": "Giáo xứ Saint Philip",
+      "id": "Paroki Saint Philip, Antigua dan Barbuda",
+      "zh-Hans": "圣菲利普区",
+      "zh-Hant": "聖菲利普區"
+    }
+  }
+]

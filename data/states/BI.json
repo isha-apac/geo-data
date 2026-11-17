@@ -1,0 +1,105 @@
+[
+  {
+    "code": "BB",
+    "name": "Bubanza",
+    "names": {}
+  },
+  {
+    "code": "BM",
+    "name": "Bujumbura Mairie",
+    "names": {}
+  },
+  {
+    "code": "BL",
+    "name": "Bujumbura Rural",
+    "names": {}
+  },
+  {
+    "code": "BR",
+    "name": "Bururi",
+    "names": {}
+  },
+  {
+    "code": "CA",
+    "name": "Cankuzo",
+    "names": {}
+  },
+  {
+    "code": "CI",
+    "name": "Cibitoke",
+    "names": {}
+  },
+  {
+    "code": "GI",
+    "name": "Gitega Province",
+    "names": {
+      "ja": "ギテガ県",
+      "ko": "기테가주",
+      "vi": "Tỉnh Gitega",
+      "id": "Provinsi Gitega",
+      "zh-Hans": "基特加省",
+      "zh-Hant": "基特加省"
+    }
+  },
+  {
+    "code": "KR",
+    "name": "Karuzi",
+    "names": {}
+  },
+  {
+    "code": "KY",
+    "name": "Kayanza",
+    "names": {}
+  },
+  {
+    "code": "KI",
+    "name": "Kirundo",
+    "names": {}
+  },
+  {
+    "code": "MA",
+    "name": "Makamba",
+    "names": {}
+  },
+  {
+    "code": "MU",
+    "name": "Muramvya",
+    "names": {}
+  },
+  {
+    "code": "MY",
+    "name": "Muyinga",
+    "names": {}
+  },
+  {
+    "code": "MW",
+    "name": "Mwaro",
+    "names": {}
+  },
+  {
+    "code": "NG",
+    "name": "Ngozi",
+    "names": {}
+  },
+  {
+    "code": "RM",
+    "name": "Rumonge Province",
+    "names": {
+      "ja": "ルモンゲ県",
+      "ko": "루몽게주",
+      "vi": "Rumonge (tỉnh)",
+      "id": "Provinsi Rumonge",
+      "zh-Hans": "鲁蒙盖省"
+    }
+  },
+  {
+    "code": "RT",
+    "name": "Rutana",
+    "names": {}
+  },
+  {
+    "code": "RY",
+    "name": "Ruyigi",
+    "names": {}
+  }
+]

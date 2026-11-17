@@ -1,0 +1,211 @@
+[
+  {
+    "code": "AT",
+    "name": "Attapeu Province",
+    "names": {
+      "ja": "アッタプー県",
+      "ko": "앗타푸 주",
+      "vi": "Attapeu",
+      "id": "Provinsi Attapu",
+      "zh-Hans": "阿速坡省",
+      "zh-Hant": "阿速坡省"
+    }
+  },
+  {
+    "code": "BK",
+    "name": "Bokeo Province",
+    "names": {
+      "ja": "ボーケーオ県",
+      "ko": "보케오주",
+      "vi": "Bokeo",
+      "id": "Provinsi Bokeo",
+      "zh-Hans": "博胶省",
+      "zh-Hant": "博膠省"
+    }
+  },
+  {
+    "code": "BL",
+    "name": "Bolikhamsai Province",
+    "names": {
+      "ja": "ボーリカムサイ県",
+      "ko": "볼리캄사이주",
+      "vi": "Borikhamxay",
+      "id": "Provinsi Bolikhamsai",
+      "zh-Hans": "博利坎赛省"
+    }
+  },
+  {
+    "code": "CH",
+    "name": "Champasak Province",
+    "names": {
+      "ja": "チャンパーサック県",
+      "ko": "참빠삭 주",
+      "vi": "Champasack",
+      "id": "Provinsi Champasak",
+      "zh-Hans": "占巴塞省",
+      "zh-Hant": "占巴塞省"
+    }
+  },
+  {
+    "code": "HO",
+    "name": "Hūaphan",
+    "names": {
+      "ja": "フアパン県",
+      "ko": "후아판주",
+      "vi": "Huaphanh",
+      "id": "Provinsi Houaphan",
+      "zh-Hans": "华潘省",
+      "zh-Hant": "華潘省"
+    }
+  },
+  {
+    "code": "KH",
+    "name": "Khammouane Province",
+    "names": {
+      "ja": "カムムアン県",
+      "ko": "캄무안주",
+      "vi": "Khammuane",
+      "id": "Provinsi Khammouan",
+      "zh-Hans": "甘蒙省",
+      "zh-Hant": "甘蒙省"
+    }
+  },
+  {
+    "code": "LM",
+    "name": "Lūang Namthā",
+    "names": {
+      "ja": "ルアンナムター県",
+      "ko": "루앙남타주",
+      "vi": "Luangnamtha",
+      "id": "Provinsi Louang Namtha",
+      "zh-Hans": "琅南塔省"
+    }
+  },
+  {
+    "code": "LP",
+    "name": "Luang Prabang Province",
+    "names": {
+      "ja": "ルアンパバーン県",
+      "ko": "루앙프라방주",
+      "vi": "Luangprabang",
+      "id": "Provinsi Luang Prabang",
+      "zh-Hans": "琅勃拉邦省",
+      "zh-Hant": "琅勃拉邦省"
+    }
+  },
+  {
+    "code": "PH",
+    "name": "Phongsaly Province",
+    "names": {
+      "ja": "ポンサーリー県",
+      "ko": "퐁살리주",
+      "vi": "Phongsaly",
+      "id": "Provinsi Phongsali",
+      "zh-Hans": "丰沙里省",
+      "zh-Hant": "豐沙里省"
+    }
+  },
+  {
+    "code": "XA",
+    "name": "Sainyabūlī",
+    "names": {
+      "ja": "サイニャブーリー県",
+      "ko": "사이냐불리주",
+      "vi": "Xayabury",
+      "id": "Provinsi Xaignabouli",
+      "zh-Hans": "沙耶武里省",
+      "zh-Hant": "沙耶武里省"
+    }
+  },
+  {
+    "code": "SL",
+    "name": "Salavan Province",
+    "names": {
+      "ja": "サーラワン県",
+      "ko": "살라완주",
+      "vi": "Saravane",
+      "id": "Provinsi Salavan",
+      "zh-Hans": "沙拉湾省"
+    }
+  },
+  {
+    "code": "SV",
+    "name": "Savannakhet Province",
+    "names": {
+      "ja": "サワンナケート県",
+      "ko": "사완나켓주",
+      "id": "Provinsi Savannakhet",
+      "zh-Hans": "沙湾拿吉省",
+      "zh-Hant": "沙灣拿吉省"
+    }
+  },
+  {
+    "code": "XE",
+    "name": "Sekong",
+    "names": {
+      "ja": "セーコーン県",
+      "ko": "세콩주",
+      "vi": "Sekong",
+      "id": "Provinsi Xekong",
+      "zh-Hans": "塞公省"
+    }
+  },
+  {
+    "code": "OU",
+    "name": "Udomsai",
+    "names": {
+      "ja": "ウドムサイ県",
+      "ko": "우돔싸이 주",
+      "vi": "Oudomxay",
+      "id": "Provinsi Oudomxai",
+      "zh-Hans": "乌多姆塞省",
+      "zh-Hant": "烏多姆塞省"
+    }
+  },
+  {
+    "code": "VT",
+    "name": "Vientiane",
+    "names": {
+      "ja": "ヴィエンチャン都",
+      "ko": "비엔티안 도",
+      "id": "Prefektur Vientiane",
+      "zh-Hans": "永珍地区",
+      "zh-Hant": "永珍地區"
+    }
+  },
+  {
+    "code": "VI",
+    "name": "Vientiane Province",
+    "names": {
+      "ja": "ヴィエンチャン県",
+      "ko": "비엔티안주",
+      "vi": "Viêng Chăn",
+      "id": "Provinsi Vientiane",
+      "zh-Hans": "万象省",
+      "zh-Hant": "萬象省"
+    }
+  },
+  {
+    "code": "XS",
+    "name": "Xaisomboun Province",
+    "names": {
+      "ja": "サイソムブーン県",
+      "ko": "싸이솜분 주",
+      "vi": "Xaysomboun",
+      "id": "Provinsi Xaisomboun",
+      "zh-Hans": "赛宋本省"
+    }
+  },
+  {
+    "code": "XI",
+    "name": "Xiangkhouang Province",
+    "names": {
+      "ja": "シエンクワーン県",
+      "ko": "씨앙쿠앙 주",
+      "vi": "Xiengkhuang",
+      "id": "Sīang Khwāng",
+      "zh-Hans": "川圹省",
+      "zh-Hant": "川壙省"
+    }
+  }
+]

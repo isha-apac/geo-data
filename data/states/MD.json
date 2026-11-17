@@ -1,0 +1,412 @@
+[
+  {
+    "code": "SN",
+    "name": "Administrative-Territorial Units of the Left Bank of the Dniester",
+    "names": {
+      "ja": "沿ドニエストル地域",
+      "ko": "트란스니스트리아 자치 영토 단위",
+      "vi": "Đơn vị hành chính-lãnh thổ của Tả ngạn Dniester",
+      "zh-Hans": "德涅斯特河沿岸自治领土单位"
+    }
+  },
+  {
+    "code": "AN",
+    "name": "Anenii Noi District",
+    "names": {
+      "ja": "アネニイ・ノイ県",
+      "ko": "아네니노이구",
+      "vi": "Quận Anenii Noi",
+      "id": "Raionul Anenii Noi",
+      "zh-Hans": "新阿内尼区"
+    }
+  },
+  {
+    "code": "BA",
+    "name": "Bălți Municipality",
+    "names": {}
+  },
+  {
+    "code": "BS",
+    "name": "Basarabeasca District",
+    "names": {
+      "ja": "バサラベアスカ県",
+      "ko": "바사라베아스카구",
+      "vi": "Quận Basarabeasca",
+      "id": "Raionul Basarabeasca",
+      "zh-Hans": "巴萨拉贝亚斯卡区"
+    }
+  },
+  {
+    "code": "BD",
+    "name": "Bender Municipality",
+    "names": {
+      "vi": "Bender",
+      "id": "Bender"
+    }
+  },
+  {
+    "code": "BR",
+    "name": "Briceni District",
+    "names": {
+      "ja": "ブリチェニー県",
+      "ko": "브리체니구",
+      "vi": "Quận Briceni",
+      "id": "Raionul Briceni",
+      "zh-Hans": "布里切尼区",
+      "zh-Hant": "布里切尼區"
+    }
+  },
+  {
+    "code": "CA",
+    "name": "Cahul District",
+    "names": {
+      "ja": "カフル県",
+      "ko": "카훌구",
+      "vi": "Quận Cahul",
+      "id": "Raionul Cahul",
+      "zh-Hans": "卡胡尔区"
+    }
+  },
+  {
+    "code": "CL",
+    "name": "Călărași District",
+    "names": {
+      "ja": "カララシ県",
+      "ko": "컬러라시구",
+      "vi": "Quận Calarasi",
+      "id": "Raionul Călărași",
+      "zh-Hans": "卡拉拉什区"
+    }
+  },
+  {
+    "code": "CT",
+    "name": "Cantemir District",
+    "names": {
+      "ja": "カンテミール県",
+      "ko": "칸테미르구",
+      "vi": "Quận Cantemir",
+      "id": "Raionul Cantemir",
+      "zh-Hans": "冈代米尔区"
+    }
+  },
+  {
+    "code": "CS",
+    "name": "Căușeni District",
+    "names": {
+      "ja": "カウシェニ県",
+      "ko": "커우셰니구",
+      "vi": "Quận Causeni",
+      "id": "Raionul Căușeni",
+      "zh-Hans": "克乌谢尼区"
+    }
+  },
+  {
+    "code": "CU",
+    "name": "Chișinău Municipality",
+    "names": {
+      "zh-Hans": "基希讷乌市镇"
+    }
+  },
+  {
+    "code": "CM",
+    "name": "Cimișlia District",
+    "names": {
+      "ja": "チミシリア県",
+      "ko": "치미슐리아구",
+      "vi": "Quận Cimislia",
+      "id": "Raionul Cimișlia",
+      "zh-Hans": "奇米什利亚区"
+    }
+  },
+  {
+    "code": "CR",
+    "name": "Criuleni District",
+    "names": {
+      "ja": "クリウレニ県",
+      "ko": "크리울레니구",
+      "vi": "Quận Criuleni",
+      "id": "Raionul Criuleni",
+      "zh-Hans": "克留莱尼区"
+    }
+  },
+  {
+    "code": "DO",
+    "name": "Dondușeni District",
+    "names": {
+      "ja": "ドンドゥセニ県",
+      "ko": "돈두셰니구",
+      "vi": "Quận Donduseni",
+      "id": "Raionul Dondușeni",
+      "zh-Hans": "栋杜谢尼区",
+      "zh-Hant": "棟杜謝尼區"
+    }
+  },
+  {
+    "code": "DR",
+    "name": "Drochia District",
+    "names": {
+      "ja": "ドロキア県",
+      "ko": "드로키아구",
+      "vi": "Quận Drochia",
+      "id": "Raionul Drochia",
+      "zh-Hans": "德罗基亚区",
+      "zh-Hant": "德羅基亞區"
+    }
+  },
+  {
+    "code": "DU",
+    "name": "Dubăsari District",
+    "names": {
+      "ja": "ドゥベサリ県",
+      "ko": "두버사리구",
+      "vi": "Quận Dubasari",
+      "id": "Raionul Dubăsari",
+      "zh-Hans": "杜伯萨里区",
+      "zh-Hant": "杜伯薩里區"
+    }
+  },
+  {
+    "code": "ED",
+    "name": "Edineț District",
+    "names": {
+      "ja": "エディネツ県",
+      "ko": "에디네츠구",
+      "vi": "Quận Edinet",
+      "id": "Raionul Edineț",
+      "zh-Hans": "埃迪内茨区",
+      "zh-Hant": "埃迪內茨區"
+    }
+  },
+  {
+    "code": "FA",
+    "name": "Fălești District",
+    "names": {
+      "ja": "ファレシュティ県",
+      "ko": "펄레슈티구",
+      "vi": "Quận Falesti",
+      "id": "Raionul Fălești",
+      "zh-Hans": "弗莱什蒂区",
+      "zh-Hant": "弗萊什蒂區"
+    }
+  },
+  {
+    "code": "FL",
+    "name": "Florești District",
+    "names": {
+      "ja": "フロレシュティ県",
+      "ko": "플로레슈티구",
+      "vi": "Quận Floresti",
+      "id": "Raionul Florești",
+      "zh-Hans": "弗洛雷什蒂区",
+      "zh-Hant": "弗洛雷什蒂區"
+    }
+  },
+  {
+    "code": "GA",
+    "name": "Gagauzia",
+    "names": {
+      "ja": "ガガウズ自治区",
+      "ko": "가가우지아",
+      "vi": "Gagauzia",
+      "id": "Gagauzia",
+      "zh-Hans": "加告兹自治区",
+      "zh-Hant": "加告茲自治區"
+    }
+  },
+  {
+    "code": "GL",
+    "name": "Glodeni District",
+    "names": {
+      "ja": "グロデニ県",
+      "ko": "글로데니구",
+      "vi": "Quận Glodeni",
+      "id": "Raionul Glodeni",
+      "zh-Hans": "格洛代尼区",
+      "zh-Hant": "格洛代尼區"
+    }
+  },
+  {
+    "code": "HI",
+    "name": "Hîncești District",
+    "names": {
+      "ja": "ヒンチェシュティ県",
+      "ko": "흔체슈티구",
+      "vi": "Quận Hincesti",
+      "id": "Raionul Hîncești",
+      "zh-Hans": "亨切什蒂区",
+      "zh-Hant": "亨切什蒂區"
+    }
+  },
+  {
+    "code": "IA",
+    "name": "Ialoveni District",
+    "names": {
+      "ja": "ヤロベニ県",
+      "ko": "이알로베니구",
+      "vi": "Quận Ialoveni",
+      "id": "Raionul Ialoveni",
+      "zh-Hans": "亚洛韦尼区"
+    }
+  },
+  {
+    "code": "LE",
+    "name": "Leova District",
+    "names": {
+      "ja": "レオバ県",
+      "ko": "레오바구",
+      "vi": "Quận Leova",
+      "id": "Raionul Leova",
+      "zh-Hans": "莱奥瓦区",
+      "zh-Hant": "萊奧瓦區"
+    }
+  },
+  {
+    "code": "NI",
+    "name": "Nisporeni District",
+    "names": {
+      "ja": "ニスポレニ県",
+      "ko": "니스포레니구",
+      "vi": "Quận Nisporeni",
+      "id": "Raionul Nisporeni",
+      "zh-Hans": "尼斯波雷尼区",
+      "zh-Hant": "尼斯波雷尼區"
+    }
+  },
+  {
+    "code": "OC",
+    "name": "Ocnița District",
+    "names": {
+      "ja": "オクニタ県",
+      "ko": "오크니차구",
+      "vi": "Quận Ocnita",
+      "id": "Raionul Ocnița",
+      "zh-Hans": "奥克尼察区"
+    }
+  },
+  {
+    "code": "OR",
+    "name": "Orhei District",
+    "names": {
+      "ja": "オルゲイ県",
+      "ko": "오르헤이구",
+      "vi": "Quận Orhei",
+      "id": "Raionul Orhei",
+      "zh-Hans": "奥尔海伊区"
+    }
+  },
+  {
+    "code": "RE",
+    "name": "Rezina District",
+    "names": {
+      "ja": "レジナ県",
+      "ko": "레지나구",
+      "vi": "Quận Rezina",
+      "id": "Raionul Rezina",
+      "zh-Hans": "雷济纳区",
+      "zh-Hant": "雷濟納區"
+    }
+  },
+  {
+    "code": "RI",
+    "name": "Rîșcani District",
+    "names": {
+      "ja": "リスカニ県",
+      "ko": "르슈카니구",
+      "vi": "Quận Riscani",
+      "id": "Raionul Rîșcani",
+      "zh-Hans": "雷什卡内区"
+    }
+  },
+  {
+    "code": "SI",
+    "name": "Sîngerei District",
+    "names": {
+      "ja": "シンジェレイ県",
+      "ko": "슨제레이구",
+      "vi": "Quận Singerei",
+      "id": "Raionul Sîngerei",
+      "zh-Hans": "森杰雷区"
+    }
+  },
+  {
+    "code": "SD",
+    "name": "Șoldănești District",
+    "names": {
+      "ja": "ソルダネシュティ県",
+      "ko": "숄더네슈티구",
+      "vi": "Quận Soldanesti",
+      "id": "Raionul Șoldănești",
+      "zh-Hans": "绍尔德内什蒂区",
+      "zh-Hant": "紹爾德內什蒂區"
+    }
+  },
+  {
+    "code": "SO",
+    "name": "Soroca District",
+    "names": {
+      "ja": "ソロカ県",
+      "ko": "소로카구",
+      "vi": "Quận Soroca",
+      "id": "Raionul Soroca",
+      "zh-Hans": "索罗卡区"
+    }
+  },
+  {
+    "code": "SV",
+    "name": "Ștefan Vodă District",
+    "names": {
+      "ja": "シュテファン・ボーダ県",
+      "ko": "슈테판보더구",
+      "vi": "Quận Stefan Voda",
+      "id": "Raionul Ștefan Vodă",
+      "zh-Hans": "斯特凡大公区"
+    }
+  },
+  {
+    "code": "ST",
+    "name": "Strășeni District",
+    "names": {
+      "ja": "ストラセニ県",
+      "ko": "스트러셰니구",
+      "vi": "Quận Straseni",
+      "id": "Raionul Strășeni",
+      "zh-Hans": "斯特勒谢尼区",
+      "zh-Hant": "斯特勒謝尼區"
+    }
+  },
+  {
+    "code": "TA",
+    "name": "Taraclia District",
+    "names": {
+      "ja": "タラクリア県",
+      "ko": "타라클리아구",
+      "vi": "Quận Taraclia",
+      "id": "Raionul Taraclia",
+      "zh-Hans": "塔拉克利亚区",
+      "zh-Hant": "塔拉克利亞區"
+    }
+  },
+  {
+    "code": "TE",
+    "name": "Telenești District",
+    "names": {
+      "ja": "テレネシュティ県",
+      "ko": "텔레네슈티구",
+      "vi": "Quận Telenesti",
+      "id": "Raionul Telenești",
+      "zh-Hans": "泰莱内什蒂区"
+    }
+  },
+  {
+    "code": "UN",
+    "name": "Ungheni District",
+    "names": {
+      "ja": "ウンゲニ県",
+      "ko": "운게니구",
+      "vi": "Quận Ungheni",
+      "id": "Raionul Ungheni",
+      "zh-Hans": "温格内区",
+      "zh-Hant": "溫格內區"
+    }
+  }
+]

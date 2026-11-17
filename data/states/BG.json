@@ -1,0 +1,316 @@
+[
+  {
+    "code": "01",
+    "name": "Blagoevgrad Province",
+    "names": {
+      "ja": "ブラゴエヴグラト州",
+      "ko": "블라고에브그라드주",
+      "vi": "Blagoevgrad (tỉnh)",
+      "id": "Provinsi Blagoevgrad",
+      "zh-Hans": "布拉戈耶夫格勒州"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Burgas Province",
+    "names": {
+      "ja": "ブルガス州",
+      "ko": "부르가스주",
+      "vi": "Burgas",
+      "id": "Provinsi Burgas",
+      "zh-Hans": "布尔加斯州",
+      "zh-Hant": "布爾加斯州"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Dobrich Province",
+    "names": {
+      "ja": "ドブリチ州",
+      "ko": "도브리치주",
+      "vi": "Dobrich (tỉnh)",
+      "id": "Provinsi Dobrich",
+      "zh-Hans": "多布里奇州",
+      "zh-Hant": "多布里奇州"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Gabrovo Province",
+    "names": {
+      "ja": "ガブロヴォ州",
+      "ko": "가브로보주",
+      "vi": "Gabrovo (tỉnh)",
+      "id": "Provinsi Gabrovo",
+      "zh-Hans": "加布罗沃州"
+    }
+  },
+  {
+    "code": "26",
+    "name": "Haskovo Province",
+    "names": {
+      "ja": "ハスコヴォ州",
+      "ko": "하스코보주",
+      "vi": "Haskovo",
+      "id": "Provinsi Haskovo",
+      "zh-Hans": "哈斯科沃州",
+      "zh-Hant": "哈斯科沃州"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Kardzhali Province",
+    "names": {
+      "ja": "クルジャリ州",
+      "ko": "커르잘리주",
+      "vi": "Kardzhali",
+      "id": "Provinsi Kardzhali",
+      "zh-Hans": "克尔贾利州"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Kyustendil Province",
+    "names": {
+      "ja": "キュステンディル州",
+      "ko": "큐스텐딜주",
+      "vi": "Kyustendil (tỉnh)",
+      "id": "Provinsi Kyustendil",
+      "zh-Hans": "丘斯滕迪尔州"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Lovech Province",
+    "names": {
+      "ja": "ロヴェチ州",
+      "ko": "로베치주",
+      "vi": "Lovech",
+      "id": "Provinsi Lovetch",
+      "zh-Hans": "洛维奇州"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Montana Province",
+    "names": {
+      "ja": "モンタナ州",
+      "ko": "몬타나 주 (불가리아)",
+      "vi": "Montana (tỉnh)",
+      "id": "Provinsi Montana",
+      "zh-Hans": "蒙塔納州"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Pazardzhik Province",
+    "names": {
+      "ja": "パザルジク州",
+      "ko": "파자르지크주",
+      "vi": "Pazardzhik (tỉnh)",
+      "id": "Provinsi Pazardzhik",
+      "zh-Hans": "帕扎尔吉克州"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Pernik Province",
+    "names": {
+      "ja": "ペルニク州",
+      "ko": "페르니크주",
+      "vi": "Pernik (tỉnh)",
+      "id": "Provinsi Pernik",
+      "zh-Hans": "佩尔尼克州"
+    }
+  },
+  {
+    "code": "15",
+    "name": "Pleven Province",
+    "names": {
+      "ja": "プレヴェン州",
+      "ko": "플레벤주",
+      "vi": "Pleven (tỉnh)",
+      "id": "Provinsi Pleven",
+      "zh-Hans": "普列文州"
+    }
+  },
+  {
+    "code": "16",
+    "name": "Plovdiv Province",
+    "names": {
+      "ja": "プロヴディフ州",
+      "ko": "플로브디프주",
+      "vi": "Plovdiv",
+      "id": "Provinsi Plovdiv",
+      "zh-Hans": "普罗夫迪夫州",
+      "zh-Hant": "普羅夫迪夫州"
+    }
+  },
+  {
+    "code": "17",
+    "name": "Razgrad Province",
+    "names": {
+      "ja": "ラズグラト州",
+      "ko": "라즈그라드주",
+      "vi": "Razgrad (tỉnh)",
+      "id": "Provinsi Razgrad",
+      "zh-Hans": "拉兹格勒州"
+    }
+  },
+  {
+    "code": "18",
+    "name": "Ruse Province",
+    "names": {
+      "ja": "ルセ州",
+      "ko": "루세주",
+      "vi": "Ruse (tỉnh)",
+      "id": "Provinsi Ruse",
+      "zh-Hans": "鲁塞州"
+    }
+  },
+  {
+    "code": "27",
+    "name": "Shumen Province",
+    "names": {
+      "ja": "シュメン州",
+      "ko": "슈멘주",
+      "vi": "Shumen",
+      "id": "Provinsi Shumen",
+      "zh-Hans": "舒门州",
+      "zh-Hant": "舒門州"
+    }
+  },
+  {
+    "code": "19",
+    "name": "Silistra Province",
+    "names": {
+      "ja": "シリストラ州",
+      "ko": "실리스트라주",
+      "vi": "Silistra (tỉnh)",
+      "id": "Provinsi Silistra",
+      "zh-Hans": "锡利斯特拉州"
+    }
+  },
+  {
+    "code": "20",
+    "name": "Sliven Province",
+    "names": {
+      "ja": "スリヴェン州",
+      "ko": "슬리벤주",
+      "vi": "Sliven",
+      "id": "Provinsi Sliven",
+      "zh-Hans": "斯利文州"
+    }
+  },
+  {
+    "code": "21",
+    "name": "Smolyan Province",
+    "names": {
+      "ja": "スモリャン州",
+      "ko": "스몰랸주",
+      "vi": "Smolyan (tỉnh)",
+      "id": "Provinsi Smolyan",
+      "zh-Hans": "斯莫梁州"
+    }
+  },
+  {
+    "code": "22",
+    "name": "Sofia City Province",
+    "names": {
+      "ja": "ソフィア市州",
+      "ko": "소피아시주",
+      "zh-Hans": "索菲亞市州",
+      "zh-Hant": "索菲亞市州"
+    }
+  },
+  {
+    "code": "23",
+    "name": "Sofia Province",
+    "names": {
+      "ja": "ソフィア州",
+      "ko": "소피아주",
+      "vi": "Tỉnh Sofia",
+      "id": "Oblast Sofia",
+      "zh-Hans": "索菲亚州",
+      "zh-Hant": "索菲亞州"
+    }
+  },
+  {
+    "code": "24",
+    "name": "Stara Zagora Province",
+    "names": {
+      "ja": "スタラ・ザゴラ州",
+      "ko": "스타라자고라주",
+      "vi": "Stara Zagora (tỉnh)",
+      "id": "Provinsi Stara Zagora",
+      "zh-Hans": "旧扎戈拉州"
+    }
+  },
+  {
+    "code": "25",
+    "name": "Targovishte Province",
+    "names": {
+      "ja": "トゥルゴヴィシテ州",
+      "ko": "터르고비슈테주",
+      "vi": "Targovishte (tỉnh)",
+      "id": "Provinsi Targovishte",
+      "zh-Hans": "特尔戈维什特州"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Varna Province",
+    "names": {
+      "ja": "ヴァルナ州",
+      "ko": "바르나주",
+      "vi": "Varna",
+      "id": "Provinsi Varna",
+      "zh-Hans": "瓦尔纳州",
+      "zh-Hant": "瓦爾納州"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Veliko Tarnovo Province",
+    "names": {
+      "ja": "ヴェリコ・タルノヴォ州",
+      "ko": "벨리코터르노보주",
+      "vi": "Veliko Tarnovo (tỉnh)",
+      "id": "Provinsi Veliko Tarnovo",
+      "zh-Hans": "大特尔诺沃州"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Vidin Province",
+    "names": {
+      "ja": "ヴィディン州",
+      "ko": "비딘주",
+      "vi": "Vidin (tỉnh)",
+      "id": "Provinsi Vidin",
+      "zh-Hans": "维丁州"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Vratsa Province",
+    "names": {
+      "ja": "ヴラツァ州",
+      "ko": "브라차주",
+      "vi": "Vratsa (tỉnh)",
+      "id": "Provinsi Vratsa",
+      "zh-Hans": "弗拉察州"
+    }
+  },
+  {
+    "code": "28",
+    "name": "Yambol Province",
+    "names": {
+      "ja": "ヤンボル州",
+      "ko": "얌볼주",
+      "vi": "Yambol",
+      "id": "Provinsi Yambol",
+      "zh-Hans": "扬博尔州"
+    }
+  }
+]

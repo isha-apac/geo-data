@@ -1,0 +1,76 @@
+[
+  {
+    "code": "01",
+    "name": "Água Grande",
+    "names": {
+      "ja": "アグア・グランデ県",
+      "ko": "아구아그란드현",
+      "id": "Distrik Água Grande",
+      "zh-Hans": "阿瓜格兰德区",
+      "zh-Hant": "阿瓜格蘭德區"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Cantagalo",
+    "names": {
+      "ja": "カンタガロ県",
+      "ko": "칸타갈루현",
+      "id": "Distrik Cantagalo",
+      "zh-Hans": "坎塔加卢区",
+      "zh-Hant": "坎塔加盧區"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Caué",
+    "names": {
+      "ja": "カウエ県",
+      "ko": "카우에현",
+      "id": "Distrik Caué",
+      "zh-Hans": "考埃区",
+      "zh-Hant": "考埃區"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Lembá",
+    "names": {
+      "ja": "レンバ県",
+      "ko": "렘바현",
+      "id": "Distrik Lembá",
+      "zh-Hans": "伦巴区",
+      "zh-Hant": "倫巴區"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Lobata",
+    "names": {
+      "ja": "ロバタ県",
+      "ko": "로바타현",
+      "id": "Distrik Lobata",
+      "zh-Hans": "洛巴塔区",
+      "zh-Hant": "洛巴塔區"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Mé-Zóchi",
+    "names": {
+      "ja": "メ＝ゾシ県",
+      "ko": "메조시현",
+      "id": "Distrik Mé-Zóchi",
+      "zh-Hans": "梅佐希区",
+      "zh-Hant": "梅佐希區"
+    }
+  },
+  {
+    "code": "P",
+    "name": "Príncipe Autonomous Region",
+    "names": {
+      "ja": "プリンシペ州",
+      "zh-Hans": "普林西比自治区"
+    }
+  }
+]

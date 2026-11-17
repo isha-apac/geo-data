@@ -1,0 +1,208 @@
+[
+  {
+    "code": "AW",
+    "name": "Awdal Region",
+    "names": {
+      "ja": "アウダル州",
+      "ko": "아우달주",
+      "id": "Awdal",
+      "zh-Hans": "奥达勒州",
+      "zh-Hant": "奧達勒州"
+    }
+  },
+  {
+    "code": "BK",
+    "name": "Bakool",
+    "names": {
+      "ja": "バコール州",
+      "ko": "바콜주",
+      "vi": "Bakool",
+      "id": "Bakool",
+      "zh-Hans": "巴科勒州"
+    }
+  },
+  {
+    "code": "BN",
+    "name": "Banaadir",
+    "names": {
+      "ja": "バナディール州",
+      "ko": "바나디르주",
+      "vi": "Banaadir",
+      "id": "Banaadir",
+      "zh-Hans": "巴纳迪尔州"
+    }
+  },
+  {
+    "code": "BR",
+    "name": "Bari",
+    "names": {
+      "ja": "バリ州",
+      "ko": "바리주",
+      "vi": "Bari",
+      "id": "Bari",
+      "zh-Hans": "巴里州",
+      "zh-Hant": "巴里州"
+    }
+  },
+  {
+    "code": "BY",
+    "name": "Bay",
+    "names": {
+      "ja": "ベイ州",
+      "ko": "바이주",
+      "vi": "Bay",
+      "id": "Bay",
+      "zh-Hans": "拜州"
+    }
+  },
+  {
+    "code": "GA",
+    "name": "Galguduud",
+    "names": {
+      "ja": "ガルグドゥード州",
+      "ko": "갈구두드주",
+      "vi": "Galguduud",
+      "id": "Galguduud",
+      "zh-Hans": "加勒古杜德州",
+      "zh-Hant": "加勒古杜德州"
+    }
+  },
+  {
+    "code": "GE",
+    "name": "Gedo",
+    "names": {
+      "ja": "ゲド州",
+      "ko": "게도주",
+      "vi": "Gedo",
+      "id": "Gedo",
+      "zh-Hans": "盖多州",
+      "zh-Hant": "蓋多州"
+    }
+  },
+  {
+    "code": "HI",
+    "name": "Hiran",
+    "names": {
+      "ja": "ヒーラーン州",
+      "ko": "히란주",
+      "vi": "Hiran",
+      "id": "Hiiraan",
+      "zh-Hans": "希兰州"
+    }
+  },
+  {
+    "code": "JH",
+    "name": "Lower Juba",
+    "names": {
+      "ja": "下部ジュバ州",
+      "ko": "주바다호세주",
+      "vi": "Hạ Juba",
+      "id": "Lower Juba",
+      "zh-Hans": "下朱巴州",
+      "zh-Hant": "下朱巴州"
+    }
+  },
+  {
+    "code": "SH",
+    "name": "Lower Shebelle",
+    "names": {
+      "ja": "下部シャベレ州",
+      "ko": "샤벨라하호세주",
+      "vi": "Hạ Shebelle",
+      "id": "Lower Shebelle",
+      "zh-Hans": "下谢贝利州",
+      "zh-Hant": "下謝貝利州"
+    }
+  },
+  {
+    "code": "WO",
+    "name": "Maroodi Jeeh",
+    "names": {
+      "ja": "北部ガルベード州",
+      "ko": "워코이갈베드주",
+      "id": "Maroodi Jeex",
+      "zh-Hans": "马罗迪杰赫州",
+      "zh-Hant": "馬羅迪傑赫州"
+    }
+  },
+  {
+    "code": "JD",
+    "name": "Middle Juba",
+    "names": {
+      "ja": "中部ジュバ州",
+      "ko": "주바다데헤주",
+      "vi": "Middle Juba",
+      "id": "Middle Juba",
+      "zh-Hans": "中朱巴州",
+      "zh-Hant": "中朱巴州"
+    }
+  },
+  {
+    "code": "SD",
+    "name": "Middle Shebelle",
+    "names": {
+      "ja": "中部シェベリ州",
+      "ko": "샤벨라하데헤주",
+      "vi": "Middle Shebelle",
+      "id": "Middle Shebelle",
+      "zh-Hans": "中谢贝利州"
+    }
+  },
+  {
+    "code": "MU",
+    "name": "Mudug",
+    "names": {
+      "ja": "ムドゥグ州",
+      "ko": "무두그주",
+      "vi": "Mudug",
+      "id": "Mudug",
+      "zh-Hans": "穆杜格州",
+      "zh-Hant": "穆杜格州"
+    }
+  },
+  {
+    "code": "NU",
+    "name": "Nugal",
+    "names": {
+      "ja": "ヌガール州",
+      "ko": "누갈주",
+      "vi": "Nugal",
+      "id": "Nugal",
+      "zh-Hans": "努加尔州",
+      "zh-Hant": "努加爾州"
+    }
+  },
+  {
+    "code": "SA",
+    "name": "Sanaag Region",
+    "names": {
+      "ja": "サナーグ州",
+      "ko": "사나그주",
+      "id": "Sanaag",
+      "zh-Hans": "萨纳格州",
+      "zh-Hant": "薩那格州"
+    }
+  },
+  {
+    "code": "SO",
+    "name": "Sool",
+    "names": {
+      "ja": "スール州",
+      "ko": "솔주",
+      "id": "Sool, Somalia",
+      "zh-Hans": "苏尔州",
+      "zh-Hant": "蘇爾州"
+    }
+  },
+  {
+    "code": "TO",
+    "name": "Togdheer Region",
+    "names": {
+      "ja": "トゲアー州",
+      "ko": "토그데르주",
+      "id": "Togdheer",
+      "zh-Hans": "托格代尔州",
+      "zh-Hant": "托格代爾州"
+    }
+  }
+]

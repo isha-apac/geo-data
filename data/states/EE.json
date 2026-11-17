@@ -1,0 +1,635 @@
+[
+  {
+    "code": "130",
+    "name": "Alutaguse Rural Municipality",
+    "names": {
+      "zh-Hans": "阿卢塔古塞"
+    }
+  },
+  {
+    "code": "141",
+    "name": "Anija Rural Municipality",
+    "names": {
+      "zh-Hans": "阿尼亚"
+    }
+  },
+  {
+    "code": "142",
+    "name": "Antsla Rural Municipality",
+    "names": {
+      "zh-Hans": "安茨拉"
+    }
+  },
+  {
+    "code": "171",
+    "name": "Elva Rural Municipality",
+    "names": {
+      "zh-Hans": "埃尔瓦"
+    }
+  },
+  {
+    "code": "214",
+    "name": "Häädemeeste Rural Municipality",
+    "names": {
+      "zh-Hans": "黑德梅斯泰"
+    }
+  },
+  {
+    "code": "184",
+    "name": "Haapsalu",
+    "names": {}
+  },
+  {
+    "code": "191",
+    "name": "Haljala",
+    "names": {}
+  },
+  {
+    "code": "37",
+    "name": "Harju County",
+    "names": {
+      "ja": "ハリュ県",
+      "ko": "하리우주",
+      "vi": "Harju",
+      "id": "County Harju",
+      "zh-Hans": "哈尔尤县",
+      "zh-Hant": "哈爾尤縣"
+    }
+  },
+  {
+    "code": "198",
+    "name": "Harku",
+    "names": {}
+  },
+  {
+    "code": "39",
+    "name": "Hiiu County",
+    "names": {
+      "ja": "ヒーウ県",
+      "ko": "히우주",
+      "vi": "Hiiu",
+      "id": "County Hiiu",
+      "zh-Hans": "希乌县",
+      "zh-Hant": "希烏縣"
+    }
+  },
+  {
+    "code": "205",
+    "name": "Hiiumaa Rural Municipality",
+    "names": {
+      "zh-Hans": "希乌马"
+    }
+  },
+  {
+    "code": "45",
+    "name": "Ida-Viru County",
+    "names": {
+      "ja": "イダ＝ヴィル県",
+      "ko": "이다비루주",
+      "vi": "Ida-Viru",
+      "id": "County Ida-Viru",
+      "zh-Hans": "东维鲁县",
+      "zh-Hant": "東維魯縣"
+    }
+  },
+  {
+    "code": "52",
+    "name": "Järva County",
+    "names": {
+      "ja": "イェルヴァ県",
+      "ko": "얘르바주",
+      "vi": "Järva",
+      "id": "County Järva",
+      "zh-Hans": "耶尔瓦县",
+      "zh-Hant": "耶爾瓦縣"
+    }
+  },
+  {
+    "code": "255",
+    "name": "Järva Rural Municipality",
+    "names": {
+      "zh-Hans": "耶尔瓦"
+    }
+  },
+  {
+    "code": "245",
+    "name": "Jõelähtme Rural Municipality",
+    "names": {
+      "zh-Hans": "约莱赫特梅"
+    }
+  },
+  {
+    "code": "50",
+    "name": "Jõgeva County",
+    "names": {
+      "ja": "ヨゲヴァ県",
+      "ko": "여게바주",
+      "vi": "Jõgeva",
+      "id": "County Jõgeva",
+      "zh-Hans": "约盖瓦县",
+      "zh-Hant": "約蓋瓦縣"
+    }
+  },
+  {
+    "code": "247",
+    "name": "Jõgeva Rural Municipality",
+    "names": {
+      "zh-Hans": "约盖瓦"
+    }
+  },
+  {
+    "code": "250",
+    "name": "Jõhvi",
+    "names": {}
+  },
+  {
+    "code": "272",
+    "name": "Kadrina",
+    "names": {}
+  },
+  {
+    "code": "283",
+    "name": "Kambja",
+    "names": {}
+  },
+  {
+    "code": "284",
+    "name": "Kanepi",
+    "names": {}
+  },
+  {
+    "code": "291",
+    "name": "Kastre",
+    "names": {}
+  },
+  {
+    "code": "293",
+    "name": "Kehtna",
+    "names": {}
+  },
+  {
+    "code": "296",
+    "name": "Keila",
+    "names": {}
+  },
+  {
+    "code": "303",
+    "name": "Kihnu",
+    "names": {}
+  },
+  {
+    "code": "305",
+    "name": "Kiili",
+    "names": {}
+  },
+  {
+    "code": "317",
+    "name": "Kohila",
+    "names": {}
+  },
+  {
+    "code": "321",
+    "name": "Kohtla-Järve",
+    "names": {
+      "ja": "コフトラ＝ヤルヴェ",
+      "ko": "코흐틀라얘르베",
+      "vi": "Kohtla-Järve",
+      "id": "Kohtla-Järve",
+      "zh-Hans": "科赫特拉-耶尔韦",
+      "zh-Hant": "科赫特拉-耶爾韋"
+    }
+  },
+  {
+    "code": "338",
+    "name": "Kose",
+    "names": {}
+  },
+  {
+    "code": "353",
+    "name": "Kuusalu",
+    "names": {}
+  },
+  {
+    "code": "56",
+    "name": "Lääne County",
+    "names": {
+      "ja": "レーネ県",
+      "ko": "래네주",
+      "vi": "Lääne",
+      "id": "County Lääne",
+      "zh-Hans": "莱内县",
+      "zh-Hant": "萊內縣"
+    }
+  },
+  {
+    "code": "431",
+    "name": "Lääne-Harju Rural Municipality",
+    "names": {
+      "zh-Hans": "西哈尔尤"
+    }
+  },
+  {
+    "code": "441",
+    "name": "Lääne-Nigula Rural Municipality",
+    "names": {
+      "zh-Hans": "莱内-尼古拉"
+    }
+  },
+  {
+    "code": "60",
+    "name": "Lääne-Viru County",
+    "names": {
+      "ja": "レーネ＝ヴィル県",
+      "ko": "래네비루주",
+      "vi": "Lääne-Viru",
+      "id": "County Lääne-Viru",
+      "zh-Hans": "西维鲁县",
+      "zh-Hant": "西維魯縣"
+    }
+  },
+  {
+    "code": "430",
+    "name": "Lääneranna Rural Municipality",
+    "names": {
+      "zh-Hans": "莱内兰纳"
+    }
+  },
+  {
+    "code": "424",
+    "name": "Loksa",
+    "names": {}
+  },
+  {
+    "code": "442",
+    "name": "Lüganuse Rural Municipality",
+    "names": {
+      "ja": "ルガヌーセ教区",
+      "zh-Hans": "吕加努塞"
+    }
+  },
+  {
+    "code": "432",
+    "name": "Luunja",
+    "names": {}
+  },
+  {
+    "code": "446",
+    "name": "Maardu",
+    "names": {}
+  },
+  {
+    "code": "503",
+    "name": "Märjamaa",
+    "names": {}
+  },
+  {
+    "code": "478",
+    "name": "Muhu",
+    "names": {}
+  },
+  {
+    "code": "480",
+    "name": "Mulgi",
+    "names": {}
+  },
+  {
+    "code": "486",
+    "name": "Mustvee",
+    "names": {}
+  },
+  {
+    "code": "511",
+    "name": "Narva",
+    "names": {}
+  },
+  {
+    "code": "514",
+    "name": "Narva-Jõesuu City",
+    "names": {
+      "zh-Hans": "纳尔瓦约埃苏"
+    }
+  },
+  {
+    "code": "528",
+    "name": "Noo",
+    "names": {}
+  },
+  {
+    "code": "557",
+    "name": "Otepää Rural Municipality",
+    "names": {
+      "ja": "オテパー",
+      "zh-Hans": "奥泰佩"
+    }
+  },
+  {
+    "code": "567",
+    "name": "Paide",
+    "names": {}
+  },
+  {
+    "code": "624",
+    "name": "Pärnu",
+    "names": {}
+  },
+  {
+    "code": "68",
+    "name": "Pärnu County",
+    "names": {
+      "ja": "ペルヌ県",
+      "ko": "패르누주",
+      "vi": "Pärnu",
+      "id": "County Pärnu",
+      "zh-Hans": "派尔努县",
+      "zh-Hant": "派爾努縣"
+    }
+  },
+  {
+    "code": "586",
+    "name": "Peipsiääre Rural Municipality",
+    "names": {
+      "zh-Hans": "佩普西埃雷"
+    }
+  },
+  {
+    "code": "638",
+    "name": "Põhja-Pärnumaa Rural Municipality",
+    "names": {
+      "zh-Hans": "北派尔努马"
+    }
+  },
+  {
+    "code": "615",
+    "name": "Põhja-Sakala Rural Municipality",
+    "names": {
+      "zh-Hans": "北萨卡拉"
+    }
+  },
+  {
+    "code": "618",
+    "name": "Põltsamaa Rural Municipality",
+    "names": {
+      "zh-Hans": "珀尔察马"
+    }
+  },
+  {
+    "code": "622",
+    "name": "Põlva",
+    "names": {}
+  },
+  {
+    "code": "64",
+    "name": "Põlva County",
+    "names": {
+      "ja": "ポルヴァ県",
+      "ko": "펄바주",
+      "vi": "Põlva",
+      "id": "County Põlva",
+      "zh-Hans": "珀尔瓦县",
+      "zh-Hant": "珀爾瓦縣"
+    }
+  },
+  {
+    "code": "651",
+    "name": "Raasiku",
+    "names": {}
+  },
+  {
+    "code": "653",
+    "name": "Rae",
+    "names": {}
+  },
+  {
+    "code": "663",
+    "name": "Rakvere",
+    "names": {}
+  },
+  {
+    "code": "661",
+    "name": "Rakvere",
+    "names": {}
+  },
+  {
+    "code": "708",
+    "name": "Räpina",
+    "names": {}
+  },
+  {
+    "code": "668",
+    "name": "Rapla",
+    "names": {}
+  },
+  {
+    "code": "71",
+    "name": "Rapla County",
+    "names": {
+      "ja": "ラプラ県",
+      "ko": "라플라주",
+      "vi": "Rapla",
+      "id": "County Rapla",
+      "zh-Hans": "拉普拉县",
+      "zh-Hant": "拉普拉縣"
+    }
+  },
+  {
+    "code": "698",
+    "name": "Rõuge Rural Municipality",
+    "names": {
+      "zh-Hans": "勒乌格"
+    }
+  },
+  {
+    "code": "689",
+    "name": "Ruhnu",
+    "names": {}
+  },
+  {
+    "code": "712",
+    "name": "Saarde",
+    "names": {}
+  },
+  {
+    "code": "74",
+    "name": "Saare County",
+    "names": {
+      "ja": "サーレ県",
+      "ko": "사레주",
+      "vi": "Saare",
+      "id": "County Saare",
+      "zh-Hans": "萨雷县",
+      "zh-Hant": "薩雷縣"
+    }
+  },
+  {
+    "code": "714",
+    "name": "Saaremaa",
+    "names": {}
+  },
+  {
+    "code": "719",
+    "name": "Saku",
+    "names": {}
+  },
+  {
+    "code": "726",
+    "name": "Saue",
+    "names": {}
+  },
+  {
+    "code": "732",
+    "name": "Setomaa",
+    "names": {}
+  },
+  {
+    "code": "735",
+    "name": "Sillamäe",
+    "names": {
+      "ja": "シッラマエ",
+      "ko": "실라매에",
+      "vi": "Sillamäe",
+      "id": "Sillamäe",
+      "zh-Hans": "锡拉迈埃",
+      "zh-Hant": "錫拉邁埃"
+    }
+  },
+  {
+    "code": "784",
+    "name": "Tallinn",
+    "names": {}
+  },
+  {
+    "code": "792",
+    "name": "Tapa",
+    "names": {}
+  },
+  {
+    "code": "793",
+    "name": "Tartu",
+    "names": {}
+  },
+  {
+    "code": "796",
+    "name": "Tartu",
+    "names": {}
+  },
+  {
+    "code": "79",
+    "name": "Tartu County",
+    "names": {
+      "ja": "タルトゥ県",
+      "ko": "타르투주",
+      "vi": "Tartu",
+      "id": "County Tartu",
+      "zh-Hans": "塔尔图县",
+      "zh-Hant": "塔爾圖縣"
+    }
+  },
+  {
+    "code": "809",
+    "name": "Tori Rural Municipality",
+    "names": {
+      "zh-Hans": "托里"
+    }
+  },
+  {
+    "code": "824",
+    "name": "Tõrva",
+    "names": {}
+  },
+  {
+    "code": "834",
+    "name": "Türi Rural Municipality",
+    "names": {
+      "ja": "チュリ",
+      "zh-Hans": "蒂里"
+    }
+  },
+  {
+    "code": "928",
+    "name": "Väike-Maarja Rural Municipality",
+    "names": {
+      "zh-Hans": "小馬爾亞"
+    }
+  },
+  {
+    "code": "855",
+    "name": "Valga",
+    "names": {}
+  },
+  {
+    "code": "81",
+    "name": "Valga County",
+    "names": {
+      "ja": "ヴァルガ県",
+      "ko": "발가주",
+      "vi": "Valga",
+      "id": "County Valga",
+      "zh-Hans": "瓦尔加县",
+      "zh-Hant": "瓦爾加縣"
+    }
+  },
+  {
+    "code": "890",
+    "name": "Viimsi",
+    "names": {}
+  },
+  {
+    "code": "899",
+    "name": "Viljandi",
+    "names": {}
+  },
+  {
+    "code": "897",
+    "name": "Viljandi",
+    "names": {}
+  },
+  {
+    "code": "84",
+    "name": "Viljandi County",
+    "names": {
+      "ja": "ヴィリャンディ県",
+      "ko": "빌리안디주",
+      "vi": "Viljandi",
+      "id": "County Viljandi",
+      "zh-Hans": "维尔扬迪县",
+      "zh-Hant": "維爾揚迪縣"
+    }
+  },
+  {
+    "code": "901",
+    "name": "Vinni",
+    "names": {}
+  },
+  {
+    "code": "903",
+    "name": "Viru-Nigula",
+    "names": {}
+  },
+  {
+    "code": "907",
+    "name": "Vormsi",
+    "names": {}
+  },
+  {
+    "code": "917",
+    "name": "Võru",
+    "names": {}
+  },
+  {
+    "code": "919",
+    "name": "Võru",
+    "names": {}
+  },
+  {
+    "code": "87",
+    "name": "Võru County",
+    "names": {
+      "ja": "ヴォル県",
+      "ko": "버루주",
+      "vi": "Võru",
+      "id": "County Võru",
+      "zh-Hans": "沃鲁县",
+      "zh-Hant": "沃魯縣"
+    }
+  }
+]

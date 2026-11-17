@@ -1,0 +1,237 @@
+[
+  {
+    "code": "07",
+    "name": "Bjelovar-Bilogora County",
+    "names": {
+      "ja": "ビェロヴァル＝ビロゴラ郡",
+      "ko": "벨로바르빌로고라주",
+      "vi": "Bjelovar-Bilogora Hạt",
+      "id": "Kabupaten Bjelovar-Bilogora",
+      "zh-Hans": "别洛瓦尔-比洛戈拉县"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Brod-Posavina County",
+    "names": {
+      "ja": "ブロド＝ポサヴィナ郡",
+      "ko": "브로드포사비나주",
+      "vi": "Brod – Posavina",
+      "id": "Kabupaten Brod-Posavina",
+      "zh-Hans": "布罗德-波萨维纳县"
+    }
+  },
+  {
+    "code": "19",
+    "name": "Dubrovnik-Neretva County",
+    "names": {
+      "ja": "ドゥブロヴニク＝ネレトヴァ郡",
+      "ko": "두브로브니크네레트바주",
+      "vi": "Hạt Dubrovnik-Neretva",
+      "id": "Kabupaten Dubrovnik-Neretva",
+      "zh-Hans": "杜布罗夫尼克-内雷特瓦县",
+      "zh-Hant": "杜布羅夫尼克-內雷特瓦縣"
+    }
+  },
+  {
+    "code": "18",
+    "name": "Istria County",
+    "names": {
+      "ja": "イストラ郡",
+      "ko": "이스트라주",
+      "vi": "Hạt Istria",
+      "id": "Kabupaten Istria",
+      "zh-Hans": "伊斯特拉县"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Karlovac County",
+    "names": {
+      "ja": "カルロヴァツ郡",
+      "ko": "카를로바츠주",
+      "vi": "Hạt Karlovac",
+      "id": "Wilayah Karlovac",
+      "zh-Hans": "卡尔洛瓦茨县",
+      "zh-Hant": "卡爾洛瓦茨縣"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Koprivnica-Križevci County",
+    "names": {
+      "ja": "コプリヴニツァ＝クリジェヴツィ郡",
+      "ko": "코프리브니차크리제브치주",
+      "vi": "Hạt Koprivnica-Krizevci",
+      "id": "Kabupaten Koprivnica-Križevci",
+      "zh-Hans": "科普里夫尼察-克里热夫齐县"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Krapina-Zagorje County",
+    "names": {
+      "ja": "クラピナ＝ザゴリエ郡",
+      "ko": "크라피나자고레주",
+      "vi": "Hạt Krapina-Zagorje",
+      "id": "Kabupaten Krapina-Zagorje",
+      "zh-Hans": "克拉皮纳-扎戈列县"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Lika-Senj County",
+    "names": {
+      "ja": "リカ＝セニ郡",
+      "ko": "리카센주",
+      "vi": "Hạt Lika-Senj",
+      "id": "Kabupaten Lika-Senj",
+      "zh-Hans": "利卡-塞尼县"
+    }
+  },
+  {
+    "code": "20",
+    "name": "Međimurje County",
+    "names": {
+      "ja": "メジムリェ郡",
+      "ko": "메지무레주",
+      "vi": "Međimurje",
+      "id": "Kabupaten Međimurje",
+      "zh-Hans": "梅吉穆列县"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Osijek-Baranja County",
+    "names": {
+      "ja": "オシエク＝バラニャ郡",
+      "ko": "오시예크바라냐주",
+      "vi": "Hạt Osijek-Baranja",
+      "id": "Kabupaten Osijek-Baranja",
+      "zh-Hans": "奥西耶克-巴拉尼亚县"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Požega-Slavonia County",
+    "names": {
+      "ja": "ポジェガ＝スラヴォニア郡",
+      "ko": "포제가슬라보니아주",
+      "vi": "Hạt Pozega-Slavonia",
+      "id": "Kabupaten Požega-Slavonia",
+      "zh-Hans": "波热加-斯拉沃尼亚县"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Primorje-Gorski Kotar County",
+    "names": {
+      "ja": "プリモリェ＝ゴルスキ・コタル郡",
+      "ko": "프리모레고르스키코타르주",
+      "vi": "Hạt Primorje-Gorski Kotar",
+      "id": "Kabupaten Primorje-Gorski Kotar",
+      "zh-Hans": "滨海-山区县"
+    }
+  },
+  {
+    "code": "15",
+    "name": "Šibenik-Knin County",
+    "names": {
+      "ja": "シベニク＝クニン郡",
+      "ko": "시베니크크닌주",
+      "vi": "Hạt Sibenik-Knin",
+      "id": "Kabupaten Šibenik-Knin",
+      "zh-Hans": "希贝尼克-克宁县"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Sisak-Moslavina County",
+    "names": {
+      "ja": "シサク＝モスラヴィナ郡",
+      "ko": "시사크모슬라비나주",
+      "vi": "Hạt Sisak-Moslavina",
+      "id": "Kabupaten Sisak-Moslavina",
+      "zh-Hans": "锡萨克-莫斯拉维纳县"
+    }
+  },
+  {
+    "code": "17",
+    "name": "Split-Dalmatia County",
+    "names": {
+      "ja": "スプリト＝ダルマチア郡",
+      "ko": "스플리트달마티아주",
+      "vi": "Hạt Split-Dalmatia",
+      "id": "Kabupaten Split-Dalmatia",
+      "zh-Hans": "斯普利特-达尔马提亚县",
+      "zh-Hant": "斯普利特-達爾馬提亞縣"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Varaždin County",
+    "names": {
+      "ja": "ヴァラジュディン郡",
+      "ko": "바라주딘주",
+      "vi": "Hạt Varazdin",
+      "id": "Kabupaten Varaždin",
+      "zh-Hans": "瓦拉日丁县"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Virovitica-Podravina County",
+    "names": {
+      "ja": "ヴィロヴィティツァ＝ポドラヴィナ郡",
+      "ko": "비로비티차포드라비나주",
+      "vi": "Hạt Virovitica-Podravina",
+      "id": "Kabupaten Virovitica-Podravina",
+      "zh-Hans": "维罗维蒂察-波德拉维纳县"
+    }
+  },
+  {
+    "code": "16",
+    "name": "Vukovar-Srijem County",
+    "names": {
+      "ja": "ヴコヴァル＝スリイェム郡",
+      "ko": "부코바르스리옘주",
+      "vi": "Vukovar-Syrmia Hạt",
+      "id": "Kabupaten Vukovar-Syrmia",
+      "zh-Hans": "武科瓦尔-斯里耶姆县"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Zadar County",
+    "names": {
+      "ja": "ザダル郡",
+      "ko": "자다르주",
+      "vi": "Hạt Zadar",
+      "id": "Kabupaten Zadar",
+      "zh-Hans": "扎达尔县"
+    }
+  },
+  {
+    "code": "21",
+    "name": "Zagreb",
+    "names": {
+      "ja": "ザグレブ",
+      "ko": "자그레브",
+      "vi": "Zagreb",
+      "id": "Zagreb",
+      "zh-Hans": "萨格勒布",
+      "zh-Hant": "札格雷布"
+    }
+  },
+  {
+    "code": "01",
+    "name": "Zagreb County",
+    "names": {
+      "ja": "ザグレブ郡",
+      "ko": "자그레브주",
+      "vi": "Zagreb",
+      "id": "Kabupaten Zagreb",
+      "zh-Hans": "萨格勒布县"
+    }
+  }
+]

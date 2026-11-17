@@ -1,0 +1,163 @@
+[
+  {
+    "code": "AH",
+    "name": "Ahuachapán Department",
+    "names": {
+      "ja": "アワチャパン県",
+      "ko": "아우아차판주",
+      "vi": "Khu vực hành chính Ahuachapán",
+      "id": "Departemen Ahuachapán",
+      "zh-Hans": "阿瓦查潘省"
+    }
+  },
+  {
+    "code": "CA",
+    "name": "Cabañas Department",
+    "names": {
+      "ja": "カバーニャス県",
+      "ko": "카바냐스주",
+      "vi": "Khu vực hành chính Cabanas",
+      "id": "Departemen Cabañas",
+      "zh-Hans": "卡瓦尼亚斯省",
+      "zh-Hant": "卡瓦尼亞斯省"
+    }
+  },
+  {
+    "code": "CH",
+    "name": "Chalatenango Department",
+    "names": {
+      "ja": "チャラテナンゴ県",
+      "ko": "찰라테낭고주",
+      "id": "Departemen Chalatenango",
+      "zh-Hans": "查拉特南戈省"
+    }
+  },
+  {
+    "code": "CU",
+    "name": "Cuscatlán Department",
+    "names": {
+      "ja": "クスカトラン県",
+      "ko": "쿠스카틀란주",
+      "vi": "Khu vực hành chính Cuscatlán",
+      "id": "Departemen Cuscatlán",
+      "zh-Hans": "库斯卡特兰省",
+      "zh-Hant": "庫斯卡特蘭省"
+    }
+  },
+  {
+    "code": "LI",
+    "name": "La Libertad Department",
+    "names": {
+      "ja": "ラリベルタ県",
+      "ko": "라리베르타드주",
+      "vi": "Khu vực hành chính La Libertad",
+      "id": "Departemen La Libertad",
+      "zh-Hans": "拉利伯塔德省",
+      "zh-Hant": "拉利伯塔德省"
+    }
+  },
+  {
+    "code": "PA",
+    "name": "La Paz Department",
+    "names": {
+      "ja": "ラ・パス県",
+      "ko": "라파스주",
+      "vi": "Tỉnh La Paz",
+      "id": "Departemen La Paz",
+      "zh-Hans": "拉巴斯省",
+      "zh-Hant": "拉巴斯省"
+    }
+  },
+  {
+    "code": "UN",
+    "name": "La Unión Department",
+    "names": {
+      "ja": "ラ・ウニオン県",
+      "ko": "라우니온주",
+      "id": "Departemen La Unión",
+      "zh-Hans": "拉乌尼翁省",
+      "zh-Hant": "拉烏尼翁省"
+    }
+  },
+  {
+    "code": "MO",
+    "name": "Morazán Department",
+    "names": {
+      "ja": "モラサン県",
+      "ko": "모라산주",
+      "vi": "Khu vực hành chính Morazán",
+      "id": "Departemen Morazán",
+      "zh-Hans": "莫拉桑省",
+      "zh-Hant": "莫拉桑省"
+    }
+  },
+  {
+    "code": "SM",
+    "name": "San Miguel Department",
+    "names": {
+      "ja": "サンミゲル県",
+      "ko": "산미겔주",
+      "vi": "Khu vực hành chính San Miguel",
+      "id": "Departemen San Miguel",
+      "zh-Hans": "圣米格尔省",
+      "zh-Hant": "聖米格爾省"
+    }
+  },
+  {
+    "code": "SS",
+    "name": "San Salvador Department",
+    "names": {
+      "ja": "サン・サルバドル県",
+      "ko": "산살바도르주",
+      "vi": "Khu vực hành chính San Salvador",
+      "id": "Departemen San Salvador",
+      "zh-Hans": "圣萨尔瓦多省"
+    }
+  },
+  {
+    "code": "SV",
+    "name": "San Vicente Department",
+    "names": {
+      "ja": "サン・ビセンテ県",
+      "ko": "산비센테주",
+      "vi": "Khu vực hành chính San Vicente",
+      "id": "Departemen San Vicente",
+      "zh-Hans": "圣维森特省",
+      "zh-Hant": "聖維森特省"
+    }
+  },
+  {
+    "code": "SA",
+    "name": "Santa Ana Department",
+    "names": {
+      "ja": "サンタ・アナ県",
+      "ko": "산타아나주",
+      "vi": "Khu vực hành chính Santa Ana",
+      "id": "Departemen Santa Ana",
+      "zh-Hans": "圣安娜省"
+    }
+  },
+  {
+    "code": "SO",
+    "name": "Sonsonate Department",
+    "names": {
+      "ja": "ソンソナーテ県",
+      "ko": "손소나테주",
+      "vi": "Khu vực hành chính Sonsonate",
+      "id": "Departemen Sonsonate",
+      "zh-Hans": "松索纳特省"
+    }
+  },
+  {
+    "code": "US",
+    "name": "Usulután Department",
+    "names": {
+      "ja": "ウスルタン県",
+      "ko": "우술루탄주",
+      "vi": "Khu vực hành chính Usulután",
+      "id": "Departemen Usulután",
+      "zh-Hans": "乌苏卢坦省",
+      "zh-Hant": "烏蘇盧坦省"
+    }
+  }
+]

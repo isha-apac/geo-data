@@ -1,0 +1,114 @@
+[
+  {
+    "code": "BU",
+    "name": "Bulawayo Province",
+    "names": {
+      "zh-Hans": "布拉瓦约省"
+    }
+  },
+  {
+    "code": "HA",
+    "name": "Harare Province",
+    "names": {
+      "ja": "ハラレ州",
+      "ko": "하라레주",
+      "zh-Hans": "哈拉雷省"
+    }
+  },
+  {
+    "code": "MA",
+    "name": "Manicaland Province",
+    "names": {
+      "ja": "マニカランド州",
+      "ko": "마니칼랜드주",
+      "vi": "Tỉnh Manicaland",
+      "id": "Manicaland",
+      "zh-Hans": "马尼卡兰省",
+      "zh-Hant": "馬尼卡蘭省"
+    }
+  },
+  {
+    "code": "MC",
+    "name": "Mashonaland Central Province",
+    "names": {
+      "ja": "中央マショナランド州",
+      "ko": "중앙마쇼날랜드주",
+      "vi": "Tỉnh Miền Trung Mashonaland",
+      "id": "Mashonaland Pusat",
+      "zh-Hans": "中马绍纳兰省",
+      "zh-Hant": "中馬紹納蘭省"
+    }
+  },
+  {
+    "code": "ME",
+    "name": "Mashonaland East Province",
+    "names": {
+      "ja": "東マショナランド州",
+      "ko": "동마쇼날랜드주",
+      "vi": "Tỉnh Mashonaland East",
+      "id": "Mashonaland Timur",
+      "zh-Hans": "东马绍纳兰省",
+      "zh-Hant": "東馬紹納蘭省"
+    }
+  },
+  {
+    "code": "MW",
+    "name": "Mashonaland West Province",
+    "names": {
+      "ja": "西マショナランド州",
+      "ko": "서마쇼날랜드주",
+      "vi": "Tỉnh Mashonaland West",
+      "id": "Mashonaland Barat",
+      "zh-Hans": "西马绍纳兰省",
+      "zh-Hant": "西馬紹納蘭省"
+    }
+  },
+  {
+    "code": "MV",
+    "name": "Masvingo Province",
+    "names": {
+      "ja": "マシンゴ州",
+      "ko": "마스빙고주",
+      "vi": "Tỉnh Masvingo",
+      "id": "Provinsi Masvingo",
+      "zh-Hans": "马斯温戈省",
+      "zh-Hant": "馬斯溫戈省"
+    }
+  },
+  {
+    "code": "MN",
+    "name": "Matabeleland North Province",
+    "names": {
+      "ja": "北マタベレランド州",
+      "ko": "북마타벨랜드주",
+      "vi": "Tỉnh Matabeleland North",
+      "id": "Matabeleland Utara",
+      "zh-Hans": "北马塔贝莱兰省",
+      "zh-Hant": "北馬塔貝萊蘭省"
+    }
+  },
+  {
+    "code": "MS",
+    "name": "Matabeleland South Province",
+    "names": {
+      "ja": "南マタベレランド州",
+      "ko": "남마타벨랜드주",
+      "vi": "Tỉnh Matabeleland South",
+      "id": "Matabeleland Selatan",
+      "zh-Hans": "南马塔贝莱兰省",
+      "zh-Hant": "南馬塔貝萊蘭省"
+    }
+  },
+  {
+    "code": "MI",
+    "name": "Midlands Province",
+    "names": {
+      "ja": "ミッドランズ州",
+      "ko": "미들랜즈주",
+      "vi": "Tỉnh Midlands",
+      "id": "Provinsi Midlands",
+      "zh-Hans": "中部省",
+      "zh-Hant": "中部省"
+    }
+  }
+]

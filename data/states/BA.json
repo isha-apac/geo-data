@@ -1,0 +1,38 @@
+[
+  {
+    "code": "BRC",
+    "name": "Brčko District",
+    "names": {
+      "ja": "ブルチコ行政区",
+      "ko": "브르치코 행정구",
+      "vi": "Quận Brčko",
+      "id": "Distrik Brčko",
+      "zh-Hans": "布尔奇科特区",
+      "zh-Hant": "布爾奇科特區"
+    }
+  },
+  {
+    "code": "BIH",
+    "name": "Federation of Bosnia and Herzegovina",
+    "names": {
+      "ja": "ボスニア・ヘルツェゴビナ連邦",
+      "ko": "보스니아 헤르체고비나 연방",
+      "vi": "Liên bang Bosna và Hercegovina",
+      "id": "Federasi Bosnia dan Herzegovina",
+      "zh-Hans": "波斯尼亚和黑塞哥维那联邦",
+      "zh-Hant": "波士尼亞與赫塞哥維納聯邦"
+    }
+  },
+  {
+    "code": "SRP",
+    "name": "Republika Srpska",
+    "names": {
+      "ja": "スルプスカ共和国",
+      "ko": "스릅스카 공화국",
+      "vi": "Cộng hòa Srpska",
+      "id": "Republik Srpska",
+      "zh-Hans": "塞族共和国",
+      "zh-Hant": "塞族共和國"
+    }
+  }
+]

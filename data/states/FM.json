@@ -1,0 +1,40 @@
+[
+  {
+    "code": "TRK",
+    "name": "Chuuk",
+    "names": {
+      "ja": "チューク州",
+      "ko": "추크주",
+      "vi": "Chuuk",
+      "id": "Chuuk",
+      "zh-Hans": "丘克州",
+      "zh-Hant": "丘克州"
+    }
+  },
+  {
+    "code": "KSA",
+    "name": "Kosrae State",
+    "names": {}
+  },
+  {
+    "code": "PNI",
+    "name": "Pohnpei State",
+    "names": {
+      "ja": "ポンペイ州",
+      "ko": "폰페이주",
+      "vi": "Bang Pohnpei",
+      "id": "Negara bagian Pohnpei",
+      "zh-Hans": "波纳佩州"
+    }
+  },
+  {
+    "code": "YAP",
+    "name": "Yap State",
+    "names": {
+      "ja": "ヤップ州",
+      "ko": "야프주",
+      "id": "Negara Bagian Yap",
+      "zh-Hans": "雅浦州"
+    }
+  }
+]

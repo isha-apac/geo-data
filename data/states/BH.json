@@ -1,0 +1,45 @@
+[
+  {
+    "code": "13",
+    "name": "Capital Governorate",
+    "names": {
+      "ja": "首都県",
+      "ko": "수도주",
+      "id": "Kegubernuran Ibu Kota",
+      "zh-Hans": "首都省"
+    }
+  },
+  {
+    "code": "15",
+    "name": "Muharraq Governorate",
+    "names": {
+      "ja": "ムハッラク県",
+      "ko": "무하라크주",
+      "vi": "Tỉnh Muharraq",
+      "id": "Kegubernuran 90+6=99",
+      "zh-Hans": "穆哈拉格省"
+    }
+  },
+  {
+    "code": "17",
+    "name": "Northern Governorate",
+    "names": {
+      "ja": "北部県",
+      "ko": "북부주",
+      "id": "Kegubernuran Utara",
+      "zh-Hans": "北方省",
+      "zh-Hant": "北方省"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Southern Governorate",
+    "names": {
+      "ja": "南部県",
+      "ko": "남부주",
+      "id": "Kegubernuran Selatan",
+      "zh-Hans": "南方省",
+      "zh-Hant": "南方省"
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "code": "A",
+    "name": "Ahal Region",
+    "names": {
+      "ja": "アハル州",
+      "ko": "아할주",
+      "vi": "Ahal",
+      "id": "Provinsi Ahal",
+      "zh-Hans": "阿哈尔州",
+      "zh-Hant": "阿哈爾州"
+    }
+  },
+  {
+    "code": "S",
+    "name": "Ashgabat",
+    "names": {
+      "ja": "アシガバート",
+      "ko": "아시가바트",
+      "vi": "Ashgabat",
+      "id": "Ashgabat",
+      "zh-Hans": "阿什哈巴德",
+      "zh-Hant": "阿什哈巴特"
+    }
+  },
+  {
+    "code": "B",
+    "name": "Balkan Province",
+    "names": {
+      "ja": "バルカン州",
+      "ko": "발칸주",
+      "vi": "Balkan",
+      "id": "Provinsi Balkan",
+      "zh-Hans": "巴尔坎州",
+      "zh-Hant": "巴爾坎州"
+    }
+  },
+  {
+    "code": "D",
+    "name": "Daşoguz Region",
+    "names": {
+      "ja": "ダショグズ州",
+      "ko": "다쇼구즈주",
+      "vi": "Daşoguz",
+      "id": "Provinsi Dashhowuz",
+      "zh-Hans": "达沙古兹州",
+      "zh-Hant": "達沙古茲州"
+    }
+  },
+  {
+    "code": "L",
+    "name": "Lebap Region",
+    "names": {
+      "ja": "レバプ州",
+      "ko": "레바프주",
+      "vi": "Lebap",
+      "id": "Provinsi Lebap",
+      "zh-Hans": "列巴普州",
+      "zh-Hant": "列巴普州"
+    }
+  },
+  {
+    "code": "M",
+    "name": "Mary Region",
+    "names": {
+      "ja": "マル州",
+      "ko": "마리주",
+      "vi": "Mary",
+      "id": "Provinsi Mary",
+      "zh-Hans": "马雷州",
+      "zh-Hant": "馬雷州"
+    }
+  }
+]

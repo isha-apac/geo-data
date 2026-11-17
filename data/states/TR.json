@@ -1,0 +1,958 @@
+[
+  {
+    "code": "01",
+    "name": "Adana Province",
+    "names": {
+      "ja": "アダナ県",
+      "ko": "아다나주",
+      "vi": "Adana",
+      "id": "Provinsi Adana",
+      "zh-Hans": "阿达纳省",
+      "zh-Hant": "阿達納省"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Adıyaman Province",
+    "names": {
+      "ja": "アドゥヤマン県",
+      "ko": "아디야만주",
+      "vi": "Adıyaman",
+      "id": "Provinsi Adıyaman",
+      "zh-Hans": "阿德亚曼省"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Afyonkarahisar Province",
+    "names": {
+      "ja": "アフィヨンカラヒサール県",
+      "ko": "아피온카라히사르주",
+      "vi": "Afyonkarahisar",
+      "id": "Provinsi Afyonkarahisar",
+      "zh-Hans": "阿菲永卡拉希萨尔省"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Ağrı Province",
+    "names": {
+      "ja": "アール県",
+      "ko": "아리 주",
+      "vi": "Ağrı",
+      "id": "Provinsi Ağrı",
+      "zh-Hans": "阿勒省",
+      "zh-Hant": "阿勒省"
+    }
+  },
+  {
+    "code": "68",
+    "name": "Aksaray Province",
+    "names": {
+      "ja": "アクサライ県",
+      "ko": "악사라이주",
+      "vi": "Aksaray",
+      "id": "Provinsi Aksaray",
+      "zh-Hans": "阿克萨赖省"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Amasya Province",
+    "names": {
+      "ja": "アマスィヤ県",
+      "ko": "아마시아주",
+      "vi": "Amasya",
+      "id": "Provinsi Amasya",
+      "zh-Hans": "阿马西亚省"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Ankara Province",
+    "names": {
+      "ja": "アンカラ県",
+      "ko": "앙카라주",
+      "vi": "Ankara",
+      "id": "Provinsi Ankara",
+      "zh-Hans": "安卡拉省",
+      "zh-Hant": "安卡拉省"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Antalya Province",
+    "names": {
+      "ja": "アンタルヤ県",
+      "ko": "안탈리아주",
+      "vi": "Antalya",
+      "id": "Provinsi Antalya",
+      "zh-Hans": "安塔利亚省"
+    }
+  },
+  {
+    "code": "75",
+    "name": "Ardahan Province",
+    "names": {
+      "ja": "アルダハン県",
+      "ko": "아르다한주",
+      "vi": "Ardahan",
+      "id": "Provinsi Ardahan",
+      "zh-Hans": "阿尔达汉省"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Artvin Province",
+    "names": {
+      "ja": "アルトヴィン県",
+      "ko": "아르트빈주",
+      "vi": "Artvin",
+      "id": "Provinsi Artvin",
+      "zh-Hans": "阿尔特温省"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Aydın Province",
+    "names": {
+      "ja": "アイドゥン県",
+      "ko": "아이든주",
+      "vi": "Aydın",
+      "id": "Provinsi Aydın",
+      "zh-Hans": "艾登省",
+      "zh-Hant": "艾登省"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Balıkesir Province",
+    "names": {
+      "ja": "バルケスィル県",
+      "ko": "발리케시르주",
+      "vi": "Balıkesir",
+      "id": "Provinsi Balıkesir",
+      "zh-Hans": "巴勒克埃西尔省",
+      "zh-Hant": "巴勒克西爾"
+    }
+  },
+  {
+    "code": "74",
+    "name": "Bartın Province",
+    "names": {
+      "ja": "バルトゥン県",
+      "ko": "바르틴주",
+      "vi": "Bartın",
+      "id": "Provinsi Bartın",
+      "zh-Hans": "巴尔滕省",
+      "zh-Hant": "巴爾滕省"
+    }
+  },
+  {
+    "code": "72",
+    "name": "Batman Province",
+    "names": {
+      "ja": "バトマン県",
+      "ko": "바트만주",
+      "vi": "Batman",
+      "id": "Provinsi Batman",
+      "zh-Hans": "巴特曼省"
+    }
+  },
+  {
+    "code": "69",
+    "name": "Bayburt Province",
+    "names": {
+      "ja": "バイブルト県",
+      "ko": "바이부르트주",
+      "vi": "Bayburt",
+      "id": "Provinsi Bayburt",
+      "zh-Hans": "巴伊布尔特省",
+      "zh-Hant": "巴伊布爾特省"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Bilecik Province",
+    "names": {
+      "ja": "ビレジク県",
+      "ko": "빌레지크주",
+      "vi": "Bilecik",
+      "id": "Provinsi Bilecik",
+      "zh-Hans": "比莱吉克省"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Bingöl Province",
+    "names": {
+      "ja": "ビンギョル県",
+      "ko": "빙괼주",
+      "vi": "Bingöl",
+      "id": "Provinsi Bingöl",
+      "zh-Hans": "宾格尔省",
+      "zh-Hant": "賓格爾省"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Bitlis Province",
+    "names": {
+      "ja": "ビトリス県",
+      "ko": "비틀리스주",
+      "vi": "Bitlis",
+      "id": "Provinsi Bitlis",
+      "zh-Hans": "比特利斯省"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Bolu Province",
+    "names": {
+      "ja": "ボル県",
+      "ko": "볼루주",
+      "vi": "Bolu",
+      "id": "Provinsi Bolu",
+      "zh-Hans": "博卢省"
+    }
+  },
+  {
+    "code": "15",
+    "name": "Burdur Province",
+    "names": {
+      "ja": "ブルドゥル県",
+      "ko": "부르두르주",
+      "vi": "Burdur",
+      "id": "Provinsi Burdur",
+      "zh-Hans": "布尔杜尔省",
+      "zh-Hant": "布爾杜爾省"
+    }
+  },
+  {
+    "code": "16",
+    "name": "Bursa Province",
+    "names": {
+      "ja": "ブルサ県",
+      "ko": "부르사주",
+      "vi": "Bursa",
+      "id": "Provinsi Bursa",
+      "zh-Hans": "布尔萨省",
+      "zh-Hant": "布爾薩省"
+    }
+  },
+  {
+    "code": "17",
+    "name": "Çanakkale Province",
+    "names": {
+      "ja": "チャナッカレ県",
+      "ko": "차나칼레주",
+      "vi": "Çanakkale",
+      "id": "Provinsi Çanakkale",
+      "zh-Hans": "恰纳卡莱省",
+      "zh-Hant": "恰納卡萊省"
+    }
+  },
+  {
+    "code": "18",
+    "name": "Çankırı Province",
+    "names": {
+      "ja": "チャンクル県",
+      "ko": "창키리주",
+      "vi": "Çankırı",
+      "id": "Provinsi Çankırı",
+      "zh-Hans": "昌克勒省",
+      "zh-Hant": "昌克勒省"
+    }
+  },
+  {
+    "code": "19",
+    "name": "Çorum Province",
+    "names": {
+      "ja": "チョルム県",
+      "ko": "초룸주",
+      "vi": "Çorum",
+      "id": "Provinsi Çorum",
+      "zh-Hans": "乔鲁姆省"
+    }
+  },
+  {
+    "code": "20",
+    "name": "Denizli Province",
+    "names": {
+      "ja": "デニズリ県",
+      "ko": "데니즐리주",
+      "vi": "Denizli",
+      "id": "Provinsi Denizli",
+      "zh-Hans": "代尼兹利省",
+      "zh-Hant": "代尼茲利省"
+    }
+  },
+  {
+    "code": "21",
+    "name": "Diyarbakır Province",
+    "names": {
+      "ja": "ディヤルバクル県",
+      "ko": "디야르바키르주",
+      "vi": "Diyarbakır",
+      "id": "Provinsi Diyarbakır",
+      "zh-Hans": "迪亚巴克尔省"
+    }
+  },
+  {
+    "code": "81",
+    "name": "Düzce Province",
+    "names": {
+      "ja": "デュズジェ県",
+      "ko": "뒤즈제주",
+      "vi": "Düzce",
+      "id": "Provinsi Düzce",
+      "zh-Hans": "迪兹杰省"
+    }
+  },
+  {
+    "code": "22",
+    "name": "Edirne Province",
+    "names": {
+      "ja": "エディルネ県",
+      "ko": "에디르네주",
+      "vi": "Edirne",
+      "id": "Provinsi Edirne",
+      "zh-Hans": "埃迪尔内省",
+      "zh-Hant": "愛第尼省"
+    }
+  },
+  {
+    "code": "23",
+    "name": "Elazığ Province",
+    "names": {
+      "ja": "エラズー県",
+      "ko": "엘라지주",
+      "vi": "Elâzığ",
+      "id": "Provinsi Elâzığ",
+      "zh-Hans": "埃拉泽省",
+      "zh-Hant": "埃拉澤省"
+    }
+  },
+  {
+    "code": "24",
+    "name": "Erzincan Province",
+    "names": {
+      "ja": "エルズィンジャン県",
+      "ko": "에르진잔주",
+      "vi": "Erzincan",
+      "id": "Provinsi Erzincan",
+      "zh-Hans": "埃尔津詹省",
+      "zh-Hant": "埃爾津詹省"
+    }
+  },
+  {
+    "code": "25",
+    "name": "Erzurum Province",
+    "names": {
+      "ja": "エルズルム県",
+      "ko": "에르주룸주",
+      "vi": "Erzurum",
+      "id": "Provinsi Erzurum",
+      "zh-Hans": "埃尔祖鲁姆省",
+      "zh-Hant": "艾斯倫省"
+    }
+  },
+  {
+    "code": "26",
+    "name": "Eskişehir Province",
+    "names": {
+      "ja": "エスキシェヒル県",
+      "ko": "에스키셰히르주",
+      "vi": "Eskişehir",
+      "id": "Provinsi Eskişehir",
+      "zh-Hans": "埃斯基谢希尔省",
+      "zh-Hant": "埃斯基謝希爾省"
+    }
+  },
+  {
+    "code": "27",
+    "name": "Gaziantep Province",
+    "names": {
+      "ja": "ガズィアンテプ県",
+      "ko": "가지안테프주",
+      "vi": "Gaziantep",
+      "id": "Provinsi Gaziantep",
+      "zh-Hans": "加济安泰普省",
+      "zh-Hant": "加濟安泰普省"
+    }
+  },
+  {
+    "code": "28",
+    "name": "Giresun Province",
+    "names": {
+      "ja": "ギレスン県",
+      "ko": "기레순주",
+      "vi": "Giresun",
+      "id": "Provinsi Giresun",
+      "zh-Hans": "吉雷松省",
+      "zh-Hant": "吉雷松省"
+    }
+  },
+  {
+    "code": "29",
+    "name": "Gümüşhane Province",
+    "names": {
+      "ja": "ギュミュシュハーネ県",
+      "ko": "귀뮈샤네주",
+      "vi": "Gümüşhane",
+      "id": "Provinsi Gümüşhane",
+      "zh-Hans": "居米什哈内省",
+      "zh-Hant": "居米什哈內省"
+    }
+  },
+  {
+    "code": "30",
+    "name": "Hakkâri Province",
+    "names": {
+      "ja": "ハッキャリ県",
+      "ko": "하카리주",
+      "vi": "Hakkâri",
+      "id": "Provinsi Hakkâri",
+      "zh-Hans": "哈卡里省",
+      "zh-Hant": "哈卡里省"
+    }
+  },
+  {
+    "code": "31",
+    "name": "Hatay Province",
+    "names": {
+      "ja": "ハタイ県",
+      "ko": "하타이주",
+      "vi": "Hatay",
+      "id": "Provinsi Hatay",
+      "zh-Hans": "哈塔伊省",
+      "zh-Hant": "哈塔伊省"
+    }
+  },
+  {
+    "code": "76",
+    "name": "Iğdır Province",
+    "names": {
+      "ja": "ウードゥル県",
+      "ko": "이디르주",
+      "vi": "Iğdır",
+      "id": "Provinsi Iğdır",
+      "zh-Hans": "厄德尔省",
+      "zh-Hant": "厄德爾省"
+    }
+  },
+  {
+    "code": "32",
+    "name": "Isparta Province",
+    "names": {
+      "ja": "ウスパルタ県",
+      "ko": "이스파르타주",
+      "vi": "Isparta",
+      "id": "Provinsi Isparta",
+      "zh-Hans": "厄斯帕尔塔省"
+    }
+  },
+  {
+    "code": "34",
+    "name": "Istanbul Province",
+    "names": {
+      "ja": "イスタンブール県",
+      "ko": "이스탄불주",
+      "vi": "Istanbul",
+      "id": "Provinsi İstanbul",
+      "zh-Hans": "伊斯坦布尔省",
+      "zh-Hant": "伊斯坦堡省"
+    }
+  },
+  {
+    "code": "35",
+    "name": "İzmir Province",
+    "names": {
+      "ja": "イズミル県",
+      "ko": "이즈미르주",
+      "vi": "İzmir",
+      "id": "Provinsi İzmir",
+      "zh-Hans": "伊兹密尔省",
+      "zh-Hant": "伊茲密爾省"
+    }
+  },
+  {
+    "code": "46",
+    "name": "Kahramanmaraş Province",
+    "names": {
+      "ja": "カフラマンマラシュ県",
+      "ko": "카흐라만마라슈주",
+      "vi": "Kahramanmaraş",
+      "id": "Provinsi Kahramanmaraş",
+      "zh-Hans": "卡赫拉曼马拉什省",
+      "zh-Hant": "卡赫拉曼馬拉什省"
+    }
+  },
+  {
+    "code": "78",
+    "name": "Karabük Province",
+    "names": {
+      "ja": "カラビュック県",
+      "ko": "카라뷔크주",
+      "vi": "Karabük",
+      "id": "Provinsi Karabük",
+      "zh-Hans": "卡拉比克省",
+      "zh-Hant": "卡拉比克省"
+    }
+  },
+  {
+    "code": "70",
+    "name": "Karaman Province",
+    "names": {
+      "ja": "カラマン県",
+      "ko": "카라만주",
+      "vi": "Karaman",
+      "id": "Provinsi Karaman",
+      "zh-Hans": "卡拉曼省",
+      "zh-Hant": "卡拉曼省"
+    }
+  },
+  {
+    "code": "36",
+    "name": "Kars Province",
+    "names": {
+      "ja": "カルス県",
+      "ko": "카르스주",
+      "vi": "Kars",
+      "id": "Provinsi Kars",
+      "zh-Hans": "卡尔斯省"
+    }
+  },
+  {
+    "code": "37",
+    "name": "Kastamonu Province",
+    "names": {
+      "ja": "カスタモヌ県",
+      "ko": "카스타모누주",
+      "vi": "Kastamonu",
+      "id": "Provinsi Kastamonu",
+      "zh-Hans": "卡斯塔莫努省",
+      "zh-Hant": "卡斯塔莫努省"
+    }
+  },
+  {
+    "code": "38",
+    "name": "Kayseri Province",
+    "names": {
+      "ja": "カイセリ県",
+      "ko": "카이세리주",
+      "vi": "Kayseri",
+      "id": "Provinsi Kayseri",
+      "zh-Hans": "开塞利省",
+      "zh-Hant": "開塞利省"
+    }
+  },
+  {
+    "code": "79",
+    "name": "Kilis Province",
+    "names": {
+      "ja": "キリス県",
+      "ko": "킬리스주",
+      "vi": "Kilis",
+      "id": "Provinsi Kilis",
+      "zh-Hans": "基利斯省",
+      "zh-Hant": "基利斯省"
+    }
+  },
+  {
+    "code": "71",
+    "name": "Kırıkkale Province",
+    "names": {
+      "ja": "クルッカレ県",
+      "ko": "키리칼레주",
+      "vi": "Kırıkkale",
+      "id": "Provinsi Kırıkkale",
+      "zh-Hans": "克勒克卡莱省",
+      "zh-Hant": "克勒克卡萊省"
+    }
+  },
+  {
+    "code": "39",
+    "name": "Kırklareli Province",
+    "names": {
+      "ja": "クルクラーレリ県",
+      "ko": "키르클라렐리주",
+      "vi": "Kırklareli",
+      "id": "Provinsi Kırklareli",
+      "zh-Hans": "克尔克拉雷利省",
+      "zh-Hant": "克爾克拉雷利省"
+    }
+  },
+  {
+    "code": "40",
+    "name": "Kırşehir Province",
+    "names": {
+      "ja": "クルシェヒル県",
+      "ko": "키르셰히르주",
+      "vi": "Kırşehir",
+      "id": "Provinsi Kırşehir",
+      "zh-Hans": "克尔谢希尔省",
+      "zh-Hant": "克爾謝希爾省"
+    }
+  },
+  {
+    "code": "41",
+    "name": "Kocaeli Province",
+    "names": {
+      "ja": "コジャエリ県",
+      "ko": "코자엘리주",
+      "vi": "Kocaeli",
+      "id": "Provinsi Kocaeli",
+      "zh-Hans": "科贾埃利省",
+      "zh-Hant": "科賈埃利省"
+    }
+  },
+  {
+    "code": "42",
+    "name": "Konya Province",
+    "names": {
+      "ja": "コンヤ県",
+      "ko": "코니아주",
+      "vi": "Konya",
+      "id": "Provinsi Konya",
+      "zh-Hans": "科尼亚省",
+      "zh-Hant": "科尼亞省"
+    }
+  },
+  {
+    "code": "43",
+    "name": "Kütahya Province",
+    "names": {
+      "ja": "キュタヒヤ県",
+      "ko": "퀴타히아주",
+      "vi": "Kütahya",
+      "id": "Provinsi Kütahya",
+      "zh-Hans": "屈塔希亚省",
+      "zh-Hant": "屈塔希亞省"
+    }
+  },
+  {
+    "code": "44",
+    "name": "Malatya Province",
+    "names": {
+      "ja": "マラティヤ県",
+      "ko": "말라티아주",
+      "vi": "Malatya",
+      "id": "Provinsi Malatya",
+      "zh-Hans": "马拉蒂亚省",
+      "zh-Hant": "馬拉蒂亞省"
+    }
+  },
+  {
+    "code": "45",
+    "name": "Manisa Province",
+    "names": {
+      "ja": "マニサ県",
+      "ko": "마니사주",
+      "vi": "Manisa",
+      "id": "Provinsi Manisa",
+      "zh-Hans": "马尼萨省",
+      "zh-Hant": "馬尼薩省"
+    }
+  },
+  {
+    "code": "47",
+    "name": "Mardin Province",
+    "names": {
+      "ja": "マルディン県",
+      "ko": "마르딘주",
+      "vi": "Mardin",
+      "id": "Provinsi Mardin",
+      "zh-Hans": "马尔丁省",
+      "zh-Hant": "馬爾丁省"
+    }
+  },
+  {
+    "code": "33",
+    "name": "Mersin Province",
+    "names": {
+      "ja": "メルスィン県",
+      "ko": "메르신주",
+      "vi": "Mersin",
+      "id": "Provinsi Mersin",
+      "zh-Hans": "梅尔辛省",
+      "zh-Hant": "梅爾辛省"
+    }
+  },
+  {
+    "code": "48",
+    "name": "Muğla Province",
+    "names": {
+      "ja": "ムーラ県",
+      "ko": "물라주",
+      "vi": "Muğla",
+      "id": "Provinsi Muğla",
+      "zh-Hans": "穆拉省",
+      "zh-Hant": "穆拉省"
+    }
+  },
+  {
+    "code": "49",
+    "name": "Muş Province",
+    "names": {
+      "ja": "ムシュ県",
+      "ko": "무슈주",
+      "vi": "Muş",
+      "id": "Provinsi Muş",
+      "zh-Hans": "穆什省",
+      "zh-Hant": "穆什省"
+    }
+  },
+  {
+    "code": "50",
+    "name": "Nevşehir Province",
+    "names": {
+      "ja": "ネヴシェヒル県",
+      "ko": "네브셰히르주",
+      "vi": "Nevşehir",
+      "id": "Provinsi Nevşehir",
+      "zh-Hans": "内夫谢希尔省",
+      "zh-Hant": "內夫謝希爾省"
+    }
+  },
+  {
+    "code": "51",
+    "name": "Niğde Province",
+    "names": {
+      "ja": "ニーデ県",
+      "ko": "니데주",
+      "vi": "Niğde",
+      "id": "Provinsi Niğde",
+      "zh-Hans": "尼代省",
+      "zh-Hant": "尼代省"
+    }
+  },
+  {
+    "code": "52",
+    "name": "Ordu Province",
+    "names": {
+      "ja": "オルドゥ県",
+      "ko": "오르두주",
+      "vi": "Ordu",
+      "id": "Provinsi Ordu",
+      "zh-Hans": "奥尔杜省",
+      "zh-Hant": "奧爾杜省"
+    }
+  },
+  {
+    "code": "80",
+    "name": "Osmaniye Province",
+    "names": {
+      "ja": "オスマニエ県",
+      "ko": "오스마니예주",
+      "vi": "Osmaniye",
+      "id": "Provinsi Osmaniye",
+      "zh-Hans": "奥斯曼尼耶省",
+      "zh-Hant": "奧斯曼尼耶省"
+    }
+  },
+  {
+    "code": "53",
+    "name": "Rize Province",
+    "names": {
+      "ja": "リゼ県",
+      "ko": "리제주",
+      "vi": "Rize",
+      "id": "Provinsi Rize",
+      "zh-Hans": "里泽省",
+      "zh-Hant": "里澤省"
+    }
+  },
+  {
+    "code": "54",
+    "name": "Sakarya Province",
+    "names": {
+      "ja": "サカリヤ県",
+      "ko": "사카리아주",
+      "vi": "Sakarya",
+      "id": "Provinsi Sakarya",
+      "zh-Hans": "萨卡里亚省",
+      "zh-Hant": "薩卡里亞省"
+    }
+  },
+  {
+    "code": "55",
+    "name": "Samsun Province",
+    "names": {
+      "ja": "サムスン県",
+      "ko": "삼순주",
+      "vi": "Samsun",
+      "id": "Provinsi Samsun",
+      "zh-Hans": "萨姆松省",
+      "zh-Hant": "薩姆松省"
+    }
+  },
+  {
+    "code": "63",
+    "name": "Şanlıurfa Province",
+    "names": {
+      "ja": "シャンルウルファ県",
+      "ko": "샨리우르파주",
+      "vi": "Şanlıurfa",
+      "id": "Provinsi Şanlıurfa",
+      "zh-Hans": "尚勒乌尔法省",
+      "zh-Hant": "尚勒烏爾法省"
+    }
+  },
+  {
+    "code": "56",
+    "name": "Siirt Province",
+    "names": {
+      "ja": "スィイルト県",
+      "ko": "시이르트주",
+      "vi": "Siirt",
+      "id": "Provinsi Siirt",
+      "zh-Hans": "锡尔特省",
+      "zh-Hant": "錫爾特省"
+    }
+  },
+  {
+    "code": "57",
+    "name": "Sinop Province",
+    "names": {
+      "ja": "スィノプ県",
+      "ko": "시노프주",
+      "vi": "Sinop",
+      "id": "Provinsi Sinop",
+      "zh-Hans": "锡诺普省",
+      "zh-Hant": "錫諾普省"
+    }
+  },
+  {
+    "code": "58",
+    "name": "Sivas Province",
+    "names": {
+      "ja": "スィヴァス県",
+      "ko": "시바스주",
+      "vi": "Sivas",
+      "id": "Provinsi Sivas",
+      "zh-Hans": "锡瓦斯省",
+      "zh-Hant": "錫瓦斯省"
+    }
+  },
+  {
+    "code": "73",
+    "name": "Şırnak Province",
+    "names": {
+      "ja": "シュルナク県",
+      "ko": "시르나크주",
+      "vi": "Şırnak",
+      "id": "Provinsi Şırnak",
+      "zh-Hans": "舍尔纳克省",
+      "zh-Hant": "舍爾納克省"
+    }
+  },
+  {
+    "code": "59",
+    "name": "Tekirdağ Province",
+    "names": {
+      "ja": "テキルダー県",
+      "ko": "테키르다주",
+      "vi": "Tekirdağ",
+      "id": "Provinsi Tekirdağ",
+      "zh-Hans": "泰基尔达省",
+      "zh-Hant": "泰基爾達省"
+    }
+  },
+  {
+    "code": "60",
+    "name": "Tokat Province",
+    "names": {
+      "ja": "トカト県",
+      "ko": "토카트주",
+      "vi": "Tokat",
+      "id": "Provinsi Tokat",
+      "zh-Hans": "托卡特省",
+      "zh-Hant": "托卡特省"
+    }
+  },
+  {
+    "code": "61",
+    "name": "Trabzon Province",
+    "names": {
+      "ja": "トラブゾン県",
+      "ko": "트라브존주",
+      "vi": "Trabzon",
+      "id": "Provinsi Trabzon",
+      "zh-Hans": "特拉布宗省",
+      "zh-Hant": "特拉布宗省"
+    }
+  },
+  {
+    "code": "62",
+    "name": "Tunceli Province",
+    "names": {
+      "ja": "トゥンジェリ県",
+      "ko": "툰젤리주",
+      "vi": "Tunceli",
+      "id": "Provinsi Tunceli",
+      "zh-Hans": "通杰利省",
+      "zh-Hant": "通傑利省"
+    }
+  },
+  {
+    "code": "64",
+    "name": "Uşak Province",
+    "names": {
+      "ja": "ウシャク県",
+      "ko": "우샤크주",
+      "vi": "Uşak",
+      "id": "Provinsi Uşak",
+      "zh-Hans": "乌沙克省",
+      "zh-Hant": "烏沙克省"
+    }
+  },
+  {
+    "code": "65",
+    "name": "Van Province",
+    "names": {
+      "ja": "ヴァン県",
+      "ko": "반주",
+      "vi": "Van",
+      "id": "Provinsi Van",
+      "zh-Hans": "凡省",
+      "zh-Hant": "凡省"
+    }
+  },
+  {
+    "code": "77",
+    "name": "Yalova Province",
+    "names": {
+      "ja": "ヤロヴァ県",
+      "ko": "얄로바주",
+      "vi": "Yalova",
+      "id": "Provinsi Yalova",
+      "zh-Hans": "亚洛瓦省",
+      "zh-Hant": "亞洛瓦省"
+    }
+  },
+  {
+    "code": "66",
+    "name": "Yozgat Province",
+    "names": {
+      "ja": "ヨズガト県",
+      "ko": "요즈가트주",
+      "vi": "Yozgat",
+      "id": "Provinsi Yozgat",
+      "zh-Hans": "约兹加特省",
+      "zh-Hant": "約茲加特省"
+    }
+  },
+  {
+    "code": "67",
+    "name": "Zonguldak Province",
+    "names": {
+      "ja": "ゾングルダク県",
+      "ko": "종굴다크주",
+      "vi": "Zonguldak",
+      "id": "Provinsi Zonguldak",
+      "zh-Hans": "宗古尔达克省",
+      "zh-Hant": "宗古爾達克省"
+    }
+  }
+]

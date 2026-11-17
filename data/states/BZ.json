@@ -1,0 +1,73 @@
+[
+  {
+    "code": "BZ",
+    "name": "Belize District",
+    "names": {
+      "ja": "ベリーズ州",
+      "ko": "벨리즈구",
+      "id": "Distrik Belize",
+      "zh-Hans": "伯利兹区",
+      "zh-Hant": "伯利茲區"
+    }
+  },
+  {
+    "code": "CY",
+    "name": "Cayo District",
+    "names": {
+      "ja": "カヨ州",
+      "ko": "카요구",
+      "vi": "Quận Cayo",
+      "id": "Distrik Cayo",
+      "zh-Hans": "卡约区",
+      "zh-Hant": "卡約區"
+    }
+  },
+  {
+    "code": "CZL",
+    "name": "Corozal District",
+    "names": {
+      "ja": "コロザル州",
+      "ko": "코로살구",
+      "vi": "Quận Corozal",
+      "id": "Distrik Corozal",
+      "zh-Hans": "科罗萨尔区",
+      "zh-Hant": "科羅薩爾區"
+    }
+  },
+  {
+    "code": "OW",
+    "name": "Orange Walk District",
+    "names": {
+      "ja": "オレンジウォーク州",
+      "ko": "오렌지워크구",
+      "vi": "Quận Orange Walk",
+      "id": "Distrik Orange Walk",
+      "zh-Hans": "橘园区",
+      "zh-Hant": "橘園區"
+    }
+  },
+  {
+    "code": "SC",
+    "name": "Stann Creek District",
+    "names": {
+      "ja": "スタンクリーク州",
+      "ko": "스탠크리크구",
+      "vi": "Quận Stann Creek",
+      "id": "Distrik Stann Creek",
+      "zh-Hans": "斯坦克里克区",
+      "zh-Hant": "斯坦克里克區"
+    }
+  },
+  {
+    "code": "TOL",
+    "name": "Toledo District",
+    "names": {
+      "ja": "トレド州",
+      "ko": "털리도구",
+      "vi": "Quận Toledo",
+      "id": "Distrik Toledo",
+      "zh-Hans": "托莱多区",
+      "zh-Hant": "托萊多區"
+    }
+  }
+]

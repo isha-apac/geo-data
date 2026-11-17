@@ -1,0 +1,301 @@
+[
+  {
+    "code": "AG",
+    "name": "Canton of Aargau",
+    "names": {
+      "ja": "アールガウ州",
+      "ko": "아르가우주",
+      "vi": "Aargau",
+      "id": "Kanton Aargau",
+      "zh-Hans": "阿尔高州"
+    }
+  },
+  {
+    "code": "AR",
+    "name": "Canton of Appenzell Ausserrhoden",
+    "names": {
+      "ja": "アッペンツェル・アウサーローデン準州",
+      "ko": "아펜첼아우서로덴주",
+      "vi": "Appenzell Ausserrhoden",
+      "id": "Kanton Appenzell Ausserrhoden",
+      "zh-Hans": "外阿彭策尔州"
+    }
+  },
+  {
+    "code": "AI",
+    "name": "Canton of Appenzell Innerrhoden",
+    "names": {
+      "ja": "アッペンツェル・インナーローデン準州",
+      "ko": "아펜첼이너로덴주",
+      "vi": "Appenzell Innerrhoden",
+      "id": "Kanton Appenzell Innerrhoden",
+      "zh-Hans": "内阿彭策尔州"
+    }
+  },
+  {
+    "code": "BL",
+    "name": "Canton of Basel-Landschaft",
+    "names": {
+      "ja": "バーゼル＝ラント準州",
+      "ko": "바젤란트주",
+      "vi": "Basel-Landschaft",
+      "id": "Kanton Basel-Negeri",
+      "zh-Hans": "巴塞尔乡村州"
+    }
+  },
+  {
+    "code": "BS",
+    "name": "Canton of Basel-Stadt",
+    "names": {
+      "ja": "バーゼル＝シュタット準州",
+      "ko": "바젤슈타트주",
+      "vi": "Basel-Stadt",
+      "id": "Kanton Basel-Kota",
+      "zh-Hans": "巴塞尔城市州",
+      "zh-Hant": "巴塞爾城市州"
+    }
+  },
+  {
+    "code": "BE",
+    "name": "Canton of Berne",
+    "names": {
+      "ja": "ベルン州",
+      "ko": "베른주",
+      "vi": "Bern",
+      "id": "Bern",
+      "zh-Hans": "伯恩州",
+      "zh-Hant": "伯恩州"
+    }
+  },
+  {
+    "code": "FR",
+    "name": "Canton of Fribourg",
+    "names": {
+      "ja": "フリブール州",
+      "ko": "프리부르주",
+      "vi": "Fribourg",
+      "id": "Kanton Fribourg",
+      "zh-Hans": "弗里堡州",
+      "zh-Hant": "夫里堡"
+    }
+  },
+  {
+    "code": "GE",
+    "name": "Canton of Geneva",
+    "names": {
+      "ja": "ジュネーヴ州",
+      "ko": "제네바주",
+      "vi": "Genève",
+      "id": "Kanton Jenewa",
+      "zh-Hans": "日内瓦州",
+      "zh-Hant": "日内瓦州"
+    }
+  },
+  {
+    "code": "GL",
+    "name": "Canton of Glarus",
+    "names": {
+      "ja": "グラールス州",
+      "ko": "글라루스주",
+      "vi": "Glarus",
+      "id": "Kanton Glarus",
+      "zh-Hans": "格拉魯斯州"
+    }
+  },
+  {
+    "code": "JU",
+    "name": "Canton of Jura",
+    "names": {
+      "ja": "ジュラ州",
+      "ko": "쥐라주",
+      "vi": "Jura",
+      "id": "Kanton Jura",
+      "zh-Hans": "汝拉州"
+    }
+  },
+  {
+    "code": "LU",
+    "name": "Canton of Lucerne",
+    "names": {
+      "ja": "ルツェルン州",
+      "ko": "루체른주",
+      "vi": "Luzern",
+      "id": "Kanton Luzern",
+      "zh-Hans": "卢塞恩州",
+      "zh-Hant": "盧塞恩州"
+    }
+  },
+  {
+    "code": "NE",
+    "name": "Canton of Neuchâtel",
+    "names": {
+      "ja": "ヌーシャテル州",
+      "ko": "뇌샤텔주",
+      "vi": "Neuchâtel",
+      "id": "Kanton Neuchâtel",
+      "zh-Hans": "纳沙泰尔州",
+      "zh-Hant": "納沙泰爾州"
+    }
+  },
+  {
+    "code": "NW",
+    "name": "Canton of Nidwalden",
+    "names": {
+      "ja": "ニトヴァルデン準州",
+      "ko": "니트발덴주",
+      "vi": "Nidwalden",
+      "id": "Kanton Nidwalden",
+      "zh-Hans": "下瓦尔登州"
+    }
+  },
+  {
+    "code": "OW",
+    "name": "Canton of Obwalden",
+    "names": {
+      "ja": "オプヴァルデン準州",
+      "ko": "옵발덴주",
+      "vi": "Obwalden",
+      "id": "Kanton Obwalden",
+      "zh-Hans": "上瓦尔登州"
+    }
+  },
+  {
+    "code": "SH",
+    "name": "Canton of Schaffhausen",
+    "names": {
+      "ja": "シャフハウゼン州",
+      "ko": "샤프하우젠주",
+      "vi": "Schaffhausen",
+      "id": "Kanton Schaffhausen",
+      "zh-Hans": "沙夫豪森州"
+    }
+  },
+  {
+    "code": "SZ",
+    "name": "Canton of Schwyz",
+    "names": {
+      "ja": "シュヴィーツ州",
+      "ko": "슈비츠주",
+      "vi": "Schwyz",
+      "id": "Kanton Schwyz",
+      "zh-Hans": "施维茨州",
+      "zh-Hant": "施維茨州"
+    }
+  },
+  {
+    "code": "SO",
+    "name": "Canton of Solothurn",
+    "names": {
+      "ja": "ゾロトゥルン州",
+      "ko": "졸로투른주",
+      "vi": "Solothurn",
+      "id": "Kanton Solothurn",
+      "zh-Hans": "索洛图恩州"
+    }
+  },
+  {
+    "code": "SG",
+    "name": "Canton of St. Gallen",
+    "names": {
+      "ja": "ザンクト・ガレン州",
+      "ko": "장크트갈렌주",
+      "vi": "St. Gallen",
+      "id": "Kanton St. Gallen",
+      "zh-Hans": "圣加仑州"
+    }
+  },
+  {
+    "code": "GR",
+    "name": "Canton of the Grisons",
+    "names": {
+      "ja": "グラウビュンデン州",
+      "ko": "그라우뷘덴주",
+      "vi": "Graubünden",
+      "id": "Kanton Graubünden",
+      "zh-Hans": "格劳宾登州",
+      "zh-Hant": "格勞賓登州"
+    }
+  },
+  {
+    "code": "TG",
+    "name": "Canton of Thurgau",
+    "names": {
+      "ja": "トゥールガウ州",
+      "ko": "투르가우주",
+      "vi": "Thurgau",
+      "id": "Kanton Thurgau",
+      "zh-Hans": "图尔高州"
+    }
+  },
+  {
+    "code": "TI",
+    "name": "Canton of Ticino",
+    "names": {
+      "ja": "ティチーノ州",
+      "ko": "티치노주",
+      "vi": "Ticino",
+      "id": "Kanton Ticino",
+      "zh-Hans": "提契诺州",
+      "zh-Hant": "提契諾州"
+    }
+  },
+  {
+    "code": "UR",
+    "name": "Canton of Uri",
+    "names": {
+      "ja": "ウーリ州",
+      "ko": "우리주",
+      "vi": "Uri",
+      "id": "Kanton Uri",
+      "zh-Hans": "乌里州",
+      "zh-Hant": "烏里州"
+    }
+  },
+  {
+    "code": "VS",
+    "name": "Canton of Valais",
+    "names": {
+      "ja": "ヴァレー州",
+      "ko": "발레주",
+      "vi": "Valais",
+      "id": "Kanton Valais",
+      "zh-Hans": "瓦莱州",
+      "zh-Hant": "瓦萊州"
+    }
+  },
+  {
+    "code": "VD",
+    "name": "Canton of Vaud",
+    "names": {
+      "ja": "ヴォー州",
+      "ko": "보주",
+      "vi": "Vaud",
+      "id": "Kanton Vaud",
+      "zh-Hans": "沃州",
+      "zh-Hant": "沃州"
+    }
+  },
+  {
+    "code": "ZG",
+    "name": "Canton of Zug",
+    "names": {
+      "ja": "ツーク州",
+      "ko": "추크주",
+      "vi": "Zug",
+      "id": "Kanton Zug",
+      "zh-Hans": "楚格州"
+    }
+  },
+  {
+    "code": "ZH",
+    "name": "Canton of Zurich",
+    "names": {
+      "ja": "チューリヒ州",
+      "ko": "취리히주",
+      "vi": "Liên bang Zürich",
+      "id": "Kanton Zürich",
+      "zh-Hans": "苏黎世州",
+      "zh-Hant": "蘇黎世州"
+    }
+  }
+]

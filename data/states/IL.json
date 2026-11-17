@@ -1,0 +1,74 @@
+[
+  {
+    "code": "M",
+    "name": "Central District",
+    "names": {
+      "ja": "中央地区",
+      "ko": "중부구",
+      "vi": "Quận Trung",
+      "id": "Distrik Tengah",
+      "zh-Hans": "中央区",
+      "zh-Hant": "中央區"
+    }
+  },
+  {
+    "code": "HA",
+    "name": "Haifa District",
+    "names": {
+      "ja": "ハイファ地区",
+      "ko": "하이파구",
+      "vi": "Quận Haifa",
+      "id": "Distrik Haifa",
+      "zh-Hans": "海法区",
+      "zh-Hant": "海法區"
+    }
+  },
+  {
+    "code": "JM",
+    "name": "Jerusalem District",
+    "names": {
+      "ja": "エルサレム地区",
+      "ko": "예루살렘구",
+      "vi": "Quận Jerusalem",
+      "id": "Distrik Yerusalem",
+      "zh-Hans": "耶路撒冷区",
+      "zh-Hant": "耶路撒冷區"
+    }
+  },
+  {
+    "code": "Z",
+    "name": "Northern District",
+    "names": {
+      "ja": "北部地区",
+      "ko": "북부구",
+      "vi": "Quận Bắc",
+      "id": "Distrik Utara",
+      "zh-Hans": "北部区",
+      "zh-Hant": "北部區"
+    }
+  },
+  {
+    "code": "D",
+    "name": "Southern District",
+    "names": {
+      "ja": "南部地区",
+      "ko": "남부구",
+      "vi": "Quận Nam",
+      "id": "Distrik Selatan",
+      "zh-Hans": "南部区",
+      "zh-Hant": "南部區"
+    }
+  },
+  {
+    "code": "TA",
+    "name": "Tel Aviv District",
+    "names": {
+      "ja": "テルアビブ地区",
+      "ko": "텔아비브구",
+      "vi": "Quận Tel Aviv",
+      "id": "Distrik Tel Aviv",
+      "zh-Hans": "特拉维夫区",
+      "zh-Hant": "特拉維夫區"
+    }
+  }
+]

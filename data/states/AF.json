@@ -1,0 +1,409 @@
+[
+  {
+    "code": "BDS",
+    "name": "Badakhshan Province",
+    "names": {
+      "ja": "バダフシャーン州",
+      "ko": "바다흐샨주",
+      "vi": "Badakhshan",
+      "id": "Provinsi Badakhshan",
+      "zh-Hans": "巴达赫尚省",
+      "zh-Hant": "巴達赫尚省"
+    }
+  },
+  {
+    "code": "BDG",
+    "name": "Badghis Province",
+    "names": {
+      "ja": "バードギース州",
+      "ko": "바드기스주",
+      "vi": "Badghis",
+      "id": "Provinsi Badghis",
+      "zh-Hans": "巴德吉斯省",
+      "zh-Hant": "巴德吉斯省"
+    }
+  },
+  {
+    "code": "BGL",
+    "name": "Baghlan Province",
+    "names": {
+      "ja": "バグラーン州",
+      "ko": "바글란주",
+      "vi": "Baghlan",
+      "id": "Provinsi Baghlan",
+      "zh-Hans": "巴格兰省",
+      "zh-Hant": "巴格蘭省"
+    }
+  },
+  {
+    "code": "BAL",
+    "name": "Balkh Province",
+    "names": {
+      "ja": "バルフ州",
+      "ko": "발흐주",
+      "vi": "Balkh",
+      "id": "Provinsi Balkh",
+      "zh-Hans": "巴尔赫省",
+      "zh-Hant": "巴爾赫省"
+    }
+  },
+  {
+    "code": "BAM",
+    "name": "Bamyan Province",
+    "names": {
+      "ja": "バーミヤーン州",
+      "ko": "바미안주",
+      "vi": "Bamyan",
+      "id": "Provinsi Bamiyan",
+      "zh-Hans": "巴米扬省",
+      "zh-Hant": "巴米揚省"
+    }
+  },
+  {
+    "code": "DAY",
+    "name": "Daykundi Province",
+    "names": {
+      "ja": "ダーイクンディー州",
+      "ko": "다이쿤디주",
+      "vi": "Daykundi",
+      "id": "Provinsi Daykundi",
+      "zh-Hans": "代孔迪省",
+      "zh-Hant": "代孔迪省"
+    }
+  },
+  {
+    "code": "FRA",
+    "name": "Farah Province",
+    "names": {
+      "ja": "ファラー州",
+      "ko": "파라주",
+      "vi": "Farah",
+      "id": "Provinsi Farah",
+      "zh-Hans": "法拉省",
+      "zh-Hant": "法拉省"
+    }
+  },
+  {
+    "code": "FYB",
+    "name": "Faryab Province",
+    "names": {
+      "ja": "ファーリヤーブ州",
+      "ko": "파르야브주",
+      "vi": "Faryab",
+      "id": "Provinsi Faryab",
+      "zh-Hans": "法利亚布省",
+      "zh-Hant": "法利亞布省"
+    }
+  },
+  {
+    "code": "GHA",
+    "name": "Ghazni Province",
+    "names": {
+      "ja": "ガズニー州",
+      "ko": "가즈니주",
+      "vi": "Ghazni",
+      "id": "Provinsi Ghazni",
+      "zh-Hans": "加兹尼省",
+      "zh-Hant": "加茲尼省"
+    }
+  },
+  {
+    "code": "GHO",
+    "name": "Ghor Province",
+    "names": {
+      "ja": "ゴール州",
+      "ko": "구르주",
+      "vi": "Ghor",
+      "id": "Provinsi Ghōr",
+      "zh-Hans": "古尔省",
+      "zh-Hant": "古爾省"
+    }
+  },
+  {
+    "code": "HEL",
+    "name": "Helmand Province",
+    "names": {
+      "ja": "ヘルマンド州",
+      "ko": "헬만드주",
+      "vi": "Helmand",
+      "id": "Provinsi Helmand",
+      "zh-Hans": "赫尔曼德省",
+      "zh-Hant": "赫爾曼德省"
+    }
+  },
+  {
+    "code": "HER",
+    "name": "Herat Province",
+    "names": {
+      "ja": "ヘラート州",
+      "ko": "헤라트주",
+      "vi": "Herat",
+      "id": "Provinsi Herat",
+      "zh-Hans": "赫拉特省",
+      "zh-Hant": "赫拉特省"
+    }
+  },
+  {
+    "code": "JOW",
+    "name": "Jowzjan Province",
+    "names": {
+      "ja": "ジューズジャーン州",
+      "ko": "주즈잔주",
+      "vi": "Jowzjan",
+      "id": "Provinsi Jowzjan",
+      "zh-Hans": "朱兹詹省",
+      "zh-Hant": "朱茲詹省"
+    }
+  },
+  {
+    "code": "KAB",
+    "name": "Kabul Province",
+    "names": {
+      "ja": "カーブル州",
+      "ko": "카불주",
+      "vi": "Tỉnh Kabul",
+      "id": "Provinsi Kabul",
+      "zh-Hans": "喀布尔省",
+      "zh-Hant": "喀布爾省"
+    }
+  },
+  {
+    "code": "KAN",
+    "name": "Kandahar Province",
+    "names": {
+      "ja": "カンダハール州",
+      "ko": "칸다하르주",
+      "vi": "Kandahar",
+      "id": "Provinsi Kandahar",
+      "zh-Hans": "坎大哈省",
+      "zh-Hant": "坎大哈省"
+    }
+  },
+  {
+    "code": "KAP",
+    "name": "Kapisa Province",
+    "names": {
+      "ja": "カーピーサー州",
+      "ko": "카피사주",
+      "vi": "Kapisa",
+      "id": "Provinsi Kapisa",
+      "zh-Hans": "卡比萨省",
+      "zh-Hant": "卡比薩省"
+    }
+  },
+  {
+    "code": "KHO",
+    "name": "Khost Province",
+    "names": {
+      "ja": "ホースト州",
+      "ko": "호스트주",
+      "vi": "Khost",
+      "id": "Provinsi Khost",
+      "zh-Hans": "霍斯特省",
+      "zh-Hant": "霍斯特省"
+    }
+  },
+  {
+    "code": "KNR",
+    "name": "Kunar Province",
+    "names": {
+      "ja": "クナル州",
+      "ko": "쿠나르주",
+      "vi": "Kunar",
+      "id": "Provinsi Kunar",
+      "zh-Hans": "库纳尔省",
+      "zh-Hant": "庫納爾省"
+    }
+  },
+  {
+    "code": "KDZ",
+    "name": "Kunduz Province",
+    "names": {
+      "ja": "クンドゥーズ州",
+      "ko": "쿤두즈주",
+      "vi": "Tỉnh Kunduz",
+      "id": "Provinsi Kondoz",
+      "zh-Hans": "昆都士省",
+      "zh-Hant": "昆都士省"
+    }
+  },
+  {
+    "code": "LAG",
+    "name": "Laghman Province",
+    "names": {
+      "ja": "ラグマーン州",
+      "ko": "라그만주",
+      "vi": "Laghman",
+      "id": "Laghman",
+      "zh-Hans": "拉格曼省",
+      "zh-Hant": "拉格曼省"
+    }
+  },
+  {
+    "code": "LOG",
+    "name": "Logar Province",
+    "names": {
+      "ja": "ローガル州",
+      "ko": "로가르주",
+      "vi": "Logar",
+      "id": "Logar",
+      "zh-Hans": "洛加尔省",
+      "zh-Hant": "洛加爾省"
+    }
+  },
+  {
+    "code": "WAR",
+    "name": "Maidan Wardak Province",
+    "names": {
+      "ja": "ヴァルダク州",
+      "ko": "바르다크주",
+      "vi": "Wardak",
+      "id": "Maidan Wardak",
+      "zh-Hans": "瓦尔达克省",
+      "zh-Hant": "瓦爾達克省"
+    }
+  },
+  {
+    "code": "NAN",
+    "name": "Nangarhar Province",
+    "names": {
+      "ja": "ナンガルハール州",
+      "ko": "낭가르하르주",
+      "vi": "Nangarhar",
+      "id": "Provinsi Nangarhar",
+      "zh-Hans": "楠格哈尔省",
+      "zh-Hant": "楠格哈爾省"
+    }
+  },
+  {
+    "code": "NIM",
+    "name": "Nimruz Province",
+    "names": {
+      "ja": "ニームルーズ州",
+      "ko": "님루즈주",
+      "vi": "Nimruz",
+      "id": "Nimruz",
+      "zh-Hans": "尼姆鲁兹省",
+      "zh-Hant": "尼姆魯茲省"
+    }
+  },
+  {
+    "code": "NUR",
+    "name": "Nuristan Province",
+    "names": {
+      "ja": "ヌーリスターン州",
+      "ko": "누리스탄주",
+      "vi": "Nuristan",
+      "id": "Nurestan",
+      "zh-Hans": "努里斯坦省",
+      "zh-Hant": "紐里斯坦省"
+    }
+  },
+  {
+    "code": "PIA",
+    "name": "Paktia Province",
+    "names": {
+      "ja": "パクティヤー州",
+      "ko": "팍티야주",
+      "vi": "Paktia",
+      "id": "Paktia",
+      "zh-Hans": "帕克蒂亚省",
+      "zh-Hant": "帕克蒂亞省"
+    }
+  },
+  {
+    "code": "PKA",
+    "name": "Paktika Province",
+    "names": {
+      "ja": "パクティーカー州",
+      "ko": "팍티카주",
+      "vi": "Paktika",
+      "id": "Paktika",
+      "zh-Hans": "帕克蒂卡省",
+      "zh-Hant": "帕克蒂卡省"
+    }
+  },
+  {
+    "code": "PAN",
+    "name": "Panjshir Province",
+    "names": {
+      "ja": "パンジシール州",
+      "ko": "판지시르주",
+      "id": "Provinsi Panjshir",
+      "zh-Hans": "潘杰希尔省",
+      "zh-Hant": "潘傑希爾省"
+    }
+  },
+  {
+    "code": "PAR",
+    "name": "Parwan Province",
+    "names": {
+      "ja": "パルヴァーン州",
+      "ko": "파르반주",
+      "vi": "Tỉnh Parwan",
+      "id": "Provinsi Parwan",
+      "zh-Hans": "帕尔旺省",
+      "zh-Hant": "帕爾旺省"
+    }
+  },
+  {
+    "code": "SAM",
+    "name": "Samangan Province",
+    "names": {
+      "ja": "サマンガーン州",
+      "ko": "사망간주",
+      "vi": "Samangan",
+      "id": "Samangan",
+      "zh-Hans": "萨曼甘省",
+      "zh-Hant": "薩曼甘省"
+    }
+  },
+  {
+    "code": "SAR",
+    "name": "Sar-e Pol Province",
+    "names": {
+      "ja": "サーレポル州",
+      "ko": "사르이폴주",
+      "vi": "Sar-e Pol",
+      "id": "Provinsi Sar-e Pol",
+      "zh-Hans": "萨尔普勒省",
+      "zh-Hant": "薩爾普勒省"
+    }
+  },
+  {
+    "code": "TAK",
+    "name": "Takhar Province",
+    "names": {
+      "ja": "タハール州",
+      "ko": "타하르주",
+      "vi": "Takhar",
+      "id": "Takhar",
+      "zh-Hans": "塔哈尔省",
+      "zh-Hant": "塔哈爾省"
+    }
+  },
+  {
+    "code": "URU",
+    "name": "Uruzgan Province",
+    "names": {
+      "ja": "ウルーズガーン州",
+      "ko": "우루즈간주",
+      "vi": "Oruzgan",
+      "id": "Provinsi Oruzgan",
+      "zh-Hans": "乌鲁兹甘省",
+      "zh-Hant": "烏魯茲甘省"
+    }
+  },
+  {
+    "code": "ZAB",
+    "name": "Zabul Province",
+    "names": {
+      "ja": "ザーブル州",
+      "ko": "자불주",
+      "vi": "Zabul (tỉnh)",
+      "id": "Zabul",
+      "zh-Hans": "扎布尔省",
+      "zh-Hant": "扎布爾省"
+    }
+  }
+]

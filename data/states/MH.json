@@ -1,0 +1,289 @@
+[
+  {
+    "code": "ALL",
+    "name": "Ailinglaplap Atoll",
+    "names": {
+      "ja": "アイリングラップ環礁",
+      "ko": "아일링글라플라프 환초",
+      "vi": "Đảo san hô vòng Ailinglaplap",
+      "id": "Atol Ailinglaplap",
+      "zh-Hans": "艾林拉帕拉普环礁"
+    }
+  },
+  {
+    "code": "ALK",
+    "name": "Ailuk Atoll",
+    "names": {
+      "ja": "アイルック環礁",
+      "ko": "아일루크 환초",
+      "vi": "Đảo san hô vòng Ailuk",
+      "id": "Atol Ailuk",
+      "zh-Hans": "艾盧克環礁"
+    }
+  },
+  {
+    "code": "ARN",
+    "name": "Arno Atoll",
+    "names": {
+      "ja": "アルノ環礁",
+      "ko": "아르노 환초",
+      "vi": "Đảo san hô vòng Arno",
+      "id": "Atol Arno",
+      "zh-Hans": "阿爾諾環礁"
+    }
+  },
+  {
+    "code": "AUR",
+    "name": "Aur Atoll",
+    "names": {
+      "ja": "オール環礁",
+      "ko": "아우르 환초",
+      "id": "Atol Aur",
+      "zh-Hans": "奧爾環礁"
+    }
+  },
+  {
+    "code": "EBO",
+    "name": "Ebon Atoll",
+    "names": {
+      "ja": "エボン環礁",
+      "ko": "에본 환초",
+      "id": "Atol Ebon",
+      "zh-Hans": "埃邦环礁",
+      "zh-Hant": "埃邦環礁"
+    }
+  },
+  {
+    "code": "ENI",
+    "name": "Enewetak Atoll",
+    "names": {
+      "ja": "エニウェトク環礁",
+      "ko": "에네웨타크 환초",
+      "vi": "Đảo san hô vòng Enewetak",
+      "id": "Atol Enewetak",
+      "zh-Hans": "埃内韦塔克环礁",
+      "zh-Hant": "埃內韋塔克環礁"
+    }
+  },
+  {
+    "code": "JAB",
+    "name": "Jabat Island",
+    "names": {
+      "ja": "ジャボット島",
+      "ko": "자바트섬",
+      "id": "Pulau Jabat",
+      "zh-Hans": "贾布沃特岛",
+      "zh-Hant": "賈布沃特島"
+    }
+  },
+  {
+    "code": "JAL",
+    "name": "Jaluit Atoll",
+    "names": {
+      "ja": "ジャルート環礁",
+      "ko": "잘루이트 환초",
+      "vi": "Đảo san hô vòng Jaluit",
+      "id": "Atol Jaluit",
+      "zh-Hans": "贾卢伊特环礁",
+      "zh-Hant": "賈盧伊特環礁"
+    }
+  },
+  {
+    "code": "KIL",
+    "name": "Kili Island",
+    "names": {
+      "ja": "キリ島",
+      "ko": "킬리섬",
+      "id": "Pulau Kili",
+      "zh-Hans": "基利島"
+    }
+  },
+  {
+    "code": "KWA",
+    "name": "Kwajalein Atoll",
+    "names": {
+      "ja": "クェゼリン環礁",
+      "ko": "콰잘레인 환초",
+      "vi": "Kwajalein",
+      "id": "Atol Kwajalein",
+      "zh-Hans": "夸贾林环礁",
+      "zh-Hant": "瓜加林環礁"
+    }
+  },
+  {
+    "code": "LAE",
+    "name": "Lae Atoll",
+    "names": {
+      "ja": "ラエー環礁",
+      "ko": "라에 환초",
+      "id": "Atol Lae",
+      "zh-Hans": "萊環礁"
+    }
+  },
+  {
+    "code": "LIB",
+    "name": "Lib Island",
+    "names": {
+      "ja": "リブ島",
+      "ko": "리브섬",
+      "id": "Pulau Lib",
+      "zh-Hans": "利布島"
+    }
+  },
+  {
+    "code": "LIK",
+    "name": "Likiep Atoll",
+    "names": {
+      "ja": "リキエップ環礁",
+      "ko": "리키에프 환초",
+      "id": "Atol Likiep",
+      "zh-Hans": "利基普環礁"
+    }
+  },
+  {
+    "code": "MAJ",
+    "name": "Majuro",
+    "names": {
+      "ja": "マジュロ",
+      "ko": "마주로",
+      "vi": "Majuro",
+      "id": "Majuro",
+      "zh-Hans": "马朱罗",
+      "zh-Hant": "馬久羅"
+    }
+  },
+  {
+    "code": "MAL",
+    "name": "Maloelap Atoll",
+    "names": {
+      "ja": "マロエラップ環礁",
+      "ko": "말로엘라프 환초",
+      "vi": "Maloelap",
+      "id": "Atol Maloelap",
+      "zh-Hans": "馬洛埃拉普環礁",
+      "zh-Hant": "馬洛埃拉普環礁"
+    }
+  },
+  {
+    "code": "MEJ",
+    "name": "Mejit Island",
+    "names": {
+      "ja": "メジット島",
+      "ko": "메지트섬",
+      "id": "Pulau Mejit",
+      "zh-Hans": "梅吉特岛",
+      "zh-Hant": "梅吉特島"
+    }
+  },
+  {
+    "code": "MIL",
+    "name": "Mili Atoll",
+    "names": {
+      "ja": "ミリ環礁",
+      "ko": "밀리 환초",
+      "id": "Atol Mili",
+      "zh-Hans": "米利环礁",
+      "zh-Hant": "米利環礁"
+    }
+  },
+  {
+    "code": "NMK",
+    "name": "Namdrik Atoll",
+    "names": {
+      "ja": "ナモリック環礁",
+      "ko": "나모리크 환초",
+      "id": "Atol Namorik",
+      "zh-Hans": "纳莫里克环礁",
+      "zh-Hant": "納莫里克環礁"
+    }
+  },
+  {
+    "code": "NMU",
+    "name": "Namu Atoll",
+    "names": {
+      "ja": "ナムー環礁",
+      "ko": "나무 환초",
+      "id": "Atol Namu",
+      "zh-Hans": "納穆環礁",
+      "zh-Hant": "納穆環礁"
+    }
+  },
+  {
+    "code": "L",
+    "name": "Ralik Chain",
+    "names": {
+      "ja": "ラリック列島",
+      "ko": "랄리크 열도",
+      "vi": "Chuỗi đảo Ralik",
+      "id": "Ralik Chain",
+      "zh-Hans": "拉利克礁链",
+      "zh-Hant": "拉利克礁鏈"
+    }
+  },
+  {
+    "code": "T",
+    "name": "Ratak Chain",
+    "names": {
+      "ja": "ラタック列島",
+      "ko": "라타크 열도",
+      "vi": "Chuỗi đảo Ratak",
+      "id": "Ratak Chain",
+      "zh-Hans": "拉塔克礁链",
+      "zh-Hant": "拉塔克礁鏈"
+    }
+  },
+  {
+    "code": "RON",
+    "name": "Rongelap Atoll",
+    "names": {
+      "ja": "ロンゲラップ環礁",
+      "ko": "롱겔라프 환초",
+      "vi": "Rongelap",
+      "id": "Atol Rongelap",
+      "zh-Hans": "朗格拉普环礁",
+      "zh-Hant": "朗格拉普環礁"
+    }
+  },
+  {
+    "code": "UJA",
+    "name": "Ujae Atoll",
+    "names": {
+      "ja": "ウジャエ環礁",
+      "ko": "우자에 환초",
+      "id": "Atol Ujae",
+      "zh-Hans": "乌贾环礁",
+      "zh-Hant": "烏賈環礁"
+    }
+  },
+  {
+    "code": "UTI",
+    "name": "Utirik Atoll",
+    "names": {
+      "ja": "ウチリック環礁",
+      "ko": "우티리크 환초",
+      "id": "Atol Utirik",
+      "zh-Hans": "乌蒂里克环礁",
+      "zh-Hant": "烏蒂里克環礁"
+    }
+  },
+  {
+    "code": "WTH",
+    "name": "Wotho Atoll",
+    "names": {
+      "ja": "オトー環礁",
+      "ko": "워토 환초",
+      "id": "Atol Wotho",
+      "zh-Hans": "沃托環礁"
+    }
+  },
+  {
+    "code": "WTJ",
+    "name": "Wotje Atoll",
+    "names": {
+      "ja": "ウォッジェ環礁",
+      "ko": "웟제 환초",
+      "id": "Atol Wotje",
+      "zh-Hans": "沃傑環礁"
+    }
+  }
+]

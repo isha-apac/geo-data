@@ -1,0 +1,63 @@
+[
+  {
+    "code": "01",
+    "name": "Alarm Forest",
+    "names": {}
+  },
+  {
+    "code": "AC",
+    "name": "Ascension",
+    "names": {
+      "ja": "アセンション"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Blue Hill",
+    "names": {}
+  },
+  {
+    "code": "03",
+    "name": "Half Tree Hollow",
+    "names": {}
+  },
+  {
+    "code": "04",
+    "name": "Jamestown",
+    "names": {}
+  },
+  {
+    "code": "05",
+    "name": "Levelwood",
+    "names": {}
+  },
+  {
+    "code": "06",
+    "name": "Longwood",
+    "names": {}
+  },
+  {
+    "code": "HL",
+    "name": "Saint Helena",
+    "names": {
+      "ja": "セントヘレナ"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Saint Paul's",
+    "names": {}
+  },
+  {
+    "code": "07",
+    "name": "Sandy Bay",
+    "names": {}
+  },
+  {
+    "code": "TA",
+    "name": "Tristan da Cunha",
+    "names": {
+      "ja": "トリスタンダクーニャ"
+    }
+  }
+]

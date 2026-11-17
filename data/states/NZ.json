@@ -1,0 +1,198 @@
+[
+  {
+    "code": "AUK",
+    "name": "Auckland Region",
+    "names": {
+      "ja": "オークランド地方",
+      "ko": "오클랜드 지방",
+      "vi": "Vùng Auckland",
+      "id": "Region Auckland",
+      "zh-Hans": "奥克兰大区",
+      "zh-Hant": "奧克蘭大區"
+    }
+  },
+  {
+    "code": "BOP",
+    "name": "Bay of Plenty Region",
+    "names": {
+      "ja": "ベイ・オブ・プレンティ",
+      "ko": "베이오브플렌티 지방",
+      "vi": "Khu vực vịnh Plenty",
+      "id": "Wilayah Bay of Plenty",
+      "zh-Hans": "豐盛灣大區"
+    }
+  },
+  {
+    "code": "CAN",
+    "name": "Canterbury Region",
+    "names": {
+      "ja": "カンタベリー地方",
+      "ko": "캔터베리 지방",
+      "vi": "Canterbury",
+      "id": "Canterbury",
+      "zh-Hans": "坎特伯雷",
+      "zh-Hant": "坎特伯雷"
+    }
+  },
+  {
+    "code": "CIT",
+    "name": "Chatham Islands",
+    "names": {
+      "ja": "チャタム諸島",
+      "ko": "채텀 제도",
+      "vi": "Quần đảo Chatham",
+      "id": "Kepulauan Chatham",
+      "zh-Hans": "查塔姆群岛",
+      "zh-Hant": "查塔姆群島"
+    }
+  },
+  {
+    "code": "GIS",
+    "name": "Gisborne District",
+    "names": {
+      "ja": "ギズボーン地方",
+      "ko": "기즈번 지방",
+      "vi": "Khu vực Gisborne",
+      "id": "Wilayah Gisborne",
+      "zh-Hans": "吉斯本大区",
+      "zh-Hant": "吉斯本大區"
+    }
+  },
+  {
+    "code": "HKB",
+    "name": "Hawke's Bay Region",
+    "names": {
+      "ja": "ホークス・ベイ地方",
+      "ko": "호크스베이 지방",
+      "vi": "Khu vực Hawke's Bay",
+      "id": "Wilayah Hawke's Bay",
+      "zh-Hans": "霍克湾大区",
+      "zh-Hant": "豪克斯灣地區"
+    }
+  },
+  {
+    "code": "MWT",
+    "name": "Manawatū-Whanganui Region",
+    "names": {
+      "ja": "マナワツ・ワンガヌイ地方",
+      "ko": "마너와투왕거누이 지방",
+      "vi": "Khu vực Manawatu-Wanganui",
+      "id": "Wilayah Manawatu-Wanganui",
+      "zh-Hans": "马纳瓦图-旺阿努伊",
+      "zh-Hant": "馬納瓦圖-旺阿努伊"
+    }
+  },
+  {
+    "code": "MBH",
+    "name": "Marlborough District",
+    "names": {
+      "ja": "マールボロ地方",
+      "ko": "말버러 지방",
+      "vi": "Khu vực Marlborough",
+      "id": "Wilayah Marlborough",
+      "zh-Hans": "马尔堡",
+      "zh-Hant": "馬爾堡"
+    }
+  },
+  {
+    "code": "NSN",
+    "name": "Nelson Region",
+    "names": {
+      "ja": "ネルソン地方",
+      "ko": "넬슨 지방"
+    }
+  },
+  {
+    "code": "NTL",
+    "name": "Northland Region",
+    "names": {
+      "ja": "ノースランド地方",
+      "ko": "노스랜드 지방",
+      "vi": "Northland",
+      "id": "Region Northland",
+      "zh-Hans": "北地大区"
+    }
+  },
+  {
+    "code": "OTA",
+    "name": "Otago Region",
+    "names": {
+      "ja": "オタゴ地方",
+      "ko": "오타고 지방",
+      "vi": "Khu vực Otago",
+      "id": "Wilayah Otago",
+      "zh-Hans": "奥塔哥大区",
+      "zh-Hant": "奧塔哥大區"
+    }
+  },
+  {
+    "code": "STL",
+    "name": "Southland Region",
+    "names": {
+      "ja": "サウスランド地方",
+      "ko": "사우스랜드 지방",
+      "vi": "Khu vực Southland",
+      "id": "Wilayah Southland",
+      "zh-Hans": "南地大区",
+      "zh-Hant": "南地大區"
+    }
+  },
+  {
+    "code": "TKI",
+    "name": "Taranaki Region",
+    "names": {
+      "ja": "タラナキ地方",
+      "ko": "타라나키 지방",
+      "vi": "Khu vực Taranaki",
+      "id": "Taranaki",
+      "zh-Hans": "塔拉纳基大区",
+      "zh-Hant": "塔拉納基大區"
+    }
+  },
+  {
+    "code": "TAS",
+    "name": "Tasman District",
+    "names": {
+      "ja": "タスマン地方",
+      "ko": "태즈먼 지방",
+      "vi": "Quận Tasman",
+      "id": "Distrik Tasman",
+      "zh-Hans": "塔斯曼"
+    }
+  },
+  {
+    "code": "WKO",
+    "name": "Waikato Region",
+    "names": {
+      "ja": "ワイカト地方",
+      "ko": "와이카토 지방",
+      "vi": "Khu vực Waikato",
+      "id": "Waikato",
+      "zh-Hans": "怀卡托",
+      "zh-Hant": "懷卡托"
+    }
+  },
+  {
+    "code": "WGN",
+    "name": "Wellington Region",
+    "names": {
+      "ja": "ウェリントン地方",
+      "ko": "웰링턴 지방",
+      "vi": "Khu vực Wellington",
+      "id": "Wilayah Wellington",
+      "zh-Hans": "惠灵顿大区",
+      "zh-Hant": "威靈頓地區"
+    }
+  },
+  {
+    "code": "WTC",
+    "name": "West Coast Region",
+    "names": {
+      "ja": "ウェスト・コースト地方",
+      "ko": "웨스트코스트 지방",
+      "vi": "Khu vực West Coast",
+      "id": "West Coast, Selandia Baru",
+      "zh-Hans": "西岸大区"
+    }
+  }
+]

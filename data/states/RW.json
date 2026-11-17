@@ -1,0 +1,60 @@
+[
+  {
+    "code": "02",
+    "name": "Eastern Province",
+    "names": {
+      "ja": "東部州",
+      "ko": "동부주",
+      "vi": "Tỉnh Miền Đông",
+      "id": "Provinsi Timur",
+      "zh-Hans": "东部省",
+      "zh-Hant": "東部省"
+    }
+  },
+  {
+    "code": "01",
+    "name": "Kigali",
+    "names": {
+      "ja": "キガリ",
+      "ko": "키갈리",
+      "vi": "Kigali",
+      "id": "Kigali",
+      "zh-Hans": "基加利"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Northern Province",
+    "names": {
+      "ja": "北部州",
+      "ko": "북부주",
+      "vi": "Tỉnh Phía Bắc",
+      "id": "Provinsi Utara",
+      "zh-Hans": "北部省",
+      "zh-Hant": "北部省"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Southern Province",
+    "names": {
+      "ja": "南部州",
+      "ko": "남부주",
+      "vi": "Tỉnh Miền Nam",
+      "id": "Provinsi Selatan",
+      "zh-Hans": "南部省",
+      "zh-Hant": "南部省"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Western Province",
+    "names": {
+      "ja": "西部州",
+      "ko": "서부주",
+      "vi": "Tỉnh Phía Tây",
+      "id": "Provinsi Barat, Rwanda",
+      "zh-Hans": "西部省"
+    }
+  }
+]

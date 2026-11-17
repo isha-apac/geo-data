@@ -1,0 +1,392 @@
+[
+  {
+    "code": "001",
+    "name": "Adjuntas",
+    "names": {}
+  },
+  {
+    "code": "003",
+    "name": "Aguada",
+    "names": {}
+  },
+  {
+    "code": "005",
+    "name": "Aguadilla",
+    "names": {}
+  },
+  {
+    "code": "007",
+    "name": "Aguas Buenas",
+    "names": {}
+  },
+  {
+    "code": "009",
+    "name": "Aibonito",
+    "names": {}
+  },
+  {
+    "code": "011",
+    "name": "Añasco",
+    "names": {}
+  },
+  {
+    "code": "AR",
+    "name": "Arecibo",
+    "names": {}
+  },
+  {
+    "code": "015",
+    "name": "Arroyo",
+    "names": {}
+  },
+  {
+    "code": "017",
+    "name": "Barceloneta",
+    "names": {}
+  },
+  {
+    "code": "019",
+    "name": "Barranquitas",
+    "names": {}
+  },
+  {
+    "code": "BY",
+    "name": "Bayamon",
+    "names": {}
+  },
+  {
+    "code": "023",
+    "name": "Cabo Rojo",
+    "names": {}
+  },
+  {
+    "code": "CG",
+    "name": "Caguas",
+    "names": {}
+  },
+  {
+    "code": "027",
+    "name": "Camuy",
+    "names": {}
+  },
+  {
+    "code": "029",
+    "name": "Canóvanas",
+    "names": {}
+  },
+  {
+    "code": "CL",
+    "name": "Carolina",
+    "names": {}
+  },
+  {
+    "code": "033",
+    "name": "Cataño",
+    "names": {}
+  },
+  {
+    "code": "035",
+    "name": "Cayey",
+    "names": {}
+  },
+  {
+    "code": "037",
+    "name": "Ceiba",
+    "names": {}
+  },
+  {
+    "code": "039",
+    "name": "Ciales",
+    "names": {}
+  },
+  {
+    "code": "041",
+    "name": "Cidra",
+    "names": {}
+  },
+  {
+    "code": "043",
+    "name": "Coamo",
+    "names": {}
+  },
+  {
+    "code": "045",
+    "name": "Comerío",
+    "names": {}
+  },
+  {
+    "code": "047",
+    "name": "Corozal",
+    "names": {}
+  },
+  {
+    "code": "049",
+    "name": "Culebra",
+    "names": {}
+  },
+  {
+    "code": "051",
+    "name": "Dorado",
+    "names": {}
+  },
+  {
+    "code": "053",
+    "name": "Fajardo",
+    "names": {}
+  },
+  {
+    "code": "054",
+    "name": "Florida",
+    "names": {}
+  },
+  {
+    "code": "055",
+    "name": "Guánica",
+    "names": {}
+  },
+  {
+    "code": "057",
+    "name": "Guayama",
+    "names": {}
+  },
+  {
+    "code": "059",
+    "name": "Guayanilla",
+    "names": {}
+  },
+  {
+    "code": "GN",
+    "name": "Guaynabo",
+    "names": {}
+  },
+  {
+    "code": "063",
+    "name": "Gurabo",
+    "names": {}
+  },
+  {
+    "code": "065",
+    "name": "Hatillo",
+    "names": {}
+  },
+  {
+    "code": "067",
+    "name": "Hormigueros",
+    "names": {}
+  },
+  {
+    "code": "069",
+    "name": "Humacao",
+    "names": {}
+  },
+  {
+    "code": "071",
+    "name": "Isabela",
+    "names": {}
+  },
+  {
+    "code": "073",
+    "name": "Jayuya",
+    "names": {}
+  },
+  {
+    "code": "075",
+    "name": "Juana Díaz",
+    "names": {}
+  },
+  {
+    "code": "077",
+    "name": "Juncos",
+    "names": {}
+  },
+  {
+    "code": "079",
+    "name": "Lajas",
+    "names": {}
+  },
+  {
+    "code": "081",
+    "name": "Lares",
+    "names": {}
+  },
+  {
+    "code": "083",
+    "name": "Las Marías",
+    "names": {}
+  },
+  {
+    "code": "085",
+    "name": "Las Piedras",
+    "names": {}
+  },
+  {
+    "code": "087",
+    "name": "Loíza",
+    "names": {}
+  },
+  {
+    "code": "089",
+    "name": "Luquillo",
+    "names": {}
+  },
+  {
+    "code": "091",
+    "name": "Manatí",
+    "names": {}
+  },
+  {
+    "code": "093",
+    "name": "Maricao",
+    "names": {}
+  },
+  {
+    "code": "095",
+    "name": "Maunabo",
+    "names": {}
+  },
+  {
+    "code": "MG",
+    "name": "Mayagüez",
+    "names": {}
+  },
+  {
+    "code": "099",
+    "name": "Moca",
+    "names": {}
+  },
+  {
+    "code": "101",
+    "name": "Morovis",
+    "names": {}
+  },
+  {
+    "code": "103",
+    "name": "Naguabo",
+    "names": {}
+  },
+  {
+    "code": "105",
+    "name": "Naranjito",
+    "names": {}
+  },
+  {
+    "code": "107",
+    "name": "Orocovis",
+    "names": {}
+  },
+  {
+    "code": "109",
+    "name": "Patillas",
+    "names": {}
+  },
+  {
+    "code": "111",
+    "name": "Peñuelas",
+    "names": {}
+  },
+  {
+    "code": "PO",
+    "name": "Ponce",
+    "names": {}
+  },
+  {
+    "code": "115",
+    "name": "Quebradillas",
+    "names": {}
+  },
+  {
+    "code": "117",
+    "name": "Rincón",
+    "names": {}
+  },
+  {
+    "code": "119",
+    "name": "Río Grande",
+    "names": {}
+  },
+  {
+    "code": "121",
+    "name": "Sabana Grande",
+    "names": {}
+  },
+  {
+    "code": "123",
+    "name": "Salinas",
+    "names": {}
+  },
+  {
+    "code": "125",
+    "name": "San Germán",
+    "names": {}
+  },
+  {
+    "code": "SJ",
+    "name": "San Juan",
+    "names": {}
+  },
+  {
+    "code": "129",
+    "name": "San Lorenzo",
+    "names": {}
+  },
+  {
+    "code": "131",
+    "name": "San Sebastián",
+    "names": {}
+  },
+  {
+    "code": "133",
+    "name": "Santa Isabel",
+    "names": {}
+  },
+  {
+    "code": "135",
+    "name": "Toa Alta",
+    "names": {}
+  },
+  {
+    "code": "TB",
+    "name": "Toa Baja",
+    "names": {}
+  },
+  {
+    "code": "TA",
+    "name": "Trujillo Alto",
+    "names": {}
+  },
+  {
+    "code": "141",
+    "name": "Utuado",
+    "names": {}
+  },
+  {
+    "code": "143",
+    "name": "Vega Alta",
+    "names": {}
+  },
+  {
+    "code": "145",
+    "name": "Vega Baja",
+    "names": {}
+  },
+  {
+    "code": "147",
+    "name": "Vieques",
+    "names": {}
+  },
+  {
+    "code": "149",
+    "name": "Villalba",
+    "names": {}
+  },
+  {
+    "code": "151",
+    "name": "Yabucoa",
+    "names": {}
+  },
+  {
+    "code": "153",
+    "name": "Yauco",
+    "names": {}
+  }
+]

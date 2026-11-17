@@ -1,0 +1,122 @@
+[
+  {
+    "code": "EC",
+    "name": "Central Equatoria",
+    "names": {
+      "ja": "中央エクアトリア州",
+      "ko": "중앙에콰토리아주",
+      "vi": "Trung Equatoria",
+      "id": "Khatulistiwa Tengah",
+      "zh-Hans": "中赤道州",
+      "zh-Hant": "中赤道州"
+    }
+  },
+  {
+    "code": "EE",
+    "name": "Eastern Equatoria",
+    "names": {
+      "ja": "東エクアトリア州",
+      "ko": "동에콰토리아주",
+      "vi": "Đông Equatoria",
+      "id": "Khatulistiwa Timur",
+      "zh-Hans": "东赤道州",
+      "zh-Hant": "东赤道州"
+    }
+  },
+  {
+    "code": "JG",
+    "name": "Jonglei",
+    "names": {
+      "ja": "ジョングレイ州",
+      "ko": "종글레이주",
+      "vi": "Jonglei",
+      "id": "Junqali",
+      "zh-Hans": "琼莱州",
+      "zh-Hant": "瓊萊州"
+    }
+  },
+  {
+    "code": "LK",
+    "name": "Lakes",
+    "names": {
+      "ja": "レイク州",
+      "ko": "레이크스주",
+      "vi": "Lakes",
+      "id": "Lakes",
+      "zh-Hans": "湖泊州",
+      "zh-Hant": "湖泊州"
+    }
+  },
+  {
+    "code": "BN",
+    "name": "Northern Bahr el Ghazal",
+    "names": {
+      "ja": "北バハル・アル・ガザール州",
+      "ko": "북바르알가잘주",
+      "vi": "Bắc Bahr el Ghazal",
+      "id": "Bahrul Ghazal Utara",
+      "zh-Hans": "北加扎勒河州",
+      "zh-Hant": "北加扎勒河州"
+    }
+  },
+  {
+    "code": "UY",
+    "name": "Unity",
+    "names": {
+      "ja": "ユニティ州",
+      "ko": "유니티주",
+      "vi": "Unity",
+      "id": "Wahdah",
+      "zh-Hans": "团结州",
+      "zh-Hant": "團結州"
+    }
+  },
+  {
+    "code": "NU",
+    "name": "Upper Nile",
+    "names": {
+      "ja": "上ナイル州",
+      "ko": "상나일주",
+      "vi": "Thượng Nin",
+      "id": "Nil Hulu",
+      "zh-Hans": "上尼罗州",
+      "zh-Hant": "上尼羅州"
+    }
+  },
+  {
+    "code": "WR",
+    "name": "Warrap",
+    "names": {
+      "ja": "ワラブ州",
+      "ko": "와랍주",
+      "vi": "Warrap",
+      "id": "Warab",
+      "zh-Hans": "瓦拉卜州",
+      "zh-Hant": "瓦拉卜州"
+    }
+  },
+  {
+    "code": "BW",
+    "name": "Western Bahr el Ghazal",
+    "names": {
+      "ja": "西バハル・アル・ガザール州",
+      "ko": "서바르알가잘주",
+      "vi": "Tây Bahr el Ghazal",
+      "id": "Bahrul Ghazal Barat",
+      "zh-Hans": "西加扎勒河州",
+      "zh-Hant": "西加扎勒河州"
+    }
+  },
+  {
+    "code": "EW",
+    "name": "Western Equatoria",
+    "names": {
+      "ja": "西エクアトリア州",
+      "ko": "서에콰토리아주",
+      "vi": "Tây Equatoria",
+      "id": "Khatulistiwa Barat",
+      "zh-Hans": "西赤道州",
+      "zh-Hant": "西赤道州"
+    }
+  }
+]

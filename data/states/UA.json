@@ -1,0 +1,325 @@
+[
+  {
+    "code": "43",
+    "name": "Autonomous Republic of Crimea",
+    "names": {
+      "ja": "クリミア自治共和国",
+      "ko": "크림 자치 공화국",
+      "vi": "Cộng hòa Tự trị Krym",
+      "id": "Republik Otonom Krimea",
+      "zh-Hans": "克里米亚自治共和国",
+      "zh-Hant": "克里米亞自治共和國"
+    }
+  },
+  {
+    "code": "71",
+    "name": "Cherkasy Oblast",
+    "names": {
+      "ja": "チェルカースィ州",
+      "ko": "체르카시주",
+      "vi": "Cherkasy",
+      "id": "Oblast Cherkasy",
+      "zh-Hans": "切尔卡瑟州",
+      "zh-Hant": "切爾卡瑟州"
+    }
+  },
+  {
+    "code": "74",
+    "name": "Chernihiv Oblast",
+    "names": {
+      "ja": "チェルニーヒウ州",
+      "ko": "체르니히우주",
+      "vi": "Chernihiv",
+      "id": "Oblast Chernihiv",
+      "zh-Hans": "切尔尼希夫州",
+      "zh-Hant": "切爾尼希夫州"
+    }
+  },
+  {
+    "code": "77",
+    "name": "Chernivtsi Oblast",
+    "names": {
+      "ja": "チェルニウツィー州",
+      "ko": "체르니우치주",
+      "vi": "Chernivtsi",
+      "id": "Oblast Chernivtsi",
+      "zh-Hans": "切尔尼夫齐州",
+      "zh-Hant": "切爾尼夫齊州"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Dnipropetrovsk Oblast",
+    "names": {
+      "ja": "ドニプロペトロウシク州",
+      "ko": "드니프로페트로우스크주",
+      "vi": "Dnipropetrovsk",
+      "id": "Oblast Dnipropetrovsk",
+      "zh-Hans": "第聂伯罗彼得罗夫斯克州",
+      "zh-Hant": "第聶伯羅彼得羅夫斯克州"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Donetsk Oblast",
+    "names": {
+      "ja": "ドネツィク州",
+      "ko": "도네츠크주",
+      "vi": "Donetsk",
+      "id": "Oblast Donetsk",
+      "zh-Hans": "顿涅茨克州",
+      "zh-Hant": "頓涅茨克州"
+    }
+  },
+  {
+    "code": "26",
+    "name": "Ivano-Frankivsk Oblast",
+    "names": {
+      "ja": "イヴァーノ＝フランキーウシク州",
+      "ko": "이바노프란키우스크주",
+      "vi": "Ivano-Frankivsk",
+      "id": "Oblast Ivano-Frankivsk",
+      "zh-Hans": "伊万诺-弗兰基夫斯克州",
+      "zh-Hant": "伊萬諾-弗蘭基夫斯克州"
+    }
+  },
+  {
+    "code": "63",
+    "name": "Kharkiv Oblast",
+    "names": {
+      "ja": "ハルキウ州",
+      "ko": "하르키우주",
+      "vi": "Kharkiv",
+      "id": "Oblast Kharkiv",
+      "zh-Hans": "哈尔科夫州",
+      "zh-Hant": "哈爾科夫州"
+    }
+  },
+  {
+    "code": "65",
+    "name": "Kherson Oblast",
+    "names": {
+      "ja": "ヘルソン州",
+      "ko": "헤르손주",
+      "vi": "Kherson",
+      "id": "Oblast Kherson",
+      "zh-Hans": "赫尔松州",
+      "zh-Hant": "赫爾松州"
+    }
+  },
+  {
+    "code": "68",
+    "name": "Khmelnytskyi Oblast",
+    "names": {
+      "ja": "フメリヌィーツィクィイ州",
+      "ko": "흐멜니츠키주",
+      "vi": "Khmelnytskyi",
+      "id": "Oblast Khmelnytskyi",
+      "zh-Hans": "赫梅利尼茨基州",
+      "zh-Hant": "赫梅利尼茨基州"
+    }
+  },
+  {
+    "code": "35",
+    "name": "Kirovohrad Oblast",
+    "names": {
+      "ja": "キロヴォフラード州",
+      "ko": "키로보흐라드주",
+      "vi": "Kirovohrad",
+      "id": "Oblast Kirovohrad",
+      "zh-Hans": "基洛沃赫拉德州",
+      "zh-Hant": "基洛沃赫拉德州"
+    }
+  },
+  {
+    "code": "30",
+    "name": "Kyiv",
+    "names": {
+      "ja": "キーウ",
+      "ko": "키이우",
+      "vi": "Kyiv",
+      "id": "Kyiv",
+      "zh-Hans": "基辅",
+      "zh-Hant": "基輔"
+    }
+  },
+  {
+    "code": "32",
+    "name": "Kyiv Oblast",
+    "names": {
+      "ja": "キーウ州",
+      "ko": "키예프주",
+      "vi": "Kiev",
+      "id": "Oblast Kyiv",
+      "zh-Hans": "基辅州",
+      "zh-Hant": "基輔州"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Luhansk Oblast",
+    "names": {
+      "ja": "ルハーンシク州",
+      "ko": "루한스크주",
+      "vi": "Luhansk",
+      "id": "Oblast Luhansk",
+      "zh-Hans": "卢甘斯克州",
+      "zh-Hant": "盧甘斯克州"
+    }
+  },
+  {
+    "code": "46",
+    "name": "Lviv Oblast",
+    "names": {
+      "ja": "リヴィウ州",
+      "ko": "르비우주",
+      "vi": "Lviv",
+      "id": "Oblast Lviv",
+      "zh-Hans": "利沃夫州",
+      "zh-Hant": "利沃夫州"
+    }
+  },
+  {
+    "code": "48",
+    "name": "Mykolaiv Oblast",
+    "names": {
+      "ja": "ムィコラーイウ州",
+      "ko": "미콜라이우주",
+      "vi": "Mykolaiv",
+      "id": "Oblast Mykolaiv",
+      "zh-Hans": "尼古拉耶夫州",
+      "zh-Hant": "尼古拉耶夫州"
+    }
+  },
+  {
+    "code": "51",
+    "name": "Odesa Oblast",
+    "names": {
+      "ja": "オデーサ州",
+      "ko": "오데사주",
+      "vi": "Odessa",
+      "id": "Oblast Odessa",
+      "zh-Hans": "敖德萨州",
+      "zh-Hant": "奧德薩州"
+    }
+  },
+  {
+    "code": "53",
+    "name": "Poltava Oblast",
+    "names": {
+      "ja": "ポルタヴァ州",
+      "ko": "폴타바주",
+      "vi": "Poltava",
+      "id": "Oblast Poltava",
+      "zh-Hans": "波尔塔瓦州",
+      "zh-Hant": "波爾塔瓦州"
+    }
+  },
+  {
+    "code": "56",
+    "name": "Rivne Oblast",
+    "names": {
+      "ja": "リウネ州",
+      "ko": "리우네주",
+      "vi": "Rivne",
+      "id": "Oblast Rivne",
+      "zh-Hans": "罗夫诺州",
+      "zh-Hant": "羅夫諾州"
+    }
+  },
+  {
+    "code": "40",
+    "name": "Sevastopol",
+    "names": {
+      "ja": "セヴァストポリ",
+      "ko": "세바스토폴",
+      "vi": "Sevastopol",
+      "id": "Sevastopol",
+      "zh-Hans": "塞瓦斯托波尔",
+      "zh-Hant": "塞瓦斯托波爾"
+    }
+  },
+  {
+    "code": "59",
+    "name": "Sumy Oblast",
+    "names": {
+      "ja": "スームィ州",
+      "ko": "수미주",
+      "vi": "Sumi",
+      "id": "Oblast Sumy",
+      "zh-Hans": "苏梅州",
+      "zh-Hant": "蘇梅州"
+    }
+  },
+  {
+    "code": "61",
+    "name": "Ternopil Oblast",
+    "names": {
+      "ja": "テルノーピリ州",
+      "ko": "테르노필주",
+      "vi": "Ternopil",
+      "id": "Oblast Ternopil",
+      "zh-Hans": "捷尔诺波尔州",
+      "zh-Hant": "捷爾諾波爾州"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Vinnytsia Oblast",
+    "names": {
+      "ja": "ヴィーンヌィツャ州",
+      "ko": "빈니차주",
+      "vi": "Vinnytsia",
+      "id": "Oblast Vinnytsia",
+      "zh-Hans": "文尼察州",
+      "zh-Hant": "文尼察州"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Volyn Oblast",
+    "names": {
+      "ja": "ヴォルィーニ州",
+      "ko": "볼린주",
+      "vi": "Volyn",
+      "id": "Oblast Volyn",
+      "zh-Hans": "沃伦州",
+      "zh-Hant": "沃倫州"
+    }
+  },
+  {
+    "code": "21",
+    "name": "Zakarpattia Oblast",
+    "names": {
+      "ja": "ザカルパッチャ州",
+      "ko": "자카르파탸주",
+      "vi": "Vùng Zakarpattia",
+      "id": "Oblast Zakarpattia",
+      "zh-Hans": "外喀尔巴阡州",
+      "zh-Hant": "外喀爾巴阡州"
+    }
+  },
+  {
+    "code": "23",
+    "name": "Zaporizhzhia Oblast",
+    "names": {
+      "ja": "ザポリージャ州",
+      "ko": "자포리자주",
+      "vi": "Zaporizhia",
+      "id": "Oblast Zaporizhia",
+      "zh-Hans": "扎波罗热州",
+      "zh-Hant": "扎波羅熱州"
+    }
+  },
+  {
+    "code": "18",
+    "name": "Zhytomyr Oblast",
+    "names": {
+      "ja": "ジトームィル州",
+      "ko": "지토미르주",
+      "vi": "Zhytomyr",
+      "id": "Oblast Zhytomyr",
+      "zh-Hans": "日托米尔州"
+    }
+  }
+]

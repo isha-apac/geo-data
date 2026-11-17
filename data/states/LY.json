@@ -1,0 +1,240 @@
+[
+  {
+    "code": "WA",
+    "name": "Al Wahat District",
+    "names": {
+      "ja": "アル・ワーハート県",
+      "ko": "알와하트주",
+      "zh-Hans": "绿洲省"
+    }
+  },
+  {
+    "code": "BA",
+    "name": "Benghazi",
+    "names": {
+      "ja": "ベンガジ",
+      "ko": "벵가지",
+      "vi": "Benghazi",
+      "id": "Benghazi",
+      "zh-Hans": "班加西",
+      "zh-Hant": "班加西"
+    }
+  },
+  {
+    "code": "BU",
+    "name": "Butnan District",
+    "names": {
+      "ja": "ブトナーン県",
+      "ko": "알부트난 주",
+      "vi": "Quận Butnan",
+      "id": "Al Butnan",
+      "zh-Hans": "布特南省"
+    }
+  },
+  {
+    "code": "DR",
+    "name": "Derna District",
+    "names": {
+      "ja": "デルナ県",
+      "ko": "다르나 주",
+      "zh-Hans": "德爾納省",
+      "zh-Hant": "德爾納省"
+    }
+  },
+  {
+    "code": "GT",
+    "name": "Ghat District",
+    "names": {
+      "ja": "ガート県",
+      "ko": "가트주",
+      "vi": "Quận Ghat",
+      "id": "Distrik Ghat",
+      "zh-Hans": "加特省"
+    }
+  },
+  {
+    "code": "JA",
+    "name": "Jabal al Akhdar",
+    "names": {
+      "ja": "ジャバル・アル・アフダル県",
+      "ko": "알자발알아크다르 주",
+      "vi": "Jabal al Akhdar",
+      "id": "Al Jabal al Akhdar",
+      "zh-Hans": "绿山省"
+    }
+  },
+  {
+    "code": "JG",
+    "name": "Jabal al Gharbi District",
+    "names": {
+      "ja": "ジャバル・アル・ガルビ県",
+      "ko": "알자발알가르비 주",
+      "id": "Distrik Al Jabal al Gharbi",
+      "zh-Hans": "西山省"
+    }
+  },
+  {
+    "code": "JI",
+    "name": "Jafara",
+    "names": {
+      "ja": "ジファーラ県",
+      "ko": "알즈파라 주",
+      "vi": "Đô thị tự trị Jafara",
+      "id": "Kotamadya Jafara",
+      "zh-Hans": "吉法拉省",
+      "zh-Hant": "吉法拉省"
+    }
+  },
+  {
+    "code": "JU",
+    "name": "Jufra",
+    "names": {
+      "ja": "ジュフラ県",
+      "ko": "알주프라 주",
+      "vi": "Jufra",
+      "id": "Jufra",
+      "zh-Hans": "朱夫拉省"
+    }
+  },
+  {
+    "code": "KF",
+    "name": "Kufra District",
+    "names": {
+      "ja": "クフラ県",
+      "ko": "알쿠프라 주",
+      "vi": "Quận Kufra",
+      "id": "Al Kufrah",
+      "zh-Hans": "库夫拉省"
+    }
+  },
+  {
+    "code": "MJ",
+    "name": "Marj District",
+    "names": {
+      "ja": "マルジュ県",
+      "ko": "알마르즈 주",
+      "vi": "Quận Marj",
+      "id": "Distrik Marj",
+      "zh-Hans": "迈尔季省"
+    }
+  },
+  {
+    "code": "MI",
+    "name": "Misurata Municipality",
+    "names": {
+      "ja": "ミスラタ県",
+      "ko": "미스라타주",
+      "vi": "Quận Misrata",
+      "id": "Distrik Misrata",
+      "zh-Hans": "米苏拉塔省"
+    }
+  },
+  {
+    "code": "MB",
+    "name": "Murqub",
+    "names": {
+      "ja": "ムルクブ県",
+      "ko": "알무르굽 주",
+      "vi": "Đô thị tự trị Murqub",
+      "id": "Kotamadya Murqub",
+      "zh-Hans": "迈尔盖卜省",
+      "zh-Hant": "邁爾蓋卜省"
+    }
+  },
+  {
+    "code": "MQ",
+    "name": "Murzuq District",
+    "names": {
+      "ja": "ムルズク県",
+      "ko": "무르주크주",
+      "vi": "Quận Murzuq",
+      "id": "Distrik Murzuq",
+      "zh-Hans": "穆尔祖格省",
+      "zh-Hant": "穆爾祖格省"
+    }
+  },
+  {
+    "code": "NL",
+    "name": "Nalut District",
+    "names": {
+      "ja": "ナールート県",
+      "ko": "날루트주",
+      "zh-Hans": "納盧特省",
+      "zh-Hant": "納盧特省"
+    }
+  },
+  {
+    "code": "NQ",
+    "name": "Nuqat al Khams District",
+    "names": {
+      "ja": "ヌカート・アル・ハムス県",
+      "ko": "안누카트알캄스 주",
+      "vi": "Nuqat al Khams",
+      "id": "An Nuqat al Khams",
+      "zh-Hans": "努加特海姆斯省"
+    }
+  },
+  {
+    "code": "SB",
+    "name": "Sabha District",
+    "names": {
+      "ja": "サブハー県",
+      "ko": "세바주",
+      "vi": "Quận Sabha",
+      "id": "Distrik Sabha",
+      "zh-Hans": "塞卜哈省"
+    }
+  },
+  {
+    "code": "SR",
+    "name": "Sirte District",
+    "names": {
+      "ja": "スルト県",
+      "ko": "시르테주",
+      "id": "Surt",
+      "zh-Hans": "蘇爾特省"
+    }
+  },
+  {
+    "code": "TB",
+    "name": "Tripoli District",
+    "names": {
+      "ja": "トリポリ県",
+      "ko": "타라불루스주",
+      "zh-Hans": "的黎波里省"
+    }
+  },
+  {
+    "code": "WD",
+    "name": "Wadi al Hayaa District",
+    "names": {
+      "ja": "ワジ・アル・ハヤー県",
+      "ko": "와디알하야주",
+      "vi": "Quận Wadi al Hayaa",
+      "id": "Distrik Wadi al Hayaa",
+      "zh-Hans": "瓦迪哈耶特省"
+    }
+  },
+  {
+    "code": "WS",
+    "name": "Wadi al Shatii District",
+    "names": {
+      "ja": "ワジ・アル・シャーティー県",
+      "ko": "와디알샤티주",
+      "vi": "Tỉnh Wadi al Shatii",
+      "id": "Distrik Wadi al Shatii",
+      "zh-Hans": "沙提省"
+    }
+  },
+  {
+    "code": "ZA",
+    "name": "Zawiya District",
+    "names": {
+      "ja": "ザーウィヤ県",
+      "ko": "앗자위야 주",
+      "vi": "Quận Zawiya",
+      "id": "Distrik Zawiya",
+      "zh-Hans": "扎维耶省"
+    }
+  }
+]

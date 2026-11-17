@@ -1,0 +1,108 @@
+[
+  {
+    "code": "1",
+    "name": "Estuaire Province",
+    "names": {
+      "ja": "エスチュエール州",
+      "ko": "에스튀에르주",
+      "vi": "Estuaire",
+      "id": "Estuaire",
+      "zh-Hans": "河口省"
+    }
+  },
+  {
+    "code": "2",
+    "name": "Haut-Ogooué Province",
+    "names": {
+      "ja": "オートオゴウェ州",
+      "ko": "오트오고웨주",
+      "vi": "Haut-Ogooue",
+      "id": "Haut-Ogooué",
+      "zh-Hans": "上奥果韦省",
+      "zh-Hant": "上奧果韋省"
+    }
+  },
+  {
+    "code": "3",
+    "name": "Moyen-Ogooué Province",
+    "names": {
+      "ja": "モワイエン・オゴウェ州",
+      "ko": "무아얭오고웨주",
+      "vi": "Moyen-Ogooué",
+      "id": "Moyen-Ogooué",
+      "zh-Hans": "中奥果韦省"
+    }
+  },
+  {
+    "code": "4",
+    "name": "Ngounié Province",
+    "names": {
+      "ja": "ングニエ州",
+      "ko": "응구니에주",
+      "vi": "Ngounié",
+      "id": "Ngounié",
+      "zh-Hans": "恩古涅省",
+      "zh-Hant": "恩古涅省"
+    }
+  },
+  {
+    "code": "5",
+    "name": "Nyanga Province",
+    "names": {
+      "ja": "ニャンガ州",
+      "ko": "냥가주",
+      "vi": "Tỉnh Nyanga",
+      "id": "Provinsi Nyanga",
+      "zh-Hans": "尼扬加省",
+      "zh-Hant": "尼揚加省"
+    }
+  },
+  {
+    "code": "6",
+    "name": "Ogooué-Ivindo Province",
+    "names": {
+      "ja": "オゴウェ・イヴィンド州",
+      "ko": "오고웨이빈도주",
+      "vi": "Ogooué-Ivindo",
+      "id": "Ogooué-Ivindo",
+      "zh-Hans": "奥果韦-伊温多省",
+      "zh-Hant": "奧果韋-伊溫多省"
+    }
+  },
+  {
+    "code": "7",
+    "name": "Ogooué-Lolo Province",
+    "names": {
+      "ja": "オゴウェ・ロロ州",
+      "ko": "오고웨롤로주",
+      "vi": "Ogooué-Lolo",
+      "id": "Ogooué-Lolo",
+      "zh-Hans": "奥果韦-洛洛省",
+      "zh-Hant": "奧果韋-洛洛省"
+    }
+  },
+  {
+    "code": "8",
+    "name": "Ogooué-Maritime Province",
+    "names": {
+      "ja": "オゴウェ・マリティム州",
+      "ko": "오고웨마리팀주",
+      "vi": "Ogooué-Maritime",
+      "id": "Ogooué-Maritime",
+      "zh-Hans": "滨海奥果韦省",
+      "zh-Hant": "濱海奧果韋省"
+    }
+  },
+  {
+    "code": "9",
+    "name": "Woleu-Ntem Province",
+    "names": {
+      "ja": "ウォレウ・ンテム州",
+      "ko": "월뢰은템주",
+      "vi": "Woleu-Ntem",
+      "id": "Woleu-Ntem",
+      "zh-Hans": "沃勒-恩特姆省",
+      "zh-Hant": "沃勒-恩特姆省"
+    }
+  }
+]

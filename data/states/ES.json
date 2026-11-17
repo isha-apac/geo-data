@@ -1,0 +1,767 @@
+[
+  {
+    "code": "C",
+    "name": "A Coruña Province",
+    "names": {
+      "ja": "ア・コルーニャ県",
+      "ko": "라코루냐주",
+      "vi": "A Coruña",
+      "id": "Provinsi A Coruña",
+      "zh-Hans": "拉科鲁尼亚省",
+      "zh-Hant": "拉科魯尼亞省"
+    }
+  },
+  {
+    "code": "VI",
+    "name": "Álava",
+    "names": {
+      "ja": "アラバ県",
+      "ko": "알라바주",
+      "vi": "Álava",
+      "id": "Álava",
+      "zh-Hans": "阿拉瓦省"
+    }
+  },
+  {
+    "code": "AB",
+    "name": "Albacete Province",
+    "names": {
+      "ja": "アルバセテ県",
+      "ko": "알바세테주",
+      "vi": "Albacete",
+      "id": "Provinsi Albacete",
+      "zh-Hans": "阿尔瓦塞特省"
+    }
+  },
+  {
+    "code": "AL",
+    "name": "Almería Province",
+    "names": {
+      "ja": "アルメリア県",
+      "ko": "알메리아주",
+      "vi": "Almería",
+      "id": "Provinsi Almería",
+      "zh-Hans": "阿尔梅里亚省"
+    }
+  },
+  {
+    "code": "AN",
+    "name": "Andalusia",
+    "names": {
+      "ja": "アンダルシア州",
+      "ko": "안달루시아주",
+      "vi": "Andalusia",
+      "id": "Andalusia",
+      "zh-Hans": "安达卢西亚",
+      "zh-Hant": "安達盧西亞"
+    }
+  },
+  {
+    "code": "AR",
+    "name": "Aragon",
+    "names": {
+      "ja": "アラゴン州",
+      "ko": "아라곤주",
+      "vi": "Aragon",
+      "id": "Aragon",
+      "zh-Hans": "阿拉贡",
+      "zh-Hant": "亞拉岡"
+    }
+  },
+  {
+    "code": "AS",
+    "name": "Asturias",
+    "names": {
+      "ja": "アストゥリアス州",
+      "ko": "아스투리아스 지방",
+      "vi": "Asturies",
+      "id": "Asturia",
+      "zh-Hans": "阿斯图里亚斯自治区",
+      "zh-Hant": "阿斯圖里亞斯自治區"
+    }
+  },
+  {
+    "code": "IB",
+    "name": "Balearic Islands",
+    "names": {
+      "ja": "バレアレス諸島",
+      "id": "Kepulauan Balearic"
+    }
+  },
+  {
+    "code": "B",
+    "name": "Barcelona Province",
+    "names": {
+      "ja": "バルセロナ県",
+      "ko": "바르셀로나주",
+      "vi": "Barcelona",
+      "id": "Provinsi Barcelona",
+      "zh-Hans": "巴塞罗那省",
+      "zh-Hant": "巴塞隆納省"
+    }
+  },
+  {
+    "code": "PV",
+    "name": "Basque Country",
+    "names": {
+      "ja": "バスク州",
+      "ko": "바스크 지방",
+      "vi": "Xứ Basque",
+      "id": "Komunitas Otonom Basque",
+      "zh-Hans": "巴斯克地区自治区",
+      "zh-Hant": "巴斯克地區自治區"
+    }
+  },
+  {
+    "code": "BI",
+    "name": "Biscay",
+    "names": {
+      "ja": "ビスカヤ県",
+      "ko": "비스카야주",
+      "vi": "Biscay",
+      "id": "Biskay",
+      "zh-Hans": "比斯开省",
+      "zh-Hant": "比斯開省"
+    }
+  },
+  {
+    "code": "CC",
+    "name": "Cáceres Province",
+    "names": {
+      "ja": "カセレス県",
+      "ko": "카세레스주",
+      "vi": "Cáceres",
+      "id": "Provinsi Cáceres",
+      "zh-Hans": "卡塞雷斯省"
+    }
+  },
+  {
+    "code": "CA",
+    "name": "Cádiz Province",
+    "names": {
+      "ja": "カディス県",
+      "ko": "카디스주",
+      "vi": "Cádiz",
+      "id": "Provinsi Cádiz",
+      "zh-Hans": "加的斯省"
+    }
+  },
+  {
+    "code": "CN",
+    "name": "Canary Islands",
+    "names": {
+      "ja": "カナリア諸島",
+      "ko": "카나리아 제도",
+      "vi": "Quần đảo Canaria",
+      "id": "Kepulauan Kanaria",
+      "zh-Hans": "加那利群岛",
+      "zh-Hant": "加納利群島"
+    }
+  },
+  {
+    "code": "CB",
+    "name": "Cantabria",
+    "names": {
+      "ja": "カンタブリア州",
+      "ko": "칸타브리아 지방",
+      "vi": "Cantabria",
+      "id": "Kantabria",
+      "zh-Hans": "坎塔布里亚自治区",
+      "zh-Hant": "坎塔布里亞自治區"
+    }
+  },
+  {
+    "code": "S",
+    "name": "Cantabria Province",
+    "names": {}
+  },
+  {
+    "code": "CS",
+    "name": "Castellón",
+    "names": {
+      "ja": "カステリョン",
+      "ko": "카스테욘",
+      "vi": "Castellón",
+      "id": "Castellón",
+      "zh-Hans": "卡斯特利翁"
+    }
+  },
+  {
+    "code": "CL",
+    "name": "Castile and León",
+    "names": {
+      "ja": "カスティーリャ・レオン州",
+      "ko": "카스티야이레온 지방",
+      "vi": "Castilla và León",
+      "id": "Kastilia dan Leon",
+      "zh-Hans": "卡斯蒂利亚-莱昂自治区",
+      "zh-Hant": "卡斯蒂利亞-萊昂自治區"
+    }
+  },
+  {
+    "code": "CM",
+    "name": "Castilla–La Mancha",
+    "names": {
+      "ja": "カスティーリャ・ラ・マンチャ州",
+      "ko": "카스티야라만차 지방",
+      "vi": "Castile-La Mancha",
+      "id": "Castilla-La Mancha",
+      "zh-Hans": "卡斯蒂利亚-拉曼查自治区",
+      "zh-Hant": "卡斯提亞-拉曼查自治區"
+    }
+  },
+  {
+    "code": "CT",
+    "name": "Catalonia",
+    "names": {
+      "ja": "カタルーニャ州",
+      "ko": "카탈루냐",
+      "vi": "Catalunya",
+      "id": "Katalonia",
+      "zh-Hans": "加泰罗尼亚自治区",
+      "zh-Hant": "加泰羅尼亞自治區"
+    }
+  },
+  {
+    "code": "CE",
+    "name": "Ceuta",
+    "names": {
+      "ja": "セウタ",
+      "ko": "세우타",
+      "vi": "Ceuta",
+      "id": "Ceuta",
+      "zh-Hans": "休达",
+      "zh-Hant": "休達"
+    }
+  },
+  {
+    "code": "MD",
+    "name": "Community of Madrid",
+    "names": {
+      "ja": "マドリード州",
+      "ko": "마드리드 지방",
+      "vi": "Cộng đồng Madrid",
+      "id": "Comunidad de Madrid",
+      "zh-Hans": "马德里自治区",
+      "zh-Hant": "馬德里自治區"
+    }
+  },
+  {
+    "code": "CO",
+    "name": "Córdoba Province",
+    "names": {
+      "ja": "コルドバ県",
+      "ko": "코르도바도",
+      "vi": "Córdoba",
+      "id": "Provinsi Kordoba",
+      "zh-Hans": "科尔多瓦省"
+    }
+  },
+  {
+    "code": "CU",
+    "name": "Cuenca Province",
+    "names": {
+      "ja": "クエンカ県",
+      "ko": "쿠엥카주",
+      "vi": "Cuenca",
+      "id": "Provinsi Cuenca",
+      "zh-Hans": "昆卡省"
+    }
+  },
+  {
+    "code": "EX",
+    "name": "Extremadura",
+    "names": {
+      "ja": "エストレマドゥーラ州",
+      "ko": "에스트레마두라 지방",
+      "vi": "Extremadura",
+      "id": "Extremadura",
+      "zh-Hans": "埃斯特雷马杜拉自治区",
+      "zh-Hant": "埃斯特雷馬杜拉自治區"
+    }
+  },
+  {
+    "code": "GA",
+    "name": "Galicia",
+    "names": {
+      "ja": "ガリシア州",
+      "ko": "갈리시아 지방",
+      "vi": "Galicia",
+      "id": "Galisia",
+      "zh-Hans": "加利西亚自治区",
+      "zh-Hant": "加利西亞自治區"
+    }
+  },
+  {
+    "code": "SS",
+    "name": "Gipuzkoa",
+    "names": {
+      "ja": "ギプスコア県",
+      "ko": "기푸스코아주",
+      "vi": "Guipuscoa",
+      "id": "Gipuzkoa",
+      "zh-Hans": "吉普斯夸省",
+      "zh-Hant": "吉普斯誇省"
+    }
+  },
+  {
+    "code": "GI",
+    "name": "Girona",
+    "names": {
+      "ja": "ジローナ県",
+      "ko": "지로나주",
+      "vi": "Girona",
+      "id": "Provinsi Girona",
+      "zh-Hans": "赫罗纳省"
+    }
+  },
+  {
+    "code": "GU",
+    "name": "Guadalajara Province",
+    "names": {
+      "ja": "グアダラハラ県",
+      "ko": "과달라하라주",
+      "vi": "Guadalajara",
+      "id": "Provinsi Guadalajara",
+      "zh-Hans": "瓜达拉哈拉省",
+      "zh-Hant": "瓜達拉哈拉省"
+    }
+  },
+  {
+    "code": "HU",
+    "name": "Huesca Province",
+    "names": {
+      "ja": "ウエスカ県",
+      "ko": "우에스카주",
+      "vi": "Huesca",
+      "id": "Provinsi Huesca",
+      "zh-Hans": "韦斯卡省",
+      "zh-Hant": "韋斯卡省"
+    }
+  },
+  {
+    "code": "PM",
+    "name": "Islas Baleares",
+    "names": {}
+  },
+  {
+    "code": "J",
+    "name": "Jaén Province",
+    "names": {
+      "ja": "ハエン県",
+      "ko": "하엔주",
+      "vi": "Jaén",
+      "id": "Provinsi Jaén",
+      "zh-Hans": "哈恩省"
+    }
+  },
+  {
+    "code": "RI",
+    "name": "La Rioja",
+    "names": {
+      "ja": "ラ・リオハ州",
+      "ko": "라리오하 지방",
+      "vi": "La Rioja",
+      "id": "La Rioja",
+      "zh-Hans": "拉里奥哈自治区",
+      "zh-Hant": "拉里奧哈自治區"
+    }
+  },
+  {
+    "code": "LO",
+    "name": "La Rioja",
+    "names": {
+      "ja": "ラ・リオハ州",
+      "ko": "라리오하 지방",
+      "vi": "La Rioja",
+      "id": "La Rioja",
+      "zh-Hans": "拉里奥哈自治区",
+      "zh-Hant": "拉里奧哈自治區"
+    }
+  },
+  {
+    "code": "GC",
+    "name": "Las Palmas",
+    "names": {
+      "ja": "ラス・パルマス県",
+      "ko": "라스팔마스",
+      "vi": "Las Palmas",
+      "id": "Las Palmas",
+      "zh-Hans": "拉斯帕尔马斯省",
+      "zh-Hant": "拉斯帕爾馬斯省"
+    }
+  },
+  {
+    "code": "LE",
+    "name": "León Province",
+    "names": {
+      "ja": "レオン県",
+      "ko": "레온도",
+      "vi": "León",
+      "id": "Provinsi León",
+      "zh-Hans": "莱昂省",
+      "zh-Hant": "雷昂省"
+    }
+  },
+  {
+    "code": "LU",
+    "name": "Lugo Province",
+    "names": {
+      "ja": "ルーゴ県",
+      "ko": "루고주",
+      "vi": "Lugo",
+      "id": "Provinsi Lugo",
+      "zh-Hans": "卢戈省"
+    }
+  },
+  {
+    "code": "M",
+    "name": "Madrid Province",
+    "names": {
+      "ja": "マドリード県"
+    }
+  },
+  {
+    "code": "MA",
+    "name": "Málaga Province",
+    "names": {
+      "ja": "マラガ県",
+      "ko": "말라가주",
+      "vi": "Málaga",
+      "id": "Provinsi Málaga",
+      "zh-Hans": "馬拉加省"
+    }
+  },
+  {
+    "code": "ML",
+    "name": "Melilla",
+    "names": {
+      "ja": "メリリャ",
+      "ko": "멜리야",
+      "vi": "Melilla",
+      "id": "Melilla",
+      "zh-Hans": "梅利利亚",
+      "zh-Hant": "麥里亞"
+    }
+  },
+  {
+    "code": "MU",
+    "name": "Murcia Province",
+    "names": {
+      "ja": "ムルシア県",
+      "zh-Hans": "穆尔西亚省"
+    }
+  },
+  {
+    "code": "NC",
+    "name": "Navarre",
+    "names": {
+      "ja": "ナバラ州",
+      "ko": "나바라 지방",
+      "vi": "Navarra",
+      "id": "Navarra",
+      "zh-Hans": "纳瓦拉自治区"
+    }
+  },
+  {
+    "code": "OR",
+    "name": "Ourense",
+    "names": {
+      "ja": "オウレンセ県",
+      "ko": "오렌세주",
+      "vi": "Ourense",
+      "id": "Provinsi Ourense",
+      "zh-Hans": "奥伦塞省",
+      "zh-Hant": "奧倫塞省"
+    }
+  },
+  {
+    "code": "P",
+    "name": "Palencia Province",
+    "names": {
+      "ja": "パレンシア県",
+      "ko": "팔렌시아주",
+      "vi": "Palencia",
+      "id": "Provinsi Palencia",
+      "zh-Hans": "帕伦西亚省"
+    }
+  },
+  {
+    "code": "PO",
+    "name": "Pontevedra Province",
+    "names": {
+      "ja": "ポンテベドラ県",
+      "ko": "폰테베드라주",
+      "vi": "Pontevedra",
+      "id": "Provinsi Pontevedra",
+      "zh-Hans": "蓬特韦德拉省"
+    }
+  },
+  {
+    "code": "A",
+    "name": "Province of Alicante",
+    "names": {
+      "ja": "アリカンテ県",
+      "ko": "알리칸테주",
+      "vi": "Alicante",
+      "id": "Provinsi Alicante",
+      "zh-Hans": "阿利坎特省",
+      "zh-Hant": "阿利坎特"
+    }
+  },
+  {
+    "code": "O",
+    "name": "Province of Asturias",
+    "names": {
+      "id": "Provinsi Asturias"
+    }
+  },
+  {
+    "code": "AV",
+    "name": "Province of Ávila",
+    "names": {
+      "ja": "アビラ県",
+      "ko": "아빌라주",
+      "vi": "Ávila",
+      "id": "Provinsi Ávila",
+      "zh-Hans": "阿维拉省"
+    }
+  },
+  {
+    "code": "BA",
+    "name": "Province of Badajoz",
+    "names": {
+      "ja": "バダホス県",
+      "ko": "바다호스주",
+      "vi": "Badajoz",
+      "id": "Provinsi Badajoz",
+      "zh-Hans": "巴达霍斯省",
+      "zh-Hant": "巴達霍斯省"
+    }
+  },
+  {
+    "code": "BU",
+    "name": "Province of Burgos",
+    "names": {
+      "ja": "ブルゴス県",
+      "ko": "부르고스주",
+      "vi": "Burgos",
+      "id": "Provinsi Burgos",
+      "zh-Hans": "布尔戈斯省"
+    }
+  },
+  {
+    "code": "CR",
+    "name": "Province of Ciudad Real",
+    "names": {
+      "ja": "シウダ・レアル県",
+      "ko": "시우다드레알주",
+      "vi": "Ciudad Real",
+      "id": "Provinsi Ciudad Real",
+      "zh-Hans": "雷阿尔城省",
+      "zh-Hant": "雷阿爾城省"
+    }
+  },
+  {
+    "code": "GR",
+    "name": "Province of Granada",
+    "names": {
+      "ja": "グラナダ県",
+      "ko": "그라나다도",
+      "vi": "Granada",
+      "id": "Provinsi Granada",
+      "zh-Hans": "格拉纳达省"
+    }
+  },
+  {
+    "code": "H",
+    "name": "Province of Huelva",
+    "names": {
+      "ja": "ウエルバ県",
+      "ko": "우엘바주",
+      "vi": "Huelva",
+      "id": "Provinsi Huelva",
+      "zh-Hans": "韦尔瓦省"
+    }
+  },
+  {
+    "code": "L",
+    "name": "Province of Lleida",
+    "names": {
+      "ja": "リェイダ県",
+      "ko": "예이다주",
+      "vi": "Lérida",
+      "id": "Provinsi Lleida",
+      "zh-Hans": "莱里达省"
+    }
+  },
+  {
+    "code": "NA",
+    "name": "Province of Navarre",
+    "names": {
+      "ko": "나바라도",
+      "zh-Hans": "纳瓦拉省"
+    }
+  },
+  {
+    "code": "SA",
+    "name": "Province of Salamanca",
+    "names": {
+      "ja": "サラマンカ県",
+      "ko": "살라망카주",
+      "vi": "Salamanca",
+      "id": "Provinsi Salamanca",
+      "zh-Hans": "萨拉曼卡省"
+    }
+  },
+  {
+    "code": "T",
+    "name": "Province of Tarragona",
+    "names": {
+      "ja": "タラゴナ県",
+      "ko": "타라고나주",
+      "vi": "Tarragona",
+      "id": "Provinsi Tarragona",
+      "zh-Hans": "塔拉戈纳省"
+    }
+  },
+  {
+    "code": "V",
+    "name": "Province of Valencia",
+    "names": {
+      "ja": "バレンシア県",
+      "ko": "발렌시아도",
+      "vi": "Valencia",
+      "id": "Provinsi Valencia",
+      "zh-Hans": "巴伦西亚省",
+      "zh-Hant": "瓦倫西亞省"
+    }
+  },
+  {
+    "code": "MC",
+    "name": "Region of Murcia",
+    "names": {
+      "ja": "ムルシア州",
+      "ko": "무르시아 지방",
+      "vi": "Vùng Murcia",
+      "id": "Murcia",
+      "zh-Hans": "穆尔西亚自治区",
+      "zh-Hant": "穆爾西亞自治區"
+    }
+  },
+  {
+    "code": "TF",
+    "name": "Santa Cruz de Tenerife Province",
+    "names": {
+      "ja": "サンタ・クルス・デ・テネリフェ県",
+      "ko": "산타크루스데테네리페주",
+      "vi": "Santa Cruz de Tenerife",
+      "id": "Provinsi Santa Cruz de Tenerife",
+      "zh-Hans": "圣克鲁斯-德特内里费省",
+      "zh-Hant": "聖克魯斯-德特內里費省"
+    }
+  },
+  {
+    "code": "SG",
+    "name": "Segovia Province",
+    "names": {
+      "ja": "セゴビア県",
+      "ko": "세고비아주",
+      "vi": "Segovia",
+      "id": "Provinsi Segovia",
+      "zh-Hans": "塞哥維亞省",
+      "zh-Hant": "塞哥維亞省"
+    }
+  },
+  {
+    "code": "SE",
+    "name": "Seville Province",
+    "names": {
+      "ja": "セビリア県",
+      "ko": "세비야주",
+      "vi": "Sevilla",
+      "id": "Provinsi Sevilla",
+      "zh-Hans": "塞维利亚省"
+    }
+  },
+  {
+    "code": "SO",
+    "name": "Soria Province",
+    "names": {
+      "ja": "ソリア県",
+      "ko": "소리아주",
+      "vi": "Soria",
+      "id": "Provinsi Soria",
+      "zh-Hans": "索里亚省"
+    }
+  },
+  {
+    "code": "TE",
+    "name": "Teruel Province",
+    "names": {
+      "ja": "テルエル県",
+      "ko": "테루엘주",
+      "vi": "Teruel",
+      "id": "Provinsi Teruel",
+      "zh-Hans": "特魯埃爾省",
+      "zh-Hant": "特魯埃爾省"
+    }
+  },
+  {
+    "code": "TO",
+    "name": "Toledo Province",
+    "names": {
+      "ja": "トレド県",
+      "ko": "톨레도주",
+      "vi": "Toledo",
+      "id": "Provinsi Toledo",
+      "zh-Hans": "托萊多省"
+    }
+  },
+  {
+    "code": "VC",
+    "name": "Valencian Community",
+    "names": {
+      "ja": "バレンシア州",
+      "ko": "발렌시아주",
+      "vi": "Cộng đồng Valencia",
+      "id": "Komunitas Valensia",
+      "zh-Hans": "巴伦西亚自治区",
+      "zh-Hant": "瓦倫西亞自治區"
+    }
+  },
+  {
+    "code": "VA",
+    "name": "Valladolid Province",
+    "names": {
+      "ja": "バリャドリッド県",
+      "ko": "바야돌리드주",
+      "vi": "Valladolid",
+      "id": "Provinsi Valladolid",
+      "zh-Hans": "巴利亚多利德省"
+    }
+  },
+  {
+    "code": "ZA",
+    "name": "Zamora Province",
+    "names": {
+      "ja": "サモラ県",
+      "ko": "사모라주",
+      "vi": "Zamora",
+      "id": "Provinsi Zamora",
+      "zh-Hans": "萨莫拉省",
+      "zh-Hant": "薩莫拉省"
+    }
+  },
+  {
+    "code": "Z",
+    "name": "Zaragoza Province",
+    "names": {
+      "ja": "サラゴサ県",
+      "ko": "사라고사주",
+      "vi": "Zaragoza",
+      "id": "Provinsi Zaragoza",
+      "zh-Hans": "萨拉戈萨省"
+    }
+  }
+]

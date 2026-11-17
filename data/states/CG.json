@@ -1,0 +1,127 @@
+[
+  {
+    "code": "11",
+    "name": "Bouenza Department",
+    "names": {
+      "ja": "ブエンザ地方",
+      "ko": "부엔자주",
+      "vi": "Khu vực hành chính Bouenza",
+      "id": "Bouenza",
+      "zh-Hans": "布恩扎省",
+      "zh-Hant": "布恩扎省"
+    }
+  },
+  {
+    "code": "BZV",
+    "name": "Brazzaville",
+    "names": {}
+  },
+  {
+    "code": "8",
+    "name": "Cuvette Department",
+    "names": {
+      "ja": "キュヴェト地方",
+      "ko": "퀴베트주",
+      "vi": "Cuvette",
+      "id": "Wilayah Cuvette",
+      "zh-Hans": "盆地省"
+    }
+  },
+  {
+    "code": "15",
+    "name": "Cuvette-Ouest Department",
+    "names": {
+      "ja": "西キュヴェト地方",
+      "ko": "퀴베트우에스트주",
+      "vi": "Khu vực hành chính Cuvette-Ouest",
+      "id": "Cuvette-Ouest",
+      "zh-Hans": "西盆地省"
+    }
+  },
+  {
+    "code": "5",
+    "name": "Kouilou Department",
+    "names": {
+      "ja": "クイル地方",
+      "ko": "쿠일루주",
+      "vi": "Khu vực hành chính Kouilou",
+      "id": "Kouilou",
+      "zh-Hans": "奎卢省",
+      "zh-Hant": "奎盧省"
+    }
+  },
+  {
+    "code": "2",
+    "name": "Lékoumou Department",
+    "names": {
+      "ja": "レクム地方",
+      "ko": "레쿠무주",
+      "vi": "Khu hành chính Lékoumou",
+      "id": "Lékoumou",
+      "zh-Hans": "莱库穆省",
+      "zh-Hant": "萊庫穆省"
+    }
+  },
+  {
+    "code": "7",
+    "name": "Likouala Department",
+    "names": {
+      "ja": "リクアラ地方",
+      "ko": "리쿠알라주",
+      "vi": "Khu vực hành chính Likouala",
+      "id": "Likouala Department",
+      "zh-Hans": "利夸拉省",
+      "zh-Hant": "利夸拉省"
+    }
+  },
+  {
+    "code": "9",
+    "name": "Niari Department",
+    "names": {
+      "ja": "ニアリ地方",
+      "ko": "니아리주",
+      "vi": "Khu vực hành chính Niari",
+      "id": "Niari Department",
+      "zh-Hans": "尼阿里省"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Plateaux Department",
+    "names": {
+      "ja": "プラトー地方",
+      "ko": "플라토주",
+      "vi": "Khu vực hành chính Plateaux",
+      "id": "Plateaux Department",
+      "zh-Hans": "高原省"
+    }
+  },
+  {
+    "code": "16",
+    "name": "Pointe-Noire District",
+    "names": {}
+  },
+  {
+    "code": "12",
+    "name": "Pool Department",
+    "names": {
+      "ja": "プール地方",
+      "ko": "풀주",
+      "vi": "Khu vực hành chính Pool",
+      "id": "Pool Department",
+      "zh-Hans": "普尔省",
+      "zh-Hant": "普爾省"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Sangha Department",
+    "names": {
+      "ja": "サンガ地方",
+      "ko": "상가주",
+      "vi": "Khu vực hành chính Sangha",
+      "id": "Sangha Department",
+      "zh-Hans": "桑加省"
+    }
+  }
+]

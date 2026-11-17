@@ -1,0 +1,239 @@
+[
+  {
+    "code": "10",
+    "name": "Abai Region",
+    "names": {
+      "ja": "アバイ州",
+      "ko": "아바이주",
+      "vi": "Abai (tỉnh)",
+      "id": "Provinsi Abai",
+      "zh-Hans": "阿拜州"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Akmola Region",
+    "names": {
+      "ja": "アクモラ州",
+      "ko": "아크몰라주",
+      "vi": "Akmola",
+      "id": "Provinsi Aqmola",
+      "zh-Hans": "阿克莫拉州",
+      "zh-Hant": "阿克莫拉州"
+    }
+  },
+  {
+    "code": "15",
+    "name": "Aktöbe Region",
+    "names": {
+      "ja": "アクトベ州",
+      "ko": "악퇴베주",
+      "vi": "Aktobe",
+      "id": "Provinsi Aqtöbe",
+      "zh-Hans": "阿克托别州",
+      "zh-Hant": "阿克托別州"
+    }
+  },
+  {
+    "code": "75",
+    "name": "Almaty",
+    "names": {
+      "ja": "アルマトイ",
+      "ko": "알마티",
+      "vi": "Almaty",
+      "id": "Almatı",
+      "zh-Hans": "阿拉木图",
+      "zh-Hant": "阿拉木圖"
+    }
+  },
+  {
+    "code": "19",
+    "name": "Almaty Region",
+    "names": {
+      "ja": "アルマトイ州",
+      "ko": "알마티주",
+      "vi": "Almaty",
+      "id": "Provinsi Almaty",
+      "zh-Hans": "阿拉木图州",
+      "zh-Hant": "阿拉木圖州"
+    }
+  },
+  {
+    "code": "71",
+    "name": "Astana",
+    "names": {
+      "ja": "アスタナ",
+      "ko": "아스타나",
+      "vi": "Astana",
+      "id": "Astana",
+      "zh-Hans": "阿斯塔纳",
+      "zh-Hant": "阿斯塔納"
+    }
+  },
+  {
+    "code": "23",
+    "name": "Atyrau Region",
+    "names": {
+      "ja": "アティラウ州",
+      "ko": "아티라우주",
+      "vi": "Atyrau",
+      "id": "Provinsi Atyrau",
+      "zh-Hans": "阿特劳州",
+      "zh-Hant": "阿特勞州"
+    }
+  },
+  {
+    "code": "63",
+    "name": "East Kazakhstan Region",
+    "names": {
+      "ja": "東カザフスタン州",
+      "ko": "시기스카작스탄 주",
+      "vi": "Đông Kazakhstan",
+      "id": "Provinsi Kazakhstan Timur",
+      "zh-Hans": "东哈萨克斯坦州",
+      "zh-Hant": "東哈薩克斯坦"
+    }
+  },
+  {
+    "code": "31",
+    "name": "Jambyl Region",
+    "names": {
+      "ja": "ジャンブール州",
+      "ko": "잠빌주",
+      "vi": "Zhambyl",
+      "id": "Provinsi Zhambyl",
+      "zh-Hans": "江布尔州",
+      "zh-Hant": "江布爾州"
+    }
+  },
+  {
+    "code": "35",
+    "name": "Karaganda Region",
+    "names": {
+      "ja": "カラガンダ州",
+      "ko": "카라간다주",
+      "vi": "Karagandy",
+      "id": "Provinsi Karaganda",
+      "zh-Hans": "卡拉干达州",
+      "zh-Hant": "卡拉干達州"
+    }
+  },
+  {
+    "code": "39",
+    "name": "Kostanay Region",
+    "names": {
+      "ja": "コスタナイ州",
+      "ko": "코스타나이주",
+      "vi": "Kostanay",
+      "id": "Provinsi Qostanay",
+      "zh-Hans": "库斯塔奈州",
+      "zh-Hant": "庫斯塔奈州"
+    }
+  },
+  {
+    "code": "43",
+    "name": "Kyzylorda Region",
+    "names": {
+      "ja": "クズロルダ州",
+      "ko": "키질로르다주",
+      "vi": "Kyzylorda",
+      "id": "Provinsi Qyzylorda",
+      "zh-Hans": "克孜勒奥尔达州",
+      "zh-Hant": "克孜勒奧爾達州"
+    }
+  },
+  {
+    "code": "47",
+    "name": "Mangystau Region",
+    "names": {
+      "ja": "マンギスタウ州",
+      "ko": "망기스타우주",
+      "vi": "Mangistau",
+      "id": "Provinsi Mangghystau",
+      "zh-Hans": "曼吉斯套州",
+      "zh-Hant": "曼吉斯套州"
+    }
+  },
+  {
+    "code": "59",
+    "name": "North Kazakhstan Region",
+    "names": {
+      "ja": "北カザフスタン州",
+      "ko": "솔튀스틱카작스탄 주",
+      "vi": "Bắc Kazakhstan",
+      "id": "Provinsi Kazakhstan Utara",
+      "zh-Hans": "北哈萨克斯坦州",
+      "zh-Hant": "北哈薩克斯坦州"
+    }
+  },
+  {
+    "code": "55",
+    "name": "Pavlodar Region",
+    "names": {
+      "ja": "パブロダール州",
+      "ko": "파블로다르주",
+      "vi": "Pavlodar",
+      "id": "Provinsi Pavlodar",
+      "zh-Hans": "巴甫洛达尔州",
+      "zh-Hant": "巴甫洛達爾州"
+    }
+  },
+  {
+    "code": "79",
+    "name": "Shymkent",
+    "names": {
+      "ja": "シムケント",
+      "ko": "쉼켄트",
+      "vi": "Shymkent",
+      "id": "Shymkent",
+      "zh-Hans": "希姆肯特",
+      "zh-Hant": "希姆肯特"
+    }
+  },
+  {
+    "code": "61",
+    "name": "Turkistan Region",
+    "names": {
+      "ja": "南カザフスタン州",
+      "ko": "튀르키스탄주",
+      "vi": "Nam Kazakhstan",
+      "id": "Provinsi Turkistan",
+      "zh-Hans": "图尔克斯坦州",
+      "zh-Hant": "突厥斯坦州"
+    }
+  },
+  {
+    "code": "62",
+    "name": "Ulytau Region",
+    "names": {
+      "ja": "ウルタウ州",
+      "ko": "울리타우주",
+      "vi": "Ulytau (tỉnh)",
+      "id": "Wilayah Ulytau",
+      "zh-Hans": "乌勒套州"
+    }
+  },
+  {
+    "code": "27",
+    "name": "West Kazakhstan Region",
+    "names": {
+      "ja": "西カザフスタン州",
+      "ko": "바티스카작스탄 주",
+      "vi": "Tây Kazakhstan",
+      "id": "Provinsi Kazakhstan Barat",
+      "zh-Hans": "西哈萨克斯坦州",
+      "zh-Hant": "西哈薩克斯坦州"
+    }
+  },
+  {
+    "code": "33",
+    "name": "Zhetisu Region",
+    "names": {
+      "ja": "ジェティス州",
+      "ko": "제티수주",
+      "vi": "Jetisu (tỉnh)",
+      "id": "Provinsi Jetisu",
+      "zh-Hans": "杰特苏州"
+    }
+  }
+]

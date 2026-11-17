@@ -1,0 +1,87 @@
+[
+  {
+    "code": "FUN",
+    "name": "Funafuti",
+    "names": {
+      "ja": "フナフティ島",
+      "ko": "푸나푸티",
+      "vi": "Funafuti",
+      "id": "Funafuti",
+      "zh-Hans": "富纳富提"
+    }
+  },
+  {
+    "code": "NMG",
+    "name": "Nanumanga",
+    "names": {
+      "ja": "ナヌマンガ島",
+      "ko": "나누망가섬",
+      "id": "Nanumanga",
+      "zh-Hans": "纳努芒阿岛"
+    }
+  },
+  {
+    "code": "NMA",
+    "name": "Nanumea",
+    "names": {
+      "ja": "ナヌメア環礁",
+      "ko": "나누메아 환초",
+      "id": "Nanumea",
+      "zh-Hans": "纳努梅阿环礁",
+      "zh-Hant": "納努梅阿環礁"
+    }
+  },
+  {
+    "code": "NIT",
+    "name": "Niutao",
+    "names": {
+      "ja": "ニウタオ島",
+      "ko": "니우타오섬",
+      "id": "Niutao",
+      "zh-Hans": "纽陶岛",
+      "zh-Hant": "紐陶島"
+    }
+  },
+  {
+    "code": "NUI",
+    "name": "Nui",
+    "names": {
+      "ja": "ヌイ環礁",
+      "ko": "누이 환초",
+      "id": "Nui",
+      "zh-Hans": "努伊環礁"
+    }
+  },
+  {
+    "code": "NKF",
+    "name": "Nukufetau",
+    "names": {
+      "ja": "ヌクフェタウ環礁",
+      "ko": "누쿠페타우 환초",
+      "id": "Nukufetau",
+      "zh-Hans": "努库费陶环礁",
+      "zh-Hant": "努庫費陶環礁"
+    }
+  },
+  {
+    "code": "NKL",
+    "name": "Nukulaelae",
+    "names": {
+      "ja": "ヌクラエラエ環礁",
+      "ko": "누쿨라엘라에 환초",
+      "id": "Nukulaelae",
+      "zh-Hans": "努库莱莱环礁",
+      "zh-Hant": "努庫萊萊環礁"
+    }
+  },
+  {
+    "code": "VAI",
+    "name": "Vaitupu",
+    "names": {
+      "ja": "ヴァイツプ島",
+      "ko": "바이투푸섬",
+      "id": "Vaitupu",
+      "zh-Hans": "瓦伊圖普"
+    }
+  }
+]

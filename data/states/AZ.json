@@ -1,0 +1,916 @@
+[
+  {
+    "code": "ABS",
+    "name": "Absheron District",
+    "names": {
+      "ja": "アブシェロン県",
+      "ko": "압셰론구",
+      "vi": "Absheron",
+      "id": "Abşeron",
+      "zh-Hans": "阿布歇隆区"
+    }
+  },
+  {
+    "code": "AGM",
+    "name": "Aghdam",
+    "names": {
+      "ja": "アグダム県",
+      "ko": "아그담구",
+      "vi": "Quận Agdam",
+      "id": "Agdam",
+      "zh-Hans": "阿格达姆区"
+    }
+  },
+  {
+    "code": "AGS",
+    "name": "Aghdash District",
+    "names": {
+      "ja": "アグダシュ県",
+      "ko": "아그다슈구",
+      "vi": "Aghdash",
+      "id": "Agdash",
+      "zh-Hans": "阿格达什区",
+      "zh-Hant": "阿格達什區"
+    }
+  },
+  {
+    "code": "AGC",
+    "name": "Aghjabadi District",
+    "names": {
+      "ja": "アグジャバディ県",
+      "ko": "아그자배디구",
+      "vi": "Aghjabedi",
+      "id": "Agjabadi",
+      "zh-Hans": "阿格贾贝迪区",
+      "zh-Hant": "阿格賈貝迪區"
+    }
+  },
+  {
+    "code": "AGA",
+    "name": "Aghstafa District",
+    "names": {
+      "ja": "アグスタファ県",
+      "ko": "아그스타파구",
+      "vi": "Aghstafa",
+      "id": "Agstafa",
+      "zh-Hans": "阿克斯塔法区",
+      "zh-Hant": "阿克斯塔法區"
+    }
+  },
+  {
+    "code": "AGU",
+    "name": "Agsu District",
+    "names": {
+      "ja": "アグス県",
+      "ko": "아그수구",
+      "vi": "Aghsu",
+      "id": "Agsu",
+      "zh-Hans": "阿赫苏区",
+      "zh-Hant": "阿赫蘇區"
+    }
+  },
+  {
+    "code": "AST",
+    "name": "Astara District",
+    "names": {
+      "ja": "アスタラ県",
+      "ko": "아스타라구",
+      "vi": "Astara",
+      "id": "Astara",
+      "zh-Hans": "阿斯塔拉区",
+      "zh-Hant": "阿斯塔拉區"
+    }
+  },
+  {
+    "code": "BAB",
+    "name": "Babek District",
+    "names": {
+      "ja": "バベク県",
+      "ko": "바배크구",
+      "vi": "Babek",
+      "id": "Babek",
+      "zh-Hans": "巴贝克区",
+      "zh-Hant": "巴貝克區"
+    }
+  },
+  {
+    "code": "BA",
+    "name": "Baku",
+    "names": {
+      "ja": "バクー",
+      "ko": "바쿠",
+      "vi": "Baku",
+      "id": "Baku",
+      "zh-Hans": "巴库",
+      "zh-Hant": "巴庫"
+    }
+  },
+  {
+    "code": "BAL",
+    "name": "Balakan District",
+    "names": {
+      "ja": "バラキャン県",
+      "ko": "발라캔구",
+      "vi": "Balaken",
+      "id": "Balakan",
+      "zh-Hans": "巴拉肯区",
+      "zh-Hant": "巴拉肯區"
+    }
+  },
+  {
+    "code": "BAR",
+    "name": "Barda District",
+    "names": {
+      "ja": "バルダ県",
+      "ko": "배르대구",
+      "vi": "Barda",
+      "id": "Barda",
+      "zh-Hans": "巴尔达区",
+      "zh-Hant": "巴爾達區"
+    }
+  },
+  {
+    "code": "BEY",
+    "name": "Beylagan District",
+    "names": {
+      "ja": "ベイラガン県",
+      "ko": "베일래간구",
+      "vi": "Beilagan",
+      "id": "Beylagan",
+      "zh-Hans": "贝拉甘区",
+      "zh-Hant": "貝拉甘區"
+    }
+  },
+  {
+    "code": "BIL",
+    "name": "Bilasuvar District",
+    "names": {
+      "ja": "ビラスヴァル県",
+      "ko": "빌래수바르구",
+      "vi": "Bilasuvar",
+      "id": "Bilasuvar",
+      "zh-Hans": "比利亚苏瓦尔区",
+      "zh-Hant": "比利亞蘇瓦爾區"
+    }
+  },
+  {
+    "code": "DAS",
+    "name": "Dashkasan District",
+    "names": {
+      "ja": "ダシュキャサン県",
+      "ko": "다슈캐샌구",
+      "vi": "Dashkasan",
+      "id": "Dashkasan",
+      "zh-Hans": "达什卡桑区",
+      "zh-Hant": "達什卡桑區"
+    }
+  },
+  {
+    "code": "FUZ",
+    "name": "Fuzuli District",
+    "names": {
+      "ja": "フュズリ県",
+      "ko": "퓌줄리구",
+      "vi": "Fuzuli",
+      "id": "Fizuli",
+      "zh-Hans": "菲祖利区",
+      "zh-Hant": "菲祖利區"
+    }
+  },
+  {
+    "code": "GAD",
+    "name": "Gadabay District",
+    "names": {
+      "ja": "ガダバイ県",
+      "ko": "개대배이구",
+      "vi": "Gadabey",
+      "id": "Gadabay",
+      "zh-Hans": "凯达贝克区",
+      "zh-Hant": "凱達貝克區"
+    }
+  },
+  {
+    "code": "GA",
+    "name": "Ganja",
+    "names": {
+      "ja": "ギャンジャ",
+      "ko": "간자",
+      "vi": "Ganca",
+      "id": "Ganja",
+      "zh-Hans": "占贾",
+      "zh-Hant": "占賈"
+    }
+  },
+  {
+    "code": "QAZ",
+    "name": "Gazakh District",
+    "names": {
+      "ja": "ガザフ県",
+      "ko": "가자흐구",
+      "vi": "Gazakh",
+      "id": "Qazakh",
+      "zh-Hans": "哈萨克区",
+      "zh-Hant": "哈薩克區"
+    }
+  },
+  {
+    "code": "QOB",
+    "name": "Gobustan District",
+    "names": {
+      "ja": "ゴブスタン県",
+      "ko": "고부스탄구",
+      "vi": "Gobustan",
+      "id": "Qobustan",
+      "zh-Hans": "戈布斯坦区",
+      "zh-Hant": "戈布斯坦區"
+    }
+  },
+  {
+    "code": "GOR",
+    "name": "Goranboy District",
+    "names": {
+      "ja": "ゴランボイ県",
+      "ko": "고란보이구",
+      "vi": "Geranboy",
+      "id": "Goranboy",
+      "zh-Hans": "戈兰博伊区",
+      "zh-Hant": "戈蘭博伊區"
+    }
+  },
+  {
+    "code": "GOY",
+    "name": "Goychay District",
+    "names": {
+      "ja": "ギョイチャイ県",
+      "ko": "괴이차이구",
+      "vi": "Goychay",
+      "id": "Goychay",
+      "zh-Hans": "盖奥克恰伊区",
+      "zh-Hant": "蓋奧克恰伊區"
+    }
+  },
+  {
+    "code": "GYG",
+    "name": "Goygol District",
+    "names": {
+      "ja": "ギョイギョル県",
+      "ko": "괴이괼구",
+      "vi": "Goygol",
+      "id": "Khanlar",
+      "zh-Hans": "汉拉尔区",
+      "zh-Hant": "漢拉爾區"
+    }
+  },
+  {
+    "code": "QBA",
+    "name": "Guba District",
+    "names": {
+      "ja": "クバ県",
+      "ko": "구바구",
+      "vi": "Guba",
+      "id": "Quba",
+      "zh-Hans": "库巴区",
+      "zh-Hant": "庫巴區"
+    }
+  },
+  {
+    "code": "QBI",
+    "name": "Gubadly District",
+    "names": {
+      "ja": "グバドリ県",
+      "ko": "구바들르구",
+      "vi": "Gubadly",
+      "id": "Qubadli",
+      "zh-Hans": "库巴特雷区",
+      "zh-Hant": "庫巴特雷區"
+    }
+  },
+  {
+    "code": "HAC",
+    "name": "Hajigabul District",
+    "names": {
+      "ja": "ハジュガブル県",
+      "ko": "하즈가불구",
+      "vi": "Hacuqabul",
+      "id": "Hajigabul",
+      "zh-Hans": "卡齐穆罕默德区",
+      "zh-Hant": "卡齊穆罕默德區"
+    }
+  },
+  {
+    "code": "IMI",
+    "name": "Imishli District",
+    "names": {
+      "ja": "イミシュリ県",
+      "ko": "이미슐리구",
+      "vi": "Imishli (quận)",
+      "id": "Imishli",
+      "zh-Hans": "伊米什利区"
+    }
+  },
+  {
+    "code": "ISM",
+    "name": "Ismayilli District",
+    "names": {
+      "ja": "イスマイル県",
+      "ko": "이스마이을르구",
+      "vi": "Ismailly (quận)",
+      "id": "Ismailli",
+      "zh-Hans": "伊斯梅尔雷区"
+    }
+  },
+  {
+    "code": "CAB",
+    "name": "Jabrayil District",
+    "names": {
+      "ja": "ジャブライル県",
+      "ko": "재브라이을구",
+      "vi": "Jebrail",
+      "id": "Jabrayil",
+      "zh-Hans": "杰布拉伊尔区",
+      "zh-Hant": "傑布拉伊爾區"
+    }
+  },
+  {
+    "code": "CAL",
+    "name": "Jalilabad District",
+    "names": {
+      "ja": "ジャリラバド県",
+      "ko": "잴릴라바트구",
+      "vi": "Jalilabad",
+      "id": "Jalilabad",
+      "zh-Hans": "贾利拉巴德区"
+    }
+  },
+  {
+    "code": "CUL",
+    "name": "Julfa District",
+    "names": {
+      "ja": "ジュルファ県",
+      "ko": "줄파구",
+      "vi": "Julfa",
+      "id": "Julfa",
+      "zh-Hans": "朱利法区",
+      "zh-Hant": "朱利法區"
+    }
+  },
+  {
+    "code": "KAL",
+    "name": "Kalbajar District",
+    "names": {
+      "ja": "カルバジャル県",
+      "ko": "캘배재르구",
+      "vi": "Kelbajar",
+      "id": "Distrik Kalbajar",
+      "zh-Hans": "克尔巴贾尔区",
+      "zh-Hant": "克爾巴賈爾區"
+    }
+  },
+  {
+    "code": "KAN",
+    "name": "Kangarli District",
+    "names": {
+      "ja": "キャンギャルリ県",
+      "ko": "캔개를리구",
+      "vi": "Kangarli",
+      "id": "Kangarli",
+      "zh-Hans": "坎加利区",
+      "zh-Hant": "坎加利區"
+    }
+  },
+  {
+    "code": "XAC",
+    "name": "Khachmaz District",
+    "names": {
+      "ja": "ハヒマズ県",
+      "ko": "하치마스구",
+      "vi": "Khachmaz",
+      "id": "Khachmaz",
+      "zh-Hans": "哈奇马斯区",
+      "zh-Hant": "哈奇馬斯區"
+    }
+  },
+  {
+    "code": "XA",
+    "name": "Khankendi",
+    "names": {
+      "ja": "ステパナケルト",
+      "ko": "스테파나케르트",
+      "vi": "Khankendi",
+      "id": "Khankendi",
+      "zh-Hans": "汉肯德",
+      "zh-Hant": "漢肯德"
+    }
+  },
+  {
+    "code": "XIZ",
+    "name": "Khizi District",
+    "names": {
+      "ja": "ヒジ県",
+      "ko": "흐즈구",
+      "vi": "Khyzy",
+      "id": "Khizi",
+      "zh-Hans": "基兹区",
+      "zh-Hant": "基茲區"
+    }
+  },
+  {
+    "code": "XCI",
+    "name": "Khojaly District",
+    "names": {
+      "ja": "ホジャリ県",
+      "ko": "호잘르구",
+      "vi": "Khojaly",
+      "id": "Khojali",
+      "zh-Hans": "霍贾雷区",
+      "zh-Hant": "霍賈雷區"
+    }
+  },
+  {
+    "code": "XVD",
+    "name": "Khojavend District",
+    "names": {
+      "ja": "ホジャヴェンド県",
+      "ko": "호자밴트구",
+      "vi": "Khojavend",
+      "id": "Khojavend",
+      "zh-Hans": "霍贾文德区",
+      "zh-Hant": "霍賈文德區"
+    }
+  },
+  {
+    "code": "KUR",
+    "name": "Kurdamir District",
+    "names": {
+      "ja": "キュルダミル県",
+      "ko": "퀴르대미르구",
+      "vi": "Kyurdamir",
+      "id": "Kurdamir",
+      "zh-Hans": "丘尔达米尔区",
+      "zh-Hant": "丘爾達米爾區"
+    }
+  },
+  {
+    "code": "LAC",
+    "name": "Lachin District",
+    "names": {
+      "ja": "ラチン県",
+      "ko": "라츤구",
+      "vi": "Lachin",
+      "id": "Lachin",
+      "zh-Hans": "拉欽區"
+    }
+  },
+  {
+    "code": "LA",
+    "name": "Lankaran",
+    "names": {
+      "ja": "ランカラン",
+      "ko": "랜캐란",
+      "vi": "Lankaran",
+      "id": "Lankaran",
+      "zh-Hans": "连科兰",
+      "zh-Hant": "連科蘭"
+    }
+  },
+  {
+    "code": "LAN",
+    "name": "Lankaran District",
+    "names": {
+      "ja": "レンキャラン県",
+      "ko": "랜캐란구",
+      "vi": "Lenkaran",
+      "id": "Lankaran",
+      "zh-Hans": "连科兰区",
+      "zh-Hant": "連科蘭區"
+    }
+  },
+  {
+    "code": "LER",
+    "name": "Lerik District",
+    "names": {
+      "ja": "レリク県",
+      "ko": "레리크구",
+      "vi": "Lerik",
+      "id": "Lerik",
+      "zh-Hans": "列里克区",
+      "zh-Hant": "列里克區"
+    }
+  },
+  {
+    "code": "MAS",
+    "name": "Masally District",
+    "names": {
+      "ja": "マサッル県",
+      "ko": "마살르구",
+      "vi": "Masally",
+      "id": "Masally",
+      "zh-Hans": "马萨雷区",
+      "zh-Hant": "馬薩雷區"
+    }
+  },
+  {
+    "code": "MI",
+    "name": "Mingachevir",
+    "names": {
+      "ja": "ミンゲチェヴィル",
+      "ko": "밍개체비르",
+      "vi": "Mingachevir",
+      "id": "Mingachevir",
+      "zh-Hans": "明盖恰乌尔",
+      "zh-Hant": "明蓋恰烏爾"
+    }
+  },
+  {
+    "code": "NA",
+    "name": "Naftalan",
+    "names": {
+      "ja": "ナフタラン"
+    }
+  },
+  {
+    "code": "NV",
+    "name": "Nakhchivan",
+    "names": {
+      "ja": "ナヒチェヴァン",
+      "ko": "나히체반",
+      "vi": "Nakhchivan",
+      "id": "Kota Nakhchivan",
+      "zh-Hans": "纳希切万",
+      "zh-Hant": "納希契凡"
+    }
+  },
+  {
+    "code": "NX",
+    "name": "Nakhchivan Autonomous Republic",
+    "names": {
+      "ja": "ナヒチェヴァン自治共和国",
+      "ko": "나흐츠반 자치공화국",
+      "vi": "Nakhchivan",
+      "id": "Nakhchivan",
+      "zh-Hans": "纳希切万自治共和国",
+      "zh-Hant": "納希契凡自治共和國"
+    }
+  },
+  {
+    "code": "NEF",
+    "name": "Neftchala District",
+    "names": {
+      "ja": "ネフトチャラ県",
+      "ko": "네프찰라구",
+      "vi": "Neftchala",
+      "id": "Neftchala",
+      "zh-Hans": "涅夫捷恰拉区",
+      "zh-Hant": "涅夫捷恰拉區"
+    }
+  },
+  {
+    "code": "OGU",
+    "name": "Oghuz District",
+    "names": {
+      "ja": "オグズ県",
+      "ko": "오구스구",
+      "vi": "Oghuz",
+      "id": "Oguz",
+      "zh-Hans": "奥古兹区",
+      "zh-Hant": "奧古茲區"
+    }
+  },
+  {
+    "code": "ORD",
+    "name": "Ordubad District",
+    "names": {
+      "ja": "オルドゥバド県",
+      "ko": "오르두바트구",
+      "vi": "Ordubad",
+      "id": "Ordubad",
+      "zh-Hans": "奥尔杜巴德区"
+    }
+  },
+  {
+    "code": "QAB",
+    "name": "Qabala District",
+    "names": {
+      "ja": "ガバラ県",
+      "ko": "개밸래구",
+      "vi": "Gabala",
+      "id": "Qabala",
+      "zh-Hans": "盖贝莱区"
+    }
+  },
+  {
+    "code": "QAX",
+    "name": "Qakh District",
+    "names": {
+      "ja": "ガフ県",
+      "ko": "가흐구",
+      "vi": "Gakh",
+      "id": "Qakh",
+      "zh-Hans": "卡希区",
+      "zh-Hant": "卡希區"
+    }
+  },
+  {
+    "code": "QUS",
+    "name": "Qusar District",
+    "names": {
+      "ja": "クサル県",
+      "ko": "구사르구",
+      "vi": "Gusar",
+      "id": "Qusar",
+      "zh-Hans": "库萨雷区",
+      "zh-Hant": "庫薩雷區"
+    }
+  },
+  {
+    "code": "SAT",
+    "name": "Saatly District",
+    "names": {
+      "ja": "サアトル",
+      "ko": "사틀르구",
+      "vi": "Saatly",
+      "id": "Saatly",
+      "zh-Hans": "萨特雷区"
+    }
+  },
+  {
+    "code": "SAB",
+    "name": "Sabirabad District",
+    "names": {
+      "ja": "サビラバド県",
+      "ko": "사비라바트구",
+      "vi": "Sabirabad",
+      "id": "Sabirabad",
+      "zh-Hans": "萨比拉巴德区",
+      "zh-Hant": "薩比拉巴德區"
+    }
+  },
+  {
+    "code": "SAD",
+    "name": "Sadarak District",
+    "names": {
+      "ja": "サダラク県",
+      "ko": "새대래크구",
+      "vi": "Sedarak",
+      "id": "Sadarak",
+      "zh-Hans": "萨达拉克区",
+      "zh-Hant": "薩達拉克區"
+    }
+  },
+  {
+    "code": "SAL",
+    "name": "Salyan District",
+    "names": {
+      "ja": "サルヤン県",
+      "ko": "살리안구",
+      "vi": "Salyan",
+      "id": "Salyan",
+      "zh-Hans": "萨利扬区",
+      "zh-Hant": "薩利揚區"
+    }
+  },
+  {
+    "code": "SMX",
+    "name": "Samukh District",
+    "names": {
+      "ja": "サムフ県",
+      "ko": "사무흐구",
+      "vi": "Samuh",
+      "id": "Samukh",
+      "zh-Hans": "萨穆赫区",
+      "zh-Hant": "薩穆赫區"
+    }
+  },
+  {
+    "code": "SBN",
+    "name": "Shabran District",
+    "names": {
+      "ja": "ダヴァヒ県",
+      "ko": "샤브란구",
+      "vi": "Quận Shabran",
+      "id": "Davachi",
+      "zh-Hans": "迪维奇区"
+    }
+  },
+  {
+    "code": "SAH",
+    "name": "Shahbuz District",
+    "names": {
+      "ja": "シャフブズ県",
+      "ko": "샤흐부스구",
+      "vi": "Shahbuz (quận)",
+      "id": "Shahbuz",
+      "zh-Hans": "沙赫布兹区"
+    }
+  },
+  {
+    "code": "SA",
+    "name": "Shaki",
+    "names": {
+      "ja": "シャキ",
+      "ko": "섀키",
+      "vi": "Şəki",
+      "id": "Shaki",
+      "zh-Hans": "舍基",
+      "zh-Hant": "舍基"
+    }
+  },
+  {
+    "code": "SAK",
+    "name": "Shaki District",
+    "names": {
+      "ja": "シャキ県",
+      "ko": "섀키구",
+      "vi": "Sheki",
+      "id": "Shaki",
+      "zh-Hans": "舍基区",
+      "zh-Hant": "舍基區"
+    }
+  },
+  {
+    "code": "SMI",
+    "name": "Shamakhi District",
+    "names": {
+      "ja": "シャマフ県",
+      "ko": "샤마흐구",
+      "vi": "Shamakhy",
+      "id": "Shamakhi",
+      "zh-Hans": "沙马基区",
+      "zh-Hant": "沙馬基區"
+    }
+  },
+  {
+    "code": "SKR",
+    "name": "Shamkir District",
+    "names": {
+      "ja": "シャムキル県",
+      "ko": "섐키르구",
+      "vi": "Shamkir",
+      "id": "Shamkir",
+      "zh-Hans": "沙姆基尔区",
+      "zh-Hant": "沙姆基爾區"
+    }
+  },
+  {
+    "code": "SAR",
+    "name": "Sharur District",
+    "names": {
+      "ja": "シャルル県",
+      "ko": "섀루르구",
+      "vi": "Sherur (quận)",
+      "id": "Sharur",
+      "zh-Hans": "沙魯爾區"
+    }
+  },
+  {
+    "code": "SR",
+    "name": "Shirvan",
+    "names": {
+      "ja": "シルヴァン",
+      "ko": "시르반",
+      "vi": "Shirvan (thành phố)",
+      "id": "Shirvan",
+      "zh-Hans": "希尔万",
+      "zh-Hant": "希爾萬"
+    }
+  },
+  {
+    "code": "SUS",
+    "name": "Shusha District",
+    "names": {
+      "ja": "シュシャ県",
+      "ko": "슈샤구",
+      "vi": "Shusha",
+      "id": "Shusha",
+      "zh-Hans": "舒沙区",
+      "zh-Hant": "舒沙區"
+    }
+  },
+  {
+    "code": "SIY",
+    "name": "Siyazan District",
+    "names": {
+      "ja": "シアザン県",
+      "ko": "시얘잰구",
+      "vi": "Siazan",
+      "id": "Siazan",
+      "zh-Hans": "锡阿赞区",
+      "zh-Hant": "錫阿贊區"
+    }
+  },
+  {
+    "code": "SM",
+    "name": "Sumgait",
+    "names": {
+      "ja": "スムガイト",
+      "ko": "숨가이트",
+      "vi": "Sumqayit",
+      "id": "Sumqayit",
+      "zh-Hans": "苏姆盖特",
+      "zh-Hant": "蘇姆蓋特"
+    }
+  },
+  {
+    "code": "TAR",
+    "name": "Tartar District",
+    "names": {
+      "ja": "タルタル県",
+      "ko": "태르태르구",
+      "vi": "Terter",
+      "id": "Tartar",
+      "zh-Hans": "泰尔泰尔区",
+      "zh-Hant": "泰爾泰爾區"
+    }
+  },
+  {
+    "code": "TOV",
+    "name": "Tovuz District",
+    "names": {
+      "ja": "トヴズ県",
+      "ko": "토부스구",
+      "vi": "Tovuz",
+      "id": "Tovuz",
+      "zh-Hans": "塔乌兹区",
+      "zh-Hant": "塔烏茲區"
+    }
+  },
+  {
+    "code": "UCA",
+    "name": "Ujar District",
+    "names": {
+      "ja": "ウジャル県",
+      "ko": "우자르구",
+      "vi": "Ujar",
+      "id": "Ujar",
+      "zh-Hans": "乌贾雷区",
+      "zh-Hant": "烏賈雷區"
+    }
+  },
+  {
+    "code": "YAR",
+    "name": "Yardimli District",
+    "names": {
+      "ja": "ヤルディムリ県",
+      "ko": "야르듬르구",
+      "vi": "Yardymly",
+      "id": "Yardymli",
+      "zh-Hans": "亚尔德姆雷区"
+    }
+  },
+  {
+    "code": "YE",
+    "name": "Yevlakh",
+    "names": {
+      "ja": "イェヴラフ",
+      "ko": "예블라흐",
+      "vi": "Yevlakh",
+      "id": "Yevlakh",
+      "zh-Hans": "葉夫拉赫"
+    }
+  },
+  {
+    "code": "YEV",
+    "name": "Yevlakh District",
+    "names": {
+      "ja": "イェヴラフ県",
+      "ko": "예블라흐구",
+      "vi": "Yevlakh",
+      "id": "Yevlakh",
+      "zh-Hans": "叶夫拉赫区",
+      "zh-Hant": "葉夫拉赫區"
+    }
+  },
+  {
+    "code": "ZAN",
+    "name": "Zangilan District",
+    "names": {
+      "ja": "ザンギラン県",
+      "ko": "잰길란구",
+      "vi": "Zangilan (quận)",
+      "id": "Zangilan",
+      "zh-Hans": "赞格兰区"
+    }
+  },
+  {
+    "code": "ZAQ",
+    "name": "Zaqatala District",
+    "names": {
+      "ja": "ザガタラ県",
+      "ko": "자가탈라구",
+      "vi": "Zagatala (quận)",
+      "id": "Zaqatala",
+      "zh-Hans": "扎卡塔雷区"
+    }
+  },
+  {
+    "code": "ZAR",
+    "name": "Zardab District",
+    "names": {
+      "ja": "ザルダブ県",
+      "ko": "재르다프구",
+      "vi": "Zerdab (quận)",
+      "id": "Zardab",
+      "zh-Hans": "扎尔多布区"
+    }
+  }
+]

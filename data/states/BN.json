@@ -1,0 +1,48 @@
+[
+  {
+    "code": "BE",
+    "name": "Belait District",
+    "names": {
+      "ja": "ブライト地区",
+      "ko": "블라잇구",
+      "vi": "Quận Belait",
+      "id": "Daerah Belait",
+      "zh-Hans": "马来奕区"
+    }
+  },
+  {
+    "code": "BM",
+    "name": "Brunei-Muara District",
+    "names": {
+      "ja": "ブルネイ・ムアラ地区",
+      "ko": "브루네이무아라구",
+      "vi": "Quận Brunei-Muara",
+      "id": "Daerah Brunei-Muara",
+      "zh-Hans": "汶莱-摩拉县",
+      "zh-Hant": "汶萊-摩拉縣"
+    }
+  },
+  {
+    "code": "TE",
+    "name": "Temburong District",
+    "names": {
+      "ja": "テンブロン地区",
+      "ko": "틈부롱구",
+      "vi": "Quận Temburong",
+      "id": "Daerah Temburong",
+      "zh-Hans": "淡布隆县"
+    }
+  },
+  {
+    "code": "TU",
+    "name": "Tutong District",
+    "names": {
+      "ja": "ツトン地区",
+      "ko": "투통구",
+      "vi": "Quận Tutong",
+      "id": "Tutong",
+      "zh-Hans": "都东区",
+      "zh-Hant": "都東縣"
+    }
+  }
+]

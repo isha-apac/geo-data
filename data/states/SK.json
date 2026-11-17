@@ -1,0 +1,98 @@
+[
+  {
+    "code": "BC",
+    "name": "Banská Bystrica Region",
+    "names": {
+      "ja": "バンスカー・ビストリツァ県",
+      "ko": "반스카비스트리차주",
+      "vi": "Khu vực Banská Bystrica",
+      "id": "Region Banská Bystrica",
+      "zh-Hans": "班斯卡-比斯特里察州",
+      "zh-Hant": "班斯卡-比斯特里察省"
+    }
+  },
+  {
+    "code": "BL",
+    "name": "Bratislava Region",
+    "names": {
+      "ja": "ブラチスラヴァ県",
+      "ko": "브라티슬라바주",
+      "vi": "Bratislava",
+      "id": "Region Bratislava",
+      "zh-Hans": "布拉迪斯拉发州",
+      "zh-Hant": "布拉迪斯拉發州"
+    }
+  },
+  {
+    "code": "KI",
+    "name": "Košice Region",
+    "names": {
+      "ja": "コシツェ県",
+      "ko": "코시체주",
+      "vi": "Khu vực Kosice",
+      "id": "Region Košice",
+      "zh-Hans": "科希策州",
+      "zh-Hant": "科希策州"
+    }
+  },
+  {
+    "code": "NI",
+    "name": "Nitra Region",
+    "names": {
+      "ja": "ニトラ県",
+      "ko": "니트라주",
+      "vi": "Nitra",
+      "id": "Region Nitra",
+      "zh-Hans": "尼特拉州",
+      "zh-Hant": "尼特拉州"
+    }
+  },
+  {
+    "code": "PV",
+    "name": "Prešov Region",
+    "names": {
+      "ja": "プレショウ県",
+      "ko": "프레쇼우주",
+      "vi": "Vùng Prešov",
+      "id": "Region Prešov",
+      "zh-Hans": "普雷绍夫州",
+      "zh-Hant": "普雷紹夫州"
+    }
+  },
+  {
+    "code": "TC",
+    "name": "Trenčín Region",
+    "names": {
+      "ja": "トレンチーン県",
+      "ko": "트렌친주",
+      "vi": "Trenčín",
+      "id": "Region Trenčín",
+      "zh-Hans": "特伦钦州",
+      "zh-Hant": "特倫欽省"
+    }
+  },
+  {
+    "code": "TA",
+    "name": "Trnava Region",
+    "names": {
+      "ja": "トルナヴァ県",
+      "ko": "트르나바주",
+      "vi": "Trnava",
+      "id": "Region Trnava",
+      "zh-Hans": "特尔纳瓦州",
+      "zh-Hant": "特爾納瓦州"
+    }
+  },
+  {
+    "code": "ZI",
+    "name": "Žilina region",
+    "names": {
+      "ja": "ジリナ県",
+      "ko": "질리나주",
+      "vi": "Khu vực Zilina",
+      "id": "Region Žilina",
+      "zh-Hans": "日利纳州",
+      "zh-Hant": "日利納省"
+    }
+  }
+]

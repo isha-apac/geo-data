@@ -1,0 +1,110 @@
+[
+  {
+    "code": "EC",
+    "name": "Eastern Cape",
+    "names": {
+      "ja": "東ケープ州",
+      "ko": "이스턴케이프주",
+      "vi": "Đông Cape",
+      "id": "Tanjung Timur",
+      "zh-Hans": "东开普省",
+      "zh-Hant": "東開普省"
+    }
+  },
+  {
+    "code": "FS",
+    "name": "Free State",
+    "names": {
+      "ja": "フリー・ステイト州",
+      "ko": "프리스테이트주",
+      "vi": "Free State",
+      "id": "Free State",
+      "zh-Hans": "自由邦省",
+      "zh-Hant": "自由邦省"
+    }
+  },
+  {
+    "code": "GP",
+    "name": "Gauteng",
+    "names": {
+      "ja": "ハウテン州",
+      "ko": "하우텡주",
+      "vi": "Gauteng",
+      "id": "Gauteng",
+      "zh-Hans": "豪滕省",
+      "zh-Hant": "豪滕省"
+    }
+  },
+  {
+    "code": "KZN",
+    "name": "KwaZulu-Natal",
+    "names": {
+      "ja": "クワズール・ナタール州",
+      "ko": "콰줄루나탈주",
+      "vi": "KwaZulu-Natal",
+      "id": "KwaZulu-Natal",
+      "zh-Hans": "夸祖鲁-纳塔尔省",
+      "zh-Hant": "夸祖魯-納塔爾省"
+    }
+  },
+  {
+    "code": "LP",
+    "name": "Limpopo",
+    "names": {
+      "ja": "リンポポ州",
+      "ko": "림포포주",
+      "vi": "Limpopo",
+      "id": "Limpopo",
+      "zh-Hans": "林波波省",
+      "zh-Hant": "林波波省"
+    }
+  },
+  {
+    "code": "MP",
+    "name": "Mpumalanga",
+    "names": {
+      "ja": "ムプマランガ州",
+      "ko": "음푸말랑가주",
+      "vi": "Mpumalanga",
+      "id": "Mpumalanga",
+      "zh-Hans": "姆普马兰加省",
+      "zh-Hant": "姆普馬蘭加省"
+    }
+  },
+  {
+    "code": "NW",
+    "name": "North West",
+    "names": {
+      "ja": "北西州",
+      "ko": "노스웨스트주",
+      "vi": "Tây Bắc",
+      "id": "North West",
+      "zh-Hans": "西北省",
+      "zh-Hant": "西北省"
+    }
+  },
+  {
+    "code": "NC",
+    "name": "Northern Cape",
+    "names": {
+      "ja": "北ケープ州",
+      "ko": "노던케이프주",
+      "vi": "Bắc Cape",
+      "id": "Tanjung Utara",
+      "zh-Hans": "北开普省",
+      "zh-Hant": "北開普省"
+    }
+  },
+  {
+    "code": "WC",
+    "name": "Western Cape",
+    "names": {
+      "ja": "西ケープ州",
+      "ko": "웨스턴케이프주",
+      "vi": "Tây Cape",
+      "id": "Western Cape",
+      "zh-Hans": "西开普省",
+      "zh-Hant": "西開普省"
+    }
+  }
+]

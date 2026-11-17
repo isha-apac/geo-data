@@ -1,0 +1,71 @@
+[
+  {
+    "code": "AH",
+    "name": "Al Ahmadi Governorate",
+    "names": {
+      "ja": "アハマディ県",
+      "ko": "알아마디주",
+      "vi": "Tỉnh Al Ahmadi",
+      "id": "Kegubernuran Al-Ahmadi",
+      "zh-Hans": "艾哈迈迪省"
+    }
+  },
+  {
+    "code": "JA",
+    "name": "Al Jahra Governorate",
+    "names": {
+      "ja": "ジャハラー県",
+      "ko": "알자라주",
+      "id": "Kegubernuran Al-Jahra",
+      "zh-Hans": "杰赫拉省",
+      "zh-Hant": "傑赫拉省"
+    }
+  },
+  {
+    "code": "KU",
+    "name": "Capital Governorate",
+    "names": {
+      "ja": "アースィマ県",
+      "ko": "수도주",
+      "id": "Kegubernuran Al-Asimah",
+      "zh-Hans": "科威特省",
+      "zh-Hant": "科威特省"
+    }
+  },
+  {
+    "code": "FA",
+    "name": "Farwaniya Governorate",
+    "names": {
+      "ja": "ファルワーニーヤ県",
+      "ko": "알파르와니야주",
+      "vi": "Tỉnh Al Farwaniyah",
+      "id": "Kegubernuran Al-Farwaniyah",
+      "zh-Hans": "费尔瓦尼耶省",
+      "zh-Hant": "費爾瓦尼耶省"
+    }
+  },
+  {
+    "code": "HA",
+    "name": "Hawalli",
+    "names": {
+      "ja": "ハワリ県",
+      "ko": "하왈리주",
+      "vi": "Tỉnh Hawalli",
+      "id": "Kegubernuran Hawalli",
+      "zh-Hans": "哈瓦利省",
+      "zh-Hant": "哈瓦利省"
+    }
+  },
+  {
+    "code": "MU",
+    "name": "Mubarak Al-Kabeer Governorate",
+    "names": {
+      "ja": "ムバーラク・アル＝カビール県",
+      "ko": "무바라크알카비르주",
+      "vi": "Tỉnh Mubarak Al-Kabeer",
+      "id": "Kegubernuran Mubarak Al-Kabeer",
+      "zh-Hans": "大穆巴拉克省",
+      "zh-Hant": "大穆巴拉克省"
+    }
+  }
+]

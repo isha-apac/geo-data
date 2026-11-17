@@ -1,0 +1,241 @@
+[
+  {
+    "code": "01",
+    "name": "Aveiro District",
+    "names": {
+      "ja": "アヴェイロ県",
+      "ko": "아베이루현",
+      "vi": "Aveiro",
+      "id": "Distrik Aveiro",
+      "zh-Hans": "阿威罗区",
+      "zh-Hant": "阿威羅區"
+    }
+  },
+  {
+    "code": "20",
+    "name": "Azores",
+    "names": {
+      "ja": "アゾレス諸島",
+      "ko": "아소르스 제도",
+      "vi": "Açores",
+      "id": "Azores",
+      "zh-Hans": "亚速尔群岛",
+      "zh-Hant": "亞速爾群島"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Beja District",
+    "names": {
+      "ja": "ベージャ県",
+      "ko": "베자현",
+      "vi": "Beja",
+      "id": "Distrik Beja",
+      "zh-Hans": "贝雅区",
+      "zh-Hant": "貝雅區"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Braga District",
+    "names": {
+      "ja": "ブラガ県",
+      "ko": "브라가현",
+      "vi": "Braga",
+      "id": "Distrik Braga",
+      "zh-Hans": "布拉加区",
+      "zh-Hant": "布拉加區"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Bragança District",
+    "names": {
+      "ja": "ブラガンサ県",
+      "ko": "브라간사현",
+      "vi": "Bragança",
+      "id": "Distrik Bragança",
+      "zh-Hans": "布拉干萨区",
+      "zh-Hant": "布拉干薩區"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Castelo Branco District",
+    "names": {
+      "ja": "カステロ・ブランコ県",
+      "ko": "카스텔루브랑쿠현",
+      "vi": "Castelo Branco",
+      "id": "Distrik Castelo Branco",
+      "zh-Hans": "布朗库堡区",
+      "zh-Hant": "布朗庫堡區"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Coimbra District",
+    "names": {
+      "ja": "コインブラ県",
+      "ko": "코임브라현",
+      "vi": "Coimbra",
+      "id": "Distrik Coimbra",
+      "zh-Hans": "科英布拉区",
+      "zh-Hant": "科英布拉區"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Évora District",
+    "names": {
+      "ja": "エヴォラ県",
+      "ko": "에보라현",
+      "vi": "Évora",
+      "id": "Distrik Évora",
+      "zh-Hans": "埃武拉区",
+      "zh-Hant": "埃武拉區"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Faro District",
+    "names": {
+      "ja": "ファーロ県",
+      "ko": "파루현",
+      "vi": "Faro",
+      "id": "Distrik Faro",
+      "zh-Hans": "法鲁区",
+      "zh-Hant": "法魯區"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Guarda District",
+    "names": {
+      "ja": "グアルダ県",
+      "ko": "구아르다현",
+      "vi": "Guarda",
+      "id": "Distrik Guarda",
+      "zh-Hans": "瓜达区",
+      "zh-Hant": "瓜達區"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Leiria District",
+    "names": {
+      "ja": "レイリア県",
+      "ko": "레이리아현",
+      "vi": "Leiria",
+      "id": "Distrik Leiria",
+      "zh-Hans": "莱里亚区",
+      "zh-Hant": "萊里亞區"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Lisbon District",
+    "names": {
+      "ja": "リスボン県",
+      "ko": "리스본현",
+      "vi": "Lisbon",
+      "id": "Distrik Lisboa",
+      "zh-Hans": "里斯本区",
+      "zh-Hant": "里斯本區"
+    }
+  },
+  {
+    "code": "30",
+    "name": "Madeira",
+    "names": {
+      "ja": "マデイラ諸島",
+      "ko": "마데이라 제도",
+      "vi": "Madeira",
+      "id": "Madeira",
+      "zh-Hans": "马德拉自治区",
+      "zh-Hant": "馬德拉自治區"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Portalegre District",
+    "names": {
+      "ja": "ポルタレグレ県",
+      "ko": "포르탈레그르현",
+      "vi": "Portalegre",
+      "id": "Distrik Portalegre",
+      "zh-Hans": "波塔萊格雷區"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Porto District",
+    "names": {
+      "ja": "ポルト県",
+      "ko": "포르투현",
+      "vi": "Porto",
+      "id": "Distrik Porto",
+      "zh-Hans": "波尔图区",
+      "zh-Hant": "波爾圖區"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Santarém District",
+    "names": {
+      "ja": "サンタレン県",
+      "ko": "산타렝현",
+      "vi": "Santarém",
+      "id": "Distrik Santarém",
+      "zh-Hans": "圣塔伦区",
+      "zh-Hant": "聖塔倫區"
+    }
+  },
+  {
+    "code": "15",
+    "name": "Setúbal District",
+    "names": {
+      "ja": "セトゥーバル県",
+      "ko": "세투발현",
+      "vi": "Setúbal",
+      "id": "Distrik Setúbal",
+      "zh-Hans": "塞图巴尔区",
+      "zh-Hant": "塞圖巴區"
+    }
+  },
+  {
+    "code": "16",
+    "name": "Viana do Castelo District",
+    "names": {
+      "ja": "ヴィアナ・ド・カステロ県",
+      "ko": "비아나두카스텔루현",
+      "vi": "Viana do Castelo",
+      "id": "Distrik Viana do Castelo",
+      "zh-Hans": "维亚纳堡区",
+      "zh-Hant": "維亞納堡區"
+    }
+  },
+  {
+    "code": "17",
+    "name": "Vila Real District",
+    "names": {
+      "ja": "ヴィラ・レアル県",
+      "ko": "빌라헤알현",
+      "vi": "Vila Real",
+      "id": "Distrik Vila Real",
+      "zh-Hans": "雷阿尔城区",
+      "zh-Hant": "雷阿爾城區"
+    }
+  },
+  {
+    "code": "18",
+    "name": "Viseu District",
+    "names": {
+      "ja": "ヴィゼウ県",
+      "ko": "비제우현",
+      "vi": "Viseu",
+      "id": "Distrik Viseu",
+      "zh-Hans": "维塞乌区",
+      "zh-Hant": "維塞烏區"
+    }
+  }
+]

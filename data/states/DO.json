@@ -1,0 +1,425 @@
+[
+  {
+    "code": "02",
+    "name": "Azua Province",
+    "names": {
+      "ja": "アスア州",
+      "ko": "아수아주",
+      "vi": "Azua (tỉnh)",
+      "id": "Provinsi Azua",
+      "zh-Hans": "阿苏阿省"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Baoruco Province",
+    "names": {
+      "ja": "バオルコ州",
+      "ko": "바오루코주",
+      "vi": "Baoruco (tỉnh)",
+      "id": "Provinsi Baoruco",
+      "zh-Hans": "巴奥鲁可省"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Barahona Province",
+    "names": {
+      "ja": "バラオナ",
+      "ko": "바라오나주",
+      "vi": "Barahona",
+      "id": "Provinsi Barahona",
+      "zh-Hans": "巴拉奥纳省",
+      "zh-Hant": "巴拉奧納省"
+    }
+  },
+  {
+    "code": "33",
+    "name": "Cibao Nordeste",
+    "names": {}
+  },
+  {
+    "code": "34",
+    "name": "Cibao Noroeste",
+    "names": {}
+  },
+  {
+    "code": "35",
+    "name": "Cibao Norte",
+    "names": {}
+  },
+  {
+    "code": "36",
+    "name": "Cibao Sur",
+    "names": {}
+  },
+  {
+    "code": "05",
+    "name": "Dajabón Province",
+    "names": {
+      "ja": "ダハボン",
+      "ko": "다하본주",
+      "vi": "Dajabón",
+      "id": "Provinsi Dajabón",
+      "zh-Hans": "达哈翁省",
+      "zh-Hant": "達哈翁省"
+    }
+  },
+  {
+    "code": "01",
+    "name": "Distrito Nacional",
+    "names": {
+      "ja": "ドミニカ共和国国家地区",
+      "ko": "국가 지구",
+      "vi": "Distrito Nacional",
+      "zh-Hans": "國家特區"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Duarte Province",
+    "names": {
+      "ja": "ドゥアルテ州",
+      "ko": "두아르테주",
+      "vi": "Duarte (tỉnh)",
+      "id": "Provinsi Duarte",
+      "zh-Hans": "杜华德省"
+    }
+  },
+  {
+    "code": "08",
+    "name": "El Seibo Province",
+    "names": {
+      "ja": "エル・セイボ州",
+      "ko": "엘세이보주",
+      "vi": "El Seibo",
+      "id": "Provinsi El Seibo",
+      "zh-Hans": "赛堡省",
+      "zh-Hant": "賽堡省"
+    }
+  },
+  {
+    "code": "37",
+    "name": "El Valle",
+    "names": {}
+  },
+  {
+    "code": "07",
+    "name": "Elías Piña Province",
+    "names": {
+      "ja": "エリアス・ピーニャ州",
+      "ko": "엘리아스피냐주",
+      "vi": "Elías Piña",
+      "id": "Provinsi Elías Piña",
+      "zh-Hans": "艾利斯皮亚省",
+      "zh-Hant": "艾利斯皮亞省"
+    }
+  },
+  {
+    "code": "38",
+    "name": "Enriquillo",
+    "names": {}
+  },
+  {
+    "code": "09",
+    "name": "Espaillat Province",
+    "names": {
+      "ja": "エスパイジャト州",
+      "ko": "에스파이야트주",
+      "vi": "Espaillat",
+      "id": "Provinsi Espaillat",
+      "zh-Hans": "艾斯派亚省"
+    }
+  },
+  {
+    "code": "30",
+    "name": "Hato Mayor Province",
+    "names": {
+      "ja": "アト・マジョール州",
+      "ko": "아토마요르주",
+      "vi": "Hato Mayor",
+      "id": "Provinsi Hato Mayor",
+      "zh-Hans": "阿托马约省"
+    }
+  },
+  {
+    "code": "19",
+    "name": "Hermanas Mirabal Province",
+    "names": {
+      "ja": "エルマーナス・ミラバル州",
+      "ko": "에르마나스미라발주",
+      "vi": "Hermanas Mirabal",
+      "id": "Provinsi Hermanas Mirabal",
+      "zh-Hans": "米拉瓦尔姐妹省"
+    }
+  },
+  {
+    "code": "39",
+    "name": "Higuamo",
+    "names": {}
+  },
+  {
+    "code": "10",
+    "name": "Independencia",
+    "names": {
+      "ja": "インデペンデンシア州",
+      "ko": "인데펜덴시아주",
+      "vi": "Independencia",
+      "id": "Provinsi Independencia",
+      "zh-Hans": "独立省",
+      "zh-Hant": "獨立省"
+    }
+  },
+  {
+    "code": "11",
+    "name": "La Altagracia Province",
+    "names": {
+      "ja": "ラ・アルタグラシア州",
+      "ko": "라알타그라시아주",
+      "vi": "La Altagracia",
+      "id": "Provinsi La Altagracia",
+      "zh-Hans": "圣母省",
+      "zh-Hant": "聖母省"
+    }
+  },
+  {
+    "code": "12",
+    "name": "La Romana",
+    "names": {
+      "ja": "ラ・ロマーナ州",
+      "ko": "라로마나주",
+      "vi": "La Romana",
+      "id": "Provinsi La Romana",
+      "zh-Hans": "罗马纳省",
+      "zh-Hant": "羅馬納省"
+    }
+  },
+  {
+    "code": "13",
+    "name": "La Vega Province",
+    "names": {
+      "ja": "ラ・ベガ州",
+      "ko": "라베가주",
+      "vi": "La Vega",
+      "id": "Provinsi La Vega",
+      "zh-Hans": "拉维加省",
+      "zh-Hant": "拉維加省"
+    }
+  },
+  {
+    "code": "14",
+    "name": "María Trinidad Sánchez Province",
+    "names": {
+      "ja": "マリア・トリニダード・サンチェス州",
+      "ko": "마리아트리니다드산체스주",
+      "vi": "María Trinidad Sánchez",
+      "id": "Provinsi María Trinidad Sánchez",
+      "zh-Hans": "玛丽亚·特立尼达·桑切斯省",
+      "zh-Hant": "瑪麗亞·特立尼达·桑切斯省"
+    }
+  },
+  {
+    "code": "28",
+    "name": "Monseñor Nouel Province",
+    "names": {
+      "ja": "モンセニョール・ノウエル州",
+      "ko": "몬세뇨르노우엘주",
+      "vi": "Monseñor Nouel",
+      "id": "Provinsi Monseñor Nouel",
+      "zh-Hans": "诺埃尔主教省"
+    }
+  },
+  {
+    "code": "15",
+    "name": "Monte Cristi Province",
+    "names": {
+      "ja": "モンテ・クリスティ州",
+      "ko": "몬테크리스티주",
+      "vi": "Monte Cristi",
+      "id": "Provinsi Monte Cristi",
+      "zh-Hans": "蒙特克里斯蒂省",
+      "zh-Hant": "基度山省"
+    }
+  },
+  {
+    "code": "29",
+    "name": "Monte Plata Province",
+    "names": {
+      "ja": "モンテ・プラタ州",
+      "ko": "몬테플라타주",
+      "vi": "Monte Plata",
+      "id": "Provinsi Monte Plata",
+      "zh-Hans": "蒙特普拉塔省",
+      "zh-Hant": "蒙特普拉塔省"
+    }
+  },
+  {
+    "code": "40",
+    "name": "Ozama",
+    "names": {}
+  },
+  {
+    "code": "16",
+    "name": "Pedernales Province",
+    "names": {
+      "ja": "ペデルナレス州",
+      "ko": "페데르날레스주",
+      "vi": "Pedernales",
+      "id": "Provinsi Pedernales",
+      "zh-Hans": "佩德纳莱斯省",
+      "zh-Hant": "佩德納萊斯省"
+    }
+  },
+  {
+    "code": "17",
+    "name": "Peravia Province",
+    "names": {
+      "ja": "ペラビア州",
+      "ko": "페라비아주",
+      "vi": "Peravia",
+      "id": "Provinsi Peravia",
+      "zh-Hans": "佩拉维亚省",
+      "zh-Hant": "佩拉維亞省"
+    }
+  },
+  {
+    "code": "18",
+    "name": "Puerto Plata Province",
+    "names": {
+      "ja": "プエルト・プラタ州",
+      "ko": "푸에르토플라타주",
+      "vi": "Puerto Plata (tỉnh)",
+      "id": "Provinsi Puerto Plata",
+      "zh-Hans": "普拉塔港省"
+    }
+  },
+  {
+    "code": "20",
+    "name": "Samaná Province",
+    "names": {
+      "ja": "サマナ州",
+      "ko": "사마나주",
+      "vi": "Samaná",
+      "id": "Provinsi Samaná",
+      "zh-Hans": "萨马纳省",
+      "zh-Hant": "薩馬納省"
+    }
+  },
+  {
+    "code": "21",
+    "name": "San Cristóbal Province",
+    "names": {
+      "ja": "サン・クリストバル州",
+      "ko": "산크리스토발주",
+      "vi": "San Cristóbal",
+      "id": "Provinsi San Cristóbal",
+      "zh-Hans": "圣克里斯多堡省",
+      "zh-Hant": "聖克里斯多堡省"
+    }
+  },
+  {
+    "code": "31",
+    "name": "San José de Ocoa Province",
+    "names": {
+      "ja": "サン・ホセ・デ・オコア州",
+      "ko": "산호세데오코아주",
+      "vi": "San José de Ocoa",
+      "id": "Provinsi San José de Ocoa",
+      "zh-Hans": "圣何塞德奥科阿省",
+      "zh-Hant": "聖荷西德奧科阿省"
+    }
+  },
+  {
+    "code": "22",
+    "name": "San Juan Province",
+    "names": {
+      "ja": "サン・フアン州",
+      "ko": "산후안주",
+      "vi": "San Juan",
+      "id": "Provinsi San Juan",
+      "zh-Hans": "圣胡安省",
+      "zh-Hant": "聖胡安省"
+    }
+  },
+  {
+    "code": "23",
+    "name": "San Pedro de Macorís",
+    "names": {
+      "ja": "サン・ペテロ・デ・マコリス州",
+      "ko": "산페드로데마코리스주",
+      "vi": "San Pedro de Macorís",
+      "id": "San Pedro de Macorís",
+      "zh-Hans": "圣彼德省",
+      "zh-Hant": "聖彼德省"
+    }
+  },
+  {
+    "code": "24",
+    "name": "Sánchez Ramírez Province",
+    "names": {
+      "ja": "サンチェス・ラミレス州",
+      "ko": "산체스라미레스주",
+      "vi": "Sánchez Ramírez",
+      "id": "Provinsi Sánchez Ramírez",
+      "zh-Hans": "桑切斯·拉米雷斯省"
+    }
+  },
+  {
+    "code": "25",
+    "name": "Santiago Province",
+    "names": {
+      "ja": "サンティアゴ州",
+      "ko": "산티아고주",
+      "vi": "Santiago",
+      "id": "Provinsi Santiago",
+      "zh-Hans": "圣地亚哥省",
+      "zh-Hant": "聖地亞哥省"
+    }
+  },
+  {
+    "code": "26",
+    "name": "Santiago Rodríguez Province",
+    "names": {
+      "ja": "サンティアーゴ・ロドリゲス州",
+      "ko": "산티아고로드리게스주",
+      "vi": "Santiago Rodríguez",
+      "id": "Provinsi Santiago Rodríguez",
+      "zh-Hans": "圣地亚哥·罗德里格斯省",
+      "zh-Hant": "聖地亞哥·羅德里格斯省"
+    }
+  },
+  {
+    "code": "32",
+    "name": "Santo Domingo Province",
+    "names": {
+      "ja": "サント・ドミンゴ州",
+      "ko": "산토도밍고주",
+      "vi": "Santo Domingo",
+      "id": "Provinsi Santo Domingo",
+      "zh-Hans": "圣多明哥省",
+      "zh-Hant": "聖多明哥省"
+    }
+  },
+  {
+    "code": "41",
+    "name": "Valdesia",
+    "names": {}
+  },
+  {
+    "code": "27",
+    "name": "Valverde Province",
+    "names": {
+      "ja": "バルベルデ州",
+      "ko": "발베르데주",
+      "vi": "Valverde",
+      "id": "Provinsi Valverde",
+      "zh-Hans": "巴尔韦德省",
+      "zh-Hant": "巴爾韋德省"
+    }
+  },
+  {
+    "code": "42",
+    "name": "Yuma",
+    "names": {}
+  }
+]

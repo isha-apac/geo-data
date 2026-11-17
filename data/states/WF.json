@@ -1,0 +1,35 @@
+[
+  {
+    "code": "AL",
+    "name": "Alo",
+    "names": {
+      "ja": "アロ首長国",
+      "ko": "알로",
+      "vi": "Alo",
+      "id": "Alo",
+      "zh-Hans": "阿洛"
+    }
+  },
+  {
+    "code": "SG",
+    "name": "Sigave",
+    "names": {
+      "ja": "シガベ首長国",
+      "ko": "시가베",
+      "vi": "Sigave",
+      "id": "Sigave",
+      "zh-Hans": "锡加韦"
+    }
+  },
+  {
+    "code": "UV",
+    "name": "Uvea",
+    "names": {
+      "ja": "ウベア首長国",
+      "ko": "우베아",
+      "vi": "Uvea",
+      "id": "Uvea",
+      "zh-Hans": "乌韦阿"
+    }
+  }
+]

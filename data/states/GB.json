@@ -1,0 +1,2150 @@
+[
+  {
+    "code": "ABE",
+    "name": "Aberdeen City",
+    "names": {
+      "ja": "アバディーン・シティ"
+    }
+  },
+  {
+    "code": "ABD",
+    "name": "Aberdeenshire",
+    "names": {
+      "ja": "アバディーンシャー",
+      "ko": "애버딘셔",
+      "id": "Aberdeenshire",
+      "zh-Hans": "阿伯丁郡",
+      "zh-Hant": "亞伯丁郡"
+    }
+  },
+  {
+    "code": "ANS",
+    "name": "Angus",
+    "names": {
+      "ja": "アンガス",
+      "ko": "앵거스",
+      "zh-Hans": "安格斯",
+      "zh-Hant": "安格斯"
+    }
+  },
+  {
+    "code": "ANN",
+    "name": "Antrim and Newtownabbey",
+    "names": {
+      "ja": "アントリム・アンド・ニュータウンアベイ",
+      "zh-Hans": "安特里姆与纽顿阿比区",
+      "zh-Hant": "安特里姆與紐頓阿比區"
+    }
+  },
+  {
+    "code": "AND",
+    "name": "Ards and North Down",
+    "names": {
+      "ja": "アーズ・アンド・ノース・ダウン",
+      "ko": "아르즈",
+      "zh-Hans": "阿德和北道恩",
+      "zh-Hant": "阿德和北道恩"
+    }
+  },
+  {
+    "code": "AGB",
+    "name": "Argyll and Bute",
+    "names": {
+      "ja": "アーガイル・アンド・ビュート",
+      "ko": "아가일 뷰트",
+      "id": "Argyll and Bute",
+      "zh-Hans": "阿盖尔-比特",
+      "zh-Hant": "阿蓋爾-比特"
+    }
+  },
+  {
+    "code": "ABC",
+    "name": "Armagh City, Banbridge and Craigavon",
+    "names": {
+      "ja": "アーマー・シティ・バンブリッジ・アンド・クレイガヴォン",
+      "ko": "아마 구 밴브리지와 크레이가본",
+      "zh-Hans": "阿马",
+      "zh-Hant": "亞馬"
+    }
+  },
+  {
+    "code": "BNS",
+    "name": "Barnsley",
+    "names": {
+      "ja": "メトロポリタン・バラ・オブ・バーンズリー",
+      "ko": "반즐리 도시 자치구",
+      "zh-Hans": "巴恩斯利都市自治市",
+      "zh-Hant": "巴恩斯利都市自治市"
+    }
+  },
+  {
+    "code": "BAS",
+    "name": "Bath and North East Somerset",
+    "names": {
+      "ja": "バース・アンド・ノース・イースト・サマセット",
+      "ko": "바스 노스이스트서머싯",
+      "zh-Hans": "巴斯和东北萨默塞特",
+      "zh-Hant": "巴斯和東北薩默塞特"
+    }
+  },
+  {
+    "code": "BDF",
+    "name": "Bedford",
+    "names": {
+      "ja": "ベッドフォード・バラ",
+      "ko": "베드퍼드구",
+      "zh-Hans": "貝德福德區",
+      "zh-Hant": "貝德福德區"
+    }
+  },
+  {
+    "code": "BFS",
+    "name": "Belfast",
+    "names": {
+      "ja": "ベルファスト区",
+      "ko": "벨파스트구",
+      "zh-Hans": "贝尔法斯特区",
+      "zh-Hant": "貝爾法斯特區"
+    }
+  },
+  {
+    "code": "BIR",
+    "name": "Birmingham",
+    "names": {
+      "ja": "バーミンガム",
+      "zh-Hans": "伯明翰"
+    }
+  },
+  {
+    "code": "BBD",
+    "name": "Blackburn with Darwen",
+    "names": {
+      "ja": "ブラックバーン・ウィズ・ダーウェン",
+      "ko": "블랙번위드다언",
+      "zh-Hans": "布莱克本-达文",
+      "zh-Hant": "布萊克本-達文"
+    }
+  },
+  {
+    "code": "BPL",
+    "name": "Blackpool",
+    "names": {
+      "zh-Hans": "布莱克浦"
+    }
+  },
+  {
+    "code": "BGW",
+    "name": "Blaenau Gwent",
+    "names": {
+      "ja": "ブライナイ・グエント",
+      "ko": "블라이나이궨트",
+      "zh-Hans": "布萊奈格温特",
+      "zh-Hant": "布萊奈格溫特"
+    }
+  },
+  {
+    "code": "BOL",
+    "name": "Bolton",
+    "names": {
+      "ja": "ボルトン",
+      "ko": "볼턴 도시 자치구",
+      "zh-Hans": "博尔顿都市自治市",
+      "zh-Hant": "博爾頓都市自治市"
+    }
+  },
+  {
+    "code": "BCP",
+    "name": "Bournemouth, Christchurch and Poole",
+    "names": {
+      "ja": "ボーンマス・クライストチャーチ・アンド・プール",
+      "zh-Hans": "伯恩茅斯，基督城和普尔统一管理区",
+      "zh-Hant": "伯恩茅斯，基督城和普爾統一管理區"
+    }
+  },
+  {
+    "code": "BRC",
+    "name": "Bracknell Forest",
+    "names": {
+      "ja": "ブラックネル・フォレスト",
+      "ko": "브랙널포리스트",
+      "zh-Hans": "布拉克内尔森林",
+      "zh-Hant": "布拉克內爾森林"
+    }
+  },
+  {
+    "code": "BRD",
+    "name": "Bradford",
+    "names": {
+      "ja": "シティ・オブ・ブラッドフォード",
+      "ko": "시티오브브래드퍼드",
+      "zh-Hans": "布拉德福德市"
+    }
+  },
+  {
+    "code": "BGE",
+    "name": "Bridgend County Borough",
+    "names": {
+      "ja": "ブリジェンド",
+      "ko": "브리젠드 자치시",
+      "zh-Hans": "布里真德郡级自治市",
+      "zh-Hant": "布里真德郡級自治市"
+    }
+  },
+  {
+    "code": "BNH",
+    "name": "Brighton and Hove",
+    "names": {
+      "ja": "ブライトン・アンド・ホヴ",
+      "ko": "브라이턴앤드호브",
+      "vi": "Brighton và Hove",
+      "id": "Brighton & Hove",
+      "zh-Hans": "布赖顿-霍夫",
+      "zh-Hant": "布萊頓-霍夫"
+    }
+  },
+  {
+    "code": "BKM",
+    "name": "Buckinghamshire",
+    "names": {
+      "ja": "バッキンガムシャー",
+      "zh-Hans": "白金漢郡"
+    }
+  },
+  {
+    "code": "BUR",
+    "name": "Bury",
+    "names": {
+      "ja": "メトロポリタン・バラ・オブ・ベリー",
+      "ko": "베리 도시 자치구",
+      "zh-Hans": "貝里都市自治市",
+      "zh-Hant": "貝里都市自治市"
+    }
+  },
+  {
+    "code": "CAY",
+    "name": "Caerphilly County Borough",
+    "names": {
+      "ja": "ケアフィリ",
+      "ko": "카이어필리 자치시",
+      "zh-Hans": "卡菲利自治市",
+      "zh-Hant": "卡菲利自治市"
+    }
+  },
+  {
+    "code": "CLD",
+    "name": "Calderdale",
+    "names": {
+      "ja": "カルダーデール",
+      "ko": "콜더데일",
+      "zh-Hans": "卡爾德達爾"
+    }
+  },
+  {
+    "code": "CAM",
+    "name": "Cambridgeshire",
+    "names": {
+      "ja": "ケンブリッジシャー",
+      "zh-Hans": "劍橋郡 (議會政區)"
+    }
+  },
+  {
+    "code": "CRF",
+    "name": "Cardiff",
+    "names": {
+      "ja": "カーディフ",
+      "zh-Hans": "卡迪夫市以及郡"
+    }
+  },
+  {
+    "code": "CMN",
+    "name": "Carmarthenshire",
+    "names": {
+      "ja": "カーマーゼンシャー",
+      "ko": "카마던셔",
+      "vi": "Carmarthenshire",
+      "id": "Carmarthenshire",
+      "zh-Hans": "卡马森郡",
+      "zh-Hant": "卡馬森郡"
+    }
+  },
+  {
+    "code": "CCG",
+    "name": "Causeway Coast and Glens",
+    "names": {
+      "ja": "コーズウェー・コースト・アンド・グランス",
+      "ko": "코즈웨이 연안과 글렌스",
+      "zh-Hans": "堤道滨谷",
+      "zh-Hant": "堤道濱谷"
+    }
+  },
+  {
+    "code": "CBF",
+    "name": "Central Bedfordshire",
+    "names": {
+      "ja": "ベッドフォードシャー中心部",
+      "ko": "센트럴베드퍼드셔",
+      "zh-Hans": "中贝德福德郡",
+      "zh-Hant": "中貝德福德郡"
+    }
+  },
+  {
+    "code": "CGN",
+    "name": "Ceredigion",
+    "names": {
+      "ja": "ケレディジョン",
+      "ko": "케레디기온",
+      "zh-Hans": "锡尔迪金",
+      "zh-Hant": "錫爾迪金"
+    }
+  },
+  {
+    "code": "CHE",
+    "name": "Cheshire East",
+    "names": {
+      "ja": "チェシャー・イースト",
+      "ko": "체셔이스트",
+      "zh-Hans": "柴郡東",
+      "zh-Hant": "車士打郡東"
+    }
+  },
+  {
+    "code": "CHW",
+    "name": "Cheshire West and Chester",
+    "names": {
+      "ja": "チェシャーウェスト・アンド・チェスター",
+      "ko": "체셔웨스트 체스터",
+      "zh-Hans": "柴郡与切斯特",
+      "zh-Hant": "車士打郡西與車士打"
+    }
+  },
+  {
+    "code": "BST",
+    "name": "City of Bristol",
+    "names": {
+      "ja": "シティ・オヴ・ブリストル"
+    }
+  },
+  {
+    "code": "DER",
+    "name": "City of Derby",
+    "names": {}
+  },
+  {
+    "code": "EDH",
+    "name": "City of Edinburgh",
+    "names": {
+      "ja": "シティ・オブ・エディンバラ・カウンシル",
+      "ko": "시티오브에든버러",
+      "id": "City of Edinburgh",
+      "zh-Hans": "爱丁堡市议会",
+      "zh-Hant": "愛丁堡市議會"
+    }
+  },
+  {
+    "code": "KHL",
+    "name": "City of Kingston upon Hull",
+    "names": {}
+  },
+  {
+    "code": "LCE",
+    "name": "City of Leicester",
+    "names": {
+      "ja": "シティ・オヴ・レスター"
+    }
+  },
+  {
+    "code": "LND",
+    "name": "City of London",
+    "names": {
+      "ja": "シティ・オブ・ロンドン",
+      "ko": "시티오브런던",
+      "vi": "Thành phố Luân Đôn",
+      "id": "City of London",
+      "zh-Hans": "伦敦城",
+      "zh-Hant": "倫敦市"
+    }
+  },
+  {
+    "code": "MIK",
+    "name": "City of Milton Keynes",
+    "names": {
+      "ja": "ミルトン・キーンズ",
+      "ko": "밀턴킨즈 구",
+      "zh-Hans": "米尔顿凯恩斯",
+      "zh-Hant": "米爾頓凱恩斯"
+    }
+  },
+  {
+    "code": "NGM",
+    "name": "City of Nottingham",
+    "names": {
+      "ja": "シティ・オヴ・ノッティンガム"
+    }
+  },
+  {
+    "code": "PTE",
+    "name": "City of Peterborough",
+    "names": {}
+  },
+  {
+    "code": "PLY",
+    "name": "City of Plymouth",
+    "names": {
+      "ja": "シティ・オヴ・プリマス"
+    }
+  },
+  {
+    "code": "POR",
+    "name": "City of Portsmouth",
+    "names": {}
+  },
+  {
+    "code": "STH",
+    "name": "City of Southampton",
+    "names": {
+      "ja": "シティ・オヴ・サウサンプトン"
+    }
+  },
+  {
+    "code": "STE",
+    "name": "City of Stoke-on-Trent",
+    "names": {
+      "ja": "シティ・オヴ・ストーク＝オン＝トレント"
+    }
+  },
+  {
+    "code": "WSM",
+    "name": "City of Westminster",
+    "names": {
+      "ja": "シティ・オブ・ウェストミンスター",
+      "ko": "시티오브웨스트민스터",
+      "vi": "Thành phố Westminster",
+      "id": "City of Westminster",
+      "zh-Hans": "威斯敏斯特",
+      "zh-Hant": "西敏市"
+    }
+  },
+  {
+    "code": "WLV",
+    "name": "City of Wolverhampton",
+    "names": {
+      "ja": "ウォルヴァーハンプトン"
+    }
+  },
+  {
+    "code": "YOR",
+    "name": "City of York",
+    "names": {
+      "ja": "シティ・オヴ・ヨーク"
+    }
+  },
+  {
+    "code": "CLK",
+    "name": "Clackmannanshire",
+    "names": {
+      "ja": "クラックマナンシャー",
+      "ko": "클라크매넌셔",
+      "zh-Hans": "克拉克曼南郡",
+      "zh-Hant": "克拉克曼南郡"
+    }
+  },
+  {
+    "code": "CWY",
+    "name": "Conwy County Borough",
+    "names": {
+      "ja": "コンウィ",
+      "ko": "콘위 자치시",
+      "zh-Hans": "康威郡级自治市",
+      "zh-Hant": "康威郡級自治市"
+    }
+  },
+  {
+    "code": "CON",
+    "name": "Cornwall",
+    "names": {
+      "ja": "コーンウォール"
+    }
+  },
+  {
+    "code": "DUR",
+    "name": "County Durham",
+    "names": {
+      "ja": "カウンティ・ダラム"
+    }
+  },
+  {
+    "code": "COV",
+    "name": "Coventry",
+    "names": {
+      "ja": "コヴェントリー",
+      "zh-Hans": "考文垂"
+    }
+  },
+  {
+    "code": "CMA",
+    "name": "Cumbria",
+    "names": {
+      "ja": "カンブリア",
+      "ko": "컴브리아주",
+      "vi": "Cumbria",
+      "id": "Cumbria",
+      "zh-Hans": "坎布里亚郡",
+      "zh-Hant": "坎布里亞郡"
+    }
+  },
+  {
+    "code": "DAL",
+    "name": "Darlington",
+    "names": {
+      "ja": "ダーリントン",
+      "ko": "달링턴구",
+      "zh-Hans": "達靈頓區",
+      "zh-Hant": "達靈頓區"
+    }
+  },
+  {
+    "code": "DEN",
+    "name": "Denbighshire",
+    "names": {
+      "ja": "デンビーシャー",
+      "ko": "덴비셔",
+      "vi": "Denbighshire",
+      "id": "Denbighshire",
+      "zh-Hans": "登比郡",
+      "zh-Hant": "登比郡"
+    }
+  },
+  {
+    "code": "DBY",
+    "name": "Derbyshire",
+    "names": {
+      "ja": "ダービーシャー",
+      "zh-Hans": "德比郡"
+    }
+  },
+  {
+    "code": "DRS",
+    "name": "Derry City and Strabane",
+    "names": {
+      "ja": "デリー・シティ・アンド・ストラバン",
+      "zh-Hans": "德里城和斯特拉班"
+    }
+  },
+  {
+    "code": "DEV",
+    "name": "Devon",
+    "names": {
+      "ja": "デヴォン",
+      "zh-Hans": "德文郡"
+    }
+  },
+  {
+    "code": "DNC",
+    "name": "Doncaster",
+    "names": {
+      "ja": "メトロポリタン・バラ・オブ・ドンカスター",
+      "ko": "동커스터 도시 자치구",
+      "zh-Hans": "唐卡斯特都會自治市"
+    }
+  },
+  {
+    "code": "DOR",
+    "name": "Dorset",
+    "names": {
+      "ja": "ドーセット",
+      "zh-Hans": "多塞特"
+    }
+  },
+  {
+    "code": "DUD",
+    "name": "Dudley",
+    "names": {
+      "ja": "メトロポリタン・バラ・オブ・ダドリー",
+      "ko": "더들리 도시 자치구",
+      "zh-Hans": "达得利市",
+      "zh-Hant": "達得利市"
+    }
+  },
+  {
+    "code": "DGY",
+    "name": "Dumfries and Galloway",
+    "names": {
+      "ja": "ダンフリーズ・アンド・ガロウェイ",
+      "ko": "덤프리스 갤러웨이",
+      "id": "Dumfries and Galloway",
+      "zh-Hans": "邓弗里斯-加洛韦",
+      "zh-Hant": "丹佛里斯-蓋洛威"
+    }
+  },
+  {
+    "code": "DND",
+    "name": "Dundee City",
+    "names": {
+      "ja": "ダンディー市",
+      "zh-Hans": "邓迪市",
+      "zh-Hant": "丹地市"
+    }
+  },
+  {
+    "code": "EAY",
+    "name": "East Ayrshire",
+    "names": {
+      "ja": "イースト・エアシャー",
+      "ko": "이스트에어셔",
+      "id": "East Ayrshire",
+      "zh-Hans": "东艾尔郡",
+      "zh-Hant": "東艾爾郡"
+    }
+  },
+  {
+    "code": "EDU",
+    "name": "East Dunbartonshire",
+    "names": {
+      "ja": "イースト・ダンバートンシャー",
+      "ko": "이스트던바턴셔",
+      "id": "East Dunbartonshire",
+      "zh-Hans": "东邓巴顿郡",
+      "zh-Hant": "東鄧巴頓郡"
+    }
+  },
+  {
+    "code": "ELN",
+    "name": "East Lothian",
+    "names": {
+      "ja": "イースト・ロージアン",
+      "ko": "이스트로디언",
+      "id": "East Lothian",
+      "zh-Hans": "东洛锡安",
+      "zh-Hant": "東洛錫安"
+    }
+  },
+  {
+    "code": "ERW",
+    "name": "East Renfrewshire",
+    "names": {
+      "ja": "イースト・レンフルーシャー",
+      "ko": "이스트렌프루셔",
+      "zh-Hans": "东伦弗鲁郡",
+      "zh-Hant": "東倫弗魯郡"
+    }
+  },
+  {
+    "code": "ERY",
+    "name": "East Riding of Yorkshire",
+    "names": {
+      "ja": "イースト・ライディング・オブ・ヨークシャー"
+    }
+  },
+  {
+    "code": "ESX",
+    "name": "East Sussex",
+    "names": {
+      "ja": "イースト・サセックス"
+    }
+  },
+  {
+    "code": "ENG",
+    "name": "England",
+    "names": {
+      "ja": "イングランド",
+      "ko": "잉글랜드",
+      "vi": "Anh",
+      "id": "Inggris",
+      "zh-Hans": "英格兰",
+      "zh-Hant": "英格蘭"
+    }
+  },
+  {
+    "code": "ESS",
+    "name": "Essex",
+    "names": {
+      "ja": "エセックス"
+    }
+  },
+  {
+    "code": "FAL",
+    "name": "Falkirk",
+    "names": {
+      "ja": "フォルカーク",
+      "ko": "폴커크",
+      "zh-Hans": "福尔柯克",
+      "zh-Hant": "福爾柯克"
+    }
+  },
+  {
+    "code": "FMO",
+    "name": "Fermanagh and Omagh",
+    "names": {
+      "ja": "ファーマナ・アンド・オマー",
+      "zh-Hans": "弗马纳-奥马区"
+    }
+  },
+  {
+    "code": "FIF",
+    "name": "Fife",
+    "names": {
+      "ja": "ファイフ",
+      "ko": "파이프",
+      "zh-Hans": "法夫",
+      "zh-Hant": "法夫"
+    }
+  },
+  {
+    "code": "FLN",
+    "name": "Flintshire",
+    "names": {
+      "ja": "フリントシャー",
+      "ko": "플린트셔",
+      "vi": "Flintshire",
+      "id": "Flintshire",
+      "zh-Hans": "弗林特郡",
+      "zh-Hant": "弗林特郡"
+    }
+  },
+  {
+    "code": "GAT",
+    "name": "Gateshead",
+    "names": {
+      "ja": "メトロポリタン・バラ・オブ・ゲーツヘッド",
+      "ko": "게이츠헤드 도시 자치구",
+      "zh-Hans": "蓋茨黑德都市自治市"
+    }
+  },
+  {
+    "code": "GLG",
+    "name": "Glasgow City",
+    "names": {
+      "ja": "グラスゴー市",
+      "zh-Hans": "格拉斯哥城",
+      "zh-Hant": "格拉斯哥城"
+    }
+  },
+  {
+    "code": "GLS",
+    "name": "Gloucestershire",
+    "names": {
+      "ja": "グロスターシャー",
+      "zh-Hans": "格洛斯特郡",
+      "zh-Hant": "告羅士打郡"
+    }
+  },
+  {
+    "code": "GWN",
+    "name": "Gwynedd",
+    "names": {
+      "ja": "グウィネズ",
+      "ko": "귀네드",
+      "zh-Hans": "圭内斯",
+      "zh-Hant": "圭內斯"
+    }
+  },
+  {
+    "code": "HAL",
+    "name": "Halton",
+    "names": {
+      "ja": "ハルトン",
+      "ko": "홀턴구",
+      "zh-Hans": "霍尔顿市",
+      "zh-Hant": "霍爾頓市"
+    }
+  },
+  {
+    "code": "HAM",
+    "name": "Hampshire",
+    "names": {
+      "ja": "ハンプシャー"
+    }
+  },
+  {
+    "code": "HPL",
+    "name": "Hartlepool",
+    "names": {
+      "ja": "ハートリプール",
+      "ko": "하틀풀구",
+      "zh-Hans": "哈特尔浦",
+      "zh-Hant": "哈特爾浦"
+    }
+  },
+  {
+    "code": "HEF",
+    "name": "Herefordshire",
+    "names": {
+      "ja": "ヘレフォードシャー",
+      "ko": "헤리퍼드셔주",
+      "zh-Hans": "赫里福德郡",
+      "zh-Hant": "赫里福德郡"
+    }
+  },
+  {
+    "code": "HRT",
+    "name": "Hertfordshire",
+    "names": {
+      "ja": "ハートフォードシャー",
+      "ko": "하트퍼드셔주",
+      "vi": "Hertfordshire",
+      "id": "Hertfordshire",
+      "zh-Hans": "赫特福德郡",
+      "zh-Hant": "赫特福德郡"
+    }
+  },
+  {
+    "code": "HLD",
+    "name": "Highland",
+    "names": {
+      "ja": "ハイランド",
+      "ko": "하일랜드",
+      "id": "Highland",
+      "zh-Hans": "高地",
+      "zh-Hant": "高地"
+    }
+  },
+  {
+    "code": "IVC",
+    "name": "Inverclyde",
+    "names": {
+      "ja": "インヴァークライド",
+      "ko": "인버클라이드",
+      "zh-Hans": "因弗克莱德",
+      "zh-Hant": "因弗克萊德"
+    }
+  },
+  {
+    "code": "AGY",
+    "name": "Isle of Anglesey",
+    "names": {
+      "zh-Hans": "安格西岛"
+    }
+  },
+  {
+    "code": "IOW",
+    "name": "Isle of Wight",
+    "names": {
+      "ja": "ワイト島",
+      "ko": "아일오브와이트주",
+      "vi": "Đảo Wight",
+      "id": "Pulau Wight",
+      "zh-Hans": "怀特岛郡",
+      "zh-Hant": "威特島"
+    }
+  },
+  {
+    "code": "IOS",
+    "name": "Isles of Scilly",
+    "names": {
+      "ja": "シリー諸島",
+      "ko": "실리 제도",
+      "vi": "quần đảo Scilly",
+      "id": "Kepulauan Scilly",
+      "zh-Hans": "锡利群岛",
+      "zh-Hant": "錫利群島"
+    }
+  },
+  {
+    "code": "KEN",
+    "name": "Kent",
+    "names": {
+      "ja": "ケント",
+      "zh-Hans": "肯特市",
+      "zh-Hant": "根德市"
+    }
+  },
+  {
+    "code": "KIR",
+    "name": "Kirklees",
+    "names": {
+      "ja": "カークリーズ",
+      "ko": "커클리스",
+      "id": "Kirklees",
+      "zh-Hans": "柯克利斯"
+    }
+  },
+  {
+    "code": "KWL",
+    "name": "Knowsley",
+    "names": {
+      "ja": "ノーズリー",
+      "ko": "노즐리 도시 자치구",
+      "zh-Hans": "纳奥斯雷",
+      "zh-Hant": "納奧斯雷"
+    }
+  },
+  {
+    "code": "LAN",
+    "name": "Lancashire",
+    "names": {
+      "ja": "ランカシャー"
+    }
+  },
+  {
+    "code": "LDS",
+    "name": "Leeds",
+    "names": {
+      "ja": "シティ・オブ・リーズ",
+      "ko": "시티오브리즈",
+      "id": "Leeds",
+      "zh-Hans": "利兹市",
+      "zh-Hant": "利茲市"
+    }
+  },
+  {
+    "code": "LEC",
+    "name": "Leicestershire",
+    "names": {
+      "ja": "レスターシャー"
+    }
+  },
+  {
+    "code": "LIN",
+    "name": "Lincolnshire",
+    "names": {
+      "ja": "リンカンシャー"
+    }
+  },
+  {
+    "code": "LBC",
+    "name": "Lisburn and Castlereagh",
+    "names": {
+      "ja": "リスバーン・アンド・キャッスルレー",
+      "zh-Hans": "利斯本-卡斯尔雷区"
+    }
+  },
+  {
+    "code": "LIV",
+    "name": "Liverpool",
+    "names": {
+      "ja": "リヴァプール",
+      "zh-Hans": "利物浦"
+    }
+  },
+  {
+    "code": "BDG",
+    "name": "London Borough of Barking and Dagenham",
+    "names": {
+      "ja": "バーキング・アンド・ダゲナム・ロンドン特別区",
+      "ko": "바킹 대거넘구",
+      "vi": "Khu Barking và Dagenham của Luân Đôn",
+      "id": "Barking dan Dagenham",
+      "zh-Hans": "柏京－达格纳姆区",
+      "zh-Hant": "巴金－達根罕區"
+    }
+  },
+  {
+    "code": "BNE",
+    "name": "London Borough of Barnet",
+    "names": {
+      "ja": "バーネット・ロンドン特別区",
+      "ko": "바닛구",
+      "vi": "Khu Barnet của Luân Đôn",
+      "id": "Barnet",
+      "zh-Hans": "巴尼特区",
+      "zh-Hant": "巴內特倫敦自治市"
+    }
+  },
+  {
+    "code": "BEX",
+    "name": "London Borough of Bexley",
+    "names": {
+      "ja": "ベクスリー・ロンドン特別区",
+      "ko": "벡슬리구",
+      "vi": "Khu Bexley của Luân Đôn",
+      "id": "Bexley",
+      "zh-Hans": "贝克斯利区",
+      "zh-Hant": "貝克斯利倫敦自治市"
+    }
+  },
+  {
+    "code": "BEN",
+    "name": "London Borough of Brent",
+    "names": {
+      "ja": "ブレント・ロンドン特別区",
+      "ko": "브렌트구",
+      "vi": "Khu Brent của Luân Đôn",
+      "zh-Hans": "布伦特区",
+      "zh-Hant": "布倫特倫敦自治市"
+    }
+  },
+  {
+    "code": "BRY",
+    "name": "London Borough of Bromley",
+    "names": {
+      "ja": "ブロムリー・ロンドン特別区",
+      "ko": "브롬리구",
+      "vi": "Khu Bromley của Luân Đôn",
+      "zh-Hans": "布罗姆利区",
+      "zh-Hant": "布倫來倫敦自治市"
+    }
+  },
+  {
+    "code": "CMD",
+    "name": "London Borough of Camden",
+    "names": {
+      "ja": "カムデン・ロンドン特別区",
+      "ko": "캠던구",
+      "vi": "Khu Camden của Luân Đôn",
+      "zh-Hans": "卡姆登区",
+      "zh-Hant": "康登倫敦自治市"
+    }
+  },
+  {
+    "code": "CRY",
+    "name": "London Borough of Croydon",
+    "names": {
+      "ja": "クロイドン・ロンドン特別区",
+      "ko": "크로이던구",
+      "vi": "Khu Croydon của Luân Đôn",
+      "zh-Hans": "克罗伊登区",
+      "zh-Hant": "克羅伊登倫敦自治市"
+    }
+  },
+  {
+    "code": "EAL",
+    "name": "London Borough of Ealing",
+    "names": {
+      "ja": "イーリング・ロンドン特別区",
+      "ko": "일링구",
+      "vi": "Khu Ealing của Luân Đôn",
+      "zh-Hans": "伊灵区",
+      "zh-Hant": "伊令倫敦自治市"
+    }
+  },
+  {
+    "code": "ENF",
+    "name": "London Borough of Enfield",
+    "names": {
+      "ja": "インフィールド・ロンドン特別区",
+      "ko": "엔필드구",
+      "vi": "Khu Enfield của Luân Đôn",
+      "zh-Hans": "恩菲尔德区",
+      "zh-Hant": "恩菲爾德倫敦自治市"
+    }
+  },
+  {
+    "code": "HCK",
+    "name": "London Borough of Hackney",
+    "names": {
+      "ja": "ハックニー・ロンドン特別区",
+      "ko": "해크니구",
+      "vi": "Khu Hackney của Luân Đôn",
+      "zh-Hans": "哈克尼区",
+      "zh-Hant": "哈克尼倫敦自治市"
+    }
+  },
+  {
+    "code": "HMF",
+    "name": "London Borough of Hammersmith and Fulham",
+    "names": {
+      "ja": "ハマースミス・アンド・フラム・ロンドン特別区",
+      "ko": "해머스미스 풀럼구",
+      "vi": "Khu Hammersmith và Fulham của Luân Đôn",
+      "id": "Hammersmith dan Fulham",
+      "zh-Hans": "哈默史密斯-富勒姆區",
+      "zh-Hant": "漢墨斯密和富勒姆倫敦自治市鎮區"
+    }
+  },
+  {
+    "code": "HRY",
+    "name": "London Borough of Haringey",
+    "names": {
+      "ja": "ハーリンゲイ・ロンドン特別区",
+      "ko": "해링게이구",
+      "vi": "Khu Haringey của Luân Đôn",
+      "zh-Hans": "哈林盖区",
+      "zh-Hant": "哈林蓋倫敦自治市"
+    }
+  },
+  {
+    "code": "HRW",
+    "name": "London Borough of Harrow",
+    "names": {
+      "ja": "ハーロウ・ロンドン特別区",
+      "ko": "해로구",
+      "vi": "Khu Harrow của Luân Đôn",
+      "zh-Hans": "哈洛伦敦自治市",
+      "zh-Hant": "哈洛倫敦自治市"
+    }
+  },
+  {
+    "code": "HAV",
+    "name": "London Borough of Havering",
+    "names": {
+      "ja": "ヘイヴァリング・ロンドン特別区",
+      "ko": "헤이버링구",
+      "vi": "Khu Havering của Luân Đôn",
+      "zh-Hans": "黑弗灵区",
+      "zh-Hant": "黑弗靈倫敦自治市"
+    }
+  },
+  {
+    "code": "HIL",
+    "name": "London Borough of Hillingdon",
+    "names": {
+      "ja": "ヒリンドン・ロンドン特別区",
+      "ko": "힐링던구",
+      "vi": "Khu Hillingdon của Luân Đôn",
+      "id": "Hillingdon",
+      "zh-Hans": "希灵登区",
+      "zh-Hant": "希靈登倫敦自治市"
+    }
+  },
+  {
+    "code": "HNS",
+    "name": "London Borough of Hounslow",
+    "names": {
+      "ja": "ハウンズロー・ロンドン特別区",
+      "ko": "하운즐로구",
+      "vi": "Khu Hounslow của Luân Đôn",
+      "zh-Hans": "豪恩斯洛区",
+      "zh-Hant": "豪恩斯洛倫敦自治市"
+    }
+  },
+  {
+    "code": "ISL",
+    "name": "London Borough of Islington",
+    "names": {
+      "ja": "イズリントン・ロンドン特別区",
+      "ko": "이즐링턴구",
+      "vi": "Khu Islington của Luân Đôn",
+      "zh-Hans": "伊斯灵顿伦敦区",
+      "zh-Hant": "伊斯林頓倫敦自治市"
+    }
+  },
+  {
+    "code": "LBH",
+    "name": "London Borough of Lambeth",
+    "names": {
+      "ja": "ランベス・ロンドン特別区",
+      "ko": "램버스구",
+      "vi": "Khu Lambeth của Luân Đôn",
+      "id": "Lambeth",
+      "zh-Hans": "兰贝斯区",
+      "zh-Hant": "蘭貝斯區"
+    }
+  },
+  {
+    "code": "LEW",
+    "name": "London Borough of Lewisham",
+    "names": {
+      "ja": "ルイシャム・ロンドン特別区",
+      "ko": "루이셤구",
+      "vi": "Khu Lewisham của Luân Đôn",
+      "zh-Hans": "刘易舍姆区",
+      "zh-Hant": "劉易舍姆區"
+    }
+  },
+  {
+    "code": "MRT",
+    "name": "London Borough of Merton",
+    "names": {
+      "ja": "マートン・ロンドン特別区",
+      "ko": "머턴구",
+      "vi": "Khu Merton của Luân Đôn",
+      "zh-Hans": "默顿区",
+      "zh-Hant": "默頓區"
+    }
+  },
+  {
+    "code": "NWM",
+    "name": "London Borough of Newham",
+    "names": {
+      "ja": "ニューハム・ロンドン特別区",
+      "ko": "뉴엄구",
+      "vi": "Khu Newham của Luân Đôn",
+      "zh-Hans": "纽汉区",
+      "zh-Hant": "紐漢倫敦自治市"
+    }
+  },
+  {
+    "code": "RDB",
+    "name": "London Borough of Redbridge",
+    "names": {
+      "ja": "レッドブリッジ・ロンドン特別区",
+      "ko": "레드브리지구",
+      "vi": "Khu Redbridge của Luân Đôn",
+      "zh-Hans": "雷德布里奇区",
+      "zh-Hant": "紅橋倫敦自治市"
+    }
+  },
+  {
+    "code": "RIC",
+    "name": "London Borough of Richmond upon Thames",
+    "names": {
+      "ja": "リッチモンド・アポン・テムズ・ロンドン特別区",
+      "ko": "리치먼드어폰템스구",
+      "zh-Hans": "泰晤士河畔列治文區",
+      "zh-Hant": "泰晤士河畔里奇蒙倫敦自治市"
+    }
+  },
+  {
+    "code": "SWK",
+    "name": "London Borough of Southwark",
+    "names": {
+      "ja": "サザーク・ロンドン特別区",
+      "ko": "서더크구",
+      "vi": "Khu Southwark của Luân Đôn",
+      "id": "Southwark",
+      "zh-Hans": "萨瑟克区",
+      "zh-Hant": "南華克倫敦自治市"
+    }
+  },
+  {
+    "code": "STN",
+    "name": "London Borough of Sutton",
+    "names": {
+      "ja": "サットン・ロンドン特別区",
+      "ko": "서턴구",
+      "zh-Hans": "萨顿区",
+      "zh-Hant": "索頓倫敦自治市"
+    }
+  },
+  {
+    "code": "TWH",
+    "name": "London Borough of Tower Hamlets",
+    "names": {
+      "ja": "タワーハムレッツ・ロンドン特別区",
+      "ko": "타워햄리츠구",
+      "zh-Hans": "陶尔哈姆莱茨区",
+      "zh-Hant": "陶爾哈姆萊茨倫敦自治市"
+    }
+  },
+  {
+    "code": "WFT",
+    "name": "London Borough of Waltham Forest",
+    "names": {
+      "ja": "ウォルサム・フォレスト・ロンドン特別区",
+      "ko": "월섬포리스트구",
+      "zh-Hans": "沃尔瑟姆福里斯特区",
+      "zh-Hant": "沃爾瑟姆森林區"
+    }
+  },
+  {
+    "code": "WND",
+    "name": "London Borough of Wandsworth",
+    "names": {
+      "ja": "ワンズワース・ロンドン特別区",
+      "ko": "완즈워스 구",
+      "vi": "Khu Wandsworth của Luân Đôn",
+      "id": "Wandsworth",
+      "zh-Hans": "旺兹沃思区",
+      "zh-Hant": "旺茲沃思倫敦自治市"
+    }
+  },
+  {
+    "code": "LUT",
+    "name": "Luton",
+    "names": {}
+  },
+  {
+    "code": "MAN",
+    "name": "Manchester",
+    "names": {
+      "ja": "マンチェスター",
+      "zh-Hans": "曼彻斯特"
+    }
+  },
+  {
+    "code": "MDW",
+    "name": "Medway",
+    "names": {
+      "ja": "メドウェイ",
+      "ko": "메드웨이",
+      "id": "Medway",
+      "zh-Hans": "梅德韦",
+      "zh-Hant": "麥德威"
+    }
+  },
+  {
+    "code": "MTY",
+    "name": "Merthyr Tydfil County Borough",
+    "names": {
+      "ja": "マーサー・ティドビル",
+      "ko": "머서티드빌 자치시",
+      "zh-Hans": "梅瑟蒂德菲尔自治市",
+      "zh-Hant": "梅瑟蒂德菲爾自治市"
+    }
+  },
+  {
+    "code": "MEA",
+    "name": "Mid and East Antrim",
+    "names": {
+      "ja": "ミッド・アンド・イースト・アントリム",
+      "ko": "중부와 동부 앤트림",
+      "zh-Hans": "中及東安特里姆郡",
+      "zh-Hant": "中及東安特里姆郡"
+    }
+  },
+  {
+    "code": "MUL",
+    "name": "Mid Ulster",
+    "names": {
+      "ja": "ミッド・アルスター",
+      "ko": "중부 얼스터",
+      "zh-Hans": "中阿尔斯特",
+      "zh-Hant": "中阿爾斯特"
+    }
+  },
+  {
+    "code": "MDB",
+    "name": "Middlesbrough",
+    "names": {}
+  },
+  {
+    "code": "MLN",
+    "name": "Midlothian",
+    "names": {
+      "ja": "ミッドロージアン",
+      "ko": "미들로디언",
+      "zh-Hans": "中洛锡安",
+      "zh-Hant": "中洛錫安"
+    }
+  },
+  {
+    "code": "MON",
+    "name": "Monmouthshire",
+    "names": {
+      "ja": "モンマスシャー",
+      "ko": "몬머스셔",
+      "vi": "Monmouthshire",
+      "id": "Monmouthshire",
+      "zh-Hans": "蒙茅斯郡",
+      "zh-Hant": "蒙茅斯郡"
+    }
+  },
+  {
+    "code": "MRY",
+    "name": "Moray",
+    "names": {
+      "ja": "マレー",
+      "ko": "머리",
+      "zh-Hans": "马里",
+      "zh-Hant": "馬里"
+    }
+  },
+  {
+    "code": "NTL",
+    "name": "Neath Port Talbot",
+    "names": {
+      "ja": "ニース・ポート・タルボット",
+      "ko": "니스포트탤벗",
+      "zh-Hans": "下塔尔波特港",
+      "zh-Hant": "下塔爾波特港"
+    }
+  },
+  {
+    "code": "NET",
+    "name": "Newcastle upon Tyne",
+    "names": {
+      "ja": "ニューカッスル・アポン・タイン",
+      "id": "Newcastle upon Tyne",
+      "zh-Hans": "泰恩河畔纽卡斯尔"
+    }
+  },
+  {
+    "code": "NWP",
+    "name": "Newport",
+    "names": {
+      "ja": "シティ・オヴ・ニューポート"
+    }
+  },
+  {
+    "code": "NMD",
+    "name": "Newry, Mourne and Down",
+    "names": {
+      "ja": "ニューリー・モーン・アンド・ダウン",
+      "ko": "뉴리",
+      "zh-Hans": "纽里",
+      "zh-Hant": "紐里"
+    }
+  },
+  {
+    "code": "NFK",
+    "name": "Norfolk",
+    "names": {
+      "ja": "ノーフォーク",
+      "ko": "노퍽주",
+      "vi": "Norfolk",
+      "id": "Norfolk",
+      "zh-Hans": "诺福克郡",
+      "zh-Hant": "诺福克郡"
+    }
+  },
+  {
+    "code": "NAY",
+    "name": "North Ayrshire",
+    "names": {
+      "ja": "ノース・エアシャー",
+      "ko": "노스에어셔",
+      "zh-Hans": "北艾尔郡",
+      "zh-Hant": "北艾爾郡"
+    }
+  },
+  {
+    "code": "NEL",
+    "name": "North East Lincolnshire",
+    "names": {
+      "ja": "ノース・イースト・リンカンシャー",
+      "ko": "노스이스트링컨셔",
+      "zh-Hans": "东北林肯郡",
+      "zh-Hant": "東北林肯郡"
+    }
+  },
+  {
+    "code": "NLK",
+    "name": "North Lanarkshire",
+    "names": {
+      "ja": "ノース・ラナークシャー",
+      "ko": "노스래너크셔",
+      "id": "North Lanarkshire",
+      "zh-Hans": "北拉纳克郡",
+      "zh-Hant": "北拉納克郡"
+    }
+  },
+  {
+    "code": "NLN",
+    "name": "North Lincolnshire",
+    "names": {
+      "ja": "ノース・リンカンシャー",
+      "ko": "노스링컨셔",
+      "zh-Hans": "北林肯郡",
+      "zh-Hant": "北林肯郡"
+    }
+  },
+  {
+    "code": "NNH",
+    "name": "North Northamptonshire",
+    "names": {}
+  },
+  {
+    "code": "NSM",
+    "name": "North Somerset",
+    "names": {
+      "ja": "ノース・サマセット",
+      "ko": "노스서머싯",
+      "zh-Hans": "北萨默塞特郡",
+      "zh-Hant": "北森麻錫郡"
+    }
+  },
+  {
+    "code": "NTY",
+    "name": "North Tyneside",
+    "names": {
+      "ja": "ノース・タインサイド",
+      "ko": "노스타인사이드",
+      "vi": "Bắc Tyneside",
+      "zh-Hans": "北泰因赛德",
+      "zh-Hant": "北泰因賽德"
+    }
+  },
+  {
+    "code": "NYK",
+    "name": "North Yorkshire",
+    "names": {
+      "ja": "ノース・ヨークシャー",
+      "zh-Hans": "北约克郡"
+    }
+  },
+  {
+    "code": "NIR",
+    "name": "Northern Ireland",
+    "names": {
+      "ja": "北アイルランド",
+      "ko": "북아일랜드",
+      "vi": "Bắc Ireland",
+      "id": "Irlandia Utara",
+      "zh-Hans": "北爱尔兰",
+      "zh-Hant": "北愛爾蘭"
+    }
+  },
+  {
+    "code": "NBL",
+    "name": "Northumberland",
+    "names": {
+      "ja": "ノーサンバーランド",
+      "ko": "노섬벌랜드주",
+      "vi": "Northumberland",
+      "id": "Northumberland",
+      "zh-Hans": "诺森伯兰郡",
+      "zh-Hant": "諾森伯蘭郡"
+    }
+  },
+  {
+    "code": "NTT",
+    "name": "Nottinghamshire",
+    "names": {
+      "ja": "ノッティンガムシャー",
+      "zh-Hans": "諾丁漢郡"
+    }
+  },
+  {
+    "code": "OLD",
+    "name": "Oldham",
+    "names": {
+      "ja": "メトロポリタン・バラ・オブ・オールダム",
+      "ko": "올덤 도시 자치구",
+      "zh-Hans": "奧爾德姆都市自治市",
+      "zh-Hant": "奧爾德姆都市自治市"
+    }
+  },
+  {
+    "code": "ORK",
+    "name": "Orkney Islands",
+    "names": {
+      "ja": "オークニー諸島",
+      "ko": "오크니 제도",
+      "vi": "Orkney",
+      "id": "Kepulauan Orkney",
+      "zh-Hans": "奥克尼群岛",
+      "zh-Hant": "奧克尼群島"
+    }
+  },
+  {
+    "code": "ELS",
+    "name": "Outer Hebrides",
+    "names": {
+      "ja": "アウター・ヘブリディーズ",
+      "ko": "아우터헤브리디스",
+      "id": "Kepulauan Hebrides Luar",
+      "zh-Hans": "埃利安锡尔",
+      "zh-Hant": "錫爾島區"
+    }
+  },
+  {
+    "code": "OXF",
+    "name": "Oxfordshire",
+    "names": {
+      "ja": "オックスフォードシャー",
+      "ko": "옥스퍼드셔주",
+      "vi": "Oxfordshire",
+      "id": "Oxfordshire",
+      "zh-Hans": "牛津郡",
+      "zh-Hant": "牛津郡"
+    }
+  },
+  {
+    "code": "PEM",
+    "name": "Pembrokeshire",
+    "names": {
+      "ja": "ペンブルックシャー",
+      "ko": "펨브로크셔",
+      "vi": "Pembrokeshire",
+      "id": "Pembrokeshire",
+      "zh-Hans": "彭布罗克郡",
+      "zh-Hant": "彭布羅克郡"
+    }
+  },
+  {
+    "code": "PKN",
+    "name": "Perth and Kinross",
+    "names": {
+      "ja": "パース・アンド・キンロス",
+      "ko": "퍼스 킨로스",
+      "id": "Perth and Kinross",
+      "zh-Hans": "珀斯-金罗斯",
+      "zh-Hant": "珀斯-金羅斯"
+    }
+  },
+  {
+    "code": "POW",
+    "name": "Powys",
+    "names": {
+      "ja": "ポーイス",
+      "ko": "포이스",
+      "zh-Hans": "波厄斯郡",
+      "zh-Hant": "波伊斯"
+    }
+  },
+  {
+    "code": "RDG",
+    "name": "Reading",
+    "names": {
+      "ja": "レディング"
+    }
+  },
+  {
+    "code": "RCC",
+    "name": "Redcar and Cleveland",
+    "names": {
+      "ja": "レッドカー・アンド・クリーヴランド",
+      "ko": "레드카 클리블랜드",
+      "zh-Hans": "雷德卡-克利夫兰",
+      "zh-Hant": "雷德卡-克利夫蘭"
+    }
+  },
+  {
+    "code": "RFW",
+    "name": "Renfrewshire",
+    "names": {
+      "ja": "レンフルーシャー",
+      "ko": "렌프루셔",
+      "vi": "Renfrewshire",
+      "zh-Hans": "伦弗鲁郡",
+      "zh-Hant": "倫弗魯郡"
+    }
+  },
+  {
+    "code": "RCT",
+    "name": "Rhondda Cynon Taf",
+    "names": {
+      "ja": "ロンザ・カノン・タフ",
+      "ko": "론다커논타브",
+      "zh-Hans": "朗达卡嫩塔夫"
+    }
+  },
+  {
+    "code": "RCH",
+    "name": "Rochdale",
+    "names": {
+      "ja": "メトロポリタン・バラ・オブ・ロッチデール",
+      "ko": "로치데일 도시 자치구",
+      "zh-Hans": "罗奇代尔都市自治市",
+      "zh-Hant": "羅奇代爾都市自治市"
+    }
+  },
+  {
+    "code": "ROT",
+    "name": "Rotherham",
+    "names": {
+      "ja": "メトロポリタン・バラ・オブ・ロザラム",
+      "ko": "로더럼 도시 자치구",
+      "zh-Hans": "羅瑟勒姆都市自治市"
+    }
+  },
+  {
+    "code": "GRE",
+    "name": "Royal Borough of Greenwich",
+    "names": {
+      "ja": "グリニッジ王室特別区",
+      "ko": "그리니치 왕립구",
+      "vi": "Khu Greenwich của Luân Đôn",
+      "zh-Hans": "格林尼治區",
+      "zh-Hant": "格林威治皇家自治市"
+    }
+  },
+  {
+    "code": "KEC",
+    "name": "Royal Borough of Kensington and Chelsea",
+    "names": {
+      "ja": "ケンジントン・アンド・チェルシー王室特別区",
+      "ko": "켄징턴 첼시 구",
+      "vi": "Khu hoàng gia Kensington và Chelsea",
+      "id": "Kensington dan Chelsea",
+      "zh-Hans": "肯辛顿-切尔西区",
+      "zh-Hant": "肯辛頓-切爾西區"
+    }
+  },
+  {
+    "code": "KTT",
+    "name": "Royal Borough of Kingston upon Thames",
+    "names": {
+      "ja": "キングストン・アポン・テムズ王室特別区",
+      "ko": "킹스턴어폰템스 구",
+      "vi": "Khu Hoàng gia Kingston upon Thames",
+      "zh-Hans": "泰晤士河畔金斯顿皇家自治市镇",
+      "zh-Hant": "泰晤士河畔金斯頓皇家自治市鎮"
+    }
+  },
+  {
+    "code": "RUT",
+    "name": "Rutland",
+    "names": {
+      "ja": "ラトランド",
+      "ko": "러틀랜드주",
+      "vi": "Rutland",
+      "id": "Rutland",
+      "zh-Hans": "拉特兰",
+      "zh-Hant": "拉特蘭"
+    }
+  },
+  {
+    "code": "SLF",
+    "name": "Salford",
+    "names": {
+      "ja": "シティ・オブ・サルフォード",
+      "ko": "시티오브솔퍼드",
+      "vi": "Salford",
+      "zh-Hans": "索尔福德市",
+      "zh-Hant": "索爾福德市"
+    }
+  },
+  {
+    "code": "SAW",
+    "name": "Sandwell",
+    "names": {
+      "ja": "サンドウェル",
+      "ko": "샌드웰",
+      "zh-Hans": "桑德韦尔",
+      "zh-Hant": "桑德韋爾"
+    }
+  },
+  {
+    "code": "SCT",
+    "name": "Scotland",
+    "names": {
+      "ja": "スコットランド",
+      "ko": "스코틀랜드",
+      "vi": "Scotland",
+      "id": "Skotlandia",
+      "zh-Hans": "苏格兰",
+      "zh-Hant": "蘇格蘭"
+    }
+  },
+  {
+    "code": "SCB",
+    "name": "Scottish Borders",
+    "names": {
+      "ja": "スコティッシュ・ボーダーズ",
+      "ko": "스코티시보더스",
+      "id": "Scottish Borders",
+      "zh-Hans": "苏格兰边区",
+      "zh-Hant": "蘇格蘭邊區"
+    }
+  },
+  {
+    "code": "SFT",
+    "name": "Sefton",
+    "names": {
+      "ja": "メトロポリタン・バラ・オブ・セフトン",
+      "ko": "세프턴 도시 자치구",
+      "zh-Hans": "塞夫顿都会自治市",
+      "zh-Hant": "塞夫頓都會自治市"
+    }
+  },
+  {
+    "code": "SHF",
+    "name": "Sheffield",
+    "names": {
+      "ja": "シェフィールド",
+      "zh-Hans": "谢菲尔德",
+      "zh-Hant": "謝菲爾德"
+    }
+  },
+  {
+    "code": "ZET",
+    "name": "Shetland Islands",
+    "names": {
+      "ja": "シェトランド諸島",
+      "ko": "셰틀랜드 제도",
+      "vi": "Shetland",
+      "id": "Kepulauan Shetland",
+      "zh-Hans": "设得兰",
+      "zh-Hant": "昔德蘭"
+    }
+  },
+  {
+    "code": "SHR",
+    "name": "Shropshire",
+    "names": {
+      "ja": "シュロップシャー",
+      "zh-Hans": "什罗普郡",
+      "zh-Hant": "什羅普郡"
+    }
+  },
+  {
+    "code": "SLG",
+    "name": "Slough",
+    "names": {
+      "zh-Hant": "斯勞"
+    }
+  },
+  {
+    "code": "SOL",
+    "name": "Solihull",
+    "names": {
+      "ja": "ソリフル首都区",
+      "ko": "솔리헐 도시 자치구",
+      "zh-Hans": "索利赫爾區"
+    }
+  },
+  {
+    "code": "SOM",
+    "name": "Somerset",
+    "names": {
+      "ja": "サマセット"
+    }
+  },
+  {
+    "code": "SAY",
+    "name": "South Ayrshire",
+    "names": {
+      "ja": "サウス・エアシャー",
+      "ko": "사우스에어셔",
+      "zh-Hans": "南艾尔郡",
+      "zh-Hant": "南艾爾郡"
+    }
+  },
+  {
+    "code": "SGC",
+    "name": "South Gloucestershire",
+    "names": {
+      "ja": "サウス・グロスターシャー",
+      "ko": "사우스글로스터셔",
+      "zh-Hans": "南格洛斯特郡",
+      "zh-Hant": "南告羅士打郡"
+    }
+  },
+  {
+    "code": "SLK",
+    "name": "South Lanarkshire",
+    "names": {
+      "ja": "サウス・ラナークシャー",
+      "ko": "사우스래너크셔",
+      "id": "South Lanarkshire",
+      "zh-Hans": "南拉纳克郡",
+      "zh-Hant": "南拉納克郡"
+    }
+  },
+  {
+    "code": "STY",
+    "name": "South Tyneside",
+    "names": {
+      "ja": "サウス・タインサイド",
+      "ko": "사우스타인사이드",
+      "zh-Hans": "南泰因赛德",
+      "zh-Hant": "南泰因賽德"
+    }
+  },
+  {
+    "code": "SOS",
+    "name": "Southend-on-Sea",
+    "names": {}
+  },
+  {
+    "code": "SHN",
+    "name": "St Helens",
+    "names": {
+      "ja": "セントヘレンズ",
+      "ko": "세인트헬렌스 도시 자치구",
+      "zh-Hans": "聖海倫斯都會自治市"
+    }
+  },
+  {
+    "code": "STS",
+    "name": "Staffordshire",
+    "names": {
+      "ja": "スタッフォードシャー"
+    }
+  },
+  {
+    "code": "STG",
+    "name": "Stirling",
+    "names": {
+      "ja": "スターリング",
+      "ko": "스털링",
+      "id": "Stirling",
+      "zh-Hans": "斯特灵",
+      "zh-Hant": "史特靈"
+    }
+  },
+  {
+    "code": "SKP",
+    "name": "Stockport",
+    "names": {
+      "ja": "ストックポート・メトロポリタン特別区",
+      "ko": "스톡포트 도시 자치구",
+      "zh-Hans": "斯托克波特都市自治市",
+      "zh-Hant": "斯托克波特都市自治市"
+    }
+  },
+  {
+    "code": "STT",
+    "name": "Stockton-on-Tees",
+    "names": {
+      "ja": "ストックトン-オン-ティーズ",
+      "ko": "스톡턴온티스구",
+      "zh-Hans": "蒂斯河畔斯托克顿",
+      "zh-Hant": "蒂斯河畔斯托克頓"
+    }
+  },
+  {
+    "code": "SFK",
+    "name": "Suffolk",
+    "names": {
+      "ja": "サフォーク",
+      "ko": "서퍽주",
+      "vi": "Suffolk",
+      "id": "Suffolk",
+      "zh-Hans": "萨福克郡",
+      "zh-Hant": "薩福克郡"
+    }
+  },
+  {
+    "code": "SND",
+    "name": "Sunderland",
+    "names": {
+      "ja": "シティ・オブ・サンダーランド",
+      "ko": "시티오브선덜랜드",
+      "zh-Hans": "桑德兰市"
+    }
+  },
+  {
+    "code": "SRY",
+    "name": "Surrey",
+    "names": {
+      "ja": "サリー",
+      "ko": "서리주",
+      "vi": "Surrey",
+      "id": "Surrey",
+      "zh-Hans": "萨里郡",
+      "zh-Hant": "薩里郡"
+    }
+  },
+  {
+    "code": "SWA",
+    "name": "Swansea",
+    "names": {}
+  },
+  {
+    "code": "SWD",
+    "name": "Swindon",
+    "names": {
+      "ja": "バラ・オブ・スウィンドン",
+      "ko": "스윈던구",
+      "zh-Hans": "斯温登区",
+      "zh-Hant": "斯温登區"
+    }
+  },
+  {
+    "code": "TAM",
+    "name": "Tameside",
+    "names": {
+      "ja": "テイムサイド",
+      "ko": "테임사이드",
+      "zh-Hans": "坦姆赛德",
+      "zh-Hant": "坦姆賽德"
+    }
+  },
+  {
+    "code": "TFW",
+    "name": "Telford and Wrekin",
+    "names": {
+      "ja": "テルフォード・アンド・レキン",
+      "ko": "텔퍼드 레킨",
+      "zh-Hans": "特尔福德和雷金",
+      "zh-Hant": "特爾福德和雷金"
+    }
+  },
+  {
+    "code": "THR",
+    "name": "Thurrock",
+    "names": {
+      "ja": "サーロック",
+      "ko": "서럭",
+      "zh-Hans": "瑟罗克",
+      "zh-Hant": "瑟羅克"
+    }
+  },
+  {
+    "code": "TOB",
+    "name": "Torbay",
+    "names": {
+      "ja": "トーベイ",
+      "ko": "토베이",
+      "zh-Hans": "托贝",
+      "zh-Hant": "托貝"
+    }
+  },
+  {
+    "code": "TOF",
+    "name": "Torfaen",
+    "names": {
+      "ja": "トルヴァエン",
+      "ko": "토르바인",
+      "zh-Hans": "托法恩自治市",
+      "zh-Hant": "托法恩自治市"
+    }
+  },
+  {
+    "code": "TRF",
+    "name": "Trafford",
+    "names": {
+      "ja": "トラフォード",
+      "ko": "트래퍼드",
+      "vi": "Trafford",
+      "id": "Trafford",
+      "zh-Hans": "特拉福德",
+      "zh-Hant": "特拉福德"
+    }
+  },
+  {
+    "code": "VGL",
+    "name": "Vale of Glamorgan",
+    "names": {
+      "ja": "ヴェール・オブ・グラモーガン",
+      "ko": "베일오브글러모건 주",
+      "zh-Hans": "格拉摩根谷",
+      "zh-Hant": "格拉摩根谷"
+    }
+  },
+  {
+    "code": "WKF",
+    "name": "Wakefield",
+    "names": {
+      "ja": "シティ・オブ・ウェイクフィールド",
+      "ko": "시티오브웨이크필드",
+      "zh-Hans": "韋克菲爾德市",
+      "zh-Hant": "韋克菲爾德市"
+    }
+  },
+  {
+    "code": "WLS",
+    "name": "Wales",
+    "names": {
+      "ja": "ウェールズ",
+      "ko": "웨일스",
+      "vi": "Wales",
+      "id": "Wales",
+      "zh-Hans": "威尔士",
+      "zh-Hant": "威爾斯"
+    }
+  },
+  {
+    "code": "WLL",
+    "name": "Walsall",
+    "names": {
+      "ja": "ワルサル",
+      "ko": "월솔 도시 자치구",
+      "zh-Hans": "沃尔索尔都市自治市",
+      "zh-Hant": "沃爾索爾都市自治市"
+    }
+  },
+  {
+    "code": "WRT",
+    "name": "Warrington",
+    "names": {
+      "ja": "ワリントン",
+      "ko": "워링턴",
+      "zh-Hans": "瓦灵顿",
+      "zh-Hant": "瓦靈頓"
+    }
+  },
+  {
+    "code": "WAR",
+    "name": "Warwickshire",
+    "names": {
+      "ja": "ウォリックシャー",
+      "ko": "워릭셔주",
+      "vi": "Warwickshire",
+      "id": "Warwickshire",
+      "zh-Hans": "沃里克郡",
+      "zh-Hant": "沃里克郡"
+    }
+  },
+  {
+    "code": "WBK",
+    "name": "West Berkshire",
+    "names": {
+      "ja": "ウェスト・バークシャー",
+      "ko": "웨스트버크셔",
+      "zh-Hans": "西伯克郡",
+      "zh-Hant": "西伯克郡"
+    }
+  },
+  {
+    "code": "WDU",
+    "name": "West Dunbartonshire",
+    "names": {
+      "ja": "ウェスト・ダンバートンシャー",
+      "ko": "웨스트던바턴셔",
+      "zh-Hans": "西邓巴顿郡",
+      "zh-Hant": "西鄧巴頓郡"
+    }
+  },
+  {
+    "code": "WLN",
+    "name": "West Lothian",
+    "names": {
+      "ja": "ウェスト・ロージアン",
+      "ko": "웨스트로디언",
+      "zh-Hans": "西洛锡安",
+      "zh-Hant": "西洛錫安"
+    }
+  },
+  {
+    "code": "WNH",
+    "name": "West Northamptonshire",
+    "names": {}
+  },
+  {
+    "code": "WSX",
+    "name": "West Sussex",
+    "names": {
+      "ja": "ウェスト・サセックス",
+      "ko": "웨스트서식스주",
+      "vi": "West Sussex",
+      "id": "West Sussex",
+      "zh-Hans": "西萨塞克斯郡",
+      "zh-Hant": "西薩塞克斯郡"
+    }
+  },
+  {
+    "code": "WGN",
+    "name": "Wigan",
+    "names": {
+      "ja": "メトロポリタン・バラ・オブ・ウィガン",
+      "ko": "위건 도시 자치구",
+      "zh-Hans": "威根都市自治市",
+      "zh-Hant": "維根都市自治市"
+    }
+  },
+  {
+    "code": "WIL",
+    "name": "Wiltshire",
+    "names": {
+      "ja": "ウィルトシャー",
+      "ko": "윌트셔",
+      "id": "Wiltshire",
+      "zh-Hans": "威尔特郡"
+    }
+  },
+  {
+    "code": "WNM",
+    "name": "Windsor and Maidenhead",
+    "names": {
+      "ja": "ウィンザー・アンド・メイデンヘッド",
+      "ko": "윈저 메이든헤드 왕립구",
+      "zh-Hans": "温莎-梅登黑德",
+      "zh-Hant": "溫莎-梅登黑德"
+    }
+  },
+  {
+    "code": "WRL",
+    "name": "Wirral",
+    "names": {
+      "ja": "ウィラル",
+      "ko": "위럴 도시 자치구",
+      "zh-Hans": "威勒尔都会自治市",
+      "zh-Hant": "威勒爾都會自治市"
+    }
+  },
+  {
+    "code": "WOK",
+    "name": "Wokingham",
+    "names": {
+      "ja": "ウォーキンハム",
+      "ko": "오킹엄 구",
+      "zh-Hans": "沃金厄姆区",
+      "zh-Hant": "沃金厄姆"
+    }
+  },
+  {
+    "code": "WOR",
+    "name": "Worcestershire",
+    "names": {
+      "ja": "ウスターシャー",
+      "ko": "우스터셔주",
+      "vi": "Worcestershire",
+      "id": "Worcestershire",
+      "zh-Hans": "伍斯特郡",
+      "zh-Hant": "伍斯特郡"
+    }
+  },
+  {
+    "code": "WRX",
+    "name": "Wrexham County Borough",
+    "names": {
+      "ja": "レクサム",
+      "ko": "렉섬 자치시",
+      "zh-Hans": "雷克瑟姆郡自治市",
+      "zh-Hant": "域斯咸"
+    }
+  }
+]

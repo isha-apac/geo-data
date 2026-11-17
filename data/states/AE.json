@@ -1,0 +1,85 @@
+[
+  {
+    "code": "AZ",
+    "name": "Emirate of Abu Dhabi",
+    "names": {
+      "ja": "アブダビ首長国",
+      "ko": "아부다비의 토후국",
+      "vi": "Abu Dhabi",
+      "id": "Abu Dhabi Emirate",
+      "zh-Hans": "阿布扎比酋长国",
+      "zh-Hant": "阿布達比酋長國"
+    }
+  },
+  {
+    "code": "AJ",
+    "name": "Emirate of Ajman",
+    "names": {
+      "ja": "アジュマーン",
+      "ko": "아지만 토후국",
+      "vi": "Ajman",
+      "id": "Ajman",
+      "zh-Hans": "阿治曼酋长国",
+      "zh-Hant": "阿治曼酋長國"
+    }
+  },
+  {
+    "code": "DU",
+    "name": "Emirate of Dubai",
+    "names": {
+      "ja": "ドバイ首長国",
+      "ko": "두바이 토후국",
+      "vi": "Emirate of Dubai",
+      "id": "Keamiran Dubai",
+      "zh-Hans": "迪拜酋长国",
+      "zh-Hant": "杜拜酋長國"
+    }
+  },
+  {
+    "code": "FU",
+    "name": "Emirate of Fujairah",
+    "names": {
+      "ja": "フジャイラ",
+      "ko": "푸자이라 토후국",
+      "vi": "Fujairah",
+      "id": "Fujairah",
+      "zh-Hans": "富查伊拉酋长国"
+    }
+  },
+  {
+    "code": "SH",
+    "name": "Emirate of Sharjah",
+    "names": {
+      "ja": "シャールジャ",
+      "ko": "샤르자 토후국",
+      "vi": "Sharjah",
+      "id": "Sharjah",
+      "zh-Hans": "沙迦酋长国",
+      "zh-Hant": "沙迦酋長國"
+    }
+  },
+  {
+    "code": "UQ",
+    "name": "Emirate of Umm Al Quwain",
+    "names": {
+      "ja": "ウンム・アル＝カイワイン",
+      "ko": "움알쿠와인 토후국",
+      "vi": "Umm al-Quwain",
+      "id": "Umm al-Qaiwain",
+      "zh-Hans": "乌姆盖万酋长国",
+      "zh-Hant": "烏姆蓋萬酋長國"
+    }
+  },
+  {
+    "code": "RK",
+    "name": "Ras Al Khaimah",
+    "names": {
+      "ja": "ラアス・アル＝ハイマ",
+      "ko": "라스알카이마 토후국",
+      "vi": "Ras al-Khaimah",
+      "id": "Ras al-Khaimah",
+      "zh-Hans": "哈伊马角酋长国",
+      "zh-Hant": "拉斯海瑪酋長國"
+    }
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "code": "01",
+    "name": "Anse la Raye Quarter",
+    "names": {
+      "ja": "アンス・ラ・レイ地区",
+      "ko": "앙스라레구",
+      "vi": "Anse la Raye",
+      "id": "Anse la Raye Quarter",
+      "zh-Hans": "昂斯拉雷区"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Canaries",
+    "names": {
+      "ja": "カナリアス",
+      "ko": "카나리아",
+      "vi": "Canaries",
+      "id": "Canaries",
+      "zh-Hans": "卡納里斯"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Castries Quarter",
+    "names": {
+      "ja": "カストリーズ地区",
+      "ko": "캐스트리스구",
+      "vi": "Castries (quận)",
+      "id": "Kuarter Castries",
+      "zh-Hans": "卡斯特里區"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Choiseul Quarter",
+    "names": {
+      "ja": "ショゼール地区",
+      "ko": "슈아죌구",
+      "vi": "Choiseul (quận)",
+      "id": "Kuarter Choiseul",
+      "zh-Hans": "舒瓦瑟爾區"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Dennery Quarter",
+    "names": {
+      "ja": "デナリー地区",
+      "ko": "데네리구",
+      "vi": "Dennery (quận)",
+      "id": "Dennery Quarter",
+      "zh-Hans": "登内里区"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Gros Islet Quarter",
+    "names": {
+      "ja": "グロス・イスレット地区",
+      "ko": "그로스아일렛구",
+      "vi": "Gros Islet",
+      "id": "Gros Islet Quarter",
+      "zh-Hans": "格罗斯伊斯勒区"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Laborie Quarter",
+    "names": {
+      "ja": "ラボリー地区",
+      "ko": "라보리구",
+      "vi": "Laborie",
+      "id": "Laborie Quarter",
+      "zh-Hans": "拉博列区"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Micoud Quarter",
+    "names": {
+      "ja": "ミクッド地区",
+      "ko": "미쿠구",
+      "vi": "Micoud",
+      "id": "Micoud Quarter",
+      "zh-Hans": "米库区"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Soufrière Quarter",
+    "names": {
+      "ja": "スフレ",
+      "ko": "수프리에르구",
+      "vi": "Soufrière",
+      "id": "Kuarter Soufrière",
+      "zh-Hans": "苏弗里耶尔区",
+      "zh-Hant": "蘇弗里耶爾區"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Vieux Fort Quarter",
+    "names": {
+      "ja": "ビュー・フォート",
+      "ko": "비외포르구",
+      "vi": "Vieux Fort",
+      "id": "Vieux Fort Quarter",
+      "zh-Hans": "伯堡区",
+      "zh-Hant": "伯堡區"
+    }
+  }
+]

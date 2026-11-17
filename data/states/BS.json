@@ -1,0 +1,335 @@
+[
+  {
+    "code": "AK",
+    "name": "Acklins",
+    "names": {
+      "ja": "アクリンズ"
+    }
+  },
+  {
+    "code": "BY",
+    "name": "Berry Islands",
+    "names": {
+      "ja": "ベリー諸島",
+      "ko": "베리 제도",
+      "vi": "Quần Đảo Berry",
+      "id": "Kepulauan Berry",
+      "zh-Hans": "贝里群岛",
+      "zh-Hant": "Berry羣島"
+    }
+  },
+  {
+    "code": "BI",
+    "name": "Bimini",
+    "names": {
+      "ja": "ビミニ",
+      "ko": "비미니",
+      "vi": "Bimini",
+      "id": "Bimini",
+      "zh-Hans": "北比米尼岛",
+      "zh-Hant": "比米尼島"
+    }
+  },
+  {
+    "code": "BP",
+    "name": "Black Point",
+    "names": {
+      "ja": "ブラック・ポイント",
+      "ko": "블랙포인트",
+      "vi": "Black Point",
+      "id": "Black Point"
+    }
+  },
+  {
+    "code": "CI",
+    "name": "Cat Island",
+    "names": {
+      "ja": "キャット島",
+      "ko": "캣섬",
+      "vi": "Đảo Cat",
+      "id": "Pulau Cat",
+      "zh-Hans": "卡特岛"
+    }
+  },
+  {
+    "code": "CO",
+    "name": "Central Abaco",
+    "names": {
+      "ja": "セントラル・アバコ",
+      "ko": "센트럴아바코",
+      "vi": "Miền Trung Abaco",
+      "id": "Central Abaco",
+      "zh-Hans": "中阿巴科"
+    }
+  },
+  {
+    "code": "CS",
+    "name": "Central Andros",
+    "names": {
+      "ja": "セントラル・アンドロス",
+      "ko": "센트럴안드로스",
+      "vi": "Miền Trung Andros",
+      "id": "Central Andros"
+    }
+  },
+  {
+    "code": "CE",
+    "name": "Central Eleuthera",
+    "names": {
+      "ja": "セントラル・エルーセラ",
+      "ko": "센트럴일루서라",
+      "vi": "Miền Trung Eleuthera",
+      "id": "Central Eleuthera"
+    }
+  },
+  {
+    "code": "CK",
+    "name": "Crooked Island",
+    "names": {
+      "ja": "クルックド島",
+      "ko": "크루커드섬",
+      "vi": "Đảo Crooked",
+      "id": "Pulau Crooked, Bahama",
+      "zh-Hans": "克鲁克德岛 (巴哈马)",
+      "zh-Hant": "克魯克德島"
+    }
+  },
+  {
+    "code": "EG",
+    "name": "East Grand Bahama",
+    "names": {
+      "ja": "イースト・グランド・バハマ",
+      "ko": "이스트그랜드바하마",
+      "vi": "Đông Grand Bahama",
+      "id": "Grand Bahama Timur",
+      "zh-Hans": "东大巴哈马区"
+    }
+  },
+  {
+    "code": "EX",
+    "name": "Exuma",
+    "names": {
+      "ja": "エグズーマ",
+      "ko": "엑수마",
+      "vi": "Exuma",
+      "id": "Exuma",
+      "zh-Hans": "埃克苏马",
+      "zh-Hant": "大埃克蘇馬島"
+    }
+  },
+  {
+    "code": "FP",
+    "name": "Freeport",
+    "names": {
+      "ja": "フリーポート",
+      "ko": "프리포트",
+      "vi": "Freeport",
+      "id": "Freeport",
+      "zh-Hans": "弗里波特",
+      "zh-Hant": "弗里波特"
+    }
+  },
+  {
+    "code": "GC",
+    "name": "Grand Cay",
+    "names": {
+      "ja": "グランド・キー",
+      "ko": "그랜드케이",
+      "vi": "Grand Cay",
+      "id": "Grand Cay"
+    }
+  },
+  {
+    "code": "HI",
+    "name": "Harbour Island",
+    "names": {
+      "ja": "ハーバー島",
+      "ko": "하버섬",
+      "vi": "Đảo Harbour",
+      "id": "Pulau Harbour, Bahama",
+      "zh-Hans": "哈勃岛",
+      "zh-Hant": "哈勃島"
+    }
+  },
+  {
+    "code": "HT",
+    "name": "Hope Town",
+    "names": {
+      "ja": "ホープ・タウン",
+      "ko": "호프타운",
+      "vi": "Hope Town",
+      "id": "Hope Town",
+      "zh-Hans": "希望镇"
+    }
+  },
+  {
+    "code": "IN",
+    "name": "Inagua",
+    "names": {
+      "ja": "イナグア島",
+      "ko": "이나과섬",
+      "vi": "Inagua",
+      "id": "Inagua",
+      "zh-Hans": "那瓜岛",
+      "zh-Hant": "那瓜島"
+    }
+  },
+  {
+    "code": "LI",
+    "name": "Long Island",
+    "names": {
+      "ja": "ロング島",
+      "ko": "롱섬",
+      "vi": "Long Island",
+      "id": "Pulau Panjang",
+      "zh-Hans": "长岛",
+      "zh-Hant": "長島"
+    }
+  },
+  {
+    "code": "MC",
+    "name": "Mangrove Cay",
+    "names": {
+      "ja": "マングローブ・キー",
+      "ko": "맹그로브케이",
+      "vi": "Mangrove Cay",
+      "id": "Mangrove Cay"
+    }
+  },
+  {
+    "code": "MG",
+    "name": "Mayaguana District",
+    "names": {}
+  },
+  {
+    "code": "MI",
+    "name": "Moore's Island District",
+    "names": {}
+  },
+  {
+    "code": "NP",
+    "name": "New Providence",
+    "names": {
+      "ja": "ニュープロビデンス"
+    }
+  },
+  {
+    "code": "NO",
+    "name": "North Abaco",
+    "names": {
+      "ja": "ノース・アバコ",
+      "ko": "노스아바코",
+      "vi": "Bắc Abaco",
+      "id": "North Abaco",
+      "zh-Hans": "北阿巴科区"
+    }
+  },
+  {
+    "code": "NS",
+    "name": "North Andros",
+    "names": {
+      "ja": "ノース・アンドロス",
+      "ko": "노스안드로스",
+      "vi": "Bắc Andros",
+      "id": "Andros Utara",
+      "zh-Hans": "北安德罗斯岛",
+      "zh-Hant": "北安德羅斯島"
+    }
+  },
+  {
+    "code": "NE",
+    "name": "North Eleuthera",
+    "names": {
+      "ja": "ノース・エルーセラ",
+      "ko": "노스일루서라",
+      "vi": "Bắc Eleuthera",
+      "id": "North Eleuthera",
+      "zh-Hans": "北伊柳塞拉"
+    }
+  },
+  {
+    "code": "RI",
+    "name": "Ragged Island",
+    "names": {
+      "ja": "ラグド島",
+      "ko": "래기드섬",
+      "vi": "Đảo Ragged",
+      "id": "Pulau Ragged, Bahama",
+      "zh-Hans": "拉吉德岛"
+    }
+  },
+  {
+    "code": "RC",
+    "name": "Rum Cay District",
+    "names": {
+      "ja": "ラム・キー"
+    }
+  },
+  {
+    "code": "SS",
+    "name": "San Salvador Island",
+    "names": {
+      "ja": "サン・サルバドル島",
+      "ko": "산살바도르섬",
+      "vi": "Đảo San Salvador",
+      "id": "Pulau San Salvador",
+      "zh-Hans": "圣萨尔瓦多岛",
+      "zh-Hant": "聖薩爾瓦多島"
+    }
+  },
+  {
+    "code": "SO",
+    "name": "South Abaco",
+    "names": {
+      "ja": "サウス・アバコ",
+      "ko": "사우스아바코",
+      "vi": "Nam Abaco",
+      "id": "South Abaco",
+      "zh-Hans": "南阿巴科区"
+    }
+  },
+  {
+    "code": "SA",
+    "name": "South Andros",
+    "names": {
+      "ja": "サウス・アンドロス",
+      "ko": "사우스안드로스",
+      "vi": "Nam Andros",
+      "id": "Andros Selatan",
+      "zh-Hans": "南安德罗斯"
+    }
+  },
+  {
+    "code": "SE",
+    "name": "South Eleuthera",
+    "names": {
+      "ja": "サウス・エルーサラ",
+      "ko": "사우스일루서라",
+      "vi": "Nam Eleuthera",
+      "id": "South Eleuthera",
+      "zh-Hans": "南伊柳塞拉"
+    }
+  },
+  {
+    "code": "SW",
+    "name": "Spanish Wells",
+    "names": {
+      "ja": "スパニッシュ・ウェルズ",
+      "ko": "스패니시웰스",
+      "vi": "Spanish Wells",
+      "id": "Spanish Wells",
+      "zh-Hans": "西艦井"
+    }
+  },
+  {
+    "code": "WG",
+    "name": "West Grand Bahama",
+    "names": {
+      "ja": "ウェスト・グランド・バハマ",
+      "ko": "웨스트그랜드바하마",
+      "vi": "Tây Grand Bahama",
+      "id": "Grand Bahama Barat",
+      "zh-Hans": "西大巴哈馬島區"
+    }
+  }
+]

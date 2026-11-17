@@ -1,0 +1,211 @@
+[
+  {
+    "code": "01",
+    "name": "Ba",
+    "names": {
+      "ja": "バ州",
+      "ko": "바주",
+      "vi": "Ba (tỉnh)",
+      "zh-Hans": "姆巴省",
+      "zh-Hant": "姆巴省"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Bua",
+    "names": {
+      "ja": "ブア州",
+      "ko": "부아주",
+      "vi": "Bua",
+      "zh-Hans": "布阿省",
+      "zh-Hant": "布阿省"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Cakaudrove",
+    "names": {
+      "ja": "ザカウドロベ州",
+      "ko": "다카운드로베주",
+      "vi": "Cakaudrove",
+      "zh-Hans": "萨考恩德罗韦省"
+    }
+  },
+  {
+    "code": "C",
+    "name": "Central Division",
+    "names": {
+      "ja": "中央地域",
+      "ko": "중부구",
+      "vi": "Khu vực Trung tâm, Fiji",
+      "id": "Central Division",
+      "zh-Hans": "中央大区 (斐济)"
+    }
+  },
+  {
+    "code": "E",
+    "name": "Eastern Division",
+    "names": {
+      "ja": "東部地域",
+      "ko": "동부구",
+      "vi": "Khu vực Đông, Fiji",
+      "id": "Divisi Timur, Fiji",
+      "zh-Hans": "东部大区"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Kadavu",
+    "names": {
+      "ja": "カンダブ水路",
+      "ko": "칸다부주",
+      "vi": "Kadavu",
+      "zh-Hans": "坎达武省",
+      "zh-Hant": "坎達武省"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Lau",
+    "names": {
+      "ja": "ラウ州",
+      "ko": "라우주",
+      "vi": "Lau",
+      "zh-Hans": "劳省"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Lomaiviti",
+    "names": {
+      "ja": "ロマイビティ州",
+      "ko": "로마이비치주",
+      "vi": "Lomaiviti",
+      "zh-Hans": "洛迈维蒂省"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Macuata",
+    "names": {
+      "ja": "マズアタ州",
+      "ko": "마두아타주",
+      "vi": "Macuata",
+      "zh-Hans": "马苏阿塔省",
+      "zh-Hant": "馬蘇阿塔省"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Nadroga-Navosa",
+    "names": {
+      "ja": "ナドロガ・ナボサ州",
+      "ko": "난드로가나보사주",
+      "vi": "Nadroga-Navosa",
+      "zh-Hans": "楠德龙加-纳沃萨省",
+      "zh-Hant": "楠德龍加-納沃薩省"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Naitasiri",
+    "names": {
+      "ja": "ナイタシリ州",
+      "ko": "나이타시리주",
+      "vi": "Naitasiri",
+      "zh-Hans": "奈塔西里省",
+      "zh-Hant": "奈塔西里省"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Namosi",
+    "names": {
+      "ja": "ナモシ州",
+      "ko": "나모시주",
+      "vi": "Namosi",
+      "zh-Hans": "纳莫西省",
+      "zh-Hant": "納莫西省"
+    }
+  },
+  {
+    "code": "N",
+    "name": "Northern Division",
+    "names": {
+      "ja": "北部地域",
+      "ko": "북부구",
+      "vi": "Khu vực Bắc",
+      "id": "Divisi Utara, Fiji",
+      "zh-Hans": "北部区",
+      "zh-Hant": "北部區"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Ra",
+    "names": {
+      "ja": "ラ州",
+      "ko": "라주",
+      "vi": "Ra",
+      "zh-Hans": "拉省",
+      "zh-Hant": "拉省"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Rewa",
+    "names": {
+      "ja": "レワ州",
+      "ko": "레와주",
+      "vi": "Rewa",
+      "zh-Hans": "雷瓦省",
+      "zh-Hant": "雷瓦省"
+    }
+  },
+  {
+    "code": "R",
+    "name": "Rotuma",
+    "names": {
+      "ja": "ロツマ",
+      "ko": "로투마",
+      "vi": "Rotuma",
+      "id": "Rotuma",
+      "zh-Hans": "罗图马岛",
+      "zh-Hant": "羅圖馬島"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Serua",
+    "names": {
+      "ja": "セルア州",
+      "ko": "세루아주",
+      "vi": "Serua",
+      "zh-Hans": "塞鲁阿省",
+      "zh-Hant": "塞魯阿省"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Tailevu",
+    "names": {
+      "ja": "タイレブ州",
+      "ko": "타일레부주",
+      "vi": "Tailevu",
+      "zh-Hans": "泰莱武省",
+      "zh-Hant": "泰萊武省"
+    }
+  },
+  {
+    "code": "W",
+    "name": "Western Division",
+    "names": {
+      "ja": "西部地域",
+      "ko": "서부구",
+      "vi": "Khu vực Tây",
+      "id": "Divisi Barat, Fiji",
+      "zh-Hans": "西部区",
+      "zh-Hant": "西部區"
+    }
+  }
+]

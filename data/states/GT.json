@@ -1,0 +1,262 @@
+[
+  {
+    "code": "16",
+    "name": "Alta Verapaz Department",
+    "names": {
+      "ja": "アルタ・ベラパス県",
+      "ko": "알타베라파스주",
+      "vi": "Alta Verapaz",
+      "id": "Alta Verapaz",
+      "zh-Hans": "上韦拉帕斯省",
+      "zh-Hant": "上韋拉帕斯省"
+    }
+  },
+  {
+    "code": "15",
+    "name": "Baja Verapaz Department",
+    "names": {
+      "ja": "バハ・ベラパス県",
+      "ko": "바하베라파스주",
+      "vi": "Baja Verapaz",
+      "id": "Baja Verapaz",
+      "zh-Hans": "下维拉帕斯省",
+      "zh-Hant": "下維拉帕斯省"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Chimaltenango Department",
+    "names": {
+      "ja": "チマルテナンゴ県",
+      "ko": "치말테낭고주",
+      "vi": "Khu vực hành chính Chimaltenango",
+      "id": "Departemen Chimaltenango",
+      "zh-Hans": "奇马尔特南戈省",
+      "zh-Hant": "奇馬爾特南戈省"
+    }
+  },
+  {
+    "code": "20",
+    "name": "Chiquimula Department",
+    "names": {
+      "ja": "チキムラ県",
+      "ko": "치키물라주",
+      "vi": "Chiquimula",
+      "id": "Departemen Chiquimula",
+      "zh-Hans": "奇基穆拉省",
+      "zh-Hant": "奇基穆拉省"
+    }
+  },
+  {
+    "code": "02",
+    "name": "El Progreso Department",
+    "names": {
+      "ja": "エル・プログレソ県",
+      "ko": "엘프로그레소주",
+      "vi": "El Progreso",
+      "id": "Departemen El Progreso",
+      "zh-Hans": "普罗格雷索省",
+      "zh-Hant": "普羅格雷索省"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Escuintla Department",
+    "names": {
+      "ja": "エスクィントラ県",
+      "ko": "에스쿠인틀라주",
+      "vi": "Escuintla",
+      "id": "Departemen Escuintla",
+      "zh-Hans": "埃斯昆特拉省",
+      "zh-Hant": "埃斯昆特拉省"
+    }
+  },
+  {
+    "code": "01",
+    "name": "Guatemala Department",
+    "names": {
+      "ja": "グアテマラ県",
+      "ko": "과테말라주",
+      "vi": "Guatemala",
+      "id": "Departemen Guatemala",
+      "zh-Hans": "瓜地马拉省",
+      "zh-Hant": "瓜地馬拉省"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Huehuetenango Department",
+    "names": {
+      "ja": "ウェウェテナンゴ県",
+      "ko": "우에우에테낭고주",
+      "vi": "Huehuetenango",
+      "id": "Departemen Huehuetenango",
+      "zh-Hans": "韦韦特南戈省",
+      "zh-Hant": "韋韋特南戈省"
+    }
+  },
+  {
+    "code": "18",
+    "name": "Izabal Department",
+    "names": {
+      "ja": "イサバル県",
+      "ko": "이사발주",
+      "vi": "Izabal",
+      "id": "Departemen Izabal",
+      "zh-Hans": "伊萨瓦尔省",
+      "zh-Hant": "伊薩瓦爾省"
+    }
+  },
+  {
+    "code": "21",
+    "name": "Jalapa Department",
+    "names": {
+      "ja": "ハラパ県",
+      "ko": "할라파주",
+      "vi": "Jalapa",
+      "id": "Departemen Jalapa",
+      "zh-Hans": "哈拉帕省",
+      "zh-Hant": "哈拉帕省"
+    }
+  },
+  {
+    "code": "22",
+    "name": "Jutiapa Department",
+    "names": {
+      "ja": "フティアパ県",
+      "ko": "후티아파주",
+      "vi": "Jutiapa",
+      "id": "Jutiapa Department",
+      "zh-Hans": "胡蒂亚帕省",
+      "zh-Hant": "胡蒂亞帕省"
+    }
+  },
+  {
+    "code": "17",
+    "name": "Petén Department",
+    "names": {
+      "ja": "ペテン県",
+      "ko": "페텐주",
+      "vi": "Khu vực hành chính Petén",
+      "id": "Departemen El Petén",
+      "zh-Hans": "贝登省",
+      "zh-Hant": "貝登省"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Quetzaltenango Department",
+    "names": {
+      "ja": "ケツァルテナンゴ県",
+      "ko": "케찰테낭고주",
+      "vi": "Quetzaltenango",
+      "id": "Departemen Quetzaltenango",
+      "zh-Hans": "克萨尔特南戈省",
+      "zh-Hant": "克薩爾特南戈省"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Quiché Department",
+    "names": {
+      "ja": "キチェ県",
+      "ko": "키체주",
+      "vi": "Quiché",
+      "id": "Departemen El Quiché",
+      "zh-Hans": "基切省"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Retalhuleu Department",
+    "names": {
+      "ja": "レタルレウ県",
+      "ko": "레탈룰레우주",
+      "vi": "Retalhuleu",
+      "id": "Departemen Retalhuleu",
+      "zh-Hans": "雷塔卢莱乌省",
+      "zh-Hant": "雷塔盧萊烏省"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Sacatepéquez Department",
+    "names": {
+      "ja": "サカテペケス県",
+      "ko": "사카테페케스주",
+      "vi": "Sacatepéquez",
+      "id": "Departemen Sacatepéquez",
+      "zh-Hans": "萨卡特佩克斯省"
+    }
+  },
+  {
+    "code": "12",
+    "name": "San Marcos Department",
+    "names": {
+      "ja": "サン・マルコス県",
+      "ko": "산마르코스주",
+      "vi": "San Marcos",
+      "id": "Departemen San Marcos",
+      "zh-Hans": "圣马科斯省",
+      "zh-Hant": "聖馬科斯省"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Santa Rosa Department",
+    "names": {
+      "ja": "サンタ・ローサ県",
+      "ko": "산타로사주",
+      "vi": "Santa Rosa",
+      "id": "Departemen Santa Rosa",
+      "zh-Hans": "圣罗萨省",
+      "zh-Hant": "聖羅薩省"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Sololá Department",
+    "names": {
+      "ja": "ソロラ県",
+      "ko": "솔롤라주",
+      "vi": "Sololá",
+      "id": "Departemen Sololá",
+      "zh-Hans": "索洛拉省"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Suchitepéquez Department",
+    "names": {
+      "ja": "スチテペケス県",
+      "ko": "수치테페케스주",
+      "vi": "Suchitepéquez",
+      "id": "Departemen Suchitepequez",
+      "zh-Hans": "苏奇特佩克斯省",
+      "zh-Hant": "蘇奇特佩克斯省"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Totonicapán Department",
+    "names": {
+      "ja": "トトニカパン県",
+      "ko": "토토니카판주",
+      "vi": "Totonicapán",
+      "id": "Totonicapán Department",
+      "zh-Hans": "托托尼卡潘省",
+      "zh-Hant": "托托尼卡潘省"
+    }
+  },
+  {
+    "code": "19",
+    "name": "Zacapa Department",
+    "names": {
+      "ja": "サカパ県",
+      "ko": "사카파주",
+      "vi": "Zacapa",
+      "id": "Departemen Zacapa",
+      "zh-Hans": "萨卡帕省"
+    }
+  }
+]

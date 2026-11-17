@@ -1,0 +1,972 @@
+[
+  {
+    "code": "AD",
+    "name": "Adygea",
+    "names": {
+      "ja": "アディゲ共和国",
+      "ko": "아디게야 공화국",
+      "vi": "Adygea",
+      "id": "Adygea",
+      "zh-Hans": "阿迪格共和国",
+      "zh-Hant": "阿迪格共和國"
+    }
+  },
+  {
+    "code": "ALT",
+    "name": "Altai Krai",
+    "names": {
+      "ja": "アルタイ地方",
+      "ko": "알타이 변경주",
+      "vi": "Altai",
+      "id": "Krai Altai",
+      "zh-Hans": "阿尔泰边疆区",
+      "zh-Hant": "阿爾泰邊疆區"
+    }
+  },
+  {
+    "code": "AL",
+    "name": "Altai Republic",
+    "names": {
+      "ja": "アルタイ共和国",
+      "ko": "알타이 공화국",
+      "vi": "Cộng hòa Altai",
+      "id": "Republik Altai",
+      "zh-Hans": "阿尔泰共和国"
+    }
+  },
+  {
+    "code": "AMU",
+    "name": "Amur Oblast",
+    "names": {
+      "ja": "アムール州",
+      "ko": "아무르주",
+      "vi": "Amur",
+      "id": "Oblast Amur",
+      "zh-Hans": "阿穆尔州"
+    }
+  },
+  {
+    "code": "ARK",
+    "name": "Arkhangelsk Oblast",
+    "names": {
+      "ja": "アルハンゲリスク州",
+      "ko": "아르한겔스크주",
+      "vi": "Arkhangelsk",
+      "id": "Oblast Arkhangelsk",
+      "zh-Hans": "阿尔汉格尔斯克州",
+      "zh-Hant": "阿尔汉格尔斯克州"
+    }
+  },
+  {
+    "code": "AST",
+    "name": "Astrakhan Oblast",
+    "names": {
+      "ja": "アストラハン州",
+      "ko": "아스트라한주",
+      "vi": "Astrakhan",
+      "id": "Oblast Astrakhan",
+      "zh-Hans": "阿斯特拉罕州",
+      "zh-Hant": "阿斯特拉罕州"
+    }
+  },
+  {
+    "code": "BA",
+    "name": "Bashkortostan",
+    "names": {
+      "ja": "バシコルトスタン共和国",
+      "ko": "바시코르토스탄 공화국",
+      "vi": "Bashkortostan",
+      "id": "Bashkortostan",
+      "zh-Hans": "巴什科尔托斯坦共和国",
+      "zh-Hant": "巴什科爾托斯坦共和國"
+    }
+  },
+  {
+    "code": "BEL",
+    "name": "Belgorod Oblast",
+    "names": {
+      "ja": "ベルゴロド州",
+      "ko": "벨고로드주",
+      "vi": "Belgorod",
+      "id": "Oblast Belgorod",
+      "zh-Hans": "别尔哥罗德州",
+      "zh-Hant": "別爾哥羅德州"
+    }
+  },
+  {
+    "code": "BRY",
+    "name": "Bryansk Oblast",
+    "names": {
+      "ja": "ブリャンスク州",
+      "ko": "브랸스크주",
+      "vi": "Bryansk",
+      "id": "Oblast Bryansk",
+      "zh-Hans": "布良斯克州"
+    }
+  },
+  {
+    "code": "BU",
+    "name": "Buryatia",
+    "names": {
+      "ja": "ブリヤート共和国",
+      "ko": "부랴티야 공화국",
+      "vi": "Buryatia",
+      "id": "Buryatia",
+      "zh-Hans": "布里亚特共和国"
+    }
+  },
+  {
+    "code": "CE",
+    "name": "Chechnya",
+    "names": {
+      "ja": "チェチェン共和国",
+      "ko": "체첸 공화국",
+      "vi": "Chechnya",
+      "id": "Chechnya",
+      "zh-Hans": "车臣共和国",
+      "zh-Hant": "車臣共和國"
+    }
+  },
+  {
+    "code": "CHE",
+    "name": "Chelyabinsk Oblast",
+    "names": {
+      "ja": "チェリャビンスク州",
+      "ko": "첼랴빈스크주",
+      "vi": "Chelyabinsk",
+      "id": "Oblast Chelyabinsk",
+      "zh-Hans": "车里雅宾斯克州",
+      "zh-Hant": "車里雅賓斯克州"
+    }
+  },
+  {
+    "code": "CHU",
+    "name": "Chukotka Autonomous Okrug",
+    "names": {
+      "ja": "チュクチ自治管区",
+      "ko": "추코트카 자치구",
+      "vi": "Khu tự trị Chukotka",
+      "id": "Okrug Otonom Chukotka",
+      "zh-Hans": "楚科奇自治区"
+    }
+  },
+  {
+    "code": "CU",
+    "name": "Chuvashia",
+    "names": {
+      "ja": "チュヴァシ共和国",
+      "ko": "추바시야 공화국",
+      "vi": "Chuvashia",
+      "id": "Chuvashia",
+      "zh-Hans": "楚瓦什共和国",
+      "zh-Hant": "楚瓦什共和國"
+    }
+  },
+  {
+    "code": "DA",
+    "name": "Dagestan",
+    "names": {
+      "ja": "ダゲスタン共和国",
+      "ko": "다게스탄 공화국",
+      "vi": "Dagestan",
+      "id": "Dagestan",
+      "zh-Hans": "达吉斯坦共和国",
+      "zh-Hant": "達吉斯坦共和國"
+    }
+  },
+  {
+    "code": "IN",
+    "name": "Ingushetia",
+    "names": {
+      "ja": "イングーシ共和国",
+      "ko": "인구셰티야 공화국",
+      "vi": "Ingushetiya",
+      "id": "Ingushetia",
+      "zh-Hans": "印古什共和国"
+    }
+  },
+  {
+    "code": "IRK",
+    "name": "Irkutsk Oblast",
+    "names": {
+      "ja": "イルクーツク州",
+      "ko": "이르쿠츠크주",
+      "vi": "Irkutsk",
+      "id": "Oblast Irkutsk",
+      "zh-Hans": "伊爾庫茨克州",
+      "zh-Hant": "伊爾庫茨克州"
+    }
+  },
+  {
+    "code": "IVA",
+    "name": "Ivanovo Oblast",
+    "names": {
+      "ja": "イヴァノヴォ州",
+      "ko": "이바노보주",
+      "vi": "Ivanovo",
+      "id": "Oblast Ivanovo",
+      "zh-Hans": "伊万诺沃州",
+      "zh-Hant": "伊萬諾沃州"
+    }
+  },
+  {
+    "code": "YEV",
+    "name": "Jewish Autonomous Oblast",
+    "names": {
+      "ja": "ユダヤ自治州",
+      "ko": "유대인 자치주",
+      "vi": "Tỉnh tự trị Do Thái",
+      "id": "Oblast Otonom Yahudi",
+      "zh-Hans": "犹太自治州"
+    }
+  },
+  {
+    "code": "KB",
+    "name": "Kabardino-Balkaria",
+    "names": {
+      "ja": "カバルダ・バルカル共和国",
+      "ko": "카바르디노발카리야 공화국",
+      "vi": "Kabardino-Balkaria",
+      "id": "Kabardino-Balkaria",
+      "zh-Hans": "卡巴尔达-巴尔卡尔共和国"
+    }
+  },
+  {
+    "code": "KGD",
+    "name": "Kaliningrad Oblast",
+    "names": {
+      "ja": "カリーニングラード州",
+      "ko": "칼리닌그라드주",
+      "vi": "tỉnh Kaliningrad",
+      "id": "Oblast Kaliningrad",
+      "zh-Hans": "加里宁格勒州"
+    }
+  },
+  {
+    "code": "KL",
+    "name": "Kalmykia",
+    "names": {
+      "ja": "カルムイク共和国",
+      "ko": "칼미키야 공화국",
+      "vi": "Kalmykia",
+      "id": "Kalmykia",
+      "zh-Hans": "卡尔梅克共和国"
+    }
+  },
+  {
+    "code": "KLU",
+    "name": "Kaluga Oblast",
+    "names": {
+      "ja": "カルーガ州",
+      "ko": "칼루가주",
+      "vi": "Kaluga",
+      "id": "Oblast Kaluga",
+      "zh-Hans": "卡卢加州",
+      "zh-Hant": "卡盧加州"
+    }
+  },
+  {
+    "code": "KAM",
+    "name": "Kamchatka Krai",
+    "names": {
+      "ja": "カムチャツカ地方",
+      "ko": "캄차카 변경주",
+      "vi": "Kamchatka",
+      "id": "Krai Kamchatka",
+      "zh-Hans": "堪察加邊疆區",
+      "zh-Hant": "堪察加邊疆區"
+    }
+  },
+  {
+    "code": "KC",
+    "name": "Karachay-Cherkessia",
+    "names": {
+      "ja": "カラチャイ・チェルケス共和国",
+      "ko": "카라차예보체르케시야 공화국",
+      "vi": "Karachay-Cherkessia",
+      "id": "Karachay-Cherkessia",
+      "zh-Hans": "卡拉恰伊-切尔克斯共和国"
+    }
+  },
+  {
+    "code": "KEM",
+    "name": "Kemerovo Oblast",
+    "names": {
+      "ja": "ケメロヴォ州",
+      "ko": "케메로보주",
+      "vi": "Kemerovo",
+      "id": "Oblast Kemerovo",
+      "zh-Hans": "克麦罗沃州",
+      "zh-Hant": "克麥羅沃州"
+    }
+  },
+  {
+    "code": "KHA",
+    "name": "Khabarovsk Krai",
+    "names": {
+      "ja": "ハバロフスク地方",
+      "ko": "하바롭스크 변경주",
+      "vi": "Khabarovsk",
+      "id": "Krai Khabarovsk",
+      "zh-Hans": "哈巴罗夫斯克边疆区",
+      "zh-Hant": "哈巴羅夫斯克邊疆區"
+    }
+  },
+  {
+    "code": "KK",
+    "name": "Khakassia",
+    "names": {
+      "ja": "ハカス共和国",
+      "ko": "하카시야 공화국",
+      "vi": "Khakassia",
+      "id": "Khakassia",
+      "zh-Hans": "哈卡斯共和国"
+    }
+  },
+  {
+    "code": "KHM",
+    "name": "Khanty-Mansi Autonomous Okrug",
+    "names": {
+      "ja": "ハンティ・マンシ自治管区・ユグラ",
+      "ko": "한티만시 자치구",
+      "vi": "Khantia-Mansia",
+      "id": "Khantia-Mansia",
+      "zh-Hans": "汉特-曼西自治区"
+    }
+  },
+  {
+    "code": "KIR",
+    "name": "Kirov Oblast",
+    "names": {
+      "ja": "キーロフ州",
+      "ko": "키로프주",
+      "vi": "Kirov",
+      "id": "Oblast Kirov",
+      "zh-Hans": "基洛夫州",
+      "zh-Hant": "基洛夫州"
+    }
+  },
+  {
+    "code": "KO",
+    "name": "Komi Republic",
+    "names": {
+      "ja": "コミ共和国",
+      "ko": "코미 공화국",
+      "vi": "Cộng hòa Komi",
+      "id": "Republik Komi",
+      "zh-Hans": "科米共和国"
+    }
+  },
+  {
+    "code": "KOS",
+    "name": "Kostroma Oblast",
+    "names": {
+      "ja": "コストロマ州",
+      "ko": "코스트로마주",
+      "vi": "Kostroma",
+      "id": "Oblast Kostroma",
+      "zh-Hans": "科斯特罗马州"
+    }
+  },
+  {
+    "code": "KDA",
+    "name": "Krasnodar Krai",
+    "names": {
+      "ja": "クラスノダール地方",
+      "ko": "크라스노다르 변경주",
+      "vi": "Krasnodar",
+      "id": "Krai Krasnodar",
+      "zh-Hans": "克拉斯诺达尔边疆区",
+      "zh-Hant": "克拉斯诺达尔边疆区"
+    }
+  },
+  {
+    "code": "KYA",
+    "name": "Krasnoyarsk Krai",
+    "names": {
+      "ja": "クラスノヤルスク地方",
+      "ko": "크라스노야르스크 지방",
+      "vi": "Krasnoyarsk",
+      "id": "Krai Krasnoyarsk",
+      "zh-Hans": "克拉斯诺亚尔斯克边疆区"
+    }
+  },
+  {
+    "code": "KGN",
+    "name": "Kurgan Oblast",
+    "names": {
+      "ja": "クルガン州",
+      "ko": "쿠르간주",
+      "vi": "Kurgan",
+      "id": "Oblast Kurgan",
+      "zh-Hans": "库尔干州",
+      "zh-Hant": "庫爾干州"
+    }
+  },
+  {
+    "code": "KRS",
+    "name": "Kursk Oblast",
+    "names": {
+      "ja": "クルスク州",
+      "ko": "쿠르스크주",
+      "vi": "Kursk",
+      "id": "Oblast Kursk",
+      "zh-Hans": "库尔斯克州",
+      "zh-Hant": "庫爾斯克州"
+    }
+  },
+  {
+    "code": "LEN",
+    "name": "Leningrad Oblast",
+    "names": {
+      "ja": "レニングラード州",
+      "ko": "레닌그라드주",
+      "vi": "Leningrad",
+      "id": "Oblast Leningrad",
+      "zh-Hans": "列宁格勒州",
+      "zh-Hant": "列寧格勒州"
+    }
+  },
+  {
+    "code": "LIP",
+    "name": "Lipetsk Oblast",
+    "names": {
+      "ja": "リペツク州",
+      "ko": "리페츠크주",
+      "vi": "Lipetsk",
+      "id": "Oblast Lipetsk",
+      "zh-Hans": "利佩茨克州",
+      "zh-Hant": "利佩茨克州"
+    }
+  },
+  {
+    "code": "MAG",
+    "name": "Magadan Oblast",
+    "names": {
+      "ja": "マガダン州",
+      "ko": "마가단주",
+      "vi": "Magadan",
+      "id": "Oblast Magadan",
+      "zh-Hans": "马加丹州",
+      "zh-Hant": "馬加丹州"
+    }
+  },
+  {
+    "code": "ME",
+    "name": "Mari El",
+    "names": {
+      "ja": "マリ・エル共和国",
+      "ko": "마리옐 공화국",
+      "vi": "Cộng hòa Mari El",
+      "id": "Mari El",
+      "zh-Hans": "马里埃尔共和国"
+    }
+  },
+  {
+    "code": "MO",
+    "name": "Mordovia",
+    "names": {
+      "ja": "モルドヴィア共和国",
+      "ko": "모르도비야 공화국",
+      "vi": "Mordovia",
+      "id": "Mordovia",
+      "zh-Hans": "莫尔多瓦共和国",
+      "zh-Hant": "莫爾多維亞共和國"
+    }
+  },
+  {
+    "code": "MOW",
+    "name": "Moscow",
+    "names": {
+      "ja": "モスクワ",
+      "ko": "모스크바",
+      "vi": "Moskva",
+      "id": "Moskow",
+      "zh-Hans": "莫斯科",
+      "zh-Hant": "莫斯科"
+    }
+  },
+  {
+    "code": "MOS",
+    "name": "Moscow Oblast",
+    "names": {
+      "ja": "モスクワ州",
+      "ko": "모스크바주",
+      "vi": "Moskva",
+      "id": "Oblast Moskow",
+      "zh-Hans": "莫斯科州",
+      "zh-Hant": "莫斯科州"
+    }
+  },
+  {
+    "code": "MUR",
+    "name": "Murmansk Oblast",
+    "names": {
+      "ja": "ムルマンスク州",
+      "ko": "무르만스크주",
+      "vi": "Murmansk",
+      "id": "Oblast Murmansk",
+      "zh-Hans": "摩尔曼斯克州",
+      "zh-Hant": "摩爾曼斯克州"
+    }
+  },
+  {
+    "code": "NEN",
+    "name": "Nenets Autonomous Okrug",
+    "names": {
+      "ja": "ネネツ自治管区",
+      "ko": "네네츠 자치구",
+      "vi": "Nenetsia",
+      "id": "Nenetsia",
+      "zh-Hans": "涅涅茨自治区",
+      "zh-Hant": "涅涅茨自治区"
+    }
+  },
+  {
+    "code": "NIZ",
+    "name": "Nizhny Novgorod Oblast",
+    "names": {
+      "ja": "ニジニ・ノヴゴロド州",
+      "ko": "니즈니노브고로드주",
+      "vi": "Nizhny Novgorod",
+      "id": "Oblast Nizhny Novgorod",
+      "zh-Hans": "下诺夫哥罗德州",
+      "zh-Hant": "下諾夫哥羅德州"
+    }
+  },
+  {
+    "code": "SE",
+    "name": "North Ossetia–Alania",
+    "names": {
+      "ja": "北オセチア共和国",
+      "ko": "북오세티야-알라니야",
+      "vi": "Bắc Osetiya-Alaniya",
+      "id": "Ossetia Utara-Alania",
+      "zh-Hans": "北奥塞梯-阿兰共和国",
+      "zh-Hant": "北奧塞提亞-阿蘭共和國"
+    }
+  },
+  {
+    "code": "NGR",
+    "name": "Novgorod Oblast",
+    "names": {
+      "ja": "ノヴゴロド州",
+      "ko": "노브고로드주",
+      "vi": "Novgorod",
+      "id": "Oblast Novgorod",
+      "zh-Hans": "诺夫哥罗德州"
+    }
+  },
+  {
+    "code": "NVS",
+    "name": "Novosibirsk Oblast",
+    "names": {
+      "ja": "ノヴォシビルスク州",
+      "ko": "노보시비르스크주",
+      "vi": "Novosibirsk",
+      "id": "Oblast Novosibirsk",
+      "zh-Hans": "新西伯利亚州"
+    }
+  },
+  {
+    "code": "OMS",
+    "name": "Omsk Oblast",
+    "names": {
+      "ja": "オムスク州",
+      "ko": "옴스크주",
+      "vi": "Omsk",
+      "id": "Oblast Omsk",
+      "zh-Hans": "鄂木斯克州"
+    }
+  },
+  {
+    "code": "ORE",
+    "name": "Orenburg Oblast",
+    "names": {
+      "ja": "オレンブルク州",
+      "ko": "오렌부르크주",
+      "vi": "Orenburg",
+      "id": "Oblast Orenburg",
+      "zh-Hans": "奥伦堡州",
+      "zh-Hant": "奧倫堡"
+    }
+  },
+  {
+    "code": "ORL",
+    "name": "Oryol Oblast",
+    "names": {
+      "ja": "オリョール州",
+      "ko": "오룔주",
+      "vi": "Oryol",
+      "id": "Oblast Oryol",
+      "zh-Hans": "奥廖尔州",
+      "zh-Hant": "奧廖爾州"
+    }
+  },
+  {
+    "code": "PNZ",
+    "name": "Penza Oblast",
+    "names": {
+      "ja": "ペンザ州",
+      "ko": "펜자주",
+      "vi": "Penza",
+      "id": "Oblast Penza",
+      "zh-Hans": "奔萨州",
+      "zh-Hant": "奔薩州"
+    }
+  },
+  {
+    "code": "PER",
+    "name": "Perm Krai",
+    "names": {
+      "ja": "ペルミ地方",
+      "ko": "페름 변경주",
+      "vi": "Perm",
+      "id": "Krai Perm",
+      "zh-Hans": "彼尔姆边疆区",
+      "zh-Hant": "彼爾姆邊疆區"
+    }
+  },
+  {
+    "code": "PRI",
+    "name": "Primorsky Krai",
+    "names": {
+      "ja": "沿海地方",
+      "ko": "프리모르스키 변경주",
+      "vi": "Primorsky",
+      "id": "Krai Primorsky",
+      "zh-Hans": "滨海边疆区",
+      "zh-Hant": "普列莫爾斯基區"
+    }
+  },
+  {
+    "code": "PSK",
+    "name": "Pskov Oblast",
+    "names": {
+      "ja": "プスコフ州",
+      "ko": "프스코프주",
+      "vi": "Pskov",
+      "id": "Oblast Pskov",
+      "zh-Hans": "普斯科夫州",
+      "zh-Hant": "普斯科夫州"
+    }
+  },
+  {
+    "code": "KR",
+    "name": "Republic of Karelia",
+    "names": {
+      "ja": "カレリア共和国",
+      "ko": "카렐리야 공화국",
+      "vi": "Cộng hòa Kareliya",
+      "id": "Republik Karelia",
+      "zh-Hans": "卡累利阿共和国",
+      "zh-Hant": "卡累利阿共和国"
+    }
+  },
+  {
+    "code": "ROS",
+    "name": "Rostov Oblast",
+    "names": {
+      "ja": "ロストフ州",
+      "ko": "로스토프주",
+      "vi": "Rostov",
+      "id": "Oblast Rostov",
+      "zh-Hans": "罗斯托夫州",
+      "zh-Hant": "羅斯托夫州"
+    }
+  },
+  {
+    "code": "RYA",
+    "name": "Ryazan Oblast",
+    "names": {
+      "ja": "リャザン州",
+      "ko": "랴잔주",
+      "vi": "Ryazan",
+      "id": "Oblast Ryazan",
+      "zh-Hans": "梁赞州",
+      "zh-Hant": "梁贊州"
+    }
+  },
+  {
+    "code": "SPE",
+    "name": "Saint Petersburg",
+    "names": {
+      "ja": "サンクトペテルブルク",
+      "ko": "상트페테르부르크",
+      "vi": "Sankt-Peterburg",
+      "id": "Sankt-Peterburg",
+      "zh-Hans": "圣彼得堡",
+      "zh-Hant": "聖彼得堡"
+    }
+  },
+  {
+    "code": "SA",
+    "name": "Sakha Republic",
+    "names": {
+      "ja": "サハ共和国",
+      "ko": "사하 공화국",
+      "vi": "Cộng hòa Sakha",
+      "id": "Sakha",
+      "zh-Hans": "萨哈共和国",
+      "zh-Hant": "薩哈（雅庫特）共和國"
+    }
+  },
+  {
+    "code": "SAK",
+    "name": "Sakhalin Oblast",
+    "names": {
+      "ja": "サハリン州",
+      "ko": "사할린주",
+      "vi": "Sakhalin",
+      "id": "Oblast Sakhalin",
+      "zh-Hans": "萨哈林州",
+      "zh-Hant": "薩哈林州"
+    }
+  },
+  {
+    "code": "SAM",
+    "name": "Samara Oblast",
+    "names": {
+      "ja": "サマラ州",
+      "ko": "사마라주",
+      "vi": "Samara",
+      "id": "Oblast Samara",
+      "zh-Hans": "萨马拉州",
+      "zh-Hant": "薩馬拉州"
+    }
+  },
+  {
+    "code": "SAR",
+    "name": "Saratov Oblast",
+    "names": {
+      "ja": "サラトフ州",
+      "ko": "사라토프주",
+      "vi": "Saratov",
+      "id": "Oblast Saratov",
+      "zh-Hans": "萨拉托夫州",
+      "zh-Hant": "薩拉托夫州"
+    }
+  },
+  {
+    "code": "SMO",
+    "name": "Smolensk Oblast",
+    "names": {
+      "ja": "スモレンスク州",
+      "ko": "스몰렌스크주",
+      "vi": "Smolensk",
+      "id": "Oblast Smolensk",
+      "zh-Hans": "斯摩棱斯克州",
+      "zh-Hant": "斯摩棱斯克州"
+    }
+  },
+  {
+    "code": "STA",
+    "name": "Stavropol Krai",
+    "names": {
+      "ja": "スタヴロポリ地方",
+      "ko": "스타브로폴 지방",
+      "vi": "Stavropol",
+      "id": "Krai Stavropol",
+      "zh-Hans": "斯塔夫罗波尔边疆区",
+      "zh-Hant": "斯塔夫羅波爾邊疆區"
+    }
+  },
+  {
+    "code": "SVE",
+    "name": "Sverdlovsk Oblast",
+    "names": {
+      "ja": "スヴェルドロフスク州",
+      "ko": "스베르들롭스크주",
+      "vi": "Sverdlovsk",
+      "id": "Oblast Sverdlovsk",
+      "zh-Hans": "斯维尔德洛夫斯克州",
+      "zh-Hant": "斯維爾德洛夫斯克州"
+    }
+  },
+  {
+    "code": "TAM",
+    "name": "Tambov Oblast",
+    "names": {
+      "ja": "タンボフ州",
+      "ko": "탐보프주",
+      "vi": "Tambov",
+      "id": "Oblast Tambov",
+      "zh-Hans": "坦波夫州",
+      "zh-Hant": "坦波夫州"
+    }
+  },
+  {
+    "code": "TA",
+    "name": "Tatarstan",
+    "names": {
+      "ja": "タタールスタン共和国",
+      "ko": "타타르스탄 공화국",
+      "vi": "Tatarstan",
+      "id": "Tatarstan",
+      "zh-Hans": "鞑靼斯坦共和国",
+      "zh-Hant": "韃靼斯坦共和國"
+    }
+  },
+  {
+    "code": "TOM",
+    "name": "Tomsk Oblast",
+    "names": {
+      "ja": "トムスク州",
+      "ko": "톰스크주",
+      "vi": "Tomsk",
+      "id": "Oblast Tomsk",
+      "zh-Hans": "托木斯克州"
+    }
+  },
+  {
+    "code": "TUL",
+    "name": "Tula Oblast",
+    "names": {
+      "ja": "トゥーラ州",
+      "ko": "툴라주",
+      "vi": "Tula",
+      "id": "Oblast Tula",
+      "zh-Hans": "图拉州",
+      "zh-Hant": "图拉州"
+    }
+  },
+  {
+    "code": "TY",
+    "name": "Tuva",
+    "names": {
+      "ja": "トゥヴァ共和国",
+      "ko": "투바 공화국",
+      "vi": "Tuva",
+      "id": "Tuva",
+      "zh-Hans": "图瓦共和国",
+      "zh-Hant": "图瓦共和国"
+    }
+  },
+  {
+    "code": "TVE",
+    "name": "Tver Oblast",
+    "names": {
+      "ja": "トヴェリ州",
+      "ko": "트베리주",
+      "vi": "Tver",
+      "id": "Oblast Tver",
+      "zh-Hans": "特维尔州",
+      "zh-Hant": "特维尔州"
+    }
+  },
+  {
+    "code": "TYU",
+    "name": "Tyumen Oblast",
+    "names": {
+      "ja": "チュメニ州",
+      "ko": "튜멘주",
+      "vi": "Tyumen",
+      "id": "Oblast Tyumen",
+      "zh-Hans": "秋明州"
+    }
+  },
+  {
+    "code": "UD",
+    "name": "Udmurtia",
+    "names": {
+      "ja": "ウドムルト共和国",
+      "ko": "우드무르티야 공화국",
+      "vi": "Udmurtia",
+      "id": "Udmurtia",
+      "zh-Hans": "乌德穆尔特共和国"
+    }
+  },
+  {
+    "code": "ULY",
+    "name": "Ulyanovsk Oblast",
+    "names": {
+      "ja": "ウリヤノフスク州",
+      "ko": "울리야놉스크주",
+      "vi": "Ulyanovsk",
+      "id": "Oblast Ulyanovsk",
+      "zh-Hans": "乌里扬诺夫斯克州"
+    }
+  },
+  {
+    "code": "VLA",
+    "name": "Vladimir Oblast",
+    "names": {
+      "ja": "ヴラジーミル州",
+      "ko": "블라디미르주",
+      "vi": "Vladimir",
+      "id": "Oblast Vladimir",
+      "zh-Hans": "弗拉基米尔州",
+      "zh-Hant": "弗拉基米爾州"
+    }
+  },
+  {
+    "code": "VGG",
+    "name": "Volgograd Oblast",
+    "names": {
+      "ja": "ヴォルゴグラード州",
+      "ko": "볼고그라드주",
+      "vi": "Volgograd",
+      "id": "Oblast Volgograd",
+      "zh-Hans": "伏尔加格勒州",
+      "zh-Hant": "伏爾加格勒州"
+    }
+  },
+  {
+    "code": "VLG",
+    "name": "Vologda Oblast",
+    "names": {
+      "ja": "ヴォログダ州",
+      "ko": "볼로그다주",
+      "vi": "Vologda",
+      "id": "Oblast Vologda",
+      "zh-Hans": "沃洛格达州",
+      "zh-Hant": "沃洛格達州"
+    }
+  },
+  {
+    "code": "VOR",
+    "name": "Voronezh Oblast",
+    "names": {
+      "ja": "ヴォロネジ州",
+      "ko": "보로네시주",
+      "vi": "Voronezh",
+      "id": "Oblast Voronezh",
+      "zh-Hans": "沃罗涅日州",
+      "zh-Hant": "沃羅涅日州"
+    }
+  },
+  {
+    "code": "YAN",
+    "name": "Yamalo-Nenets Autonomous Okrug",
+    "names": {
+      "ja": "ヤマロ・ネネツ自治管区",
+      "ko": "야말로네네츠 자치구",
+      "vi": "Yamalo-Nenets",
+      "id": "Yamalia",
+      "zh-Hans": "亚马尔-涅涅茨自治区"
+    }
+  },
+  {
+    "code": "YAR",
+    "name": "Yaroslavl Oblast",
+    "names": {
+      "ja": "ヤロスラヴリ州",
+      "ko": "야로슬라블주",
+      "vi": "Yaroslavl",
+      "id": "Oblast Yaroslavl",
+      "zh-Hans": "雅罗斯拉夫尔州"
+    }
+  },
+  {
+    "code": "ZAB",
+    "name": "Zabaykalsky Krai",
+    "names": {
+      "ja": "ザバイカリエ地方",
+      "ko": "자바이칼 지방",
+      "vi": "Zabaykalsky",
+      "id": "Krai Zabaykalsky",
+      "zh-Hans": "外贝加尔边疆区",
+      "zh-Hant": "外貝加爾邊疆區"
+    }
+  }
+]

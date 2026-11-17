@@ -1,0 +1,1017 @@
+[
+  {
+    "code": "201",
+    "name": "Benešov District",
+    "names": {
+      "ja": "ベネショフ郡",
+      "ko": "베네쇼프구",
+      "vi": "Benešov",
+      "id": "Distrik Benešov",
+      "zh-Hans": "貝內紹夫縣",
+      "zh-Hant": "貝內紹夫縣"
+    }
+  },
+  {
+    "code": "202",
+    "name": "Beroun District",
+    "names": {
+      "ja": "ベロウン郡",
+      "ko": "베로운구",
+      "vi": "Beroun",
+      "id": "Distrik Beroun",
+      "zh-Hans": "貝龍縣",
+      "zh-Hant": "貝龍縣"
+    }
+  },
+  {
+    "code": "641",
+    "name": "Blansko District",
+    "names": {
+      "ja": "ブランスコ地区",
+      "ko": "블란스코구",
+      "vi": "Blansko",
+      "id": "Distrik Blansko",
+      "zh-Hans": "布蘭斯科縣",
+      "zh-Hant": "布蘭斯科縣"
+    }
+  },
+  {
+    "code": "644",
+    "name": "Břeclav District",
+    "names": {
+      "ja": "ブジェツラフ郡",
+      "ko": "브르제츨라프구",
+      "vi": "Břeclav",
+      "id": "Distrik Břeclav",
+      "zh-Hans": "布熱茨拉夫縣",
+      "zh-Hant": "布熱茨拉夫縣"
+    }
+  },
+  {
+    "code": "642",
+    "name": "Brno-City District",
+    "names": {
+      "ko": "브르노 도시구",
+      "vi": "Brno",
+      "id": "Distrik Brno-Kota",
+      "zh-Hans": "布爾諾城縣"
+    }
+  },
+  {
+    "code": "643",
+    "name": "Brno-Country District",
+    "names": {
+      "ko": "브르노 교외구",
+      "vi": "Brno-venkov",
+      "id": "Distrik Brno-Venkov",
+      "zh-Hans": "布爾諾郊縣",
+      "zh-Hant": "布爾諾郊縣"
+    }
+  },
+  {
+    "code": "801",
+    "name": "Bruntál District",
+    "names": {
+      "ko": "브룬탈구",
+      "vi": "Bruntál",
+      "id": "Distrik Bruntál",
+      "zh-Hans": "布倫塔爾縣",
+      "zh-Hant": "布倫塔爾縣"
+    }
+  },
+  {
+    "code": "20",
+    "name": "Central Bohemian Region",
+    "names": {
+      "ja": "中央ボヘミア州",
+      "ko": "중앙보헤미아주",
+      "vi": "Trung Bohemia",
+      "id": "Daerah Bohemia Tengah",
+      "zh-Hans": "中捷克州",
+      "zh-Hant": "中捷克州"
+    }
+  },
+  {
+    "code": "511",
+    "name": "Česká Lípa District",
+    "names": {
+      "ko": "체스카리파구",
+      "vi": "Česká Lípa",
+      "id": "Distrik Česká Lípa",
+      "zh-Hans": "捷克利帕縣"
+    }
+  },
+  {
+    "code": "311",
+    "name": "České Budějovice District",
+    "names": {
+      "ko": "체스케부데요비체구",
+      "vi": "České Budějovice",
+      "id": "Distrik České Budějovice",
+      "zh-Hans": "捷克布傑約維采縣",
+      "zh-Hant": "捷克布傑約維采縣"
+    }
+  },
+  {
+    "code": "312",
+    "name": "Český Krumlov District",
+    "names": {
+      "ja": "チェスキー・クルムロフ郡",
+      "ko": "체스키크룸로프구",
+      "vi": "Český Krumlov",
+      "id": "Distrik Český Krumlov",
+      "zh-Hans": "捷克克魯姆洛夫縣"
+    }
+  },
+  {
+    "code": "411",
+    "name": "Cheb District",
+    "names": {
+      "ko": "헤프구",
+      "vi": "Cheb",
+      "id": "Distrik Cheb",
+      "zh-Hans": "海布縣",
+      "zh-Hant": "海布縣"
+    }
+  },
+  {
+    "code": "422",
+    "name": "Chomutov District",
+    "names": {
+      "ja": "ホムトフ地区",
+      "ko": "호무토프구",
+      "vi": "Chomutov",
+      "id": "Distrik Chomutov",
+      "zh-Hans": "霍穆托夫縣",
+      "zh-Hant": "霍穆托夫縣"
+    }
+  },
+  {
+    "code": "531",
+    "name": "Chrudim District",
+    "names": {
+      "ja": "クルディム郡",
+      "ko": "흐루딤구",
+      "vi": "Chrudim",
+      "id": "Distrik Chrudim",
+      "zh-Hans": "赫魯迪姆縣",
+      "zh-Hant": "赫魯迪姆縣"
+    }
+  },
+  {
+    "code": "421",
+    "name": "Děčín District",
+    "names": {
+      "ko": "데친구",
+      "vi": "Děčín",
+      "id": "Distrik Děčín",
+      "zh-Hans": "傑欽縣",
+      "zh-Hant": "傑欽縣"
+    }
+  },
+  {
+    "code": "321",
+    "name": "Domažlice District",
+    "names": {
+      "ko": "도마줄리체구",
+      "vi": "Domažlice",
+      "id": "Distrik Domažlice",
+      "zh-Hans": "多馬日利采縣",
+      "zh-Hant": "多馬日利采縣"
+    }
+  },
+  {
+    "code": "802",
+    "name": "Frýdek-Místek District",
+    "names": {
+      "ja": "フリーデク＝ミーステク郡",
+      "ko": "프리데크미스테크구",
+      "vi": "Frýdek-Místek",
+      "id": "Distrik Frýdek-Místek",
+      "zh-Hans": "弗里代克-米斯泰克縣"
+    }
+  },
+  {
+    "code": "631",
+    "name": "Havlíčkův Brod District",
+    "names": {
+      "ko": "하블리치쿠프브로트구",
+      "vi": "Havlíčkův Brod",
+      "id": "Distrik Havlíčkův Brod",
+      "zh-Hans": "哈夫利奇庫夫布羅德縣",
+      "zh-Hant": "哈夫利奇庫夫布羅德縣"
+    }
+  },
+  {
+    "code": "645",
+    "name": "Hodonín District",
+    "names": {
+      "ko": "호도닌구",
+      "vi": "Hodonín",
+      "id": "Distrik Hodonín",
+      "zh-Hans": "霍多寧縣",
+      "zh-Hant": "霍多寧縣"
+    }
+  },
+  {
+    "code": "521",
+    "name": "Hradec Králové District",
+    "names": {
+      "ja": "フラデツ・クラーロヴェー郡",
+      "ko": "흐라데츠크랄로베구",
+      "vi": "Hradec Králové",
+      "id": "Distrik Hradec Králové",
+      "zh-Hans": "赫拉德茨克拉洛韋縣",
+      "zh-Hant": "赫拉德茨克拉洛韋縣"
+    }
+  },
+  {
+    "code": "52",
+    "name": "Hradec Králové Region",
+    "names": {
+      "ja": "フラデツ・クラーロヴェー州",
+      "ko": "흐라데츠크랄로베주",
+      "vi": "Hradec Králové",
+      "id": "Daerah Hradec Králové",
+      "zh-Hans": "赫拉德茨-克拉洛韦州",
+      "zh-Hant": "赫拉德茨-克拉洛韋州"
+    }
+  },
+  {
+    "code": "512",
+    "name": "Jablonec nad Nisou District",
+    "names": {
+      "ko": "야블로네츠나트니소우구",
+      "vi": "Jablonec nad Nisou",
+      "id": "Distrik Jablonec nad Nisou",
+      "zh-Hans": "尼斯河畔亞布洛內茨縣",
+      "zh-Hant": "尼斯河畔亞布洛內茨縣"
+    }
+  },
+  {
+    "code": "711",
+    "name": "Jeseník District",
+    "names": {
+      "ja": "イェセニーク郡",
+      "ko": "예세니크구",
+      "vi": "Jeseník",
+      "id": "Distrik Jeseník",
+      "zh-Hans": "耶塞尼克縣",
+      "zh-Hant": "耶塞尼克縣"
+    }
+  },
+  {
+    "code": "522",
+    "name": "Jičín District",
+    "names": {
+      "ko": "이친구",
+      "vi": "Jičín",
+      "id": "Distrik Jičín",
+      "zh-Hans": "伊欽縣",
+      "zh-Hant": "伊欽縣"
+    }
+  },
+  {
+    "code": "632",
+    "name": "Jihlava District",
+    "names": {
+      "ko": "이흘라바구",
+      "vi": "Jihlava",
+      "id": "Distrik Jihlava",
+      "zh-Hans": "伊赫拉瓦縣",
+      "zh-Hant": "伊赫拉瓦縣"
+    }
+  },
+  {
+    "code": "313",
+    "name": "Jindřichův Hradec District",
+    "names": {
+      "ja": "インジフーフ・フラデツ郡",
+      "ko": "인드르지후프흐라데츠구",
+      "vi": "Jindřichův Hradec",
+      "id": "Distrik Jindřichův Hradec",
+      "zh-Hans": "因德日赫城堡縣"
+    }
+  },
+  {
+    "code": "412",
+    "name": "Karlovy Vary District",
+    "names": {
+      "ko": "카를로비바리구",
+      "vi": "Karlovy Vary",
+      "id": "Distrik Karlovy Vary",
+      "zh-Hans": "卡羅維發利縣",
+      "zh-Hant": "卡羅維發利縣"
+    }
+  },
+  {
+    "code": "41",
+    "name": "Karlovy Vary Region",
+    "names": {
+      "ja": "カルロヴィ・ヴァリ州",
+      "ko": "카를로비바리주",
+      "vi": "Karlovy Vary",
+      "id": "Daerah Karlovy Vary",
+      "zh-Hans": "卡罗维发利州",
+      "zh-Hant": "卡羅維發利州"
+    }
+  },
+  {
+    "code": "803",
+    "name": "Karviná District",
+    "names": {
+      "ko": "카르비나구",
+      "vi": "Karviná",
+      "id": "Distrik Karviná",
+      "zh-Hans": "卡爾維納縣",
+      "zh-Hant": "卡爾維納縣"
+    }
+  },
+  {
+    "code": "203",
+    "name": "Kladno District",
+    "names": {
+      "ko": "클라드노구",
+      "vi": "Kladno",
+      "id": "Distrik Kladno",
+      "zh-Hans": "克拉德诺区",
+      "zh-Hant": "克拉德諾區"
+    }
+  },
+  {
+    "code": "322",
+    "name": "Klatovy District",
+    "names": {
+      "ko": "클라토비구",
+      "vi": "Klatovy",
+      "id": "Distrik Klatovy",
+      "zh-Hans": "克拉托維縣",
+      "zh-Hant": "克拉托維縣"
+    }
+  },
+  {
+    "code": "204",
+    "name": "Kolín District",
+    "names": {
+      "ko": "콜린구",
+      "vi": "Kolín",
+      "id": "Distrik Kolín",
+      "zh-Hans": "科林縣"
+    }
+  },
+  {
+    "code": "721",
+    "name": "Kroměříž District",
+    "names": {
+      "ja": "クロミェジージュ郡",
+      "ko": "크로메르지시구",
+      "vi": "Kroměříž",
+      "id": "Distrik Kroměříž",
+      "zh-Hans": "克羅梅日什縣",
+      "zh-Hant": "克羅梅日什縣"
+    }
+  },
+  {
+    "code": "205",
+    "name": "Kutná Hora District",
+    "names": {
+      "ko": "쿠트나호라구",
+      "vi": "Kutná Hora",
+      "id": "Distrik Kutná Hora",
+      "zh-Hans": "庫特納霍拉縣",
+      "zh-Hant": "庫特納霍拉縣"
+    }
+  },
+  {
+    "code": "513",
+    "name": "Liberec District",
+    "names": {
+      "ja": "リベレツ郡",
+      "ko": "리베레츠구",
+      "vi": "Liberec",
+      "id": "Distrik Liberec",
+      "zh-Hans": "利貝雷茨縣",
+      "zh-Hant": "利貝雷茨縣"
+    }
+  },
+  {
+    "code": "51",
+    "name": "Liberec Region",
+    "names": {
+      "ja": "リベレツ州",
+      "ko": "리베레츠주",
+      "vi": "Liberec",
+      "id": "Daerah Liberec",
+      "zh-Hans": "利贝雷茨州",
+      "zh-Hant": "利貝雷茨州"
+    }
+  },
+  {
+    "code": "423",
+    "name": "Litoměřice District",
+    "names": {
+      "ko": "리토메르지체구",
+      "vi": "Litoměřice",
+      "id": "Distrik Litoměřice",
+      "zh-Hans": "利托梅日采縣",
+      "zh-Hant": "利托梅日采縣"
+    }
+  },
+  {
+    "code": "424",
+    "name": "Louny District",
+    "names": {
+      "ko": "로우니구",
+      "vi": "Louny",
+      "id": "Distrik Louny",
+      "zh-Hans": "洛烏尼縣",
+      "zh-Hant": "洛烏尼縣"
+    }
+  },
+  {
+    "code": "206",
+    "name": "Mělník District",
+    "names": {
+      "ja": "ムニェルニーク地区",
+      "ko": "멜니크구",
+      "vi": "Mělník",
+      "id": "Distrik Mělník",
+      "zh-Hans": "梅爾尼克縣",
+      "zh-Hant": "梅爾尼克縣"
+    }
+  },
+  {
+    "code": "207",
+    "name": "Mladá Boleslav District",
+    "names": {
+      "ko": "믈라다볼레슬라프구",
+      "vi": "Mladá Boleslav",
+      "id": "Distrik Mladá Boleslav",
+      "zh-Hans": "姆拉達-博萊斯拉夫縣",
+      "zh-Hant": "姆拉達-博萊斯拉夫縣"
+    }
+  },
+  {
+    "code": "80",
+    "name": "Moravian-Silesian Region",
+    "names": {
+      "ja": "モラヴィア・スレスコ州",
+      "ko": "모라바슬레스코주",
+      "vi": "Moravia–Silesia",
+      "id": "Daerah Moravia-Silesia",
+      "zh-Hans": "摩拉维亚-西里西亚州",
+      "zh-Hant": "摩拉維亞-西里西亞州"
+    }
+  },
+  {
+    "code": "425",
+    "name": "Most District",
+    "names": {
+      "ko": "모스트구",
+      "vi": "Most",
+      "id": "Distrik Most",
+      "zh-Hans": "莫斯特縣",
+      "zh-Hant": "莫斯特縣"
+    }
+  },
+  {
+    "code": "523",
+    "name": "Náchod District",
+    "names": {
+      "ja": "ナーハト郡",
+      "ko": "나호트구",
+      "vi": "Náchod",
+      "id": "Distrik Náchod",
+      "zh-Hans": "納霍德縣",
+      "zh-Hant": "納霍德縣"
+    }
+  },
+  {
+    "code": "804",
+    "name": "Nový Jičín District",
+    "names": {
+      "ko": "노비이친구",
+      "vi": "Nový Jičín",
+      "id": "Distrik Nový Jičín",
+      "zh-Hans": "新伊欽縣"
+    }
+  },
+  {
+    "code": "208",
+    "name": "Nymburk District",
+    "names": {
+      "ko": "님부르크구",
+      "vi": "Nymburk",
+      "id": "Distrik Nymburk",
+      "zh-Hans": "寧布爾克縣",
+      "zh-Hant": "寧布爾克縣"
+    }
+  },
+  {
+    "code": "712",
+    "name": "Olomouc District",
+    "names": {
+      "ja": "オロモウツ地区",
+      "ko": "올로모우츠구",
+      "vi": "Olomouc",
+      "id": "Distrik Olomouc",
+      "zh-Hans": "奥洛穆茨县",
+      "zh-Hant": "奧洛穆茨縣"
+    }
+  },
+  {
+    "code": "71",
+    "name": "Olomouc Region",
+    "names": {
+      "ja": "オロモウツ州",
+      "ko": "올로모우츠주",
+      "vi": "Olomouc",
+      "id": "Daerah Olomouc",
+      "zh-Hans": "奥洛穆茨州",
+      "zh-Hant": "奧洛穆茨州"
+    }
+  },
+  {
+    "code": "805",
+    "name": "Opava District",
+    "names": {
+      "ko": "오파바구",
+      "vi": "Opava",
+      "id": "Distrik Opava",
+      "zh-Hans": "奧帕瓦縣",
+      "zh-Hant": "奧帕瓦縣"
+    }
+  },
+  {
+    "code": "806",
+    "name": "Ostrava-City District",
+    "names": {
+      "ko": "오스트라바 도시구",
+      "vi": "Ostrava",
+      "id": "Distrik Ostrava-Kota",
+      "zh-Hans": "俄斯特拉發城縣"
+    }
+  },
+  {
+    "code": "532",
+    "name": "Pardubice District",
+    "names": {
+      "ja": "パルドゥビツェ郡",
+      "ko": "파르두비체구",
+      "vi": "Pardubice",
+      "id": "Distrik Pardubice",
+      "zh-Hans": "帕爾杜比采縣",
+      "zh-Hant": "帕爾杜比采縣"
+    }
+  },
+  {
+    "code": "53",
+    "name": "Pardubice Region",
+    "names": {
+      "ja": "パルドゥビツェ州",
+      "ko": "파르두비체주",
+      "vi": "Pardubice",
+      "id": "Daerah Pardubice",
+      "zh-Hans": "帕尔杜比采州",
+      "zh-Hant": "帕爾杜比采州"
+    }
+  },
+  {
+    "code": "633",
+    "name": "Pelhřimov District",
+    "names": {
+      "ko": "펠흐르지모프구",
+      "vi": "Pelhřimov",
+      "id": "Distrik Pelhřimov",
+      "zh-Hans": "佩爾赫日莫夫縣",
+      "zh-Hant": "佩爾赫日莫夫縣"
+    }
+  },
+  {
+    "code": "314",
+    "name": "Písek District",
+    "names": {
+      "ko": "피세크구",
+      "vi": "Písek",
+      "id": "Distrik Písek",
+      "zh-Hans": "皮塞克縣",
+      "zh-Hant": "皮塞克縣"
+    }
+  },
+  {
+    "code": "32",
+    "name": "Plzeň Region",
+    "names": {
+      "ja": "プルゼニ州",
+      "ko": "플젠주",
+      "vi": "Plzeň",
+      "id": "Daerah Plzeň",
+      "zh-Hans": "比尔森州"
+    }
+  },
+  {
+    "code": "323",
+    "name": "Plzeň-City District",
+    "names": {
+      "ko": "플젠 도시구",
+      "id": "Distrik Plzeň-Kota",
+      "zh-Hans": "比爾森城縣"
+    }
+  },
+  {
+    "code": "325",
+    "name": "Plzeň-North District",
+    "names": {
+      "ko": "북플젠구",
+      "vi": "Plzeň-Bắc",
+      "id": "Distrik Plzeň Utara",
+      "zh-Hans": "北比爾森縣",
+      "zh-Hant": "北比爾森縣"
+    }
+  },
+  {
+    "code": "324",
+    "name": "Plzeň-South District",
+    "names": {
+      "ko": "남플젠구",
+      "vi": "Plzeň-Nam",
+      "id": "Distrik Plzeň Selatan",
+      "zh-Hans": "南比爾森縣"
+    }
+  },
+  {
+    "code": "315",
+    "name": "Prachatice District",
+    "names": {
+      "ko": "프라하티체구",
+      "vi": "Prachatice",
+      "id": "Distrik Prachatice",
+      "zh-Hans": "普拉哈季采縣",
+      "zh-Hant": "普拉哈季采縣"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Prague",
+    "names": {
+      "ja": "プラハ",
+      "ko": "프라하",
+      "vi": "Praha",
+      "id": "Praha",
+      "zh-Hans": "布拉格",
+      "zh-Hant": "布拉格"
+    }
+  },
+  {
+    "code": "209",
+    "name": "Prague-East District",
+    "names": {
+      "ko": "동프라하구",
+      "vi": "Praha Đông",
+      "id": "Distrik Praha Timur",
+      "zh-Hans": "東布拉格縣",
+      "zh-Hant": "東布拉格縣"
+    }
+  },
+  {
+    "code": "20A",
+    "name": "Prague-West District",
+    "names": {
+      "ja": "プラハ＝ザーパト",
+      "ko": "서프라하구",
+      "vi": "Praha Tây",
+      "id": "Distrik Praha Barat",
+      "zh-Hans": "西布拉格縣",
+      "zh-Hant": "西布拉格縣"
+    }
+  },
+  {
+    "code": "714",
+    "name": "Přerov District",
+    "names": {
+      "ja": "プシェロフ郡",
+      "ko": "프르제로프구",
+      "vi": "Přerov",
+      "id": "Distrik Přerov",
+      "zh-Hans": "普熱羅夫縣",
+      "zh-Hant": "普熱羅夫縣"
+    }
+  },
+  {
+    "code": "20B",
+    "name": "Příbram District",
+    "names": {
+      "ja": "プシーブラム郡",
+      "ko": "프르지브람구",
+      "vi": "Příbram",
+      "id": "Distrik Příbram",
+      "zh-Hans": "普日布拉姆縣",
+      "zh-Hant": "普日布拉姆縣"
+    }
+  },
+  {
+    "code": "713",
+    "name": "Prostějov District",
+    "names": {
+      "ja": "プロスチェヨフ郡",
+      "ko": "프로스테요프구",
+      "vi": "Prostějov",
+      "id": "Distrik Prostějov",
+      "zh-Hans": "普羅斯捷約夫縣",
+      "zh-Hant": "普羅斯捷約夫縣"
+    }
+  },
+  {
+    "code": "20C",
+    "name": "Rakovník District",
+    "names": {
+      "ko": "라코브니크구",
+      "vi": "Rakovník",
+      "id": "Distrik Rakovník",
+      "zh-Hans": "拉科夫尼克縣",
+      "zh-Hant": "拉科夫尼克縣"
+    }
+  },
+  {
+    "code": "326",
+    "name": "Rokycany District",
+    "names": {
+      "ko": "로키차니구",
+      "vi": "Rokycany",
+      "id": "Distrik Rokycany",
+      "zh-Hans": "羅基察尼縣",
+      "zh-Hant": "羅基察尼縣"
+    }
+  },
+  {
+    "code": "524",
+    "name": "Rychnov nad Kněžnou District",
+    "names": {
+      "ja": "リフノフ・ナド・クニェジュノウ郡",
+      "ko": "리흐노프나트크네주노우구",
+      "vi": "Rychnov nad Kněžnou",
+      "id": "Distrik Rychnov nad Kněžnou",
+      "zh-Hans": "科內日諾河畔里赫諾夫縣"
+    }
+  },
+  {
+    "code": "514",
+    "name": "Semily District",
+    "names": {
+      "ko": "세밀리구",
+      "vi": "Semily",
+      "id": "Distrik Semily",
+      "zh-Hans": "塞米利縣",
+      "zh-Hant": "塞米利縣"
+    }
+  },
+  {
+    "code": "413",
+    "name": "Sokolov District",
+    "names": {
+      "ja": "ソコロフ郡",
+      "ko": "소콜로프구",
+      "vi": "Sokolov",
+      "id": "Distrik Sokolov",
+      "zh-Hans": "索科洛夫县",
+      "zh-Hant": "索科洛夫縣"
+    }
+  },
+  {
+    "code": "31",
+    "name": "South Bohemian Region",
+    "names": {
+      "ja": "南ボヘミア州",
+      "ko": "남보헤미아주",
+      "vi": "Nam Bohemia",
+      "id": "Daerah Bohemia Selatan",
+      "zh-Hans": "南捷克州",
+      "zh-Hant": "南捷克州"
+    }
+  },
+  {
+    "code": "64",
+    "name": "South Moravian Region",
+    "names": {
+      "ja": "南モラヴィア州",
+      "ko": "남모라바주",
+      "vi": "Nam Moravia",
+      "id": "Daerah Moravia Selatan",
+      "zh-Hans": "南摩拉维亚州",
+      "zh-Hant": "南摩拉維亞州"
+    }
+  },
+  {
+    "code": "316",
+    "name": "Strakonice District",
+    "names": {
+      "ko": "스트라코니체구",
+      "vi": "Strakonice",
+      "id": "Distrik Strakonice",
+      "zh-Hans": "斯特拉科尼采縣",
+      "zh-Hant": "斯特拉科尼采縣"
+    }
+  },
+  {
+    "code": "715",
+    "name": "Šumperk District",
+    "names": {
+      "ko": "슘페르크구",
+      "vi": "Šumperk",
+      "id": "Distrik Šumperk",
+      "zh-Hans": "順佩爾克縣",
+      "zh-Hant": "順佩爾克縣"
+    }
+  },
+  {
+    "code": "533",
+    "name": "Svitavy District",
+    "names": {
+      "ja": "スヴィタヴィ郡",
+      "ko": "스비타비구",
+      "vi": "Svitavy",
+      "id": "Distrik Svitavy",
+      "zh-Hans": "斯維塔維縣",
+      "zh-Hant": "斯維塔維縣"
+    }
+  },
+  {
+    "code": "317",
+    "name": "Tábor District",
+    "names": {
+      "ko": "타보르구",
+      "vi": "Tábor",
+      "id": "Distrik Tábor",
+      "zh-Hans": "塔博爾縣",
+      "zh-Hant": "塔博爾縣"
+    }
+  },
+  {
+    "code": "327",
+    "name": "Tachov District",
+    "names": {
+      "ja": "タホフ郡",
+      "ko": "타호프구",
+      "vi": "Tachov",
+      "id": "Distrik Tachov",
+      "zh-Hans": "塔霍夫縣",
+      "zh-Hant": "塔霍夫縣"
+    }
+  },
+  {
+    "code": "426",
+    "name": "Teplice District",
+    "names": {
+      "ko": "테플리체구",
+      "vi": "Teplice",
+      "id": "Distrik Teplice",
+      "zh-Hans": "特普利采縣",
+      "zh-Hant": "特普利采縣"
+    }
+  },
+  {
+    "code": "634",
+    "name": "Třebíč District",
+    "names": {
+      "ko": "트르제비치구",
+      "vi": "Třebíč",
+      "id": "Distrik Třebíč",
+      "zh-Hans": "特熱比奇縣",
+      "zh-Hant": "特熱比奇縣"
+    }
+  },
+  {
+    "code": "525",
+    "name": "Trutnov District",
+    "names": {
+      "ko": "트루트노프구",
+      "vi": "Trutnov",
+      "id": "Distrik Trutnov",
+      "zh-Hans": "特魯特諾夫縣",
+      "zh-Hant": "特魯特諾夫縣"
+    }
+  },
+  {
+    "code": "722",
+    "name": "Uherské Hradiště District",
+    "names": {
+      "ko": "우헤르스케흐라디슈테구",
+      "vi": "Uherské Hradiště",
+      "id": "Distrik Uherské Hradiště",
+      "zh-Hans": "烏赫爾堡縣"
+    }
+  },
+  {
+    "code": "427",
+    "name": "Ústí nad Labem District",
+    "names": {
+      "ko": "우스티나트라벰구",
+      "vi": "Ústí nad Labem",
+      "id": "Distrik Ústí nad Labem",
+      "zh-Hans": "拉貝河畔烏斯季縣",
+      "zh-Hant": "拉貝河畔烏斯季縣"
+    }
+  },
+  {
+    "code": "42",
+    "name": "Ústí nad Labem Region",
+    "names": {
+      "ja": "ウースチー州",
+      "ko": "우스티주",
+      "vi": "Ústí nad Labem",
+      "id": "Daerah Ústí nad Labem",
+      "zh-Hans": "乌斯季州",
+      "zh-Hant": "烏斯季州"
+    }
+  },
+  {
+    "code": "534",
+    "name": "Ústí nad Orlicí District",
+    "names": {
+      "ja": "ウスティ・ナドゥ・オーリシ",
+      "ko": "우스티나트오를리치구",
+      "vi": "Ústí nad Orlicí",
+      "id": "Distrik Ústí nad Orlicí",
+      "zh-Hans": "奧爾利采河畔烏斯季縣"
+    }
+  },
+  {
+    "code": "723",
+    "name": "Vsetín District",
+    "names": {
+      "ja": "フセチーン郡",
+      "ko": "브세틴구",
+      "vi": "Vsetín",
+      "id": "Distrik Vsetín",
+      "zh-Hans": "弗塞廷縣"
+    }
+  },
+  {
+    "code": "646",
+    "name": "Vyškov District",
+    "names": {
+      "ko": "비슈코프구",
+      "vi": "Vyškov",
+      "id": "Distrik Vyškov",
+      "zh-Hans": "維什科夫縣",
+      "zh-Hant": "維什科夫縣"
+    }
+  },
+  {
+    "code": "63",
+    "name": "Vysočina Region",
+    "names": {
+      "ja": "ヴィソチナ州",
+      "ko": "비소치나주",
+      "vi": "Vysočina",
+      "id": "Daerah Vysočina",
+      "zh-Hans": "维索奇纳州",
+      "zh-Hant": "維索奇納州"
+    }
+  },
+  {
+    "code": "635",
+    "name": "Žďár nad Sázavou District",
+    "names": {
+      "ko": "주댜르나트사자보우구",
+      "vi": "Žďár nad Sázavou",
+      "id": "Distrik Žďár nad Sázavou",
+      "zh-Hans": "薩扎瓦河畔日賈爾縣",
+      "zh-Hant": "薩扎瓦河畔日賈爾縣"
+    }
+  },
+  {
+    "code": "724",
+    "name": "Zlín District",
+    "names": {
+      "ja": "ズリン",
+      "ko": "즐린구",
+      "vi": "Zlín",
+      "id": "Distrik Zlín",
+      "zh-Hans": "茲林縣"
+    }
+  },
+  {
+    "code": "72",
+    "name": "Zlín Region",
+    "names": {
+      "ja": "ズリーン州",
+      "ko": "즐린주",
+      "vi": "Zlín",
+      "id": "Daerah Zlín",
+      "zh-Hans": "兹林州",
+      "zh-Hant": "茲林州"
+    }
+  },
+  {
+    "code": "647",
+    "name": "Znojmo District",
+    "names": {
+      "ko": "즈노이모구",
+      "vi": "Znojmo",
+      "id": "Distrik Znojmo",
+      "zh-Hans": "茲諾伊莫縣",
+      "zh-Hant": "茲諾伊莫縣"
+    }
+  }
+]

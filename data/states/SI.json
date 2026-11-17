@@ -1,0 +1,2208 @@
+[
+  {
+    "code": "001",
+    "name": "Ajdovščina Municipality",
+    "names": {
+      "ja": "アイドフシュチナ",
+      "ko": "아이도우슈치나",
+      "vi": "Ajdovščina",
+      "id": "Ajdovščina",
+      "zh-Hans": "阿伊多夫什契纳市镇",
+      "zh-Hant": "阿伊多夫什契納市鎮"
+    }
+  },
+  {
+    "code": "213",
+    "name": "Ankaran Municipality",
+    "names": {
+      "vi": "Ankaran",
+      "id": "Munisipalitas Ankaran",
+      "zh-Hans": "安卡兰市镇"
+    }
+  },
+  {
+    "code": "004",
+    "name": "Bohinj Municipality",
+    "names": {
+      "ja": "ボーヒニ",
+      "ko": "보힌",
+      "vi": "Khu tự trị Bohinj",
+      "id": "Kotamadya Bohinj",
+      "zh-Hans": "博希尼市镇"
+    }
+  },
+  {
+    "code": "011",
+    "name": "City Municipality of Celje",
+    "names": {
+      "ja": "ツェリエ",
+      "ko": "첼레의 도시 지방 자치제",
+      "vi": "Đô thị tự trị của Celje",
+      "id": "Kotamadya Celje",
+      "zh-Hans": "采列城市市镇"
+    }
+  },
+  {
+    "code": "050",
+    "name": "City Municipality of Koper",
+    "names": {
+      "id": "Munisipalitas Koper",
+      "zh-Hans": "科佩尔城市市镇"
+    }
+  },
+  {
+    "code": "052",
+    "name": "City Municipality of Kranj",
+    "names": {
+      "ja": "クラーニ",
+      "ko": "크란 도시 지방 자치제",
+      "vi": "Đô thị tự trị Kranj",
+      "id": "Kotamadya Kranj City",
+      "zh-Hans": "克拉尼城市市镇"
+    }
+  },
+  {
+    "code": "054",
+    "name": "City Municipality of Krško",
+    "names": {
+      "ja": "クルシュコ",
+      "ko": "크르슈코 지방 자치제",
+      "vi": "Đô thị tự trị của Krsko",
+      "id": "Kotamadya Krško",
+      "zh-Hans": "克尔什科城市市镇"
+    }
+  },
+  {
+    "code": "080",
+    "name": "City Municipality of Murska Sobota",
+    "names": {
+      "ja": "ムルスカ・ソボタ",
+      "ko": "무르스카소보타 도시 지방 자치제",
+      "vi": "Đô thị tự trị Murska Sobota",
+      "id": "Kotamadya Murska Sobota City",
+      "zh-Hans": "穆尔斯卡索博塔城市市镇"
+    }
+  },
+  {
+    "code": "084",
+    "name": "City Municipality of Nova Gorica",
+    "names": {
+      "id": "Munisipalitas Nova Gorica",
+      "zh-Hans": "新戈里察城市市镇"
+    }
+  },
+  {
+    "code": "085",
+    "name": "City Municipality of Novo Mesto",
+    "names": {
+      "ja": "ノヴォ・メスト",
+      "ko": "노보메스토 지방 자치 도시",
+      "vi": "Đô thị tự trị Novo Mesto",
+      "id": "Kotamadya Novo Mesto",
+      "zh-Hans": "新梅斯托城市市镇"
+    }
+  },
+  {
+    "code": "112",
+    "name": "City Municipality of Slovenj Gradec",
+    "names": {
+      "ja": "スロヴェニ・グラデツ",
+      "ko": "슬로벤그라데츠 도시 지방 자치제",
+      "vi": "Đô thị tự trị Slovenj Gradec",
+      "id": "Kotamadya Slovenj Gradec City",
+      "zh-Hans": "斯洛文尼格拉代茨城市市镇"
+    }
+  },
+  {
+    "code": "133",
+    "name": "City Municipality of Velenje",
+    "names": {
+      "ja": "ベレニエ",
+      "id": "Munisipalitas Velenje",
+      "zh-Hans": "韦莱涅城市市镇"
+    }
+  },
+  {
+    "code": "017",
+    "name": "Črnomelj Municipality",
+    "names": {
+      "ja": "チュルノメリ",
+      "ko": "치르노멜 지방 자치제",
+      "vi": "Đô thị tự trị Črnomelj",
+      "id": "Kotamadya Črnomelj",
+      "zh-Hans": "奇尔诺梅利市镇"
+    }
+  },
+  {
+    "code": "034",
+    "name": "Hrastnik Municipality",
+    "names": {
+      "ja": "フラストニク",
+      "ko": "흐라스트니크 지방 자치제",
+      "vi": "Đô thị tự trị Hrastnik",
+      "id": "Kotamadya Hrastnik",
+      "zh-Hans": "赫拉斯特尼克市镇"
+    }
+  },
+  {
+    "code": "037",
+    "name": "Ig Municipality",
+    "names": {
+      "ja": "イグ",
+      "ko": "이그",
+      "vi": "Đô thị tự trị Ig",
+      "id": "Kotamadya Ig",
+      "zh-Hans": "伊格市镇"
+    }
+  },
+  {
+    "code": "046",
+    "name": "Kobarid Municipality",
+    "names": {
+      "ja": "コバリード",
+      "ko": "코바리드 지방 자치제",
+      "vi": "Kobarid",
+      "id": "Kotamadya Kobarid",
+      "zh-Hans": "科巴里德市镇",
+      "zh-Hant": "科巴里德市鎮"
+    }
+  },
+  {
+    "code": "049",
+    "name": "Komen Municipality",
+    "names": {
+      "ja": "コメン",
+      "ko": "코멘 지방 자치제",
+      "vi": "Đô thị tự trị Komen",
+      "id": "Kotamadya Komen",
+      "zh-Hans": "科门市镇"
+    }
+  },
+  {
+    "code": "164",
+    "name": "Komenda Municipality",
+    "names": {
+      "ja": "コメンダ",
+      "ko": "코멘다",
+      "vi": "Đô thị tự trị Komenda",
+      "id": "Kotamadya Komenda",
+      "zh-Hans": "科门达市镇"
+    }
+  },
+  {
+    "code": "165",
+    "name": "Kostel Municipality",
+    "names": {
+      "ja": "コステル",
+      "ko": "코스텔 지방 자치제",
+      "vi": "Đô thị tự trị Kostel",
+      "id": "Kotamadya Kostel",
+      "zh-Hans": "科斯泰尔市镇"
+    }
+  },
+  {
+    "code": "057",
+    "name": "Laško Municipality",
+    "names": {
+      "ja": "ラーシュコ",
+      "ko": "라슈코",
+      "vi": "Đô thị tự trị Lasko",
+      "id": "Kotamadya Laško",
+      "zh-Hans": "拉什科市镇"
+    }
+  },
+  {
+    "code": "061",
+    "name": "Ljubljana City Municipality",
+    "names": {
+      "vi": "Khu tự quản Thành phố Ljubljana",
+      "id": "Munisipalitas Ljubljana",
+      "zh-Hans": "卢布尔雅那城市市镇",
+      "zh-Hant": "盧布利亞納城市市鎮"
+    }
+  },
+  {
+    "code": "063",
+    "name": "Ljutomer Municipality",
+    "names": {
+      "ja": "リュトメル",
+      "ko": "류토메르",
+      "vi": "Ljutomer",
+      "id": "Munisipalitas Ljutomer",
+      "zh-Hans": "柳托梅尔市镇"
+    }
+  },
+  {
+    "code": "065",
+    "name": "Loška Dolina Municipality",
+    "names": {
+      "ja": "ロシュカ・ドリナ",
+      "ko": "로슈카돌리나",
+      "vi": "Loška Dolina",
+      "id": "Kotamadya Loška Dolina",
+      "zh-Hans": "洛什卡多利纳市镇"
+    }
+  },
+  {
+    "code": "070",
+    "name": "Maribor City Municipality",
+    "names": {
+      "ja": "マリボル",
+      "ko": "마리보르 도시 지방 자치제",
+      "vi": "Đô thị tự trị Maribor",
+      "id": "Kotamadya Maribor City",
+      "zh-Hans": "马里博尔城市市镇"
+    }
+  },
+  {
+    "code": "075",
+    "name": "Miren–Kostanjevica Municipality",
+    "names": {
+      "ja": "ミレン＝コスタニェヴィツァ",
+      "ko": "미렌코스타네비차",
+      "vi": "Miren-Kostanjevica",
+      "id": "Kotamadya Miren–Kostanjevica",
+      "zh-Hans": "米伦-科斯塔涅维察市镇"
+    }
+  },
+  {
+    "code": "212",
+    "name": "Mirna Municipality",
+    "names": {
+      "zh-Hans": "米尔纳市镇"
+    }
+  },
+  {
+    "code": "170",
+    "name": "Mirna Peč Municipality",
+    "names": {
+      "ja": "ミルナ・ペチ",
+      "ko": "미르나페치",
+      "vi": "Mirna Peč",
+      "id": "Kotamadya Mirna Peč",
+      "zh-Hans": "米尔纳佩奇市镇"
+    }
+  },
+  {
+    "code": "076",
+    "name": "Mislinja Municipality",
+    "names": {
+      "id": "Munisipalitas Mislinja",
+      "zh-Hans": "米斯利尼亚市镇"
+    }
+  },
+  {
+    "code": "199",
+    "name": "Mokronog-Trebelno Municipality",
+    "names": {
+      "ja": "モクロノク＝トレベルノ",
+      "ko": "모크로노그트레벨노",
+      "vi": "Mokronog-Trebelno",
+      "id": "Munisipalitas Mokronog-Trebelno",
+      "zh-Hans": "莫克罗诺格-特雷贝尔诺市镇"
+    }
+  },
+  {
+    "code": "195",
+    "name": "Municipality of Apače",
+    "names": {
+      "id": "Munisipalitas Apače",
+      "zh-Hans": "阿帕切市镇"
+    }
+  },
+  {
+    "code": "002",
+    "name": "Municipality of Beltinci",
+    "names": {
+      "ja": "ベルティンツィ",
+      "ko": "벨틴치 지방 자치제",
+      "vi": "Đô thị tự trị Beltinci",
+      "id": "Kotamadya Beltinci",
+      "zh-Hans": "贝尔廷齐市镇"
+    }
+  },
+  {
+    "code": "148",
+    "name": "Municipality of Benedikt",
+    "names": {
+      "ja": "ベネディクト",
+      "ko": "베네딕트 지방 자치제",
+      "vi": "Đô thị tự trị Benedikt",
+      "id": "Kotamadya Benedikt",
+      "zh-Hans": "贝内迪克特市镇"
+    }
+  },
+  {
+    "code": "149",
+    "name": "Municipality of Bistrica ob Sotli",
+    "names": {
+      "ja": "ビストリツァ・オプ・ソトリ",
+      "ko": "비스트리차오브소틀리 지방 자치제",
+      "vi": "Đô thị tự trị Bistrica ob Sotli",
+      "id": "Kotamadya Bistrica ob Sotli",
+      "zh-Hans": "索特拉河畔比斯特里察市镇"
+    }
+  },
+  {
+    "code": "003",
+    "name": "Municipality of Bled",
+    "names": {
+      "ja": "ブレッド",
+      "ko": "블레드 지방 자치제",
+      "vi": "Đô thị tự trị Bled",
+      "id": "Kotamadya Bled",
+      "zh-Hans": "布莱德市镇"
+    }
+  },
+  {
+    "code": "150",
+    "name": "Municipality of Bloke",
+    "names": {
+      "ja": "ブロケ",
+      "ko": "블로케",
+      "vi": "Đô thị tự trị Bloke",
+      "id": "Kotamadya Bloke",
+      "zh-Hans": "布洛凯市镇"
+    }
+  },
+  {
+    "code": "005",
+    "name": "Municipality of Borovnica",
+    "names": {
+      "ja": "ボロヴニツァ",
+      "ko": "보로브니차 지방 자치제",
+      "vi": "Đô thị tự trị Borovnica",
+      "id": "Kotamadya Borovnica",
+      "zh-Hans": "博罗夫尼察市镇"
+    }
+  },
+  {
+    "code": "006",
+    "name": "Municipality of Bovec",
+    "names": {
+      "ja": "ボヴェツ",
+      "ko": "보베츠 지방 자치제",
+      "vi": "Đô thị tự trị Bovec",
+      "id": "Kotamadya Bovec",
+      "zh-Hans": "博韦茨市镇"
+    }
+  },
+  {
+    "code": "151",
+    "name": "Municipality of Braslovče",
+    "names": {
+      "ja": "ブラスロフチェ",
+      "ko": "블라슬로브체 지방 자치제",
+      "vi": "Đô thị tự trị Braslovce",
+      "id": "Kotamadya Braslovče",
+      "zh-Hans": "布拉斯洛夫采市镇"
+    }
+  },
+  {
+    "code": "007",
+    "name": "Municipality of Brda",
+    "names": {
+      "ja": "ブルダ",
+      "ko": "브르다",
+      "vi": "Đô thị tự trị Brda",
+      "id": "Kotamadya Brda",
+      "zh-Hans": "布尔达"
+    }
+  },
+  {
+    "code": "009",
+    "name": "Municipality of Brežice",
+    "names": {
+      "ja": "ブレージツェ",
+      "ko": "브레지체 지방 자치제",
+      "vi": "Đô thị tự trị Brezice",
+      "id": "Kotamadya Brežice",
+      "zh-Hans": "布雷日采市镇"
+    }
+  },
+  {
+    "code": "008",
+    "name": "Municipality of Brezovica",
+    "names": {
+      "ja": "ブレゾヴィツァ",
+      "ko": "브레조비차",
+      "vi": "Brezovica",
+      "id": "Kotamadya Brezovica",
+      "zh-Hans": "布雷佐维察市镇"
+    }
+  },
+  {
+    "code": "152",
+    "name": "Municipality of Cankova",
+    "names": {
+      "ja": "ツァンコヴァ",
+      "ko": "찬토바 지방 자치제",
+      "vi": "Đô thị tự trị Cankova",
+      "id": "Kotamadya Cankova",
+      "zh-Hans": "灿科瓦市镇"
+    }
+  },
+  {
+    "code": "012",
+    "name": "Municipality of Cerklje na Gorenjskem",
+    "names": {
+      "ja": "ツェルクニェ・ナ・ゴレニスケム",
+      "ko": "체르클레나고렌스켐",
+      "vi": "Cerklje na Gorenjskem",
+      "id": "Kotamadya Cerklje na Gorenjskem",
+      "zh-Hans": "戈雷尼斯卡地区采尔克列市镇"
+    }
+  },
+  {
+    "code": "013",
+    "name": "Municipality of Cerknica",
+    "names": {
+      "ja": "ツェルクニツァ",
+      "ko": "체르크니차 지방 자치제",
+      "vi": "Đô thị tự trị Cerknica",
+      "id": "Kotamadya Cerknica",
+      "zh-Hans": "采爾克尼察市鎮",
+      "zh-Hant": "采爾克尼察市鎮"
+    }
+  },
+  {
+    "code": "014",
+    "name": "municipality of Cerkno",
+    "names": {
+      "ja": "ツェルクノ",
+      "ko": "체르크노 지방 자치제",
+      "vi": "Đô thị tự trị Cerkno",
+      "id": "Kotamadya Cerkno",
+      "zh-Hans": "采爾克諾市鎮",
+      "zh-Hant": "采爾克諾市鎮"
+    }
+  },
+  {
+    "code": "153",
+    "name": "Municipality of Cerkvenjak",
+    "names": {
+      "ja": "ツェルクヴェニャク",
+      "ko": "체르크베냐크 지방 자치제",
+      "vi": "Đô thị tự trị Cerkvenjak",
+      "id": "Kotamadya Cerkvenjak",
+      "zh-Hans": "采尔克韦尼亚克市镇"
+    }
+  },
+  {
+    "code": "196",
+    "name": "Municipality of Cirkulane",
+    "names": {
+      "id": "Munisipalitas Cirkulane",
+      "zh-Hans": "齊爾庫拉內市鎮"
+    }
+  },
+  {
+    "code": "015",
+    "name": "Municipality of Črenšovci",
+    "names": {
+      "ja": "チュレンショフツィ",
+      "ko": "치렌쇼우치",
+      "vi": "Črenšovci",
+      "id": "Kotamadya Črenšovci",
+      "zh-Hans": "奇伦绍夫齐"
+    }
+  },
+  {
+    "code": "016",
+    "name": "Municipality of Črna na Koroškem",
+    "names": {
+      "ja": "チュルナ・ナ・コロシュケム",
+      "ko": "치르나나코로슈켐",
+      "vi": "Đô thị tự trị Crna na Koroskem",
+      "id": "Kotamadya Črna na Koroškem",
+      "zh-Hans": "科罗什卡地区奇尔纳市镇"
+    }
+  },
+  {
+    "code": "018",
+    "name": "Municipality of Destrnik",
+    "names": {
+      "ja": "デストルニク",
+      "ko": "데스트르니크",
+      "vi": "Đô thị tự trị Destrnik",
+      "id": "Kotamadya Destrnik",
+      "zh-Hans": "代斯特尔尼克市镇"
+    }
+  },
+  {
+    "code": "019",
+    "name": "Municipality of Divača",
+    "names": {
+      "ja": "ディヴァーチャ",
+      "ko": "디바차 지방 자치제",
+      "vi": "Đô thị tự trị Divaca",
+      "id": "Kotamadya Divača",
+      "zh-Hans": "迪瓦查市镇"
+    }
+  },
+  {
+    "code": "154",
+    "name": "Municipality of Dobje",
+    "names": {
+      "ja": "ドビェ",
+      "ko": "도베",
+      "vi": "Dobje",
+      "id": "Kotamadya Dobje",
+      "zh-Hans": "多别市镇"
+    }
+  },
+  {
+    "code": "020",
+    "name": "Municipality of Dobrepolje",
+    "names": {
+      "ja": "ドブレポリェ",
+      "ko": "도브레폴레",
+      "vi": "Dobrepolje",
+      "id": "Kotamadya Dobrepolje",
+      "zh-Hans": "多布雷波列市镇"
+    }
+  },
+  {
+    "code": "155",
+    "name": "Municipality of Dobrna",
+    "names": {
+      "ja": "ドブラナ",
+      "ko": "도브르나",
+      "vi": "Dobrna",
+      "id": "Kotamadya Dobrna",
+      "zh-Hans": "多布尔纳市镇"
+    }
+  },
+  {
+    "code": "021",
+    "name": "Municipality of Dobrova–Polhov Gradec",
+    "names": {
+      "ja": "ドブロヴァ＝ポルホフ・グラデツ",
+      "ko": "도브로바폴호우그라데츠",
+      "vi": "Dobrova-Polhov Gradec",
+      "id": "Kotamadya Dobrova–Polhov Gradec",
+      "zh-Hans": "多布罗瓦-波尔霍夫格拉代茨市镇"
+    }
+  },
+  {
+    "code": "156",
+    "name": "Municipality of Dobrovnik",
+    "names": {
+      "id": "Munisipalitas Dobrovnik",
+      "zh-Hans": "多布罗夫尼克市镇"
+    }
+  },
+  {
+    "code": "022",
+    "name": "Municipality of Dol pri Ljubljani",
+    "names": {
+      "ja": "ドル・プリ・リュブリャニ",
+      "ko": "돌프리류블랴니",
+      "vi": "Dol pri Ljubljani",
+      "id": "Kotamadya Dol pri Ljubljani",
+      "zh-Hans": "卢布尔雅那附近多尔市镇"
+    }
+  },
+  {
+    "code": "157",
+    "name": "Municipality of Dolenjske Toplice",
+    "names": {
+      "ja": "ドレーニスケ・トプリーツェ",
+      "ko": "돌렌스케토플리체",
+      "vi": "Dolenjske Toplice",
+      "id": "Kotamadya Dolenjske Toplice",
+      "zh-Hans": "多莱尼斯凯托普利采市镇"
+    }
+  },
+  {
+    "code": "023",
+    "name": "Municipality of Domžale",
+    "names": {
+      "id": "Munisipalitas Domžale",
+      "zh-Hans": "多姆扎莱市镇"
+    }
+  },
+  {
+    "code": "024",
+    "name": "Municipality of Dornava",
+    "names": {
+      "ja": "ドルナヴァ",
+      "ko": "도르나바",
+      "vi": "Đô thị tự trị Dornava",
+      "id": "Kotamadya Dornava",
+      "zh-Hans": "多尔纳瓦"
+    }
+  },
+  {
+    "code": "025",
+    "name": "Municipality of Dravograd",
+    "names": {
+      "ja": "ドラボグラード",
+      "ko": "드라보그라드 지방 자치제",
+      "vi": "Đô thị tự trị Dravograd",
+      "id": "Kotamadya Dravograd",
+      "zh-Hans": "德拉沃格勒市镇"
+    }
+  },
+  {
+    "code": "026",
+    "name": "Municipality of Duplek",
+    "names": {
+      "ja": "ドゥプレク",
+      "ko": "두플레크",
+      "vi": "Duplek",
+      "id": "Kotamadya Duplek",
+      "zh-Hans": "杜普莱克市镇"
+    }
+  },
+  {
+    "code": "027",
+    "name": "Municipality of Gorenja Vas-Poljane",
+    "names": {
+      "ja": "ゴレニャ・ヴァス＝ポリャネ",
+      "ko": "고레냐바스폴랴네",
+      "vi": "Đô thị tự trị Gorenja Vas–Poljane",
+      "id": "Kotamadya Gorenja Vas–Poljane",
+      "zh-Hans": "戈雷尼亚村-波利亚内市镇"
+    }
+  },
+  {
+    "code": "028",
+    "name": "Municipality of Gorišnica",
+    "names": {
+      "ja": "ゴリシュニツァ",
+      "ko": "고리슈니차",
+      "vi": "Đô thị tự trị Gorisnica",
+      "id": "Kotamadya Gorišnica",
+      "zh-Hans": "戈里什尼察市镇"
+    }
+  },
+  {
+    "code": "207",
+    "name": "Municipality of Gorje",
+    "names": {
+      "ja": "ゴリェ",
+      "ko": "고레",
+      "vi": "Gorje",
+      "id": "Munisipalitas Gorje",
+      "zh-Hans": "戈列市镇"
+    }
+  },
+  {
+    "code": "029",
+    "name": "Municipality of Gornja Radgona",
+    "names": {
+      "id": "Munisipalitas Gornja Radgona",
+      "zh-Hans": "上拉德戈纳市镇"
+    }
+  },
+  {
+    "code": "030",
+    "name": "Municipality of Gornji Grad",
+    "names": {
+      "ja": "ゴルニ・グラード",
+      "ko": "고르니그라드",
+      "vi": "Đô thị tự trị Gornji Grad",
+      "id": "Kotamadya Gornji Grad",
+      "zh-Hans": "戈尔尼格勒市镇"
+    }
+  },
+  {
+    "code": "031",
+    "name": "Municipality of Gornji Petrovci",
+    "names": {
+      "ja": "ゴルニ・ペトロフツィ",
+      "ko": "고르니페트로브치 지방 자치제",
+      "vi": "Đô thị tự trị Gornji Petrovci",
+      "id": "Kotamadya Gornji Petrovci",
+      "zh-Hans": "上彼得罗夫齐市镇"
+    }
+  },
+  {
+    "code": "158",
+    "name": "Municipality of Grad",
+    "names": {
+      "ja": "グラード",
+      "ko": "그라드",
+      "vi": "Đô thị tự trị Grad",
+      "id": "Kotamadya Grad",
+      "zh-Hans": "格拉德市镇"
+    }
+  },
+  {
+    "code": "032",
+    "name": "Municipality of Grosuplje",
+    "names": {
+      "ja": "グロースプリェ",
+      "ko": "그로수플예 지방 자치제",
+      "vi": "Đô thị tự trị Grosuplje",
+      "id": "Kotamadya Grosuplje",
+      "zh-Hans": "格罗苏普列市镇"
+    }
+  },
+  {
+    "code": "159",
+    "name": "Municipality of Hajdina",
+    "names": {
+      "ja": "ハイディナ",
+      "ko": "하이디나",
+      "vi": "Hajdina",
+      "id": "Kotamadya Hajdina",
+      "zh-Hans": "哈伊迪纳市镇"
+    }
+  },
+  {
+    "code": "160",
+    "name": "Municipality of Hoče-Slivnica",
+    "names": {
+      "ja": "ホチェ＝スリヴニツァ",
+      "ko": "호체슬리우니차",
+      "vi": "Hoče - Slivnica",
+      "id": "Kotamadya Hoče–Slivnica",
+      "zh-Hans": "霍切-斯利夫尼察市镇"
+    }
+  },
+  {
+    "code": "161",
+    "name": "Municipality of Hodoš",
+    "names": {
+      "ja": "ホドシュ",
+      "ko": "호도스 지방 자치제",
+      "vi": "Đô thị tự trị Hodos",
+      "id": "Kotamadya Hodoš",
+      "zh-Hans": "霍多什市镇"
+    }
+  },
+  {
+    "code": "162",
+    "name": "Municipality of Horjul",
+    "names": {
+      "ja": "ホリュル",
+      "ko": "호률",
+      "vi": "Đô thị tự trị Horjul",
+      "id": "Kotamadya Horjul",
+      "zh-Hans": "霍尔尤尔市镇"
+    }
+  },
+  {
+    "code": "035",
+    "name": "Municipality of Hrpelje-Kozina",
+    "names": {
+      "ja": "フルペリェ＝コジナ",
+      "ko": "흐르펠레코지나",
+      "vi": "Hrpelje-Kozina",
+      "id": "Kotamadya Hrpelje–Kozina",
+      "zh-Hans": "赫尔佩列-科济纳市镇"
+    }
+  },
+  {
+    "code": "036",
+    "name": "Municipality of Idrija",
+    "names": {
+      "id": "Munisipalitas Idrija",
+      "zh-Hans": "伊德里亚市镇"
+    }
+  },
+  {
+    "code": "038",
+    "name": "Municipality of Ilirska Bistrica",
+    "names": {
+      "id": "Kota praja Ilirska Bistrica",
+      "zh-Hans": "伊利尔斯卡比斯特里察市镇"
+    }
+  },
+  {
+    "code": "039",
+    "name": "Municipality of Ivančna Gorica",
+    "names": {
+      "ja": "イヴァンチュナ・ゴリツァ",
+      "ko": "이반치나고리차",
+      "vi": "Ivančna Gorica",
+      "id": "Kotamadya Ivančna Gorica",
+      "zh-Hans": "伊万奇纳戈里察市镇"
+    }
+  },
+  {
+    "code": "040",
+    "name": "Municipality of Izola",
+    "names": {
+      "id": "Munisipalitas Izola",
+      "zh-Hans": "伊佐拉市镇"
+    }
+  },
+  {
+    "code": "041",
+    "name": "Municipality of Jesenice",
+    "names": {
+      "ja": "イェセニツェ",
+      "ko": "예세니체",
+      "vi": "Jesenice, Slovenia",
+      "id": "Jesenice",
+      "zh-Hans": "耶塞尼采市镇"
+    }
+  },
+  {
+    "code": "163",
+    "name": "Municipality of Jezersko",
+    "names": {
+      "ja": "イェゼルスコ",
+      "ko": "예제르스코",
+      "vi": "Đô thị tự trị Jezersko",
+      "id": "Kotamadya Jezersko",
+      "zh-Hans": "耶泽尔斯科市镇"
+    }
+  },
+  {
+    "code": "042",
+    "name": "Municipality of Juršinci",
+    "names": {
+      "ja": "ユルシンツィ",
+      "ko": "유르신치",
+      "vi": "Juršinci",
+      "id": "Kotamadya Juršinci",
+      "zh-Hans": "尤尔欣齐市镇"
+    }
+  },
+  {
+    "code": "043",
+    "name": "Municipality of Kamnik",
+    "names": {
+      "ja": "カムニーク",
+      "ko": "캄니크 지방 자치제",
+      "vi": "Đô thị tự trị Kamnik",
+      "id": "Kotamadya Kamnik",
+      "zh-Hans": "卡姆尼克市镇"
+    }
+  },
+  {
+    "code": "044",
+    "name": "Municipality of Kanal ob Soči",
+    "names": {
+      "vi": "Kanal",
+      "zh-Hans": "索查河畔卡纳尔市镇"
+    }
+  },
+  {
+    "code": "045",
+    "name": "Municipality of Kidričevo",
+    "names": {
+      "ja": "キドリチェヴォ",
+      "ko": "키드리체보",
+      "vi": "Đô thị tự trị Kidricevo",
+      "id": "Kotamadya Kidričevo",
+      "zh-Hans": "基德里切沃市镇"
+    }
+  },
+  {
+    "code": "047",
+    "name": "Municipality of Kobilje",
+    "names": {
+      "ja": "コビリェ",
+      "ko": "코빌레",
+      "vi": "Kobilje",
+      "id": "Kotamadya Kobilje",
+      "zh-Hans": "科比列市镇"
+    }
+  },
+  {
+    "code": "048",
+    "name": "Municipality of Kočevje",
+    "names": {
+      "ja": "コチェーヴィエ",
+      "ko": "코체베",
+      "vi": "đô thị Kočevje",
+      "id": "Kočevje",
+      "zh-Hans": "科切维"
+    }
+  },
+  {
+    "code": "197",
+    "name": "Municipality of Kostanjevica na Krki",
+    "names": {
+      "id": "Munisipalitas Kostanjevica na Krki",
+      "zh-Hans": "克尔卡地区科斯塔涅维察市镇"
+    }
+  },
+  {
+    "code": "051",
+    "name": "Municipality of Kozje",
+    "names": {
+      "ja": "コジエ",
+      "ko": "코제",
+      "vi": "Kozje",
+      "id": "Kotamadya Kozje",
+      "zh-Hans": "科兹耶",
+      "zh-Hant": "科茲耶"
+    }
+  },
+  {
+    "code": "053",
+    "name": "Municipality of Kranjska Gora",
+    "names": {
+      "ja": "クランスカ・ゴーラ",
+      "ko": "크란스카고라",
+      "vi": "Đô thị tự trị Kranjska Gora",
+      "id": "Kotamadya Kranjska Gora",
+      "zh-Hans": "克拉尼斯卡戈拉",
+      "zh-Hant": "克拉尼斯卡戈拉"
+    }
+  },
+  {
+    "code": "166",
+    "name": "Municipality of Križevci",
+    "names": {
+      "ja": "クリジェフツィ",
+      "ko": "크리제우치",
+      "vi": "Đô thị tự trị Krizevci",
+      "id": "Kotamadya Križevci",
+      "zh-Hans": "克里热夫齐市镇"
+    }
+  },
+  {
+    "code": "055",
+    "name": "Municipality of Kungota",
+    "names": {
+      "ja": "クンゴタ",
+      "ko": "쿤고타",
+      "vi": "Kungota",
+      "id": "Kotamadya Kungota",
+      "zh-Hans": "昆戈塔市镇"
+    }
+  },
+  {
+    "code": "056",
+    "name": "Municipality of Kuzma",
+    "names": {
+      "ja": "クズマ",
+      "ko": "쿠즈마",
+      "vi": "Đô thị tự trị Kuzma",
+      "id": "Kotamadya Kuzma",
+      "zh-Hans": "库兹马市镇"
+    }
+  },
+  {
+    "code": "058",
+    "name": "Municipality of Lenart",
+    "names": {
+      "ja": "レナルト",
+      "ko": "레나르트 지방 자치제",
+      "vi": "Đô thị tự trị Lenart",
+      "id": "Kotamadya Lenart",
+      "zh-Hans": "莱纳尔特市镇"
+    }
+  },
+  {
+    "code": "059",
+    "name": "Municipality of Lendava",
+    "names": {
+      "zh-Hans": "伦达瓦市镇"
+    }
+  },
+  {
+    "code": "060",
+    "name": "Municipality of Litija",
+    "names": {
+      "ja": "リティヤ",
+      "ko": "리티야",
+      "vi": "Litija",
+      "id": "Kotamadya Litija",
+      "zh-Hans": "利蒂亚"
+    }
+  },
+  {
+    "code": "062",
+    "name": "Municipality of Ljubno",
+    "names": {
+      "ja": "リュブノ",
+      "ko": "류브노",
+      "vi": "Ljubno",
+      "id": "Kotamadya Ljubno",
+      "zh-Hans": "柳布诺市镇"
+    }
+  },
+  {
+    "code": "208",
+    "name": "Municipality of Log–Dragomer",
+    "names": {
+      "ja": "ログ・ドラゴメル",
+      "ko": "로그드라고메르",
+      "vi": "Log-Dragomer",
+      "id": "Munisipalitas Log-Dragomer",
+      "zh-Hans": "洛格-德拉戈梅尔市镇"
+    }
+  },
+  {
+    "code": "064",
+    "name": "Municipality of Logatec",
+    "names": {
+      "ja": "ロガテツ",
+      "ko": "로가테츠",
+      "vi": "Logatec",
+      "id": "Logatec",
+      "zh-Hans": "洛加泰茨市镇"
+    }
+  },
+  {
+    "code": "066",
+    "name": "Municipality of Loški Potok",
+    "names": {
+      "ja": "ロシュキ・ポトク",
+      "ko": "로슈키포토크",
+      "vi": "Loški Potok",
+      "id": "Kotamadya Loški Potok",
+      "zh-Hans": "洛什基波托克市镇"
+    }
+  },
+  {
+    "code": "167",
+    "name": "Municipality of Lovrenc na Pohorju",
+    "names": {
+      "ja": "ロヴェンツェ・ナ・ポホリュ",
+      "ko": "로우렌츠나포호류",
+      "vi": "đô thị Lovrenc na Pohorje",
+      "id": "Munisipalitas Lovrenc na Pohorju",
+      "zh-Hans": "波霍列山区洛夫伦茨市镇",
+      "zh-Hant": "波霍列山區洛夫倫茨"
+    }
+  },
+  {
+    "code": "067",
+    "name": "Municipality of Luče",
+    "names": {
+      "ja": "ルチェ",
+      "ko": "루체",
+      "vi": "Đô thị tự trị Luce",
+      "id": "Munisipalitas Luče",
+      "zh-Hans": "卢切市镇"
+    }
+  },
+  {
+    "code": "068",
+    "name": "Municipality of Lukovica",
+    "names": {
+      "ja": "ルコヴィツァ",
+      "ko": "루코비차",
+      "vi": "Đô thị tự trị Lukovica",
+      "id": "Kotamadya Lukovica",
+      "zh-Hans": "卢科维察市镇"
+    }
+  },
+  {
+    "code": "069",
+    "name": "Municipality of Majšperk",
+    "names": {
+      "ja": "マイシュペルク",
+      "ko": "마이슈페르크",
+      "vi": "Đô thị tự trị Majsperk",
+      "id": "Kotamadya Majšperk",
+      "zh-Hans": "马伊什佩克",
+      "zh-Hant": "馬伊什佩克"
+    }
+  },
+  {
+    "code": "198",
+    "name": "Municipality of Makole",
+    "names": {
+      "ja": "マコレ",
+      "ko": "마콜레",
+      "vi": "Makole",
+      "id": "Munisipalitas Makole",
+      "zh-Hans": "马科莱市镇"
+    }
+  },
+  {
+    "code": "168",
+    "name": "Municipality of Markovci",
+    "names": {
+      "ja": "マルコフツィ",
+      "ko": "마르코우치",
+      "vi": "Markovci",
+      "id": "Kotamadya Markovci",
+      "zh-Hans": "马尔科夫齐市镇"
+    }
+  },
+  {
+    "code": "071",
+    "name": "Municipality of Medvode",
+    "names": {
+      "ja": "メドヴォデ",
+      "ko": "메드보데",
+      "vi": "Medvode",
+      "id": "Kotamadya Medvode",
+      "zh-Hans": "梅德沃代市镇"
+    }
+  },
+  {
+    "code": "072",
+    "name": "Municipality of Mengeš",
+    "names": {
+      "ja": "メンゲシュ",
+      "ko": "멘게시",
+      "vi": "Đô thị tự trị Menges",
+      "id": "Kotamadya Mengeš",
+      "zh-Hans": "门盖什"
+    }
+  },
+  {
+    "code": "073",
+    "name": "Municipality of Metlika",
+    "names": {
+      "zh-Hans": "梅特利卡市镇"
+    }
+  },
+  {
+    "code": "074",
+    "name": "Municipality of Mežica",
+    "names": {
+      "zh-Hans": "梅日察市镇"
+    }
+  },
+  {
+    "code": "169",
+    "name": "Municipality of Miklavž na Dravskem Polju",
+    "names": {
+      "ja": "ミクラヴジュ・ナ・ドラフスケム・ポリュ",
+      "ko": "미클라우시나드라우스켐폴류",
+      "vi": "Miklavž na Dravskem Polju",
+      "id": "Munisipalitas Miklavž na Dravskem Polju",
+      "zh-Hans": "德拉夫什卡波卢地区米克拉夫兹市镇"
+    }
+  },
+  {
+    "code": "077",
+    "name": "Municipality of Moravče",
+    "names": {
+      "ja": "モラフチェ",
+      "ko": "모라우체",
+      "vi": "Moravče",
+      "id": "Kotamadya Moravče",
+      "zh-Hans": "摩拉夫切",
+      "zh-Hant": "摩拉夫切"
+    }
+  },
+  {
+    "code": "078",
+    "name": "Municipality of Moravske Toplice",
+    "names": {
+      "ja": "モラフスケ・トプリツェ",
+      "ko": "모라브스케 토플리체 지방 자치제",
+      "vi": "Đô thị tự trị Moravske Toplice",
+      "id": "Kotamadya Moravske Toplice",
+      "zh-Hans": "摩拉瓦托普利采市镇"
+    }
+  },
+  {
+    "code": "079",
+    "name": "Municipality of Mozirje",
+    "names": {
+      "ja": "モジリェ",
+      "ko": "모지레",
+      "vi": "Mozirje",
+      "id": "Kotamadya Mozirje",
+      "zh-Hans": "莫济列"
+    }
+  },
+  {
+    "code": "081",
+    "name": "Municipality of Muta",
+    "names": {
+      "ja": "ムタ",
+      "ko": "무타",
+      "vi": "Đô thị tự trị Muta",
+      "id": "Kotamadya Muta",
+      "zh-Hans": "穆塔市镇"
+    }
+  },
+  {
+    "code": "082",
+    "name": "Municipality of Naklo",
+    "names": {
+      "ja": "ナクロ",
+      "ko": "나클로 지방 자치제",
+      "vi": "Đô thị tự trị Naklo",
+      "id": "Kotamadya Naklo",
+      "zh-Hans": "纳克洛市镇"
+    }
+  },
+  {
+    "code": "083",
+    "name": "Municipality of Nazarje",
+    "names": {
+      "ja": "ナザリェ",
+      "ko": "나자레",
+      "vi": "Đô thị tự trị Nazarje",
+      "id": "Kotamadya Nazarje",
+      "zh-Hans": "纳扎列"
+    }
+  },
+  {
+    "code": "086",
+    "name": "Municipality of Odranci",
+    "names": {
+      "zh-Hans": "奥德兰齐市镇"
+    }
+  },
+  {
+    "code": "171",
+    "name": "Municipality of Oplotnica",
+    "names": {
+      "ja": "オプロトニツァ",
+      "ko": "오플로트니차",
+      "vi": "Oplotnica",
+      "id": "Kotamadya Oplotnica",
+      "zh-Hans": "奥普洛特尼察市镇"
+    }
+  },
+  {
+    "code": "088",
+    "name": "Municipality of Osilnica",
+    "names": {
+      "ja": "オシルニツァ",
+      "ko": "오실니차",
+      "id": "Munisipalitas Osilnica",
+      "zh-Hans": "奥西尔尼察市镇"
+    }
+  },
+  {
+    "code": "089",
+    "name": "Municipality of Pesnica",
+    "names": {
+      "ja": "ペスニツァ",
+      "ko": "페스니차",
+      "vi": "Pesnica",
+      "id": "Kotamadya Pesnica",
+      "zh-Hans": "佩斯尼察市镇"
+    }
+  },
+  {
+    "code": "091",
+    "name": "Municipality of Pivka",
+    "names": {
+      "ja": "ピフカ",
+      "ko": "피우카",
+      "vi": "Đô thị tự trị Pivka",
+      "id": "Kotamadya Pivka",
+      "zh-Hans": "皮夫卡",
+      "zh-Hant": "皮夫卡"
+    }
+  },
+  {
+    "code": "092",
+    "name": "Municipality of Podčetrtek",
+    "names": {
+      "ja": "ポッチェトルテク",
+      "ko": "포드체트르테크",
+      "vi": "Podčetrtek",
+      "id": "Kotamadya Podčetrtek",
+      "zh-Hans": "波德切特泰克",
+      "zh-Hant": "波德切特泰克"
+    }
+  },
+  {
+    "code": "172",
+    "name": "Municipality of Podlehnik",
+    "names": {
+      "ja": "ポドレフニク",
+      "ko": "포들레흐니크",
+      "vi": "Podlehnik",
+      "id": "Kotamadya Podlehnik",
+      "zh-Hans": "波德莱赫尼克市镇"
+    }
+  },
+  {
+    "code": "093",
+    "name": "Municipality of Podvelka",
+    "names": {
+      "ja": "ポドヴェルカ",
+      "ko": "포드벨카",
+      "vi": "Podvelka",
+      "id": "Kotamadya Podvelka",
+      "zh-Hans": "波德韦尔卡市镇"
+    }
+  },
+  {
+    "code": "200",
+    "name": "Municipality of Poljčane",
+    "names": {
+      "ja": "ポリチャネ",
+      "ko": "폴차네",
+      "vi": "Poljčane",
+      "id": "Munisipalitas Poljčane",
+      "zh-Hans": "波利察内市镇"
+    }
+  },
+  {
+    "code": "173",
+    "name": "Municipality of Polzela",
+    "names": {
+      "ja": "ポルゼラ",
+      "ko": "폴젤라",
+      "vi": "Polzela",
+      "id": "Kotamadya Polzela",
+      "zh-Hans": "波尔泽拉市镇"
+    }
+  },
+  {
+    "code": "094",
+    "name": "Municipality of Postojna",
+    "names": {
+      "ja": "ポストイナ",
+      "ko": "포스토이나 지방 자치제",
+      "vi": "Đô thị tự trị Postojna",
+      "id": "Kotamadya Postojna",
+      "zh-Hans": "波斯托伊纳市镇"
+    }
+  },
+  {
+    "code": "174",
+    "name": "Municipality of Prebold",
+    "names": {
+      "ja": "プレボルド",
+      "ko": "프레볼트",
+      "vi": "Đô thị tự trị Prebold",
+      "id": "Kotamadya Prebold",
+      "zh-Hans": "普雷博尔德市镇"
+    }
+  },
+  {
+    "code": "095",
+    "name": "Municipality of Preddvor",
+    "names": {
+      "ja": "プレッドヴォル",
+      "ko": "프레드보르",
+      "vi": "Đô thị tự trị Preddvor",
+      "id": "Kotamadya Preddvor",
+      "zh-Hans": "普雷德沃尔市镇"
+    }
+  },
+  {
+    "code": "175",
+    "name": "Municipality of Prevalje",
+    "names": {
+      "ja": "プレヴァリェ",
+      "ko": "프레발레",
+      "vi": "Prevalje",
+      "id": "Kotamadya Prevalje",
+      "zh-Hans": "普雷瓦列市镇"
+    }
+  },
+  {
+    "code": "097",
+    "name": "Municipality of Puconci",
+    "names": {
+      "id": "Munisipalitas Puconci",
+      "zh-Hans": "普聪齐市镇"
+    }
+  },
+  {
+    "code": "098",
+    "name": "Municipality of Rače–Fram",
+    "names": {
+      "ja": "ラチェ＝フラム",
+      "ko": "라체프람",
+      "vi": "Rače - Fram",
+      "id": "Kotamadya Rače–Fram",
+      "zh-Hans": "拉切-弗拉姆市镇"
+    }
+  },
+  {
+    "code": "100",
+    "name": "Municipality of Radenci",
+    "names": {
+      "ja": "ラデンツィ",
+      "ko": "라덴치",
+      "id": "Munisipalitas Radenci",
+      "zh-Hans": "拉登齐市镇"
+    }
+  },
+  {
+    "code": "101",
+    "name": "Municipality of Radlje ob Dravi",
+    "names": {
+      "ja": "ラドリェ・オブ・ドラヴィ",
+      "ko": "라들레오브드라비",
+      "vi": "Radlje ob Dravi",
+      "id": "Kotamadya Radlje ob Dravi",
+      "zh-Hans": "德拉瓦河畔拉德列市镇"
+    }
+  },
+  {
+    "code": "102",
+    "name": "Municipality of Radovljica",
+    "names": {
+      "ja": "ラドヴリツァ",
+      "ko": "라도울리차",
+      "vi": "Đô thị tự trị Radovljica",
+      "id": "Kotamadya Radovljica",
+      "zh-Hans": "拉多夫利察市镇"
+    }
+  },
+  {
+    "code": "103",
+    "name": "Municipality of Ravne na Koroškem",
+    "names": {
+      "zh-Hans": "拉夫内纳科罗什凯姆市镇"
+    }
+  },
+  {
+    "code": "176",
+    "name": "Municipality of Razkrižje",
+    "names": {
+      "ja": "ラスクリジイェ",
+      "ko": "라즈크리제 지방 자치제",
+      "vi": "Đô thị tự trị Razkrizje",
+      "id": "Kotamadya Razkrižje",
+      "zh-Hans": "拉兹克里日耶市镇"
+    }
+  },
+  {
+    "code": "209",
+    "name": "Municipality of Rečica ob Savinji",
+    "names": {
+      "zh-Hans": "萨维尼亚河畔雷契察市镇"
+    }
+  },
+  {
+    "code": "201",
+    "name": "Municipality of Renče–Vogrsko",
+    "names": {
+      "ja": "レンチェ＝ヴォグルスコ",
+      "ko": "렌체보그르스코",
+      "vi": "Renče-Vogrsko",
+      "id": "Munisipalitas Renče–Vogrsko",
+      "zh-Hans": "伦切-沃格尔斯科市镇"
+    }
+  },
+  {
+    "code": "104",
+    "name": "Municipality of Ribnica",
+    "names": {
+      "ja": "リブニツァ",
+      "ko": "리브니차",
+      "vi": "Đô thị tự trị Ribnica",
+      "id": "Kotamadya Ribnica",
+      "zh-Hans": "里布尼察市镇"
+    }
+  },
+  {
+    "code": "177",
+    "name": "Municipality of Ribnica na Pohorju",
+    "names": {
+      "ja": "リブニツァ・ナ・ポホリュ",
+      "ko": "리브니차나포호류",
+      "vi": "Ribnica na Pohorju",
+      "id": "Kotamadya Ribnica na Pohorju",
+      "zh-Hans": "波霍列山区里布尼察市镇"
+    }
+  },
+  {
+    "code": "106",
+    "name": "Municipality of Rogaška Slatina",
+    "names": {
+      "ja": "ロガーシュカ・スラティナ",
+      "ko": "로가슈카슬라티나",
+      "zh-Hans": "罗加什卡-斯拉蒂纳市镇"
+    }
+  },
+  {
+    "code": "105",
+    "name": "Municipality of Rogašovci",
+    "names": {
+      "ja": "ロガショフツィ",
+      "ko": "로가쇼우치",
+      "vi": "Rogašovci",
+      "id": "Kotamadya Rogašovci",
+      "zh-Hans": "罗加绍夫齐市镇"
+    }
+  },
+  {
+    "code": "107",
+    "name": "Municipality of Rogatec",
+    "names": {
+      "ja": "ロガテツ",
+      "ko": "로가테츠",
+      "vi": "Đô thị tự trị Rogatec",
+      "id": "Kotamadya Rogatec",
+      "zh-Hans": "罗加泰茨市镇"
+    }
+  },
+  {
+    "code": "033",
+    "name": "Municipality of Šalovci",
+    "names": {
+      "id": "Munisipalitas Šalovci",
+      "zh-Hans": "沙洛夫齐市镇"
+    }
+  },
+  {
+    "code": "178",
+    "name": "Municipality of Selnica ob Dravi",
+    "names": {
+      "ja": "セルニツァ・オブ・ドラヴィ",
+      "ko": "셀니차오브드라비",
+      "vi": "Selnica ob Dravi",
+      "id": "Kotamadya Selnica ob Dravi",
+      "zh-Hans": "德拉瓦河畔塞尔尼察市镇"
+    }
+  },
+  {
+    "code": "109",
+    "name": "Municipality of Semič",
+    "names": {
+      "ja": "セミチ",
+      "ko": "세미치",
+      "vi": "Đô thị tự trị Semic",
+      "id": "Kotamadya Semič",
+      "zh-Hans": "塞米奇市镇"
+    }
+  },
+  {
+    "code": "183",
+    "name": "Municipality of Šempeter–Vrtojba",
+    "names": {
+      "ja": "シェンペテル＝ヴロトイバ",
+      "ko": "솀페테르브르토이바",
+      "vi": "Šempeter-Vrtojba",
+      "id": "Kotamadya Šempeter–Vrtojba",
+      "zh-Hans": "圣彼得-弗尔托伊巴市镇"
+    }
+  },
+  {
+    "code": "117",
+    "name": "Municipality of Šenčur",
+    "names": {
+      "ja": "シェンチュル",
+      "ko": "셴추르",
+      "vi": "Šenčur",
+      "id": "Kotamadya Šenčur",
+      "zh-Hans": "申丘尔市镇"
+    }
+  },
+  {
+    "code": "118",
+    "name": "Municipality of Šentilj",
+    "names": {
+      "ja": "シェンティリ",
+      "ko": "셴틸",
+      "vi": "Šentilj",
+      "id": "Kotamadya Šentilj",
+      "zh-Hans": "申蒂利市镇"
+    }
+  },
+  {
+    "code": "119",
+    "name": "Municipality of Šentjernej",
+    "names": {
+      "ja": "シェントイェルニェイ",
+      "ko": "셴체르네이",
+      "vi": "Šentjernej",
+      "id": "Kotamadya Šentjernej",
+      "zh-Hans": "申特耶尔内伊市镇"
+    }
+  },
+  {
+    "code": "211",
+    "name": "Municipality of Šentrupert",
+    "names": {
+      "id": "Munisipalitas Šentrupert",
+      "zh-Hans": "申特鲁佩尔特市镇"
+    }
+  },
+  {
+    "code": "111",
+    "name": "Municipality of Sežana",
+    "names": {
+      "ja": "セジャーナ",
+      "ko": "세자나 지방 자치제",
+      "vi": "Đô thị tự trị Sezana",
+      "id": "Kotamadya Sežana",
+      "zh-Hans": "塞扎纳市镇"
+    }
+  },
+  {
+    "code": "121",
+    "name": "Municipality of Škocjan",
+    "names": {
+      "ja": "シュコツィアン",
+      "ko": "슈코찬",
+      "vi": "Škocjan",
+      "id": "Kotamadya Škocjan",
+      "zh-Hans": "什科茨扬市镇"
+    }
+  },
+  {
+    "code": "122",
+    "name": "Municipality of Škofja Loka",
+    "names": {
+      "ja": "シュコーフィア・ロカ",
+      "ko": "슈코피아로카 지방 자치제",
+      "vi": "Đô thị tự trị Skofja Loka",
+      "id": "Kotamadya Škofja Loka",
+      "zh-Hans": "什科菲亚洛卡市镇"
+    }
+  },
+  {
+    "code": "123",
+    "name": "Municipality of Škofljica",
+    "names": {
+      "ja": "シュコフリツァ",
+      "ko": "슈코플리차",
+      "vi": "Škofljica",
+      "id": "Kotamadya Škofljica",
+      "zh-Hans": "什科夫利察市镇"
+    }
+  },
+  {
+    "code": "113",
+    "name": "Municipality of Slovenska Bistrica",
+    "names": {
+      "id": "Munisipalitas Slovenska Bistrica",
+      "zh-Hans": "斯洛文尼亚比斯特里察市镇"
+    }
+  },
+  {
+    "code": "124",
+    "name": "Municipality of Šmarje pri Jelšah",
+    "names": {
+      "ja": "シュマリェ・プリ・イェルシャフ",
+      "ko": "슈마레프리옐샤흐",
+      "vi": "Šmarje pri Jelšah",
+      "id": "Kotamadya Šmarje pri Jelšah",
+      "zh-Hans": "耶尔沙赫附近什马列市镇"
+    }
+  },
+  {
+    "code": "206",
+    "name": "Municipality of Šmarješke Toplice",
+    "names": {
+      "id": "Munisipalitas Šmarješke Toplice",
+      "zh-Hans": "什马列什凯托普利采市镇"
+    }
+  },
+  {
+    "code": "125",
+    "name": "Municipality of Šmartno ob Paki",
+    "names": {
+      "ja": "シュマルトノ・オプ・パキ",
+      "ko": "슈마르트노오브파키",
+      "vi": "Šmartno ob Paki",
+      "id": "Kotamadya Šmartno ob Paki",
+      "zh-Hans": "帕卡河畔什马尔特诺市镇"
+    }
+  },
+  {
+    "code": "194",
+    "name": "Municipality of Šmartno pri Litiji",
+    "names": {
+      "ja": "シュマルトノ・プリ・リティイ",
+      "id": "Munisipalitas Šmartno pri Litiji",
+      "zh-Hans": "利蒂亚附近什马尔特诺市镇"
+    }
+  },
+  {
+    "code": "179",
+    "name": "Municipality of Sodražica",
+    "names": {
+      "ja": "ソドラジツァ",
+      "ko": "소드라지차",
+      "vi": "Đô thị tự trị Sodrazica",
+      "id": "Kotamadya Sodražica",
+      "zh-Hans": "索德拉日察市镇"
+    }
+  },
+  {
+    "code": "126",
+    "name": "Municipality of Šoštanj",
+    "names": {
+      "ja": "ショーシュタニ",
+      "ko": "쇼슈탄",
+      "vi": "Šoštanj",
+      "id": "Kotamadya Šoštanj",
+      "zh-Hans": "绍什塔尼"
+    }
+  },
+  {
+    "code": "202",
+    "name": "Municipality of Središče ob Dravi",
+    "names": {
+      "zh-Hans": "德拉瓦河畔斯雷迪什切市镇"
+    }
+  },
+  {
+    "code": "115",
+    "name": "Municipality of Starše",
+    "names": {
+      "ja": "スタルチェ",
+      "ko": "스타르셰",
+      "vi": "Starše",
+      "id": "Kotamadya Starše",
+      "zh-Hans": "斯塔尔舍市镇"
+    }
+  },
+  {
+    "code": "127",
+    "name": "Municipality of Štore",
+    "names": {
+      "ja": "シュトレ",
+      "ko": "슈토레",
+      "vi": "Štore",
+      "id": "Kotamadya Štore",
+      "zh-Hans": "什托雷市镇"
+    }
+  },
+  {
+    "code": "203",
+    "name": "Municipality of Straža",
+    "names": {
+      "ja": "ストラジャ",
+      "ko": "스트라자",
+      "id": "Munisipalitas Straža",
+      "zh-Hans": "斯特拉扎市镇"
+    }
+  },
+  {
+    "code": "204",
+    "name": "Municipality of Sveta Trojica v Slovenskih Goricah",
+    "names": {
+      "ja": "スヴェタ・トロイツァ・ウ・スロヴェンスキフ・ゴリツァフ",
+      "ko": "스베타트로이차우슬로벤스키흐고리차흐",
+      "vi": "Sveta Trojica v Slovenskih goricah",
+      "id": "Munisipalitas Sveta Trojica v Slovenskih Goricah",
+      "zh-Hans": "斯洛文尼亚丘陵内圣三一市镇"
+    }
+  },
+  {
+    "code": "182",
+    "name": "Municipality of Sveti Andraž v Slovenskih Goricah",
+    "names": {
+      "ja": "スヴェティ・アンドラジュ・フ・スロヴェンスキフ・ゴリツァフ",
+      "ko": "스베티안드라시우슬로벤스키흐고리차흐",
+      "vi": "Sveti Andraž v Slovenskih goricah",
+      "id": "Kotamadya Sveti Andraž v Slovenskih Goricah",
+      "zh-Hans": "斯洛文尼亚丘陵内圣安德拉日市镇"
+    }
+  },
+  {
+    "code": "116",
+    "name": "Municipality of Sveti Jurij ob Ščavnici",
+    "names": {
+      "ja": "スヴェティ・ユリイ・オプ・シュチャヴニツィ",
+      "ko": "스베티유리오브슈차브니치",
+      "vi": "Sveti Jurij ob Ščavnici",
+      "id": "Kotamadya Sveti Jurij ob Ščavnici",
+      "zh-Hans": "什查夫尼察河畔圣尤里市镇"
+    }
+  },
+  {
+    "code": "210",
+    "name": "Municipality of Sveti Jurij v Slovenskih Goricah",
+    "names": {
+      "ja": "スヴェティ・ユリイ・ウ・スロヴェンスキフ・ゴリツァフ",
+      "ko": "스베티유리브슬로벤스키흐고리차흐",
+      "vi": "Sveti Jurij v Slovenskih goricah",
+      "id": "Munisipalitas Sveti Jurij v Slovenskih Goricah",
+      "zh-Hans": "斯洛文尼亚丘陵内圣尤里市镇"
+    }
+  },
+  {
+    "code": "205",
+    "name": "Municipality of Sveti Tomaž",
+    "names": {
+      "ja": "スヴェティ・トマシュ",
+      "ko": "스베티토마시",
+      "vi": "Sveti Tomaž",
+      "id": "Munisipalitas Sveti Tomaž",
+      "zh-Hans": "圣托马日市镇"
+    }
+  },
+  {
+    "code": "184",
+    "name": "Municipality of Tabor",
+    "names": {
+      "ja": "ターボル",
+      "ko": "타보르",
+      "vi": "Đô thị tự trị Tabor",
+      "id": "Kotamadya Tabor",
+      "zh-Hans": "塔博尔市镇"
+    }
+  },
+  {
+    "code": "010",
+    "name": "Municipality of Tišina",
+    "names": {
+      "zh-Hans": "蒂希纳市镇"
+    }
+  },
+  {
+    "code": "128",
+    "name": "Municipality of Tolmin",
+    "names": {
+      "ja": "トールミン",
+      "ko": "톨민",
+      "vi": "Đô thị tự trị Tolmin",
+      "id": "Kotamadya Tolmin",
+      "zh-Hans": "托尔明"
+    }
+  },
+  {
+    "code": "129",
+    "name": "Municipality of Trbovlje",
+    "names": {
+      "ja": "トルボヴリェ",
+      "ko": "트르보울리에",
+      "id": "Trbovlje",
+      "zh-Hans": "特尔博夫列市镇"
+    }
+  },
+  {
+    "code": "185",
+    "name": "Municipality of Trnovska Vas",
+    "names": {
+      "ja": "トルノフスカ・ヴァス",
+      "ko": "트르노브스카바스",
+      "vi": "Trnovska Vas",
+      "id": "Kotamadya Trnovska Vas",
+      "zh-Hans": "特尔诺沃村市镇"
+    }
+  },
+  {
+    "code": "131",
+    "name": "Municipality of Tržič",
+    "names": {
+      "ja": "トルジッチ",
+      "ko": "트르지치",
+      "vi": "Tržič",
+      "id": "Kotamadya Tržič",
+      "zh-Hans": "特尔日奇"
+    }
+  },
+  {
+    "code": "186",
+    "name": "Municipality of Trzin",
+    "names": {
+      "ja": "トルジン",
+      "vi": "Trzin",
+      "zh-Hans": "特尔津市镇"
+    }
+  },
+  {
+    "code": "132",
+    "name": "Municipality of Turnišče",
+    "names": {
+      "ja": "トゥルニシチェ",
+      "ko": "투르니슈체",
+      "vi": "Turnišče",
+      "id": "Munisipalitas Turnišče",
+      "zh-Hans": "图尔尼什切市镇"
+    }
+  },
+  {
+    "code": "187",
+    "name": "Municipality of Velika Polana",
+    "names": {
+      "ja": "ヴェリカ・ポラナ",
+      "ko": "벨리카폴라나",
+      "vi": "Velika Polana",
+      "id": "Kotamadya Velika Polana",
+      "zh-Hans": "大波拉纳市镇"
+    }
+  },
+  {
+    "code": "134",
+    "name": "Municipality of Velike Lašče",
+    "names": {
+      "ja": "ヴェリケ・ラシチェ",
+      "ko": "벨리케라슈체 지방 자치제",
+      "vi": "Đô thị tự trị Velike Lasce",
+      "id": "Kotamadya Velike Lašče",
+      "zh-Hans": "大拉什切市镇"
+    }
+  },
+  {
+    "code": "188",
+    "name": "Municipality of Veržej",
+    "names": {
+      "ja": "ヴェルジェイ",
+      "ko": "베르제이",
+      "vi": "Veržej",
+      "id": "Kotamadya Veržej",
+      "zh-Hans": "韦尔热伊市镇"
+    }
+  },
+  {
+    "code": "135",
+    "name": "municipality of Videm",
+    "names": {
+      "ja": "ヴィデム",
+      "ko": "비뎀",
+      "vi": "Videm",
+      "id": "Munisipalitas Videm",
+      "zh-Hans": "维代姆市镇"
+    }
+  },
+  {
+    "code": "136",
+    "name": "Municipality of Vipava",
+    "names": {
+      "ja": "ヴィパーヴァ",
+      "ko": "비파바 지방 자치제",
+      "vi": "Đô thị tự trị Vipava",
+      "id": "Kotamadya Vipava",
+      "zh-Hans": "维帕瓦市镇"
+    }
+  },
+  {
+    "code": "137",
+    "name": "Municipality of Vitanje",
+    "names": {
+      "zh-Hans": "维塔涅市镇"
+    }
+  },
+  {
+    "code": "138",
+    "name": "Municipality of Vodice",
+    "names": {
+      "zh-Hans": "沃迪采市镇"
+    }
+  },
+  {
+    "code": "139",
+    "name": "Municipality of Vojnik",
+    "names": {
+      "ja": "ヴォイニク",
+      "ko": "보이니크 지방 자치제",
+      "vi": "Đô thị tự trị Vojnik",
+      "id": "Kotamadya Vojnik",
+      "zh-Hans": "沃伊尼克市镇"
+    }
+  },
+  {
+    "code": "189",
+    "name": "Municipality of Vransko",
+    "names": {
+      "zh-Hans": "弗兰斯科市镇"
+    }
+  },
+  {
+    "code": "140",
+    "name": "Municipality of Vrhnika",
+    "names": {
+      "ja": "ブルフニカ",
+      "ko": "브르흐니카 지방 자치제",
+      "vi": "Vrhnika Đô thị tự trị",
+      "id": "Kotamadya Vrhnika",
+      "zh-Hans": "弗尔赫尼卡市镇"
+    }
+  },
+  {
+    "code": "141",
+    "name": "Municipality of Vuzenica",
+    "names": {
+      "ja": "ヴゼニツァ",
+      "ko": "부제니차",
+      "vi": "Vuzenica",
+      "id": "Kotamadya Vuzenica",
+      "zh-Hans": "武泽尼察市镇"
+    }
+  },
+  {
+    "code": "190",
+    "name": "Municipality of Žalec",
+    "names": {
+      "ja": "ジャレツ",
+      "ko": "잘레츠",
+      "vi": "Žalec",
+      "id": "Kotamadya Žalec",
+      "zh-Hans": "扎莱茨"
+    }
+  },
+  {
+    "code": "143",
+    "name": "Municipality of Zavrč",
+    "names": {
+      "ja": "ザヴルチ",
+      "ko": "자우르치",
+      "vi": "Zavrč",
+      "id": "Kotamadya Zavrč",
+      "zh-Hans": "扎夫尔奇市镇"
+    }
+  },
+  {
+    "code": "191",
+    "name": "Municipality of Žetale",
+    "names": {
+      "ja": "ジェタレ",
+      "ko": "제탈레",
+      "vi": "Žetale",
+      "id": "Kotamadya Žetale",
+      "zh-Hans": "热塔莱市镇"
+    }
+  },
+  {
+    "code": "147",
+    "name": "Municipality of Žiri",
+    "names": {
+      "ja": "ジリ",
+      "ko": "지리 (도시)",
+      "vi": "Žiri",
+      "id": "Munisipalitas Žiri",
+      "zh-Hans": "日里市镇",
+      "zh-Hant": "日里市鎮"
+    }
+  },
+  {
+    "code": "192",
+    "name": "Municipality of Žirovnica",
+    "names": {
+      "ja": "ジロヴニツァ",
+      "ko": "지로우니차",
+      "vi": "Žirovnica",
+      "id": "Kotamadya Žirovnica",
+      "zh-Hans": "日罗夫尼察市镇"
+    }
+  },
+  {
+    "code": "193",
+    "name": "Municipality of Žužemberk",
+    "names": {
+      "ja": "ジュジュンベルク市",
+      "id": "Munisipalitas Žužemberk",
+      "zh-Hans": "茹任贝克市镇"
+    }
+  },
+  {
+    "code": "087",
+    "name": "Ormož Municipality",
+    "names": {
+      "ja": "オルモジュ",
+      "ko": "오르모시",
+      "vi": "Ormož",
+      "zh-Hans": "奥尔莫日市镇"
+    }
+  },
+  {
+    "code": "090",
+    "name": "Piran Municipality",
+    "names": {
+      "id": "Munisipalitas Piran",
+      "zh-Hans": "皮兰市镇"
+    }
+  },
+  {
+    "code": "099",
+    "name": "Radeče Municipality",
+    "names": {
+      "zh-Hans": "拉代切市镇"
+    }
+  },
+  {
+    "code": "108",
+    "name": "Ruše Municipality",
+    "names": {
+      "ja": "ルシェ",
+      "ko": "루셰 지방 자치제",
+      "vi": "Đô thị tự trị Ruse",
+      "id": "Kotamadya Ruše",
+      "zh-Hans": "鲁舍市镇"
+    }
+  },
+  {
+    "code": "120",
+    "name": "Šentjur Municipality",
+    "names": {
+      "ja": "シェントユル",
+      "ko": "센튜르 지방 자치제",
+      "vi": "Đô thị tự trị Sentjur",
+      "id": "Kotamadya Šentjur",
+      "zh-Hans": "申特尤尔市镇"
+    }
+  },
+  {
+    "code": "110",
+    "name": "Sevnica Municipality",
+    "names": {
+      "ja": "セヴニツァ",
+      "ko": "세브니차 지방 자치제",
+      "vi": "Đô thị tự trị Sevnica",
+      "id": "Kotamadya Sevnica",
+      "zh-Hans": "塞夫尼察市镇"
+    }
+  },
+  {
+    "code": "114",
+    "name": "Slovenske Konjice Municipality",
+    "names": {
+      "id": "Munisipalitas Slovenske Konjice",
+      "zh-Hans": "斯洛文尼亚科尼采市镇"
+    }
+  },
+  {
+    "code": "180",
+    "name": "Solčava Municipality",
+    "names": {
+      "ja": "ソルチャヴァ",
+      "id": "Munisipalitas Solčava",
+      "zh-Hans": "索尔查瓦市镇"
+    }
+  },
+  {
+    "code": "181",
+    "name": "Sveta Ana Municipality",
+    "names": {
+      "ja": "スヴェタ・アナ",
+      "ko": "스베타아나",
+      "vi": "Sveta Ana",
+      "id": "Kotamadya Sveta Ana",
+      "zh-Hans": "圣安娜市镇"
+    }
+  },
+  {
+    "code": "130",
+    "name": "Trebnje Municipality",
+    "names": {
+      "ja": "トレビニェ",
+      "ko": "트레브네 지방 자치제",
+      "vi": "Đô thị tự trị Trebnje",
+      "id": "Kotamadya Trebnje",
+      "zh-Hans": "特雷布涅市镇"
+    }
+  },
+  {
+    "code": "096",
+    "name": "Urban Municipality of Ptuj",
+    "names": {
+      "id": "Munisipalitas Ptuj",
+      "zh-Hans": "普图伊城市市镇"
+    }
+  },
+  {
+    "code": "142",
+    "name": "Zagorje ob Savi Municipality",
+    "names": {
+      "id": "Munisipalitas Zagorje ob Savi",
+      "zh-Hans": "萨瓦河畔扎戈列市镇"
+    }
+  },
+  {
+    "code": "146",
+    "name": "Železniki Municipality",
+    "names": {
+      "ja": "ジェレズニキ",
+      "ko": "젤레즈니키",
+      "vi": "Železniki",
+      "id": "Kotamadya Železniki",
+      "zh-Hans": "热莱兹尼基市镇"
+    }
+  },
+  {
+    "code": "144",
+    "name": "Zreče Municipality",
+    "names": {
+      "ja": "ズレチェ",
+      "ko": "즈레체",
+      "vi": "Zreče",
+      "id": "Kotamadya Zreče",
+      "zh-Hans": "兹雷切市镇"
+    }
+  }
+]

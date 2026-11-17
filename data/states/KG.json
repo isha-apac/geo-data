@@ -1,0 +1,109 @@
+[
+  {
+    "code": "B",
+    "name": "Batken Region",
+    "names": {
+      "ja": "バトケン州",
+      "ko": "밧켄주",
+      "vi": "Khu vực Batken",
+      "id": "Provinsi Batken",
+      "zh-Hans": "巴特肯州",
+      "zh-Hant": "巴特肯州"
+    }
+  },
+  {
+    "code": "GB",
+    "name": "Bishkek",
+    "names": {
+      "ja": "ビシュケク",
+      "ko": "비슈케크",
+      "vi": "Bishkek",
+      "id": "Bishkek",
+      "zh-Hans": "比什凯克",
+      "zh-Hant": "比什凱克"
+    }
+  },
+  {
+    "code": "C",
+    "name": "Chuy Region",
+    "names": {
+      "ja": "チュイ州",
+      "ko": "추이주",
+      "vi": "Chuy",
+      "id": "Provinsi Chui",
+      "zh-Hans": "楚河州",
+      "zh-Hant": "楚河州"
+    }
+  },
+  {
+    "code": "Y",
+    "name": "Issyk-Kul Region",
+    "names": {
+      "ja": "イシク・クル州",
+      "ko": "이식쿨주",
+      "vi": "Issyk Kul",
+      "id": "Provinsi Issyk Kul",
+      "zh-Hans": "伊塞克湖州",
+      "zh-Hant": "伊塞克湖州"
+    }
+  },
+  {
+    "code": "J",
+    "name": "Jalal-Abad Region",
+    "names": {
+      "ja": "ジャララバード州",
+      "ko": "잘랄아바트주",
+      "vi": "Jalal-Abad",
+      "id": "Provinsi Jalal-Abad",
+      "zh-Hans": "贾拉拉巴德州",
+      "zh-Hant": "賈拉拉巴德州"
+    }
+  },
+  {
+    "code": "N",
+    "name": "Naryn Region",
+    "names": {
+      "ja": "ナルン州",
+      "ko": "나린주",
+      "vi": "Khu vực Naryn",
+      "id": "Provinsi Naryn",
+      "zh-Hans": "纳伦州",
+      "zh-Hant": "納倫州"
+    }
+  },
+  {
+    "code": "GO",
+    "name": "Osh",
+    "names": {
+      "ja": "オシ",
+      "ko": "오시",
+      "vi": "Osh",
+      "id": "Osh",
+      "zh-Hans": "奥什",
+      "zh-Hant": "奧什"
+    }
+  },
+  {
+    "code": "O",
+    "name": "Osh Region",
+    "names": {
+      "ja": "オシ州",
+      "ko": "오시주",
+      "vi": "Osh",
+      "id": "Provinsi Osh",
+      "zh-Hans": "奥什州",
+      "zh-Hant": "奧什州"
+    }
+  },
+  {
+    "code": "T",
+    "name": "Talas Region",
+    "names": {
+      "ja": "タラス州",
+      "ko": "탈라스주",
+      "vi": "Talas",
+      "id": "Provinsi Talas",
+      "zh-Hans": "塔拉斯州"
+    }
+  }
+]

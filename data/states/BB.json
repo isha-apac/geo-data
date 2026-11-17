@@ -1,0 +1,131 @@
+[
+  {
+    "code": "01",
+    "name": "Christ Church",
+    "names": {
+      "ja": "クライスト・チャーチ教区",
+      "ko": "크라이스트처치구",
+      "vi": "Christ Church",
+      "id": "Christ Church",
+      "zh-Hans": "基督城教区",
+      "zh-Hant": "基督城教區"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Saint Andrew",
+    "names": {
+      "ja": "セント・アンドリュー",
+      "ko": "세인트앤드루구",
+      "vi": "Saint Andrew",
+      "id": "Saint Andrew",
+      "zh-Hans": "圣安德鲁区",
+      "zh-Hant": "聖安德魯區"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Saint George",
+    "names": {
+      "ja": "セント・ジョージ",
+      "ko": "세인트조지구",
+      "vi": "Saint George",
+      "id": "Saint George",
+      "zh-Hans": "圣乔治教区",
+      "zh-Hant": "聖喬治教區"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Saint James",
+    "names": {
+      "ja": "セント・ジェームズ",
+      "ko": "세인트제임스구",
+      "vi": "Saint James, Barbados",
+      "id": "Saint James, Barbados",
+      "zh-Hans": "聖詹姆斯教區"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Saint John",
+    "names": {
+      "ja": "セント・ジョン",
+      "ko": "세인트존구",
+      "vi": "Saint John",
+      "id": "Saint John",
+      "zh-Hans": "圣约翰教区",
+      "zh-Hant": "聖約翰教區"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Saint Joseph",
+    "names": {
+      "ja": "セント・ジョセフ",
+      "ko": "세인트조지프구",
+      "vi": "Saint Joseph, Barbados",
+      "id": "Saint Joseph, Barbados",
+      "zh-Hans": "聖約瑟夫區"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Saint Lucy",
+    "names": {
+      "ja": "セント・ルーシー",
+      "ko": "세인트루시구",
+      "vi": "Saint Lucy",
+      "id": "Saint Lucy",
+      "zh-Hans": "圣露西教区",
+      "zh-Hant": "聖露西教區"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Saint Michael",
+    "names": {
+      "ja": "セント・マイケル",
+      "ko": "세인트마이클구",
+      "vi": "Saint Michael",
+      "id": "Saint Michael",
+      "zh-Hans": "圣迈克尔区",
+      "zh-Hant": "聖麥可教區"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Saint Peter",
+    "names": {
+      "ja": "セント・ペーター",
+      "ko": "세인트피터구",
+      "vi": "Saint Peter, Barbados",
+      "id": "Saint Peter, Barbados",
+      "zh-Hans": "聖彼得教區"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Saint Philip",
+    "names": {
+      "ja": "セント・フィリップ",
+      "ko": "세인트필립구",
+      "vi": "Saint Philip",
+      "id": "Saint Philip",
+      "zh-Hans": "圣菲利普区",
+      "zh-Hant": "聖菲利普區"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Saint Thomas",
+    "names": {
+      "ja": "セント・トーマス",
+      "ko": "세인트토머스구",
+      "vi": "Saint Thomas",
+      "id": "Saint Thomas",
+      "zh-Hans": "圣托马斯区",
+      "zh-Hant": "聖托馬斯區"
+    }
+  }
+]

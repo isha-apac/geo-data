@@ -1,0 +1,381 @@
+[
+  {
+    "code": "AGU",
+    "name": "Aguascalientes",
+    "names": {
+      "ja": "アグアスカリエンテス州",
+      "ko": "아과스칼리엔테스주",
+      "vi": "Aguascalientes",
+      "id": "Aguascalientes",
+      "zh-Hans": "阿瓜斯卡连特斯州",
+      "zh-Hant": "阿瓜斯卡連特斯州"
+    }
+  },
+  {
+    "code": "BCN",
+    "name": "Baja California",
+    "names": {
+      "ja": "バハ・カリフォルニア州",
+      "ko": "바하칼리포르니아주",
+      "vi": "Baja California",
+      "id": "Baja California",
+      "zh-Hans": "下加利福尼亚州",
+      "zh-Hant": "下加利福尼亞"
+    }
+  },
+  {
+    "code": "BCS",
+    "name": "Baja California Sur",
+    "names": {
+      "ja": "バハ・カリフォルニア・スル州",
+      "ko": "바하칼리포르니아수르주",
+      "vi": "Baja California Sur",
+      "id": "Baja California Sur",
+      "zh-Hans": "南下加利福尼亚州"
+    }
+  },
+  {
+    "code": "CAM",
+    "name": "Campeche",
+    "names": {
+      "ja": "カンペチェ州",
+      "ko": "캄페체주",
+      "vi": "Campeche",
+      "id": "Campeche",
+      "zh-Hans": "坎佩切州"
+    }
+  },
+  {
+    "code": "CHP",
+    "name": "Chiapas",
+    "names": {
+      "ja": "チアパス州",
+      "ko": "치아파스주",
+      "vi": "Chiapas",
+      "id": "Chiapas",
+      "zh-Hans": "恰帕斯州",
+      "zh-Hant": "恰帕斯州"
+    }
+  },
+  {
+    "code": "CHH",
+    "name": "Chihuahua",
+    "names": {
+      "ja": "チワワ州",
+      "ko": "치와와주",
+      "vi": "Chihuahua",
+      "id": "Chihuahua",
+      "zh-Hans": "奇瓦瓦州",
+      "zh-Hant": "奇瓦瓦州"
+    }
+  },
+  {
+    "code": "COA",
+    "name": "Coahuila",
+    "names": {
+      "ja": "コアウイラ州",
+      "ko": "코아우일라주",
+      "vi": "Coahuila",
+      "id": "Coahuila",
+      "zh-Hans": "科阿韦拉州",
+      "zh-Hant": "科阿韋拉州"
+    }
+  },
+  {
+    "code": "COL",
+    "name": "Colima",
+    "names": {
+      "ja": "コリマ州",
+      "ko": "콜리마주",
+      "vi": "Colima",
+      "id": "Colima",
+      "zh-Hans": "科利马州",
+      "zh-Hant": "科利馬州"
+    }
+  },
+  {
+    "code": "DUR",
+    "name": "Durango",
+    "names": {
+      "ja": "ドゥランゴ州",
+      "ko": "두랑고주",
+      "vi": "Durango",
+      "id": "Durango",
+      "zh-Hans": "杜兰戈州"
+    }
+  },
+  {
+    "code": "GUA",
+    "name": "Guanajuato",
+    "names": {
+      "ja": "グアナフアト州",
+      "ko": "과나후아토주",
+      "vi": "Guanajuato",
+      "id": "Guanajuato",
+      "zh-Hans": "瓜纳华托州",
+      "zh-Hant": "瓜納華托"
+    }
+  },
+  {
+    "code": "GRO",
+    "name": "Guerrero",
+    "names": {
+      "ja": "ゲレーロ州",
+      "ko": "게레로주",
+      "vi": "Guerrero",
+      "id": "Guerrero",
+      "zh-Hans": "格雷罗州",
+      "zh-Hant": "格雷羅州"
+    }
+  },
+  {
+    "code": "HID",
+    "name": "Hidalgo",
+    "names": {
+      "ja": "イダルゴ州",
+      "ko": "이달고주",
+      "vi": "Hidalgo",
+      "id": "Hidalgo",
+      "zh-Hans": "伊达尔戈州",
+      "zh-Hant": "伊達爾戈州"
+    }
+  },
+  {
+    "code": "JAL",
+    "name": "Jalisco",
+    "names": {
+      "ja": "ハリスコ州",
+      "ko": "할리스코주",
+      "vi": "Jalisco",
+      "id": "Jalisco",
+      "zh-Hans": "哈利斯科州",
+      "zh-Hant": "哈利斯科州"
+    }
+  },
+  {
+    "code": "CMX",
+    "name": "Mexico City",
+    "names": {
+      "ja": "メキシコシティ",
+      "ko": "멕시코시티",
+      "vi": "Thành phố México",
+      "id": "Kota Meksiko",
+      "zh-Hans": "墨西哥城",
+      "zh-Hant": "墨西哥城"
+    }
+  },
+  {
+    "code": "MIC",
+    "name": "Michoacán",
+    "names": {
+      "ja": "ミチョアカン州",
+      "ko": "미초아칸주",
+      "vi": "Michoacán",
+      "id": "Michoacán",
+      "zh-Hans": "米却肯州",
+      "zh-Hant": "米卻肯州"
+    }
+  },
+  {
+    "code": "MOR",
+    "name": "Morelos",
+    "names": {
+      "ja": "モレロス州",
+      "ko": "모렐로스주",
+      "vi": "Morelos",
+      "id": "Morelos",
+      "zh-Hans": "莫雷洛斯州",
+      "zh-Hant": "莫雷洛斯州"
+    }
+  },
+  {
+    "code": "NAY",
+    "name": "Nayarit",
+    "names": {
+      "ja": "ナヤリット州",
+      "ko": "나야리트주",
+      "vi": "Nayarit",
+      "id": "Nayarit",
+      "zh-Hans": "纳亚里特州",
+      "zh-Hant": "特皮克"
+    }
+  },
+  {
+    "code": "NLE",
+    "name": "Nuevo León",
+    "names": {
+      "ja": "ヌエボ・レオン州",
+      "ko": "누에보레온주",
+      "vi": "Nuevo León",
+      "id": "León Baru",
+      "zh-Hans": "新莱昂州",
+      "zh-Hant": "新雷昂州"
+    }
+  },
+  {
+    "code": "OAX",
+    "name": "Oaxaca",
+    "names": {
+      "ja": "オアハカ州",
+      "ko": "오아하카주",
+      "vi": "Oaxaca",
+      "id": "Oaxaca",
+      "zh-Hans": "瓦哈卡州",
+      "zh-Hant": "瓦哈卡市"
+    }
+  },
+  {
+    "code": "PUE",
+    "name": "Puebla",
+    "names": {
+      "ja": "プエブラ州",
+      "ko": "푸에블라주",
+      "vi": "Puebla",
+      "id": "Puebla",
+      "zh-Hans": "普埃布拉州",
+      "zh-Hant": "普埃布拉州"
+    }
+  },
+  {
+    "code": "QUE",
+    "name": "Querétaro",
+    "names": {
+      "ja": "ケレタロ州",
+      "ko": "케레타로주",
+      "vi": "Querétaro",
+      "id": "Querétaro",
+      "zh-Hans": "克雷塔罗州",
+      "zh-Hant": "克雷塔羅州"
+    }
+  },
+  {
+    "code": "ROO",
+    "name": "Quintana Roo",
+    "names": {
+      "ja": "キンタナ・ロー州",
+      "ko": "킨타나로오주",
+      "vi": "Quintana Roo",
+      "id": "Quintana Roo",
+      "zh-Hans": "金塔纳罗奥州"
+    }
+  },
+  {
+    "code": "SLP",
+    "name": "San Luis Potosí",
+    "names": {
+      "ja": "サン・ルイス・ポトシ州",
+      "ko": "산루이스포토시주",
+      "vi": "San Luis Potosí",
+      "id": "San Luis Potosí",
+      "zh-Hans": "圣路易斯波托西州",
+      "zh-Hant": "聖路易斯波托西市"
+    }
+  },
+  {
+    "code": "SIN",
+    "name": "Sinaloa",
+    "names": {
+      "ja": "シナロア州",
+      "ko": "시날로아주",
+      "vi": "Sinaloa",
+      "id": "Sinaloa",
+      "zh-Hans": "锡那罗亚州",
+      "zh-Hant": "錫那羅亞州"
+    }
+  },
+  {
+    "code": "SON",
+    "name": "Sonora",
+    "names": {
+      "ja": "ソノラ州",
+      "ko": "소노라주",
+      "vi": "Sonora",
+      "id": "Sonora",
+      "zh-Hans": "索诺拉州",
+      "zh-Hant": "索諾拉州"
+    }
+  },
+  {
+    "code": "MEX",
+    "name": "State of Mexico",
+    "names": {
+      "ja": "メヒコ州",
+      "ko": "멕시코주",
+      "vi": "México",
+      "id": "Negara Bagian Meksiko",
+      "zh-Hans": "墨西哥州",
+      "zh-Hant": "墨西哥州"
+    }
+  },
+  {
+    "code": "TAB",
+    "name": "Tabasco",
+    "names": {
+      "ja": "タバスコ州",
+      "ko": "타바스코주",
+      "vi": "Tabasco",
+      "id": "Tabasco",
+      "zh-Hans": "塔巴斯科州",
+      "zh-Hant": "塔巴斯科州"
+    }
+  },
+  {
+    "code": "TAM",
+    "name": "Tamaulipas",
+    "names": {
+      "ja": "タマウリパス州",
+      "ko": "타마울리파스주",
+      "vi": "Tamaulipas",
+      "id": "Tamaulipas",
+      "zh-Hans": "塔毛利帕斯州",
+      "zh-Hant": "塔毛利帕斯州"
+    }
+  },
+  {
+    "code": "TLA",
+    "name": "Tlaxcala",
+    "names": {
+      "ja": "トラスカラ州",
+      "ko": "틀락스칼라주",
+      "vi": "Tlaxcala",
+      "id": "Tlaxcala",
+      "zh-Hans": "特拉斯卡拉州",
+      "zh-Hant": "特拉斯卡拉州"
+    }
+  },
+  {
+    "code": "VER",
+    "name": "Veracruz",
+    "names": {
+      "ja": "ベラクルス州",
+      "ko": "베라크루스주",
+      "vi": "Veracruz",
+      "id": "Veracruz",
+      "zh-Hans": "韦拉克鲁斯州",
+      "zh-Hant": "維拉克魯斯州"
+    }
+  },
+  {
+    "code": "YUC",
+    "name": "Yucatán",
+    "names": {
+      "ja": "ユカタン州",
+      "ko": "유카탄주",
+      "vi": "Yucatán",
+      "id": "Yucatán",
+      "zh-Hans": "尤卡坦州"
+    }
+  },
+  {
+    "code": "ZAC",
+    "name": "Zacatecas",
+    "names": {
+      "ja": "サカテカス州",
+      "ko": "사카테카스주",
+      "vi": "Zacatecas",
+      "id": "Zacatecas",
+      "zh-Hans": "萨卡特卡斯州",
+      "zh-Hant": "薩卡特卡斯州"
+    }
+  }
+]

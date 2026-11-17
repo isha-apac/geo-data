@@ -1,0 +1,194 @@
+[
+  {
+    "code": "01",
+    "name": "Johor",
+    "names": {
+      "ja": "ジョホール州",
+      "ko": "조호르주",
+      "vi": "Johor",
+      "id": "Johor",
+      "zh-Hans": "柔佛州",
+      "zh-Hant": "柔佛州"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Kedah",
+    "names": {
+      "ja": "ケダ州",
+      "ko": "크다주",
+      "vi": "Kedah",
+      "id": "Kedah",
+      "zh-Hans": "吉打",
+      "zh-Hant": "吉打"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Kelantan",
+    "names": {
+      "ja": "クランタン州",
+      "ko": "클란탄주",
+      "vi": "Kelantan",
+      "id": "Kelantan",
+      "zh-Hans": "吉兰丹",
+      "zh-Hant": "吉蘭丹"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Kuala Lumpur",
+    "names": {
+      "ja": "クアラルンプール",
+      "ko": "쿠알라룸푸르",
+      "vi": "Kuala Lumpur",
+      "id": "Kuala Lumpur",
+      "zh-Hans": "吉隆坡",
+      "zh-Hant": "吉隆坡"
+    }
+  },
+  {
+    "code": "15",
+    "name": "Labuan",
+    "names": {
+      "ja": "ラブアン",
+      "ko": "라부안",
+      "vi": "Labuan",
+      "id": "Labuan",
+      "zh-Hans": "纳闽",
+      "zh-Hant": "納閩"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Malacca",
+    "names": {
+      "ja": "ムラカ州",
+      "ko": "믈라카주",
+      "vi": "Melaka",
+      "id": "Melaka",
+      "zh-Hans": "马六甲",
+      "zh-Hant": "麻六甲"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Negeri Sembilan",
+    "names": {
+      "ja": "ヌグリ・スンビラン州",
+      "ko": "느그리슴빌란주",
+      "vi": "Negeri Sembilan",
+      "id": "Negeri Sembilan",
+      "zh-Hans": "森美兰",
+      "zh-Hant": "森美蘭"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Pahang",
+    "names": {
+      "ja": "パハン州",
+      "ko": "파항주",
+      "vi": "Pahang",
+      "id": "Pahang",
+      "zh-Hans": "彭亨",
+      "zh-Hant": "彭亨"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Penang",
+    "names": {
+      "ja": "ペナン州",
+      "ko": "피낭주",
+      "vi": "Pulau Pinang",
+      "id": "Pulau Pinang",
+      "zh-Hans": "槟城",
+      "zh-Hant": "檳城"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Perak",
+    "names": {
+      "ja": "ペラ州",
+      "ko": "페락주",
+      "vi": "Perak",
+      "id": "Perak",
+      "zh-Hans": "霹雳州",
+      "zh-Hant": "霹靂"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Perlis",
+    "names": {
+      "ja": "プルリス州",
+      "ko": "프를리스주",
+      "vi": "Perlis",
+      "id": "Perlis",
+      "zh-Hans": "玻璃市州",
+      "zh-Hant": "玻璃市"
+    }
+  },
+  {
+    "code": "16",
+    "name": "Putrajaya",
+    "names": {
+      "ja": "プトラジャヤ",
+      "ko": "푸트라자야",
+      "vi": "Putrajaya",
+      "id": "Putrajaya",
+      "zh-Hans": "布城",
+      "zh-Hant": "布城"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Sabah",
+    "names": {
+      "ja": "サバ州",
+      "ko": "사바주",
+      "vi": "Sabah",
+      "id": "Sabah",
+      "zh-Hans": "沙巴州",
+      "zh-Hant": "沙巴州"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Sarawak",
+    "names": {
+      "ja": "サラワク州",
+      "ko": "사라왁주",
+      "vi": "Sarawak",
+      "id": "Sarawak",
+      "zh-Hans": "砂拉越",
+      "zh-Hant": "砂拉越"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Selangor",
+    "names": {
+      "ja": "セランゴール州",
+      "ko": "슬랑오르주",
+      "vi": "Selangor",
+      "id": "Selangor",
+      "zh-Hans": "雪兰莪",
+      "zh-Hant": "雪蘭莪"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Terengganu",
+    "names": {
+      "ja": "トレンガヌ州",
+      "ko": "트렝가누주",
+      "vi": "Terengganu",
+      "id": "Terengganu",
+      "zh-Hans": "登嘉楼",
+      "zh-Hant": "登嘉樓"
+    }
+  }
+]

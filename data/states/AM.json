@@ -1,0 +1,131 @@
+[
+  {
+    "code": "AG",
+    "name": "Aragatsotn Province",
+    "names": {
+      "ja": "アラガツォトゥン地方",
+      "ko": "아라가초튼주",
+      "vi": "Aragatsotn",
+      "id": "Aragatsotn",
+      "zh-Hans": "阿拉加措特恩州"
+    }
+  },
+  {
+    "code": "AR",
+    "name": "Ararat Province",
+    "names": {
+      "ja": "アララト地方",
+      "ko": "아라라트주",
+      "vi": "Ararat",
+      "id": "Provinsi Ararat",
+      "zh-Hans": "亚拉腊州",
+      "zh-Hant": "亞拉臘州"
+    }
+  },
+  {
+    "code": "AV",
+    "name": "Armavir Province",
+    "names": {
+      "ja": "アルマヴィル地方",
+      "ko": "아르마비르주",
+      "vi": "Armavir",
+      "id": "Armavir",
+      "zh-Hans": "阿尔马维尔州",
+      "zh-Hant": "阿爾馬維爾州"
+    }
+  },
+  {
+    "code": "GR",
+    "name": "Gegharkunik Province",
+    "names": {
+      "ja": "ゲガルクニク地方",
+      "ko": "게가르쿠니크주",
+      "vi": "Gegharkunik",
+      "id": "Provinsi Gegharkunik",
+      "zh-Hans": "格加尔库尼克州",
+      "zh-Hant": "格加爾庫尼克州"
+    }
+  },
+  {
+    "code": "KT",
+    "name": "Kotayk Province",
+    "names": {
+      "ja": "コタイク地方",
+      "ko": "코타이크주",
+      "vi": "Kotayk",
+      "id": "Kotayk",
+      "zh-Hans": "科泰克州"
+    }
+  },
+  {
+    "code": "LO",
+    "name": "Lori Province",
+    "names": {
+      "ja": "ロリ地方",
+      "ko": "로리주",
+      "vi": "Lori",
+      "id": "Lori",
+      "zh-Hans": "洛里州",
+      "zh-Hant": "洛里州"
+    }
+  },
+  {
+    "code": "SH",
+    "name": "Shirak Province",
+    "names": {
+      "ja": "シラク地方",
+      "ko": "시라크주",
+      "vi": "Shirak",
+      "id": "Shirak",
+      "zh-Hans": "希拉克州",
+      "zh-Hant": "希拉克州"
+    }
+  },
+  {
+    "code": "SU",
+    "name": "Syunik Province",
+    "names": {
+      "ja": "シュニク地方",
+      "ko": "슈니크주",
+      "vi": "Syunik",
+      "id": "Syunik",
+      "zh-Hans": "休尼克州"
+    }
+  },
+  {
+    "code": "TV",
+    "name": "Tavush Province",
+    "names": {
+      "ja": "タヴシュ地方",
+      "ko": "타부시주",
+      "vi": "Tavush",
+      "id": "Provinsi Tavush",
+      "zh-Hans": "塔武什州",
+      "zh-Hant": "塔武什州"
+    }
+  },
+  {
+    "code": "VD",
+    "name": "Vayots Dzor Province",
+    "names": {
+      "ja": "ヴァヨツ・ゾル地方",
+      "ko": "바요츠조르주",
+      "vi": "Vayots Dzor",
+      "id": "Provinsi Vayots Dzor",
+      "zh-Hans": "瓦约茨佐尔州",
+      "zh-Hant": "瓦約茨佐爾州"
+    }
+  },
+  {
+    "code": "ER",
+    "name": "Yerevan",
+    "names": {
+      "ja": "イェレヴァン",
+      "ko": "예레반",
+      "vi": "Yerevan",
+      "id": "Yerevan",
+      "zh-Hans": "埃里温",
+      "zh-Hant": "葉里溫"
+    }
+  }
+]

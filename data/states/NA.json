@@ -1,0 +1,162 @@
+[
+  {
+    "code": "ER",
+    "name": "Erongo Region",
+    "names": {
+      "ja": "エロンゴ州",
+      "ko": "에롱고주",
+      "vi": "Khu vực Erongo",
+      "id": "Wilayah Erongo",
+      "zh-Hans": "埃龙戈区"
+    }
+  },
+  {
+    "code": "HA",
+    "name": "Hardap Region",
+    "names": {
+      "ja": "ハルダプ州",
+      "ko": "하르다프주",
+      "vi": "Khu vực Hardap",
+      "id": "Wilayah Hardap",
+      "zh-Hans": "哈达普区",
+      "zh-Hant": "哈達普區"
+    }
+  },
+  {
+    "code": "KA",
+    "name": "Karas Region",
+    "names": {
+      "ja": "カラス州",
+      "ko": "카라스주",
+      "vi": "Khu vực Karas",
+      "id": "Wilayah Karas",
+      "zh-Hans": "卡拉斯区"
+    }
+  },
+  {
+    "code": "KE",
+    "name": "Kavango East Region",
+    "names": {
+      "ja": "東カバンゴ州",
+      "ko": "동카방고주",
+      "id": "Region Kavango East",
+      "zh-Hans": "東卡萬戈區"
+    }
+  },
+  {
+    "code": "KW",
+    "name": "Kavango West Region",
+    "names": {
+      "ja": "西カバンゴ州",
+      "ko": "서카방고주",
+      "id": "Region Kavango West",
+      "zh-Hans": "西卡万戈区"
+    }
+  },
+  {
+    "code": "KH",
+    "name": "Khomas Region",
+    "names": {
+      "ja": "ホマス州",
+      "ko": "호마스주",
+      "vi": "Khomas",
+      "id": "Wilayah Khomas",
+      "zh-Hans": "霍马斯区",
+      "zh-Hant": "霍馬斯區"
+    }
+  },
+  {
+    "code": "KU",
+    "name": "Kunene Region",
+    "names": {
+      "ja": "クネネ州",
+      "ko": "쿠네네주",
+      "vi": "Khu vực Kunene",
+      "id": "Wilayah Kunene",
+      "zh-Hans": "库内内区",
+      "zh-Hant": "庫內內區"
+    }
+  },
+  {
+    "code": "OW",
+    "name": "Ohangwena Region",
+    "names": {
+      "ja": "オハングウェナ州",
+      "ko": "오항궤나주",
+      "vi": "Khu vực Ohangwena",
+      "id": "Wilayah Ohangwena",
+      "zh-Hans": "奥汉圭纳区",
+      "zh-Hant": "奧漢圭納區"
+    }
+  },
+  {
+    "code": "OH",
+    "name": "Omaheke Region",
+    "names": {
+      "ja": "オマヘケ州",
+      "ko": "오마헤케주",
+      "id": "Region Omaheke",
+      "zh-Hans": "奥马海凯区",
+      "zh-Hant": "奧馬海凱區"
+    }
+  },
+  {
+    "code": "OS",
+    "name": "Omusati Region",
+    "names": {
+      "ja": "オムサティ州",
+      "ko": "오무사티주",
+      "vi": "Khu vực Omusati",
+      "id": "Wilayah Omusati",
+      "zh-Hans": "奥穆萨蒂区",
+      "zh-Hant": "奧穆薩蒂區"
+    }
+  },
+  {
+    "code": "ON",
+    "name": "Oshana Region",
+    "names": {
+      "ja": "オシャナ州",
+      "ko": "오샤나주",
+      "vi": "Khu vực Oshana",
+      "id": "Wilayah Oshana",
+      "zh-Hans": "奥沙纳区"
+    }
+  },
+  {
+    "code": "OT",
+    "name": "Oshikoto Region",
+    "names": {
+      "ja": "オシコト州",
+      "ko": "오시코토주",
+      "vi": "Khu vực Oshikoto",
+      "id": "Wilayah Oshikoto",
+      "zh-Hans": "奥希科托区",
+      "zh-Hant": "奧希科托區"
+    }
+  },
+  {
+    "code": "OD",
+    "name": "Otjozondjupa Region",
+    "names": {
+      "ja": "オチョソンデュパ州",
+      "ko": "오초존주파주",
+      "vi": "Khu vực Otjozondjupa",
+      "id": "Wilayah Otjozondjupa",
+      "zh-Hans": "奥乔宗朱帕区",
+      "zh-Hant": "奧喬宗朱帕區"
+    }
+  },
+  {
+    "code": "CA",
+    "name": "Zambezi Region",
+    "names": {
+      "ja": "カプリビ州",
+      "ko": "카프리비 주",
+      "vi": "Zambezi",
+      "id": "Wilayah Zambezi",
+      "zh-Hans": "卡普里维区",
+      "zh-Hant": "卡普里維區"
+    }
+  }
+]

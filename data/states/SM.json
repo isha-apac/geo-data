@@ -1,0 +1,110 @@
+[
+  {
+    "code": "01",
+    "name": "Acquaviva",
+    "names": {
+      "ja": "アックアヴィーヴァ",
+      "ko": "아콰비바",
+      "vi": "Acquaviva",
+      "id": "Acquaviva, San Marino",
+      "zh-Hans": "阿夸维瓦",
+      "zh-Hant": "阿夸維瓦"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Borgo Maggiore",
+    "names": {
+      "ja": "ボルゴ・マッジョーレ",
+      "ko": "보르고마조레",
+      "vi": "Borgo Maggiore",
+      "id": "Borgo Maggiore",
+      "zh-Hans": "博尔戈马焦雷",
+      "zh-Hant": "博爾戈馬焦雷"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Chiesanuova",
+    "names": {
+      "ja": "キエザヌオーヴァ",
+      "ko": "키에사누오바",
+      "vi": "Chiesanuova",
+      "id": "Chiesanuova",
+      "zh-Hans": "基耶萨诺瓦",
+      "zh-Hant": "基耶薩諾瓦"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Domagnano",
+    "names": {
+      "ja": "ドマニャーノ",
+      "ko": "도마냐노",
+      "vi": "Domagnano",
+      "id": "Domagnano",
+      "zh-Hans": "多马尼亚诺",
+      "zh-Hant": "多馬尼亞諾"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Faetano",
+    "names": {
+      "ja": "ファエターノ",
+      "ko": "파에타노",
+      "vi": "Faetano",
+      "id": "Faetano",
+      "zh-Hans": "法埃塔诺",
+      "zh-Hant": "法埃塔諾"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Fiorentino",
+    "names": {
+      "ja": "フィオレンティーノ",
+      "ko": "피오렌티노",
+      "vi": "Fiorentino",
+      "id": "Fiorentino",
+      "zh-Hans": "菲奥伦蒂诺",
+      "zh-Hant": "菲奧倫蒂諾"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Montegiardino",
+    "names": {
+      "ja": "モンテジャルディーノ",
+      "ko": "몬테자르디노",
+      "vi": "Montegiardino",
+      "id": "Montegiardino",
+      "zh-Hans": "蒙特贾尔迪诺",
+      "zh-Hant": "蒙特賈爾迪諾"
+    }
+  },
+  {
+    "code": "07",
+    "name": "San Marino",
+    "names": {
+      "ja": "サンマリノ市",
+      "ko": "산마리노",
+      "vi": "Thành phố San Marino",
+      "id": "San Marino",
+      "zh-Hans": "圣马力诺",
+      "zh-Hant": "聖馬力諾"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Serravalle",
+    "names": {
+      "ja": "セラヴァッレ",
+      "ko": "세라발레",
+      "vi": "Serravalle",
+      "id": "Serravalle, San Marino",
+      "zh-Hans": "塞拉瓦莱",
+      "zh-Hant": "塞拉瓦萊"
+    }
+  }
+]

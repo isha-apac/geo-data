@@ -1,0 +1,802 @@
+[
+  {
+    "code": "01",
+    "name": "Attard",
+    "names": {
+      "ja": "アタード",
+      "ko": "아타르트",
+      "vi": "Attard",
+      "id": "Attard",
+      "zh-Hans": "阿塔尔德"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Balzan",
+    "names": {
+      "ja": "バルザン",
+      "ko": "발찬",
+      "vi": "Balzan",
+      "id": "Balzan",
+      "zh-Hans": "巴尔灿"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Birgu",
+    "names": {
+      "ja": "ビルグ",
+      "ko": "비르구",
+      "vi": "Birgu",
+      "id": "Birgu",
+      "zh-Hans": "比尔古",
+      "zh-Hant": "比爾古"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Birkirkara",
+    "names": {
+      "ja": "ビルキルカラ",
+      "ko": "비르키르카라",
+      "vi": "Birkirkara",
+      "id": "Birkirkara",
+      "zh-Hans": "比尔基卡拉"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Birżebbuġa",
+    "names": {
+      "ja": "ビルゼブジャ",
+      "ko": "비르제부자",
+      "vi": "Birzebbuga",
+      "id": "Birżebbuġa",
+      "zh-Hans": "比尔泽布贾"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Cospicua",
+    "names": {
+      "ja": "コスピクア",
+      "ko": "보름라",
+      "vi": "Cospicua",
+      "id": "Cospicua",
+      "zh-Hans": "科斯皮夸",
+      "zh-Hant": "科斯皮夸"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Dingli",
+    "names": {
+      "ja": "ディングリ",
+      "ko": "딩글리",
+      "vi": "Dingli",
+      "id": "Dingli",
+      "zh-Hans": "丁利"
+    }
+  },
+  {
+    "code": "R02",
+    "name": "Eastern Region",
+    "names": {}
+  },
+  {
+    "code": "08",
+    "name": "Fgura",
+    "names": {
+      "ja": "フグーラ",
+      "ko": "프구라",
+      "vi": "Fgura",
+      "id": "Fgura",
+      "zh-Hans": "弗古拉"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Floriana",
+    "names": {
+      "ja": "フロリアーナ",
+      "ko": "플로리아나",
+      "vi": "Floriana",
+      "id": "Floriana",
+      "zh-Hans": "弗洛里亚纳",
+      "zh-Hant": "弗洛里亞納"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Fontana",
+    "names": {
+      "ja": "フォンターナ",
+      "ko": "폰타나",
+      "vi": "Fontana",
+      "id": "Fontana",
+      "zh-Hans": "丰塔纳"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Għajnsielem",
+    "names": {
+      "ja": "アインシーレム",
+      "ko": "아인실렘",
+      "vi": "Ghajnsielem",
+      "id": "Għajnsielem",
+      "zh-Hans": "艾因西莱姆"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Għarb",
+    "names": {
+      "ja": "アーブ",
+      "ko": "아르프",
+      "vi": "Gharb",
+      "id": "Għarb",
+      "zh-Hans": "阿尔卜",
+      "zh-Hant": "阿爾卜"
+    }
+  },
+  {
+    "code": "15",
+    "name": "Għargħur",
+    "names": {
+      "ja": "アーウール",
+      "ko": "아르우르",
+      "vi": "Gharghur",
+      "id": "Għargħur",
+      "zh-Hans": "加尔古尔"
+    }
+  },
+  {
+    "code": "16",
+    "name": "Għasri",
+    "names": {
+      "ja": "アーシリ",
+      "ko": "아스리",
+      "vi": "Ghasri",
+      "id": "Għasri",
+      "zh-Hans": "阿斯里"
+    }
+  },
+  {
+    "code": "17",
+    "name": "Għaxaq",
+    "names": {
+      "ja": "アーシャ",
+      "ko": "아샤",
+      "vi": "Ghaxaq",
+      "id": "Għaxaq",
+      "zh-Hans": "阿沙格"
+    }
+  },
+  {
+    "code": "R06",
+    "name": "Gozo Region",
+    "names": {}
+  },
+  {
+    "code": "11",
+    "name": "Gudja",
+    "names": {
+      "ja": "グーディア",
+      "ko": "구디아",
+      "vi": "Gudja",
+      "id": "Gudja",
+      "zh-Hans": "古迪亚"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Gżira",
+    "names": {
+      "ja": "グジラ",
+      "ko": "그지라",
+      "vi": "Gzira",
+      "id": "Gżira",
+      "zh-Hans": "格济拉"
+    }
+  },
+  {
+    "code": "18",
+    "name": "Ħamrun",
+    "names": {
+      "ja": "ハムルーン",
+      "ko": "함룬",
+      "vi": "Hamrun",
+      "id": "Ħamrun",
+      "zh-Hans": "哈姆伦"
+    }
+  },
+  {
+    "code": "19",
+    "name": "Iklin",
+    "names": {
+      "ja": "イキリン",
+      "ko": "이클린",
+      "vi": "Iklin",
+      "id": "Iklin",
+      "zh-Hans": "伊克林"
+    }
+  },
+  {
+    "code": "21",
+    "name": "Kalkara",
+    "names": {
+      "ja": "カルカラ",
+      "ko": "칼카라",
+      "vi": "Kalkara",
+      "id": "Kalkara",
+      "zh-Hans": "卡尔卡拉"
+    }
+  },
+  {
+    "code": "22",
+    "name": "Kerċem",
+    "names": {
+      "ja": "ケルチャム",
+      "ko": "케르쳄",
+      "vi": "Kercem",
+      "id": "Kerċem",
+      "zh-Hans": "凯尔切姆",
+      "zh-Hant": "凱爾切姆"
+    }
+  },
+  {
+    "code": "23",
+    "name": "Kirkop",
+    "names": {
+      "ja": "キルコップ",
+      "ko": "키르코프",
+      "vi": "Kirkop",
+      "id": "Kirkop",
+      "zh-Hans": "基尔科普"
+    }
+  },
+  {
+    "code": "24",
+    "name": "Lija",
+    "names": {
+      "ja": "リーヤ",
+      "ko": "리야",
+      "vi": "Lija",
+      "id": "Lija",
+      "zh-Hans": "利亚"
+    }
+  },
+  {
+    "code": "25",
+    "name": "Luqa",
+    "names": {
+      "ja": "ルア",
+      "ko": "루아",
+      "vi": "Luqa",
+      "id": "Luqa",
+      "zh-Hans": "卢加"
+    }
+  },
+  {
+    "code": "26",
+    "name": "Marsa",
+    "names": {
+      "ja": "マルサ",
+      "ko": "마르사",
+      "id": "Marsa",
+      "zh-Hans": "马尔萨"
+    }
+  },
+  {
+    "code": "27",
+    "name": "Marsaskala",
+    "names": {
+      "ja": "マルサスカラ",
+      "ko": "마르사스칼라",
+      "vi": "Marsaskala",
+      "id": "Marsaskala",
+      "zh-Hans": "马尔萨斯卡拉",
+      "zh-Hant": "馬爾薩斯卡拉"
+    }
+  },
+  {
+    "code": "28",
+    "name": "Marsaxlokk",
+    "names": {
+      "ja": "マルサシロク",
+      "ko": "마르사실로크",
+      "vi": "Marsaxlokk",
+      "id": "Marsaxlokk",
+      "zh-Hans": "马尔萨什洛克"
+    }
+  },
+  {
+    "code": "29",
+    "name": "Mdina",
+    "names": {
+      "ja": "イムディーナ",
+      "ko": "므디나",
+      "vi": "Mdina",
+      "id": "Mdina",
+      "zh-Hans": "姆迪纳",
+      "zh-Hant": "姆迪納"
+    }
+  },
+  {
+    "code": "30",
+    "name": "Mellieħa",
+    "names": {
+      "ja": "メリッハ",
+      "ko": "멜리하",
+      "vi": "Mellieha",
+      "id": "Mellieħa",
+      "zh-Hans": "梅利哈",
+      "zh-Hant": "梅利哈"
+    }
+  },
+  {
+    "code": "31",
+    "name": "Mġarr",
+    "names": {
+      "ja": "イムジャー",
+      "ko": "므자르",
+      "vi": "Mġarr",
+      "id": "Mġarr",
+      "zh-Hans": "姆贾尔"
+    }
+  },
+  {
+    "code": "32",
+    "name": "Mosta",
+    "names": {
+      "ja": "モスタ",
+      "ko": "모스타",
+      "vi": "Mosta",
+      "id": "Mosta",
+      "zh-Hans": "莫斯塔",
+      "zh-Hant": "莫斯塔"
+    }
+  },
+  {
+    "code": "33",
+    "name": "Mqabba",
+    "names": {
+      "ja": "アッバ",
+      "ko": "므아바",
+      "vi": "Mqabba",
+      "id": "Mqabba",
+      "zh-Hans": "姆加巴"
+    }
+  },
+  {
+    "code": "34",
+    "name": "Msida",
+    "names": {
+      "ja": "イムシーダ",
+      "ko": "므시다",
+      "vi": "Msida",
+      "id": "Msida",
+      "zh-Hans": "姆西达"
+    }
+  },
+  {
+    "code": "35",
+    "name": "Mtarfa",
+    "names": {
+      "ja": "イムタルファ",
+      "ko": "므타르파",
+      "vi": "Mtarfa",
+      "id": "Mtarfa",
+      "zh-Hans": "姆塔尔法"
+    }
+  },
+  {
+    "code": "36",
+    "name": "Munxar",
+    "names": {
+      "ja": "ムンシー",
+      "ko": "문샤르",
+      "vi": "Munxar",
+      "id": "Munxar",
+      "zh-Hans": "蒙沙尔",
+      "zh-Hant": "蒙沙爾"
+    }
+  },
+  {
+    "code": "37",
+    "name": "Nadur",
+    "names": {
+      "ja": "ナドゥール",
+      "ko": "나두르",
+      "vi": "Nadur",
+      "id": "Nadur",
+      "zh-Hans": "纳杜尔",
+      "zh-Hant": "納杜爾"
+    }
+  },
+  {
+    "code": "38",
+    "name": "Naxxar",
+    "names": {
+      "ja": "ナッシャー",
+      "ko": "나샤르",
+      "vi": "Naxxar",
+      "id": "Naxxar",
+      "zh-Hans": "纳沙尔"
+    }
+  },
+  {
+    "code": "R01",
+    "name": "Northern Region",
+    "names": {}
+  },
+  {
+    "code": "39",
+    "name": "Paola",
+    "names": {
+      "ja": "パウラ",
+      "ko": "파올라",
+      "vi": "Paola",
+      "id": "Paola",
+      "zh-Hans": "保拉",
+      "zh-Hant": "保拉"
+    }
+  },
+  {
+    "code": "40",
+    "name": "Pembroke",
+    "names": {
+      "ja": "ペンブローク",
+      "ko": "펨브로크",
+      "vi": "Pembroke",
+      "id": "Pembroke",
+      "zh-Hans": "彭布罗克"
+    }
+  },
+  {
+    "code": "41",
+    "name": "Pietà, Malta",
+    "names": {
+      "ja": "ピータ",
+      "ko": "피타",
+      "id": "Pietà",
+      "zh-Hans": "皮塔"
+    }
+  },
+  {
+    "code": "R04",
+    "name": "Port Region",
+    "names": {}
+  },
+  {
+    "code": "42",
+    "name": "Qala",
+    "names": {
+      "ja": "アラ",
+      "ko": "알라",
+      "vi": "Qala",
+      "id": "Qala",
+      "zh-Hans": "加拉"
+    }
+  },
+  {
+    "code": "43",
+    "name": "Qormi",
+    "names": {
+      "ja": "オルミ",
+      "ko": "오르미",
+      "vi": "Qormi",
+      "id": "Qormi",
+      "zh-Hans": "戈尔米",
+      "zh-Hant": "戈爾米"
+    }
+  },
+  {
+    "code": "44",
+    "name": "Qrendi",
+    "names": {
+      "ja": "レンディ",
+      "ko": "렌디",
+      "vi": "Qrendi",
+      "id": "Qrendi",
+      "zh-Hans": "格伦迪"
+    }
+  },
+  {
+    "code": "46",
+    "name": "Rabat",
+    "names": {
+      "ja": "ラバト",
+      "ko": "라바트",
+      "vi": "Rabat",
+      "id": "Rabat",
+      "zh-Hans": "拉巴特"
+    }
+  },
+  {
+    "code": "45",
+    "name": "Rabat",
+    "names": {
+      "ja": "ラバト",
+      "ko": "빅토리아",
+      "vi": "Victoria",
+      "id": "Victoria",
+      "zh-Hans": "维多利亚",
+      "zh-Hant": "維多利亞"
+    }
+  },
+  {
+    "code": "47",
+    "name": "Safi",
+    "names": {
+      "ja": "サーフィ",
+      "ko": "사피",
+      "vi": "Safi",
+      "id": "Safi",
+      "zh-Hans": "萨菲",
+      "zh-Hant": "薩菲"
+    }
+  },
+  {
+    "code": "49",
+    "name": "San Ġwann",
+    "names": {
+      "ja": "サンジュワン",
+      "ko": "산즈완",
+      "vi": "San Gwann",
+      "id": "San Ġwann",
+      "zh-Hans": "圣季万"
+    }
+  },
+  {
+    "code": "50",
+    "name": "San Lawrenz",
+    "names": {
+      "ja": "サン・ローレンツ",
+      "ko": "산라우렌츠",
+      "vi": "Saint Lawrence",
+      "id": "Saint Lawrence",
+      "zh-Hans": "圣劳伦斯",
+      "zh-Hant": "聖勞倫斯"
+    }
+  },
+  {
+    "code": "52",
+    "name": "Sannat",
+    "names": {
+      "ja": "サンナット",
+      "ko": "산나트",
+      "vi": "Sannat",
+      "id": "Sannat",
+      "zh-Hans": "桑纳特",
+      "zh-Hant": "桑納特"
+    }
+  },
+  {
+    "code": "53",
+    "name": "Santa Luċija",
+    "names": {
+      "ja": "サンタルーチャ",
+      "ko": "산타루치야",
+      "vi": "Santa Lucija",
+      "id": "Santa Luċija",
+      "zh-Hans": "圣卢西亚",
+      "zh-Hant": "聖露西亞"
+    }
+  },
+  {
+    "code": "54",
+    "name": "Santa Venera",
+    "names": {
+      "ja": "サンタヴェネラ",
+      "ko": "산타베네라",
+      "vi": "Santa Venera",
+      "id": "Santa Venera",
+      "zh-Hans": "圣韦内拉"
+    }
+  },
+  {
+    "code": "20",
+    "name": "Senglea",
+    "names": {
+      "ja": "セングレア",
+      "ko": "셍글레아",
+      "vi": "Senglea",
+      "id": "Senglea",
+      "zh-Hans": "森格莱阿",
+      "zh-Hant": "森格萊阿"
+    }
+  },
+  {
+    "code": "55",
+    "name": "Siġġiewi",
+    "names": {
+      "ja": "シッジウィー",
+      "ko": "시지위",
+      "vi": "Siggiewi",
+      "id": "Siġġiewi",
+      "zh-Hans": "锡杰维",
+      "zh-Hant": "錫傑維"
+    }
+  },
+  {
+    "code": "56",
+    "name": "Sliema",
+    "names": {
+      "ja": "スリーマ",
+      "ko": "슬리마",
+      "vi": "Sliema",
+      "id": "Sliema",
+      "zh-Hans": "斯利马"
+    }
+  },
+  {
+    "code": "R05",
+    "name": "Southern Region",
+    "names": {}
+  },
+  {
+    "code": "48",
+    "name": "St. Julian's",
+    "names": {
+      "ja": "センジュリアン",
+      "ko": "산질리안",
+      "vi": "St. Julian's",
+      "id": "St. Julian's",
+      "zh-Hans": "圣朱利安斯"
+    }
+  },
+  {
+    "code": "51",
+    "name": "St. Paul's Bay",
+    "names": {
+      "ja": "セント・ポールズ・ベイ",
+      "ko": "산파울일바하르",
+      "vi": "St. Paul's Bay",
+      "id": "St. Paul's Bay",
+      "zh-Hans": "圣保罗湾城"
+    }
+  },
+  {
+    "code": "57",
+    "name": "Swieqi",
+    "names": {
+      "ja": "シウィーイ",
+      "ko": "스위이",
+      "vi": "Swieqi",
+      "id": "Swieqi",
+      "zh-Hans": "斯维吉"
+    }
+  },
+  {
+    "code": "58",
+    "name": "Ta' Xbiex",
+    "names": {
+      "ja": "タシビイシェ",
+      "ko": "타시비시",
+      "vi": "Ta' Xbiex",
+      "id": "Ta' Xbiex",
+      "zh-Hans": "塔什比什"
+    }
+  },
+  {
+    "code": "59",
+    "name": "Tarxien",
+    "names": {
+      "ja": "タルシーン",
+      "ko": "타르신",
+      "vi": "Tarxien",
+      "id": "Tarxien",
+      "zh-Hans": "塔尔欣",
+      "zh-Hant": "塔爾欣"
+    }
+  },
+  {
+    "code": "60",
+    "name": "Valletta",
+    "names": {
+      "ja": "バレッタ",
+      "ko": "발레타",
+      "vi": "Valletta",
+      "id": "Valletta",
+      "zh-Hans": "瓦莱塔",
+      "zh-Hant": "瓦萊塔"
+    }
+  },
+  {
+    "code": "R03",
+    "name": "Western Region",
+    "names": {}
+  },
+  {
+    "code": "61",
+    "name": "Xagħra",
+    "names": {
+      "ja": "シャーラ",
+      "ko": "샤라",
+      "vi": "Xaghra",
+      "id": "Xagħra",
+      "zh-Hans": "沙拉"
+    }
+  },
+  {
+    "code": "62",
+    "name": "Xewkija",
+    "names": {
+      "ja": "シェウキーヤ",
+      "ko": "셰우키야",
+      "vi": "Xewkija",
+      "id": "Xewkija",
+      "zh-Hans": "绍基亚",
+      "zh-Hant": "紹基亞"
+    }
+  },
+  {
+    "code": "63",
+    "name": "Xgħajra",
+    "names": {
+      "ja": "シャイラ",
+      "ko": "샤이라",
+      "vi": "Xghajra",
+      "id": "Xgħajra",
+      "zh-Hans": "沙伊拉"
+    }
+  },
+  {
+    "code": "64",
+    "name": "Żabbar",
+    "names": {
+      "ja": "ザッパール",
+      "ko": "자바르",
+      "vi": "Zabbar",
+      "id": "Żabbar",
+      "zh-Hans": "扎巴尔"
+    }
+  },
+  {
+    "code": "66",
+    "name": "Żebbuġ",
+    "names": {
+      "ja": "ゼブージ",
+      "ko": "제부치",
+      "vi": "Zebbug",
+      "id": "Żebbuġ",
+      "zh-Hans": "泽布季",
+      "zh-Hant": "澤布季"
+    }
+  },
+  {
+    "code": "65",
+    "name": "Żebbuġ (Gozo)",
+    "names": {
+      "ja": "ゼブージ",
+      "ko": "제부치",
+      "id": "Żebbuġ, Gozo",
+      "zh-Hans": "泽布季",
+      "zh-Hant": "澤布季"
+    }
+  },
+  {
+    "code": "67",
+    "name": "Żejtun",
+    "names": {
+      "ja": "ゼイトゥン",
+      "ko": "제이툰",
+      "vi": "Zejtun",
+      "id": "Żejtun",
+      "zh-Hans": "榟橔"
+    }
+  },
+  {
+    "code": "68",
+    "name": "Żurrieq",
+    "names": {
+      "ja": "ズッリー",
+      "ko": "주리",
+      "vi": "Zurrieq",
+      "id": "Żurrieq",
+      "zh-Hans": "祖里格"
+    }
+  }
+]

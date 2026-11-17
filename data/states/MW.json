@@ -1,0 +1,359 @@
+[
+  {
+    "code": "BA",
+    "name": "Balaka District",
+    "names": {
+      "ja": "バラカ県",
+      "ko": "발라카현",
+      "vi": "Quận Balaka",
+      "id": "Distrik Balaka",
+      "zh-Hans": "巴拉卡县",
+      "zh-Hant": "巴拉卡縣"
+    }
+  },
+  {
+    "code": "BL",
+    "name": "Blantyre District",
+    "names": {
+      "ja": "ブランタイヤ県",
+      "ko": "블랜타이어현",
+      "vi": "Quận Blantyre",
+      "id": "Distrik Blantyre",
+      "zh-Hans": "布兰太尔县",
+      "zh-Hant": "布蘭太爾縣"
+    }
+  },
+  {
+    "code": "C",
+    "name": "Central Region",
+    "names": {
+      "ja": "中部州",
+      "ko": "중부주",
+      "id": "Region Tengah",
+      "zh-Hans": "中央区",
+      "zh-Hant": "中央區"
+    }
+  },
+  {
+    "code": "CK",
+    "name": "Chikwawa District",
+    "names": {
+      "ja": "チクワワ県",
+      "ko": "치콰와현",
+      "vi": "Quận Chikwawa",
+      "id": "Distrik Chikwawa",
+      "zh-Hans": "奇夸瓦县",
+      "zh-Hant": "奇夸瓦縣"
+    }
+  },
+  {
+    "code": "CR",
+    "name": "Chiradzulu District",
+    "names": {
+      "ja": "チラズル県",
+      "ko": "치라줄루현",
+      "vi": "Quận Chiradzulu",
+      "id": "Distrik Chiradzulu",
+      "zh-Hans": "奇拉祖卢县",
+      "zh-Hant": "奇拉祖盧縣"
+    }
+  },
+  {
+    "code": "CT",
+    "name": "Chitipa district",
+    "names": {
+      "ja": "チティパ県",
+      "ko": "치티파현",
+      "vi": "Quận Chitipa",
+      "id": "Distrik Chitipa",
+      "zh-Hans": "奇蒂帕县",
+      "zh-Hant": "奇蒂帕縣"
+    }
+  },
+  {
+    "code": "DE",
+    "name": "Dedza District",
+    "names": {
+      "ja": "デッザ県",
+      "ko": "데자현",
+      "vi": "Quận Dedza",
+      "id": "Distrik Dedza",
+      "zh-Hans": "代扎县"
+    }
+  },
+  {
+    "code": "DO",
+    "name": "Dowa District",
+    "names": {
+      "ja": "ドーワ県",
+      "ko": "도와현",
+      "vi": "Quận Dowa",
+      "id": "Distrik Dowa",
+      "zh-Hans": "多瓦县",
+      "zh-Hant": "多瓦縣"
+    }
+  },
+  {
+    "code": "KR",
+    "name": "Karonga District",
+    "names": {
+      "ja": "カロンガ県",
+      "ko": "카롱가현",
+      "id": "Distrik Karonga",
+      "zh-Hans": "卡龙加县",
+      "zh-Hant": "卡龍加縣"
+    }
+  },
+  {
+    "code": "KS",
+    "name": "Kasungu District",
+    "names": {
+      "ja": "カスング県",
+      "ko": "카숭구현",
+      "vi": "Quận Kasungu",
+      "id": "Distrik Kasungu",
+      "zh-Hans": "卡松古县",
+      "zh-Hant": "卡松古縣"
+    }
+  },
+  {
+    "code": "LK",
+    "name": "Likoma District",
+    "names": {
+      "ja": "リコマ県",
+      "ko": "리코마현",
+      "vi": "Quận Likoma",
+      "id": "Distrik Likoma",
+      "zh-Hans": "利科马县"
+    }
+  },
+  {
+    "code": "LI",
+    "name": "Lilongwe District",
+    "names": {
+      "ja": "リロングウェ県",
+      "ko": "릴롱궤현",
+      "vi": "Quận Lilongwe",
+      "id": "Distrik Lilongwe",
+      "zh-Hans": "利隆圭县",
+      "zh-Hant": "利隆圭縣"
+    }
+  },
+  {
+    "code": "MH",
+    "name": "Machinga District",
+    "names": {
+      "ja": "マチンガ県",
+      "ko": "마칭가현",
+      "vi": "Quận Machinga",
+      "id": "Distrik Machinga",
+      "zh-Hans": "马钦加县",
+      "zh-Hant": "馬欽加縣"
+    }
+  },
+  {
+    "code": "MG",
+    "name": "Mangochi District",
+    "names": {
+      "ja": "マンゴチ県",
+      "ko": "망고치현",
+      "vi": "Quận Mangochi",
+      "id": "Distrik Mangochi",
+      "zh-Hans": "曼戈奇县",
+      "zh-Hant": "曼戈奇縣"
+    }
+  },
+  {
+    "code": "MC",
+    "name": "Mchinji District",
+    "names": {
+      "ja": "ムチンジ県",
+      "ko": "음친지현",
+      "vi": "Quận Mchinji",
+      "id": "Distrik Mchinji",
+      "zh-Hans": "姆钦吉县",
+      "zh-Hant": "姆欽吉縣"
+    }
+  },
+  {
+    "code": "MU",
+    "name": "Mulanje District",
+    "names": {
+      "ja": "ムランジェ県",
+      "ko": "물란제현",
+      "vi": "Quận Mulanje",
+      "id": "Distrik Mulanje",
+      "zh-Hans": "姆兰杰县"
+    }
+  },
+  {
+    "code": "MW",
+    "name": "Mwanza District",
+    "names": {
+      "ja": "ムワンザ県",
+      "ko": "음완자현",
+      "vi": "Quận Mwanza",
+      "id": "Distrik Mwanza",
+      "zh-Hans": "姆万扎县",
+      "zh-Hant": "姆萬紮縣"
+    }
+  },
+  {
+    "code": "MZ",
+    "name": "Mzimba District",
+    "names": {
+      "ja": "ムジンバ県",
+      "ko": "음짐바현",
+      "vi": "Quận Mzimba",
+      "id": "Distrik Mzimba",
+      "zh-Hans": "姆津巴县",
+      "zh-Hant": "姆津巴縣"
+    }
+  },
+  {
+    "code": "NE",
+    "name": "Neno District",
+    "names": {
+      "ja": "ネノ県",
+      "ko": "네노현",
+      "vi": "Neno Quận",
+      "id": "Distrik Neno"
+    }
+  },
+  {
+    "code": "NB",
+    "name": "Nkhata Bay District",
+    "names": {
+      "ja": "カタベイ県",
+      "ko": "은카타베이현",
+      "vi": "Quận Nkhata Bay",
+      "id": "Distrik Nkhata Bay",
+      "zh-Hans": "恩卡塔贝县",
+      "zh-Hant": "恩卡塔貝縣"
+    }
+  },
+  {
+    "code": "NK",
+    "name": "Nkhotakota District",
+    "names": {
+      "ja": "コタコタ県",
+      "ko": "은코타코타현",
+      "vi": "Quận Nkhotakota",
+      "id": "Distrik Nkhotakota",
+      "zh-Hans": "恩科塔科塔县"
+    }
+  },
+  {
+    "code": "N",
+    "name": "Northern Region",
+    "names": {
+      "ja": "北部州",
+      "ko": "북부주",
+      "zh-Hans": "北部区",
+      "zh-Hant": "北部區"
+    }
+  },
+  {
+    "code": "NS",
+    "name": "Nsanje District",
+    "names": {
+      "ja": "ンサンジェ県",
+      "ko": "은산제현",
+      "vi": "Quận Nsanje",
+      "id": "Distrik Nsanje",
+      "zh-Hans": "恩桑杰县",
+      "zh-Hant": "恩桑傑縣"
+    }
+  },
+  {
+    "code": "NU",
+    "name": "Ntcheu District",
+    "names": {
+      "ja": "ンチェウ県",
+      "ko": "은체우현",
+      "vi": "Quận Ntcheu",
+      "id": "Distrik Ntcheu",
+      "zh-Hans": "恩切乌县",
+      "zh-Hant": "恩切烏縣"
+    }
+  },
+  {
+    "code": "NI",
+    "name": "Ntchisi District",
+    "names": {
+      "ja": "ンチシ県",
+      "ko": "은치시현",
+      "vi": "Quận Ntchisi",
+      "id": "Distrik Ntchisi",
+      "zh-Hans": "恩奇西县",
+      "zh-Hant": "恩奇西縣"
+    }
+  },
+  {
+    "code": "PH",
+    "name": "Phalombe District",
+    "names": {
+      "ja": "パロンベ県",
+      "ko": "팔롬베현",
+      "vi": "Quận Phalombe",
+      "id": "Distrik Phalombe",
+      "zh-Hans": "帕隆贝县"
+    }
+  },
+  {
+    "code": "RU",
+    "name": "Rumphi District",
+    "names": {
+      "ja": "ルンピ県",
+      "ko": "룸피현",
+      "vi": "Quận Rumphi",
+      "id": "Distrik Rumphi",
+      "zh-Hans": "龙皮县",
+      "zh-Hant": "龍皮縣"
+    }
+  },
+  {
+    "code": "SA",
+    "name": "Salima District",
+    "names": {
+      "ja": "サリマ県",
+      "ko": "살리마현",
+      "vi": "Quận Salima",
+      "id": "Distrik Salima",
+      "zh-Hans": "萨利马县",
+      "zh-Hant": "薩利馬縣"
+    }
+  },
+  {
+    "code": "S",
+    "name": "Southern Region",
+    "names": {
+      "ja": "南部州",
+      "ko": "남부주",
+      "zh-Hans": "南部区",
+      "zh-Hant": "南部區"
+    }
+  },
+  {
+    "code": "TH",
+    "name": "Thyolo District",
+    "names": {
+      "ja": "チョロ県",
+      "ko": "티올로현",
+      "id": "Distrik Thyolo",
+      "zh-Hans": "乔洛县",
+      "zh-Hant": "喬洛縣"
+    }
+  },
+  {
+    "code": "ZO",
+    "name": "Zomba District",
+    "names": {
+      "ja": "ゾンバ県",
+      "ko": "좀바현",
+      "id": "Distrik Zomba",
+      "zh-Hans": "松巴县",
+      "zh-Hant": "松巴縣"
+    }
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "code": "BA",
+    "name": "Barima-Waini",
+    "names": {
+      "ja": "バリマ・ワイニ州",
+      "ko": "바리마와이니주",
+      "vi": "Barima-Waini",
+      "id": "Barima-Waini",
+      "zh-Hans": "巴里马-瓦伊尼"
+    }
+  },
+  {
+    "code": "CU",
+    "name": "Cuyuni-Mazaruni",
+    "names": {
+      "ja": "クユニ＝マザルニ州",
+      "ko": "쿠유니마자루니주",
+      "vi": "Cuyuni-Mazaruni",
+      "id": "Cuyuni-Mazaruni",
+      "zh-Hans": "库尤尼-马扎鲁尼区"
+    }
+  },
+  {
+    "code": "DE",
+    "name": "Demerara-Mahaica",
+    "names": {
+      "ja": "デメララ・マハイカ州",
+      "ko": "데메라라마하이카주",
+      "vi": "Demerara-Mahaica",
+      "id": "Demerara-Mahaica",
+      "zh-Hans": "德梅拉拉-马海卡区"
+    }
+  },
+  {
+    "code": "EB",
+    "name": "East Berbice-Corentyne",
+    "names": {
+      "ja": "東ベルビセ＝コレンティネ州",
+      "ko": "이스트버비스코렌타인주",
+      "vi": "Đông Berbice-Corentyne",
+      "id": "Berbice-Corentyne Timur",
+      "zh-Hans": "东伯比斯-科兰太因"
+    }
+  },
+  {
+    "code": "ES",
+    "name": "Essequibo Islands-West Demerara",
+    "names": {
+      "ja": "エセキボ諸島＝西デメララ州",
+      "ko": "에세키보아일랜즈웨스트데메라라주",
+      "vi": "Quần đảo Essequibo Islands (Tây Demerara)",
+      "id": "Pulau Essequibo-Demerara Barat",
+      "zh-Hans": "埃塞奎博群岛-西德梅拉拉区"
+    }
+  },
+  {
+    "code": "MA",
+    "name": "Mahaica-Berbice",
+    "names": {
+      "ja": "マハイカ＝ベルビセ州",
+      "ko": "마하이카버비스주",
+      "id": "Mahaica-Berbice",
+      "zh-Hans": "马海卡-伯比斯区",
+      "zh-Hant": "馬海卡-伯比斯區"
+    }
+  },
+  {
+    "code": "PM",
+    "name": "Pomeroon-Supenaam",
+    "names": {
+      "ja": "ポメローン＝スペナーム州",
+      "ko": "포메룬수페남주",
+      "vi": "Pomeroon-Supenaam",
+      "id": "Pomeroon-Supenaam",
+      "zh-Hans": "波默伦-苏佩纳姆区"
+    }
+  },
+  {
+    "code": "PT",
+    "name": "Potaro-Siparuni",
+    "names": {
+      "ja": "ポタ＝シパルニ州",
+      "ko": "포타로시파루니주",
+      "vi": "Potaro-Siparuni",
+      "id": "Potaro-Siparuni",
+      "zh-Hans": "波塔罗-锡帕鲁尼区"
+    }
+  },
+  {
+    "code": "UD",
+    "name": "Upper Demerara-Berbice",
+    "names": {
+      "ja": "アッパー・デメララ＝ベルビセ州",
+      "ko": "어퍼데메라라버비스주",
+      "vi": "Thượng Demerara-Berbice",
+      "id": "Demerara Hulu-Berbice",
+      "zh-Hans": "上德梅拉拉-伯比斯区"
+    }
+  },
+  {
+    "code": "UT",
+    "name": "Upper Takutu-Upper Essequibo",
+    "names": {
+      "ja": "アッパー・タクトゥ＝アッパー・エセキボ州",
+      "ko": "어퍼타쿠투어퍼에세키보주",
+      "vi": "Thượng Takutu-Thượng Essequibo",
+      "id": "Takutu Hulu-Essequibo Hulu",
+      "zh-Hans": "上塔库图-上埃塞奎博",
+      "zh-Hant": "上塔庫圖-上埃塞奎博"
+    }
+  }
+]

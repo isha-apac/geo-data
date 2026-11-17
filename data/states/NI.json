@@ -1,0 +1,200 @@
+[
+  {
+    "code": "BO",
+    "name": "Boaco Department",
+    "names": {
+      "ja": "ボアコ県",
+      "ko": "보아코주",
+      "vi": "Khu vực hành chính Boaco",
+      "id": "Departemen Boaco",
+      "zh-Hans": "博阿科省"
+    }
+  },
+  {
+    "code": "CA",
+    "name": "Carazo Department",
+    "names": {
+      "ja": "カラソ県",
+      "ko": "카라소주",
+      "vi": "Tỉnh Carazo",
+      "id": "Departemen Carazo",
+      "zh-Hans": "卡拉索省",
+      "zh-Hant": "卡拉索省"
+    }
+  },
+  {
+    "code": "CI",
+    "name": "Chinandega Department",
+    "names": {
+      "ja": "チナンデガ県",
+      "ko": "치난데가주",
+      "vi": "Tỉnh Chinandega",
+      "id": "Departemen Chinandega",
+      "zh-Hans": "奇南德加省",
+      "zh-Hant": "奇南德加省"
+    }
+  },
+  {
+    "code": "CO",
+    "name": "Chontales Department",
+    "names": {
+      "ja": "チョンタレス県",
+      "ko": "촌탈레스주",
+      "vi": "Tỉnh Chontales",
+      "id": "Departemen Chontales",
+      "zh-Hans": "琼塔莱斯省",
+      "zh-Hant": "琼塔萊斯省"
+    }
+  },
+  {
+    "code": "ES",
+    "name": "Estelí Department",
+    "names": {
+      "ja": "エステリ県",
+      "ko": "에스텔리주",
+      "vi": "Tỉnh Estelí",
+      "id": "Departemen Estelí",
+      "zh-Hans": "埃斯特利省",
+      "zh-Hant": "埃斯特利省"
+    }
+  },
+  {
+    "code": "GR",
+    "name": "Granada Department",
+    "names": {
+      "ja": "グラナダ県",
+      "ko": "그라나다주",
+      "id": "Departemen Granada",
+      "zh-Hans": "格拉纳达省",
+      "zh-Hant": "格拉納達省"
+    }
+  },
+  {
+    "code": "JI",
+    "name": "Jinotega Department",
+    "names": {
+      "ja": "ヒノテガ県",
+      "ko": "히노테가주",
+      "vi": "tỉnh Jinotega",
+      "id": "Departemen Jinotega",
+      "zh-Hans": "希诺特加省",
+      "zh-Hant": "希諾特加省"
+    }
+  },
+  {
+    "code": "LE",
+    "name": "León Department",
+    "names": {
+      "ja": "レオン県",
+      "ko": "레온주",
+      "id": "Departemen León",
+      "zh-Hans": "莱昂省",
+      "zh-Hant": "萊昂省"
+    }
+  },
+  {
+    "code": "MD",
+    "name": "Madriz Department",
+    "names": {
+      "ja": "マドリス県",
+      "ko": "마드리스주",
+      "vi": "Khu vực hành chính Madriz",
+      "id": "Departemen Madriz",
+      "zh-Hans": "马德里斯省",
+      "zh-Hant": "馬德里斯省"
+    }
+  },
+  {
+    "code": "MN",
+    "name": "Managua Department",
+    "names": {
+      "ja": "マナグア県",
+      "ko": "마나과주",
+      "vi": "Tỉnh Managua",
+      "id": "Departemen Managua",
+      "zh-Hans": "马那瓜省",
+      "zh-Hant": "馬那瓜省"
+    }
+  },
+  {
+    "code": "MS",
+    "name": "Masaya Department",
+    "names": {
+      "ja": "マサヤ県",
+      "ko": "마사야주",
+      "vi": "Khu vực hành chính Masaya",
+      "id": "Departemen Masaya",
+      "zh-Hans": "马萨亚省"
+    }
+  },
+  {
+    "code": "MT",
+    "name": "Matagalpa Department",
+    "names": {
+      "ja": "マタガルパ県",
+      "ko": "마타갈파주",
+      "vi": "Tỉnh Matagalpa",
+      "id": "Departemen Matagalpa",
+      "zh-Hans": "马塔加尔帕省",
+      "zh-Hant": "馬塔加爾帕省"
+    }
+  },
+  {
+    "code": "AN",
+    "name": "North Caribbean Coast Autonomous Region",
+    "names": {
+      "ja": "北カリブ海岸自治地域（県）",
+      "ko": "북카리브해안 자치지역 (주)",
+      "vi": "Tỉnh của Vùng tự trị Bờ biển Caribe Bắc",
+      "id": "Departemen Wilayah Otonom Pesisir Karibia Utara",
+      "zh-Hans": "北加勒比海岸自治区部门",
+      "zh-Hant": "北加勒比海岸自治區部門"
+    }
+  },
+  {
+    "code": "NS",
+    "name": "Nueva Segovia Department",
+    "names": {
+      "ja": "ヌエバ・セゴビア県",
+      "ko": "누에바세고비아주",
+      "vi": "Tỉnh Nueva Segovia",
+      "id": "Departemen Nueva Segovia",
+      "zh-Hans": "新塞哥维亚省",
+      "zh-Hant": "新塞哥維亞省"
+    }
+  },
+  {
+    "code": "SJ",
+    "name": "Río San Juan Department",
+    "names": {
+      "ja": "リオ・サン・フアン県",
+      "ko": "리오산후안주",
+      "vi": "Khu vực hành chính Río San Juan",
+      "id": "Departemen Río San Juan",
+      "zh-Hans": "圣胡安河省",
+      "zh-Hant": "聖胡安河省"
+    }
+  },
+  {
+    "code": "RI",
+    "name": "Rivas Department",
+    "names": {
+      "ja": "リバス県",
+      "ko": "리바스주",
+      "id": "Departemen Rivas",
+      "zh-Hans": "里瓦斯省",
+      "zh-Hant": "里瓦斯省"
+    }
+  },
+  {
+    "code": "AS",
+    "name": "South Caribbean Coast Autonomous Region",
+    "names": {
+      "ja": "南カリブ海岸自治地域",
+      "ko": "남카리브해안 자치지역",
+      "vi": "Vùng tự trị Bờ biển Caribe Nam",
+      "id": "Wilayah Otonom Pesisir Karibia Selatan",
+      "zh-Hans": "南加勒比海岸自治区"
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "code": "AS",
+    "name": "Ali Sabieh Region",
+    "names": {
+      "ja": "アリ・サビエ州",
+      "ko": "알리사비에주",
+      "vi": "Khu vực Ali Sabieh",
+      "id": "Wilayah Ali Sabieh",
+      "zh-Hans": "阿里萨比州",
+      "zh-Hant": "阿里薩比州"
+    }
+  },
+  {
+    "code": "AR",
+    "name": "Arta Region",
+    "names": {
+      "ja": "アルタ州",
+      "ko": "아르타주",
+      "vi": "Khu vực Arta",
+      "id": "Wilayah Arta",
+      "zh-Hans": "阿尔塔州 (吉布提)"
+    }
+  },
+  {
+    "code": "DI",
+    "name": "Dikhil Region",
+    "names": {
+      "ja": "ディキル州",
+      "ko": "디킬주",
+      "vi": "Khu vực Dikhil",
+      "id": "Wilayah Dikhil",
+      "zh-Hans": "迪基尔州"
+    }
+  },
+  {
+    "code": "DJ",
+    "name": "Djibouti",
+    "names": {
+      "ja": "ジブチ市",
+      "ko": "지부티",
+      "vi": "Djibouti",
+      "id": "Kota Djibouti",
+      "zh-Hans": "吉布提市",
+      "zh-Hant": "吉布地"
+    }
+  },
+  {
+    "code": "OB",
+    "name": "Obock Region",
+    "names": {
+      "ja": "オボック州",
+      "ko": "오보크주",
+      "vi": "Khu vực Obock",
+      "id": "Wilayah Obock",
+      "zh-Hans": "奥博克州",
+      "zh-Hant": "奧博克州"
+    }
+  },
+  {
+    "code": "TA",
+    "name": "Tadjourah Region",
+    "names": {
+      "ja": "タジュラ州",
+      "ko": "타주라주",
+      "vi": "Khu vực Tadjourah",
+      "id": "Wilayah Tadjourah",
+      "zh-Hans": "塔朱拉州",
+      "zh-Hant": "塔朱拉州"
+    }
+  }
+]

@@ -1,0 +1,229 @@
+[
+  {
+    "code": "AN",
+    "name": "Al Anbar Governorate",
+    "names": {
+      "ja": "アンバール県",
+      "ko": "안바르주",
+      "vi": "Tỉnh Al Anbar",
+      "id": "Kegubernuran Al Anbar",
+      "zh-Hans": "安巴尔省",
+      "zh-Hant": "安巴爾省"
+    }
+  },
+  {
+    "code": "MU",
+    "name": "Al Muthanna Governorate",
+    "names": {
+      "ja": "ムサンナー県",
+      "ko": "무탄나주",
+      "vi": "Tỉnh Al Muthanna",
+      "id": "Kegubernuran Al Muthanna",
+      "zh-Hans": "穆萨纳省",
+      "zh-Hant": "穆薩納省"
+    }
+  },
+  {
+    "code": "QA",
+    "name": "Al-Qādisiyyah Governorate",
+    "names": {
+      "ja": "カーディーシーヤ県",
+      "ko": "카디시야주",
+      "vi": "Tỉnh Al-Qadisiyyah",
+      "id": "Kegubernuran Al-Qādisiyyah",
+      "zh-Hans": "卡迪西亚省"
+    }
+  },
+  {
+    "code": "BB",
+    "name": "Babylon Governorate",
+    "names": {
+      "ja": "バービル県",
+      "ko": "바빌주",
+      "vi": "Tỉnh Babylon",
+      "id": "Kegubernuran Babil",
+      "zh-Hans": "巴比伦省"
+    }
+  },
+  {
+    "code": "BG",
+    "name": "Baghdad Governorate",
+    "names": {
+      "ja": "バグダード県",
+      "ko": "바그다드주",
+      "id": "Kegubernuran Bagdad",
+      "zh-Hans": "巴格达省",
+      "zh-Hant": "巴格達省"
+    }
+  },
+  {
+    "code": "BA",
+    "name": "Basra Governorate",
+    "names": {
+      "ja": "バスラ県",
+      "ko": "바스라주",
+      "vi": "Tỉnh Basra",
+      "id": "Kegubernuran Basra",
+      "zh-Hans": "巴士拉省",
+      "zh-Hant": "巴士拉省"
+    }
+  },
+  {
+    "code": "DQ",
+    "name": "Dhi Qar Governorate",
+    "names": {
+      "ja": "ジーカール県",
+      "ko": "디카르주",
+      "vi": "Tỉnh Dhi Qar",
+      "id": "Kegubernuran Dhi Qar",
+      "zh-Hans": "济加尔省",
+      "zh-Hant": "濟加爾省"
+    }
+  },
+  {
+    "code": "DI",
+    "name": "Diyala Governorate",
+    "names": {
+      "ja": "ディヤーラー県",
+      "ko": "디얄라주",
+      "vi": "Tỉnh Diyala",
+      "id": "Kegubernuran Diyala",
+      "zh-Hans": "迪亚拉省",
+      "zh-Hant": "迪亞拉省"
+    }
+  },
+  {
+    "code": "DA",
+    "name": "Duhok Governorate",
+    "names": {
+      "ja": "ドホーク県",
+      "ko": "다후크주",
+      "vi": "Tỉnh Dohuk",
+      "id": "Kegubernuran Dahuk",
+      "zh-Hans": "杜胡克省",
+      "zh-Hant": "杜胡克省"
+    }
+  },
+  {
+    "code": "AR",
+    "name": "Erbil Governorate",
+    "names": {
+      "ja": "アルビール県",
+      "ko": "아르빌주",
+      "vi": "Tỉnh Erbil",
+      "id": "Kegubernuran Arbil",
+      "zh-Hans": "埃尔比勒省",
+      "zh-Hant": "埃爾比勒省"
+    }
+  },
+  {
+    "code": "HA",
+    "name": "Halabja Governorate",
+    "names": {
+      "ja": "ハラブジャ県",
+      "ko": "할라브자주",
+      "zh-Hans": "哈拉卜贾省"
+    }
+  },
+  {
+    "code": "KR",
+    "name": "Iqlim Kurdistan",
+    "names": {}
+  },
+  {
+    "code": "KA",
+    "name": "Karbala Governorate",
+    "names": {
+      "ja": "カルバラー県",
+      "ko": "카르발라주",
+      "vi": "Tỉnh Karbala",
+      "id": "Kegubernuran Karbala",
+      "zh-Hans": "卡尔巴拉省",
+      "zh-Hant": "卡爾巴拉省"
+    }
+  },
+  {
+    "code": "KI",
+    "name": "Kirkuk Governorate",
+    "names": {
+      "ja": "キルクーク県",
+      "ko": "키르쿠크주",
+      "vi": "Tỉnh Kirkuk",
+      "id": "Provinsi Kirkuk",
+      "zh-Hans": "基尔库克省",
+      "zh-Hant": "基爾庫克省"
+    }
+  },
+  {
+    "code": "MA",
+    "name": "Maysan Governorate",
+    "names": {
+      "ja": "マイサーン県",
+      "ko": "마이산주",
+      "vi": "Tỉnh Maysan",
+      "id": "Kegubernuran Maysan",
+      "zh-Hans": "米桑省",
+      "zh-Hant": "米桑省"
+    }
+  },
+  {
+    "code": "NA",
+    "name": "Najaf Governorate",
+    "names": {
+      "ja": "ナジャフ県",
+      "ko": "나자프주",
+      "vi": "Tỉnh Najaf",
+      "id": "Kegubernuran Najaf",
+      "zh-Hans": "纳杰夫省",
+      "zh-Hant": "納傑夫省"
+    }
+  },
+  {
+    "code": "NI",
+    "name": "Nineveh Governorate",
+    "names": {
+      "ja": "ニーナワー県",
+      "ko": "니나와주",
+      "vi": "Tỉnh Ninawa",
+      "id": "Kegubernuran Niniwe",
+      "zh-Hans": "尼尼微省",
+      "zh-Hant": "尼尼微省"
+    }
+  },
+  {
+    "code": "SD",
+    "name": "Saladin Governorate",
+    "names": {
+      "ja": "サラーフッディーン県",
+      "ko": "살라딘주",
+      "vi": "Tỉnh Saladin",
+      "id": "Kegubernuran Salah ad Din",
+      "zh-Hans": "萨拉赫丁省",
+      "zh-Hant": "薩拉赫丁省"
+    }
+  },
+  {
+    "code": "SU",
+    "name": "Sulaymaniyah Governorate",
+    "names": {
+      "ja": "スレイマニヤ県",
+      "ko": "술라이마니야주",
+      "vi": "Tỉnh Sulaymaniyah",
+      "id": "Kegubernuran As Sulaymaniyah",
+      "zh-Hans": "苏莱曼尼亚省",
+      "zh-Hant": "蘇萊曼尼亞省"
+    }
+  },
+  {
+    "code": "WA",
+    "name": "Wasit Governorate",
+    "names": {
+      "ja": "ワーシト県",
+      "ko": "와시트주",
+      "vi": "Tỉnh Wasit",
+      "id": "Kegubernuran Wasit",
+      "zh-Hans": "瓦西特省",
+      "zh-Hant": "瓦西特省"
+    }
+  }
+]

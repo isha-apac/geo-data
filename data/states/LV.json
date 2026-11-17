@@ -1,0 +1,442 @@
+[
+  {
+    "code": "011",
+    "name": "Ādaži Municipality",
+    "names": {
+      "ja": "アーダジ市",
+      "ko": "아다지시",
+      "id": "Munisipalitas Ādaži",
+      "zh-Hans": "阿達日市鎮"
+    }
+  },
+  {
+    "code": "002",
+    "name": "Aizkraukle Municipality",
+    "names": {
+      "ja": "アイズクラウクレ市",
+      "ko": "아이스크라우클레시",
+      "id": "Munisipalitas Aizkraukle",
+      "zh-Hans": "艾茲克勞克萊市鎮"
+    }
+  },
+  {
+    "code": "007",
+    "name": "Alūksne Municipality",
+    "names": {
+      "ja": "アルークスネ",
+      "ko": "알룩스네시",
+      "vi": "Đô thị tự trị Aluksne",
+      "id": "Kotamadya Alūksne",
+      "zh-Hans": "阿盧克斯內市鎮"
+    }
+  },
+  {
+    "code": "111",
+    "name": "Augšdaugava Municipality",
+    "names": {
+      "ja": "アウゲシュダウガヴァ市",
+      "id": "Munisipalitas Augšdaugava",
+      "zh-Hans": "上道加瓦市镇"
+    }
+  },
+  {
+    "code": "015",
+    "name": "Balvi Municipality",
+    "names": {
+      "ja": "バルヴィ市",
+      "ko": "발비시",
+      "id": "Munisipalitas Balvi",
+      "zh-Hans": "巴爾維市鎮",
+      "zh-Hant": "巴爾維市鎮"
+    }
+  },
+  {
+    "code": "016",
+    "name": "Bauska Municipality",
+    "names": {
+      "ja": "バウスカ市",
+      "ko": "바우스카시",
+      "id": "Munisipalitas Bauska",
+      "zh-Hans": "包斯卡市鎮"
+    }
+  },
+  {
+    "code": "022",
+    "name": "Cēsis Municipality",
+    "names": {
+      "ja": "ツェーシス市",
+      "ko": "체시스시",
+      "id": "Munisipalitas Cēsis",
+      "zh-Hans": "采西斯市鎮"
+    }
+  },
+  {
+    "code": "DGV",
+    "name": "Daugavpils",
+    "names": {
+      "ja": "ダウガフピルス",
+      "ko": "다우가프필스",
+      "vi": "Daugavpils",
+      "id": "Daugavpils",
+      "zh-Hans": "陶格夫匹尔斯",
+      "zh-Hant": "陶格夫匹爾斯"
+    }
+  },
+  {
+    "code": "026",
+    "name": "Dobele Municipality",
+    "names": {
+      "ja": "ドベレ市",
+      "ko": "도벨레시",
+      "id": "Munisipalitas Dobele",
+      "zh-Hans": "多貝萊市鎮",
+      "zh-Hant": "多貝萊市鎮"
+    }
+  },
+  {
+    "code": "033",
+    "name": "Gulbene Municipality",
+    "names": {
+      "ja": "グルベネ",
+      "ko": "굴베네시",
+      "vi": "Đô thị tự trị Gulbene",
+      "id": "Kotamadya Gulbene",
+      "zh-Hans": "古爾貝內市鎮",
+      "zh-Hant": "古爾貝內市鎮"
+    }
+  },
+  {
+    "code": "042",
+    "name": "Jēkabpils Municipality",
+    "names": {
+      "ja": "イェーカブピルス市",
+      "ko": "예캅필스시",
+      "id": "Munisipalitas Jēkabpils",
+      "zh-Hans": "葉卡布皮爾斯市鎮",
+      "zh-Hant": "葉卡布皮爾斯市鎮"
+    }
+  },
+  {
+    "code": "JEL",
+    "name": "Jelgava",
+    "names": {
+      "ja": "イェルガヴァ",
+      "ko": "옐가바",
+      "vi": "Jelgava",
+      "id": "Jelgava",
+      "zh-Hans": "叶尔加瓦",
+      "zh-Hant": "葉爾加瓦"
+    }
+  },
+  {
+    "code": "041",
+    "name": "Jelgava Municipality",
+    "names": {
+      "ja": "イェルガヴァ市",
+      "ko": "옐가바시",
+      "id": "Munisipalitas Jelgava",
+      "zh-Hans": "葉爾加瓦市鎮",
+      "zh-Hant": "葉爾加瓦市鎮"
+    }
+  },
+  {
+    "code": "JUR",
+    "name": "Jūrmala",
+    "names": {
+      "ja": "ユールマラ",
+      "ko": "유르말라",
+      "vi": "Jūrmala",
+      "id": "Jūrmala",
+      "zh-Hans": "尤尔马拉",
+      "zh-Hant": "尤爾馬拉"
+    }
+  },
+  {
+    "code": "052",
+    "name": "Ķekava Municipality",
+    "names": {
+      "ja": "キェッカヴァ市",
+      "ko": "체카바시",
+      "id": "Munisipalitas Ķekava",
+      "zh-Hans": "基耶卡瓦市镇"
+    }
+  },
+  {
+    "code": "047",
+    "name": "Krāslava Municipality",
+    "names": {
+      "ja": "クラースラヴァ市",
+      "ko": "크라슬라바시",
+      "id": "Munisipalitas Krāslava",
+      "zh-Hans": "克拉斯拉瓦市鎮"
+    }
+  },
+  {
+    "code": "050",
+    "name": "Kuldīga Municipality",
+    "names": {
+      "ja": "クルディーガ市",
+      "ko": "쿨디가시",
+      "id": "Munisipalitas Kuldīga",
+      "zh-Hans": "庫爾迪加市鎮"
+    }
+  },
+  {
+    "code": "LPX",
+    "name": "Liepāja",
+    "names": {
+      "ja": "リエパーヤ",
+      "ko": "리예파야",
+      "vi": "Liepāja",
+      "id": "Liepāja",
+      "zh-Hans": "利耶帕亚",
+      "zh-Hant": "利耶帕亞"
+    }
+  },
+  {
+    "code": "054",
+    "name": "Limbaži Municipality",
+    "names": {
+      "ja": "リンバジ市",
+      "ko": "림바지시",
+      "id": "Munisipalitas Limbaži",
+      "zh-Hans": "林巴日市鎮"
+    }
+  },
+  {
+    "code": "056",
+    "name": "Līvāni Municipality",
+    "names": {
+      "ja": "リーヴァーニ",
+      "ko": "리바니시",
+      "vi": "Đô thị tự trị Livani",
+      "id": "Kotamadya Līvāni",
+      "zh-Hans": "利瓦尼市鎮"
+    }
+  },
+  {
+    "code": "058",
+    "name": "Ludza Municipality",
+    "names": {
+      "ja": "ルッザ市",
+      "ko": "루자시",
+      "id": "Munisipalitas Ludza",
+      "zh-Hans": "盧扎市鎮"
+    }
+  },
+  {
+    "code": "059",
+    "name": "Madona Municipality",
+    "names": {
+      "ja": "マドナ市",
+      "ko": "마도나시",
+      "id": "Munisipalitas Madona",
+      "zh-Hans": "馬多納市鎮",
+      "zh-Hant": "馬多納市鎮"
+    }
+  },
+  {
+    "code": "062",
+    "name": "Mārupe Municipality",
+    "names": {
+      "zh-Hans": "马鲁佩市镇"
+    }
+  },
+  {
+    "code": "067",
+    "name": "Ogre Municipality",
+    "names": {
+      "ja": "オグレ市",
+      "ko": "오그레시",
+      "id": "Munisipalitas Ogre",
+      "zh-Hans": "奧格雷市鎮"
+    }
+  },
+  {
+    "code": "068",
+    "name": "Olaine Municipality",
+    "names": {
+      "ja": "ウアライネ",
+      "ko": "올라이네시",
+      "vi": "Đô thị tự trị Olaine",
+      "id": "Kotamadya Olaine",
+      "zh-Hans": "奧萊內市鎮"
+    }
+  },
+  {
+    "code": "073",
+    "name": "Preiļi Municipality",
+    "names": {
+      "ja": "プレイリ市",
+      "ko": "프레일리시",
+      "id": "Munisipalitas Preiļi",
+      "zh-Hans": "普雷利市鎮"
+    }
+  },
+  {
+    "code": "REZ",
+    "name": "Rēzekne",
+    "names": {
+      "ja": "レーゼクネ",
+      "ko": "레제크네",
+      "vi": "Rezekne",
+      "id": "Rēzekne",
+      "zh-Hans": "雷泽克内",
+      "zh-Hant": "雷澤克內"
+    }
+  },
+  {
+    "code": "077",
+    "name": "Rēzekne Municipality",
+    "names": {
+      "ja": "レーゼクネ市",
+      "ko": "레제크네시",
+      "id": "Munisipalitas Rēzekne",
+      "zh-Hans": "雷澤克內市鎮"
+    }
+  },
+  {
+    "code": "RIX",
+    "name": "Riga",
+    "names": {
+      "ja": "リガ",
+      "ko": "리가",
+      "vi": "Riga",
+      "id": "Riga",
+      "zh-Hans": "里加",
+      "zh-Hant": "里加"
+    }
+  },
+  {
+    "code": "080",
+    "name": "Ropaži Municipality",
+    "names": {
+      "zh-Hans": "罗帕日市镇"
+    }
+  },
+  {
+    "code": "087",
+    "name": "Salaspils Municipality",
+    "names": {
+      "ja": "サラスピルス",
+      "ko": "살라스필스시",
+      "vi": "Đô thị tự trị Salaspils",
+      "id": "Kotamadya Salaspils",
+      "zh-Hans": "薩拉斯皮爾斯市鎮"
+    }
+  },
+  {
+    "code": "088",
+    "name": "Saldus Municipality",
+    "names": {
+      "ja": "サルドゥス市",
+      "ko": "살두스시",
+      "id": "Munisipalitas Saldus",
+      "zh-Hans": "薩爾杜斯市鎮"
+    }
+  },
+  {
+    "code": "089",
+    "name": "Saulkrasti Municipality",
+    "names": {
+      "ja": "サウルクラスティ市",
+      "ko": "사울크라스티시",
+      "id": "Munisipalitas Saulkrasti",
+      "zh-Hans": "紹爾克拉斯蒂市鎮"
+    }
+  },
+  {
+    "code": "091",
+    "name": "Sigulda Municipality",
+    "names": {
+      "ja": "スィグルダ市",
+      "ko": "시굴다시",
+      "id": "Munisipalitas Sigulda",
+      "zh-Hans": "錫古爾達市鎮",
+      "zh-Hant": "錫古爾達市鎮"
+    }
+  },
+  {
+    "code": "094",
+    "name": "Smiltene Municipality",
+    "names": {
+      "ja": "スミルテネ市",
+      "ko": "스밀테네시",
+      "id": "Munisipalitas Smiltene",
+      "zh-Hans": "斯米爾泰內市鎮"
+    }
+  },
+  {
+    "code": "112",
+    "name": "South Kurzeme Municipality",
+    "names": {
+      "ja": "南クルゼメ市",
+      "id": "Munisipalitas Kurzeme Selatan",
+      "zh-Hans": "南库尔泽梅市镇"
+    }
+  },
+  {
+    "code": "097",
+    "name": "Talsi Municipality",
+    "names": {
+      "ja": "タルスィ市",
+      "ko": "탈시시",
+      "id": "Munisipalitas Talsi",
+      "zh-Hans": "塔爾西市鎮",
+      "zh-Hant": "塔爾西市鎮"
+    }
+  },
+  {
+    "code": "099",
+    "name": "Tukums Municipality",
+    "names": {
+      "ja": "トゥクムス市",
+      "ko": "투쿰스시",
+      "id": "Munisipalitas Tukums",
+      "zh-Hans": "圖庫姆斯市鎮"
+    }
+  },
+  {
+    "code": "101",
+    "name": "Valka Municipality",
+    "names": {
+      "ja": "ヴァルカ",
+      "ko": "발카시",
+      "vi": "Đô thị tự trị Valka",
+      "id": "Kotamadya Valka",
+      "zh-Hans": "瓦爾卡市鎮"
+    }
+  },
+  {
+    "code": "113",
+    "name": "Valmiera Municipality",
+    "names": {
+      "ja": "ヴァルミエラ市",
+      "id": "Munisipalitas Valmiera",
+      "zh-Hans": "瓦尔米耶拉市镇"
+    }
+  },
+  {
+    "code": "VEN",
+    "name": "Ventspils",
+    "names": {
+      "ja": "ヴェンツピルス",
+      "ko": "벤츠필스",
+      "vi": "Ventspils",
+      "id": "Ventspils",
+      "zh-Hans": "文茨皮尔斯",
+      "zh-Hant": "文茨皮爾斯"
+    }
+  },
+  {
+    "code": "106",
+    "name": "Ventspils Municipality",
+    "names": {
+      "ja": "ヴェンツピルス",
+      "ko": "벤츠필스시",
+      "vi": "Đô thị tự trị Ventspils",
+      "id": "Kotamadya Ventspils",
+      "zh-Hans": "文茨皮爾斯市鎮"
+    }
+  }
+]

@@ -1,0 +1,264 @@
+[
+  {
+    "code": "073",
+    "name": "Arkhangai Province",
+    "names": {
+      "ja": "アルハンガイ県",
+      "ko": "아르항가이도",
+      "vi": "Arkhangai",
+      "id": "Provinsi Arkhangai",
+      "zh-Hans": "后杭爱省",
+      "zh-Hant": "後杭愛省"
+    }
+  },
+  {
+    "code": "071",
+    "name": "Bayan-Ölgii Province",
+    "names": {
+      "ja": "バヤン・ウルギー県",
+      "ko": "바잉울기도",
+      "vi": "Bayan-Ölgii",
+      "id": "Provinsi Bayan-Ölgii",
+      "zh-Hans": "巴彦乌列盖省",
+      "zh-Hant": "巴彥烏列蓋省"
+    }
+  },
+  {
+    "code": "069",
+    "name": "Bayankhongor Province",
+    "names": {
+      "ja": "バヤンホンゴル県",
+      "ko": "바잉헝거르도",
+      "vi": "Bayankhongor",
+      "id": "Provinsi Bayankhongor",
+      "zh-Hans": "巴彦洪戈尔省",
+      "zh-Hant": "巴彥洪戈爾省"
+    }
+  },
+  {
+    "code": "067",
+    "name": "Bulgan Province",
+    "names": {
+      "ja": "ボルガン県",
+      "ko": "볼강도",
+      "vi": "Bulgan",
+      "id": "Provinsi Bulgan",
+      "zh-Hans": "布尔干省",
+      "zh-Hant": "布爾干省"
+    }
+  },
+  {
+    "code": "037",
+    "name": "Darkhan-Uul Province",
+    "names": {
+      "ja": "ダルハン・オール県",
+      "ko": "다르항올도",
+      "vi": "Darkhan-Uul",
+      "id": "Provinsi Darkhan-Uul",
+      "zh-Hans": "达尔汗乌勒省"
+    }
+  },
+  {
+    "code": "061",
+    "name": "Dornod Province",
+    "names": {
+      "ja": "ドルノド県",
+      "ko": "더르너드도",
+      "vi": "Dornod",
+      "id": "Provinsi Dornod",
+      "zh-Hans": "东方省",
+      "zh-Hant": "東方省"
+    }
+  },
+  {
+    "code": "063",
+    "name": "Dornogovi Province",
+    "names": {
+      "ja": "ドルノゴビ県",
+      "ko": "더르너고비도",
+      "vi": "Dornogovi",
+      "id": "Provinsi Dornogovi",
+      "zh-Hans": "东戈壁省",
+      "zh-Hant": "東戈壁省"
+    }
+  },
+  {
+    "code": "059",
+    "name": "Dundgovi Province",
+    "names": {
+      "ja": "ドンドゴビ県",
+      "ko": "동드고비도",
+      "vi": "Dundgovi",
+      "id": "Provinsi Dundgovi",
+      "zh-Hans": "中戈壁省",
+      "zh-Hant": "中戈壁省"
+    }
+  },
+  {
+    "code": "065",
+    "name": "Govi-Altai Province",
+    "names": {
+      "ja": "ゴビ・アルタイ県",
+      "ko": "고비알타이도",
+      "vi": "Govi-Altai",
+      "id": "Provinsi Govi-Altai",
+      "zh-Hans": "戈壁阿尔泰省",
+      "zh-Hant": "戈壁阿爾泰省"
+    }
+  },
+  {
+    "code": "064",
+    "name": "Govisümber Province",
+    "names": {
+      "ja": "ゴビスンベル県",
+      "ko": "고비숨베르도",
+      "vi": "Govisümber",
+      "id": "Provinsi Govisümber",
+      "zh-Hans": "戈壁苏木贝尔省",
+      "zh-Hant": "戈壁蘇木貝爾省"
+    }
+  },
+  {
+    "code": "039",
+    "name": "Khentii Province",
+    "names": {
+      "ja": "ヘンティー県",
+      "ko": "헹티도",
+      "vi": "Khentii",
+      "id": "Provinsi Khentii",
+      "zh-Hans": "肯特省",
+      "zh-Hant": "肯特省"
+    }
+  },
+  {
+    "code": "043",
+    "name": "Khovd Province",
+    "names": {
+      "ja": "ホブド県",
+      "ko": "허브드도",
+      "vi": "Khovd",
+      "id": "Provinsi Khovd",
+      "zh-Hans": "科布多省",
+      "zh-Hant": "科布多省"
+    }
+  },
+  {
+    "code": "041",
+    "name": "Khövsgöl Province",
+    "names": {
+      "ja": "フブスグル県",
+      "ko": "후브스굴도",
+      "vi": "Tỉnh Khovsgol",
+      "id": "Provinsi Khövsgöl",
+      "zh-Hans": "库苏古尔省",
+      "zh-Hant": "庫蘇古爾省"
+    }
+  },
+  {
+    "code": "035",
+    "name": "Orkhon Province",
+    "names": {
+      "ja": "オルホン県",
+      "ko": "오르홍도",
+      "vi": "Orkhon",
+      "id": "Provinsi Orkhon",
+      "zh-Hans": "鄂尔浑省",
+      "zh-Hant": "鄂爾渾省"
+    }
+  },
+  {
+    "code": "055",
+    "name": "Övörkhangai Province",
+    "names": {
+      "ja": "ウブルハンガイ県",
+      "ko": "우부르항가이도",
+      "vi": "Övörkhangai",
+      "id": "Provinsi Övörkhangai",
+      "zh-Hans": "前杭爱省",
+      "zh-Hant": "前杭愛省"
+    }
+  },
+  {
+    "code": "053",
+    "name": "Province of Umnugobi",
+    "names": {
+      "ja": "ウムヌゴビ県",
+      "ko": "우므느고비도",
+      "vi": "Ömnögovi",
+      "id": "Provinsi Ömnögovi",
+      "zh-Hans": "南戈壁省",
+      "zh-Hant": "南戈壁省"
+    }
+  },
+  {
+    "code": "049",
+    "name": "Selenge Province",
+    "names": {
+      "ja": "セレンゲ県",
+      "ko": "셀렝게도",
+      "vi": "Selenge",
+      "id": "Provinsi Selenge",
+      "zh-Hans": "色楞格省",
+      "zh-Hant": "色楞格省"
+    }
+  },
+  {
+    "code": "051",
+    "name": "Sükhbaatar Province",
+    "names": {
+      "ja": "スフバートル県",
+      "ko": "수흐바타르도",
+      "vi": "Sükhbaatar",
+      "id": "Provinsi Sükhbaatar",
+      "zh-Hans": "苏赫巴托尔省",
+      "zh-Hant": "蘇赫巴托爾省"
+    }
+  },
+  {
+    "code": "047",
+    "name": "Töv Province",
+    "names": {
+      "ja": "トゥブ県",
+      "ko": "투브도",
+      "vi": "Töv",
+      "id": "Provinsi Töv",
+      "zh-Hans": "中央省",
+      "zh-Hant": "中央省"
+    }
+  },
+  {
+    "code": "001",
+    "name": "Ulaanbaatar",
+    "names": {
+      "ja": "ウランバートル",
+      "ko": "울란바타르",
+      "vi": "Ulaanbaatar",
+      "id": "Ulaanbaatar",
+      "zh-Hans": "乌兰巴托",
+      "zh-Hant": "烏蘭巴托"
+    }
+  },
+  {
+    "code": "046",
+    "name": "Uvs Province",
+    "names": {
+      "ja": "オブス県",
+      "ko": "오브스도",
+      "vi": "Uvs",
+      "id": "Provinsi Uvs",
+      "zh-Hans": "乌布苏省",
+      "zh-Hant": "烏布蘇省"
+    }
+  },
+  {
+    "code": "057",
+    "name": "Zavkhan Province",
+    "names": {
+      "ja": "ザブハン県",
+      "ko": "자브항도",
+      "vi": "Zavkhan (tỉnh)",
+      "id": "Provinsi Zavkhan",
+      "zh-Hans": "扎布汗省"
+    }
+  }
+]

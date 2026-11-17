@@ -1,0 +1,438 @@
+[
+  {
+    "code": "AB",
+    "name": "Abia State",
+    "names": {
+      "ja": "アビア州",
+      "ko": "아비아주",
+      "vi": "Bang Abia",
+      "id": "Abia",
+      "zh-Hans": "阿比亚州",
+      "zh-Hant": "阿比亞州"
+    }
+  },
+  {
+    "code": "AD",
+    "name": "Adamawa State",
+    "names": {
+      "ja": "アダマワ州",
+      "ko": "아다마와주",
+      "vi": "Bang Adamawa",
+      "id": "Adamawa",
+      "zh-Hans": "阿达马瓦",
+      "zh-Hant": "阿達馬瓦"
+    }
+  },
+  {
+    "code": "AK",
+    "name": "Akwa Ibom State",
+    "names": {
+      "ja": "アクワ・イボム州",
+      "ko": "아콰이봄주",
+      "vi": "Bang Akwa Ibom",
+      "id": "Akwa Ibom",
+      "zh-Hans": "阿夸伊博姆州",
+      "zh-Hant": "阿夸伊博姆州"
+    }
+  },
+  {
+    "code": "AN",
+    "name": "Anambra State",
+    "names": {
+      "ja": "アナンブラ州",
+      "ko": "아남브라주",
+      "vi": "Bang Anambra",
+      "id": "Anambra",
+      "zh-Hans": "阿南布拉州",
+      "zh-Hant": "阿南布拉州"
+    }
+  },
+  {
+    "code": "BA",
+    "name": "Bauchi State",
+    "names": {
+      "ja": "バウチ州",
+      "ko": "바우치주",
+      "vi": "Bang Bauchi",
+      "id": "Bauchi",
+      "zh-Hans": "包奇州",
+      "zh-Hant": "包奇州"
+    }
+  },
+  {
+    "code": "BY",
+    "name": "Bayelsa State",
+    "names": {
+      "ja": "バイエルサ州",
+      "ko": "바이엘사주",
+      "vi": "Bang Bayelsa",
+      "id": "Bayelsa",
+      "zh-Hans": "巴耶尔萨州"
+    }
+  },
+  {
+    "code": "BE",
+    "name": "Benue State",
+    "names": {
+      "ja": "ベヌエ州",
+      "ko": "베누에주",
+      "vi": "Bang Benue",
+      "id": "Benue",
+      "zh-Hans": "贝努埃州"
+    }
+  },
+  {
+    "code": "BO",
+    "name": "Borno State",
+    "names": {
+      "ja": "ボルノ州",
+      "ko": "보르노주",
+      "vi": "Borno",
+      "id": "Borno",
+      "zh-Hans": "博尔诺州",
+      "zh-Hant": "博爾諾州"
+    }
+  },
+  {
+    "code": "CR",
+    "name": "Cross River State",
+    "names": {
+      "ja": "クロスリバー州",
+      "ko": "크로스리버주",
+      "vi": "Bang Cross River",
+      "id": "Cross River",
+      "zh-Hans": "克罗斯河州",
+      "zh-Hant": "克羅斯河州"
+    }
+  },
+  {
+    "code": "DE",
+    "name": "Delta State",
+    "names": {
+      "ja": "デルタ州",
+      "ko": "델타주",
+      "vi": "Bang Delta",
+      "id": "Delta",
+      "zh-Hans": "三角洲州",
+      "zh-Hant": "三角洲州"
+    }
+  },
+  {
+    "code": "EB",
+    "name": "Ebonyi State",
+    "names": {
+      "ja": "エボニ州",
+      "ko": "에보니주",
+      "vi": "Bang Ebonyi",
+      "id": "Ebonyi",
+      "zh-Hans": "埃邦伊州",
+      "zh-Hant": "埃邦伊州"
+    }
+  },
+  {
+    "code": "ED",
+    "name": "Edo State",
+    "names": {
+      "ja": "エド州",
+      "ko": "에도주",
+      "vi": "Bang Edo",
+      "id": "Edo",
+      "zh-Hans": "埃多州",
+      "zh-Hant": "埃多州"
+    }
+  },
+  {
+    "code": "EK",
+    "name": "Ekiti State",
+    "names": {
+      "ja": "エキティ州",
+      "ko": "에키티주",
+      "vi": "Bang Ekiti",
+      "id": "Ekiti",
+      "zh-Hans": "埃基蒂州",
+      "zh-Hant": "埃基蒂州"
+    }
+  },
+  {
+    "code": "EN",
+    "name": "Enugu State",
+    "names": {
+      "ja": "エヌグ州",
+      "ko": "에누구주",
+      "vi": "Bang Enugu",
+      "id": "Enugu",
+      "zh-Hans": "埃努古州",
+      "zh-Hant": "埃努古州"
+    }
+  },
+  {
+    "code": "FC",
+    "name": "Federal Capital Territory",
+    "names": {
+      "ja": "連邦首都地区",
+      "ko": "연방 수도 지구",
+      "vi": "Lãnh thổ Thủ đô liên bang",
+      "id": "Wilayah Ibu Kota Federal",
+      "zh-Hans": "联邦首都特区"
+    }
+  },
+  {
+    "code": "GO",
+    "name": "Gombe State",
+    "names": {
+      "ja": "ゴンベ州",
+      "ko": "곰베주",
+      "vi": "Bang Gombe",
+      "id": "Gombe",
+      "zh-Hans": "贡贝州",
+      "zh-Hant": "貢貝州"
+    }
+  },
+  {
+    "code": "IM",
+    "name": "Imo State",
+    "names": {
+      "ja": "イモ州",
+      "ko": "이모주",
+      "vi": "Bang Imo",
+      "id": "Imo",
+      "zh-Hans": "伊莫州",
+      "zh-Hant": "伊莫州"
+    }
+  },
+  {
+    "code": "JI",
+    "name": "Jigawa State",
+    "names": {
+      "ja": "ジガワ州",
+      "ko": "지가와주",
+      "vi": "Bang Jigawa",
+      "id": "Jigawa",
+      "zh-Hans": "吉加瓦州",
+      "zh-Hant": "吉加瓦州"
+    }
+  },
+  {
+    "code": "KD",
+    "name": "Kaduna State",
+    "names": {
+      "ja": "カドゥナ州",
+      "ko": "카두나주",
+      "vi": "Bang Kaduna",
+      "id": "Kaduna",
+      "zh-Hans": "卡杜纳州",
+      "zh-Hant": "卡杜納州"
+    }
+  },
+  {
+    "code": "KN",
+    "name": "Kano State",
+    "names": {
+      "ja": "カノ州",
+      "ko": "카노주",
+      "vi": "Bang Kano",
+      "id": "Kano",
+      "zh-Hans": "卡诺州",
+      "zh-Hant": "卡諾州"
+    }
+  },
+  {
+    "code": "KT",
+    "name": "Katsina State",
+    "names": {
+      "ja": "カツィナ州",
+      "ko": "카치나주",
+      "vi": "Bang Katsina",
+      "id": "Katsina",
+      "zh-Hans": "卡齐纳州"
+    }
+  },
+  {
+    "code": "KE",
+    "name": "Kebbi State",
+    "names": {
+      "ja": "ケビ州",
+      "ko": "케비주",
+      "vi": "Bang Kebbi",
+      "id": "Kebbi",
+      "zh-Hans": "凯比州",
+      "zh-Hant": "凱比州"
+    }
+  },
+  {
+    "code": "KO",
+    "name": "Kogi State",
+    "names": {
+      "ja": "コギ州",
+      "ko": "코기주",
+      "vi": "Bang Kogi",
+      "id": "Kogi",
+      "zh-Hans": "科吉州"
+    }
+  },
+  {
+    "code": "KW",
+    "name": "Kwara State",
+    "names": {
+      "ja": "クワラ州",
+      "ko": "콰라주",
+      "vi": "Bang Kwara",
+      "id": "Kwara",
+      "zh-Hans": "夸拉州",
+      "zh-Hant": "誇拉州"
+    }
+  },
+  {
+    "code": "LA",
+    "name": "Lagos State",
+    "names": {
+      "ja": "ラゴス州",
+      "ko": "라고스주",
+      "id": "Lagos",
+      "zh-Hans": "拉各斯州",
+      "zh-Hant": "拉各斯州"
+    }
+  },
+  {
+    "code": "NA",
+    "name": "Nasarawa State",
+    "names": {
+      "ja": "ナサラワ州",
+      "ko": "나사라와주",
+      "vi": "Bang Nasarawa",
+      "id": "Nassarawa",
+      "zh-Hans": "纳萨拉瓦州",
+      "zh-Hant": "納薩拉瓦州"
+    }
+  },
+  {
+    "code": "NI",
+    "name": "Niger State",
+    "names": {
+      "ja": "ナイジャ州",
+      "ko": "나이저주",
+      "vi": "Bang Niger",
+      "id": "Niger",
+      "zh-Hans": "尼日尔州",
+      "zh-Hant": "尼日爾州"
+    }
+  },
+  {
+    "code": "OG",
+    "name": "Ogun State",
+    "names": {
+      "ja": "オグン州",
+      "ko": "오군주",
+      "vi": "Bang Ogun",
+      "id": "Ogun",
+      "zh-Hans": "奥贡州",
+      "zh-Hant": "奧貢州"
+    }
+  },
+  {
+    "code": "ON",
+    "name": "Ondo State",
+    "names": {
+      "ja": "オンド州",
+      "ko": "온도주",
+      "vi": "Bang Ondo",
+      "id": "Ondo",
+      "zh-Hans": "翁多州",
+      "zh-Hant": "翁多州"
+    }
+  },
+  {
+    "code": "OS",
+    "name": "Osun State",
+    "names": {
+      "ja": "オスン州",
+      "ko": "오순주",
+      "vi": "Bang Osun",
+      "id": "Osun",
+      "zh-Hans": "奥孙州",
+      "zh-Hant": "奧孫州"
+    }
+  },
+  {
+    "code": "OY",
+    "name": "Oyo State",
+    "names": {
+      "ja": "オヨ州",
+      "ko": "오요주",
+      "id": "Oyo",
+      "zh-Hans": "奥约州",
+      "zh-Hant": "奧約州"
+    }
+  },
+  {
+    "code": "PL",
+    "name": "Plateau State",
+    "names": {
+      "ja": "プラトー州",
+      "ko": "플래토주",
+      "vi": "Bang Plateau",
+      "id": "Plateau",
+      "zh-Hans": "高原州",
+      "zh-Hant": "高原州"
+    }
+  },
+  {
+    "code": "RI",
+    "name": "Rivers State",
+    "names": {
+      "ja": "リバーズ州",
+      "ko": "리버스주",
+      "vi": "Bang Rivers",
+      "id": "Rivers",
+      "zh-Hans": "河流州",
+      "zh-Hant": "河流州"
+    }
+  },
+  {
+    "code": "SO",
+    "name": "Sokoto State",
+    "names": {
+      "ja": "ソコト州",
+      "ko": "소코토주",
+      "vi": "Bang Sokoto",
+      "id": "Sokoto",
+      "zh-Hans": "索科托州",
+      "zh-Hant": "索科托州"
+    }
+  },
+  {
+    "code": "TA",
+    "name": "Taraba State",
+    "names": {
+      "ja": "タラバ州",
+      "ko": "타라바주",
+      "vi": "Taraba",
+      "id": "Taraba",
+      "zh-Hans": "塔拉巴州",
+      "zh-Hant": "塔拉巴州"
+    }
+  },
+  {
+    "code": "YO",
+    "name": "Yobe State",
+    "names": {
+      "ja": "ヨベ州",
+      "ko": "요베주",
+      "vi": "Bang Yobe",
+      "id": "Yobe",
+      "zh-Hans": "约贝州",
+      "zh-Hant": "約貝州"
+    }
+  },
+  {
+    "code": "ZA",
+    "name": "Zamfara State",
+    "names": {
+      "ja": "ザムファラ州",
+      "ko": "잠파라주",
+      "vi": "Bang Zamfara",
+      "id": "Zamfara",
+      "zh-Hans": "扎姆法拉州"
+    }
+  }
+]

@@ -1,0 +1,214 @@
+[
+  {
+    "code": "AT",
+    "name": "Atlántida Department",
+    "names": {
+      "ja": "アトランティダ県",
+      "ko": "아틀란티다주",
+      "vi": "Atlántida",
+      "id": "Departemen Atlántida",
+      "zh-Hans": "阿特兰蒂达省",
+      "zh-Hant": "阿特蘭蒂達省"
+    }
+  },
+  {
+    "code": "IB",
+    "name": "Bay Islands Department",
+    "names": {
+      "ja": "イスラス・デ・ラ・バイア県",
+      "ko": "이슬라스데라바이아주",
+      "vi": "Islas de la Bahía",
+      "id": "Islas de la Bahía",
+      "zh-Hans": "海湾群岛省",
+      "zh-Hant": "海灣群島省"
+    }
+  },
+  {
+    "code": "CH",
+    "name": "Choluteca Department",
+    "names": {
+      "ja": "チョルテカ県",
+      "ko": "촐루테카주",
+      "vi": "Choluteca",
+      "id": "Departemen Choluteca",
+      "zh-Hans": "乔卢特卡省",
+      "zh-Hant": "喬盧特卡省"
+    }
+  },
+  {
+    "code": "CL",
+    "name": "Colón Department",
+    "names": {
+      "ja": "コロン県",
+      "ko": "콜론주",
+      "vi": "Colón",
+      "id": "Departemen Colón",
+      "zh-Hans": "科隆省",
+      "zh-Hant": "科隆省"
+    }
+  },
+  {
+    "code": "CM",
+    "name": "Comayagua Department",
+    "names": {
+      "ja": "コマヤグア県",
+      "ko": "코마야과주",
+      "vi": "Comayagua",
+      "id": "Departemen Comayagua",
+      "zh-Hans": "科马亚瓜省",
+      "zh-Hant": "科馬亞瓜省"
+    }
+  },
+  {
+    "code": "CP",
+    "name": "Copán Department",
+    "names": {
+      "ja": "コパン県",
+      "ko": "코판주",
+      "vi": "Copán",
+      "id": "Departemen Copán",
+      "zh-Hans": "科潘省",
+      "zh-Hant": "科潘省"
+    }
+  },
+  {
+    "code": "CR",
+    "name": "Cortés Department",
+    "names": {
+      "ja": "コルテス県",
+      "ko": "코르테스주",
+      "vi": "Cortés",
+      "id": "Departemen Cortés",
+      "zh-Hans": "科尔特斯省"
+    }
+  },
+  {
+    "code": "EP",
+    "name": "El Paraíso Department",
+    "names": {
+      "ja": "エル・パライソ県",
+      "ko": "엘파라이소주",
+      "vi": "El Paraíso",
+      "id": "Departemen El Paraíso",
+      "zh-Hans": "埃尔帕拉伊索省",
+      "zh-Hant": "埃爾帕拉伊索省"
+    }
+  },
+  {
+    "code": "FM",
+    "name": "Francisco Morazán Department",
+    "names": {
+      "ja": "フランシスコ・モラサン県",
+      "ko": "프란시스코모라산주",
+      "vi": "Francisco Morazán",
+      "id": "Departemen Francisco Morazán",
+      "zh-Hans": "弗朗西斯科·莫拉桑省",
+      "zh-Hant": "弗朗西斯科·莫拉桑省"
+    }
+  },
+  {
+    "code": "GD",
+    "name": "Gracias a Dios Department",
+    "names": {
+      "ja": "グラシアス・ア・ディオス県",
+      "ko": "그라시아스아디오스주",
+      "vi": "Gracias a Dios",
+      "id": "Departemen Gracias a Dios",
+      "zh-Hans": "格拉西亚斯-阿迪奥斯省",
+      "zh-Hant": "格拉西亞斯-阿迪奧斯省"
+    }
+  },
+  {
+    "code": "IN",
+    "name": "Intibucá Department",
+    "names": {
+      "ja": "インティブカ県",
+      "ko": "인티부카주",
+      "vi": "Intibucá",
+      "id": "Departemen Intibucá",
+      "zh-Hans": "因蒂布卡省"
+    }
+  },
+  {
+    "code": "LP",
+    "name": "La Paz Department",
+    "names": {
+      "ja": "ラパス県",
+      "ko": "라파스주",
+      "vi": "La Paz",
+      "id": "Departemen La Paz",
+      "zh-Hans": "拉巴斯省",
+      "zh-Hant": "拉巴斯省"
+    }
+  },
+  {
+    "code": "LE",
+    "name": "Lempira Department",
+    "names": {
+      "ja": "レンピーラ県",
+      "ko": "렘피라주",
+      "vi": "Lempira",
+      "id": "Departemen Lempira",
+      "zh-Hans": "伦皮拉省"
+    }
+  },
+  {
+    "code": "OC",
+    "name": "Ocotepeque Department",
+    "names": {
+      "ja": "オコテペケ県",
+      "ko": "오코테페케주",
+      "vi": "Ocotepeque",
+      "id": "Departemen Ocotepeque",
+      "zh-Hans": "奥科特佩克省",
+      "zh-Hant": "奧科特佩克省"
+    }
+  },
+  {
+    "code": "OL",
+    "name": "Olancho Department",
+    "names": {
+      "ja": "オランチョ県",
+      "ko": "올란초주",
+      "vi": "Olancho",
+      "id": "Departemen Olancho",
+      "zh-Hans": "奥兰乔省",
+      "zh-Hant": "奧蘭喬省"
+    }
+  },
+  {
+    "code": "SB",
+    "name": "Santa Bárbara Department",
+    "names": {
+      "ja": "サンタ・バルバラ県",
+      "ko": "산타바르바라주",
+      "vi": "Santa Bárbara",
+      "id": "Departemen Santa Bárbara",
+      "zh-Hans": "圣巴巴拉省"
+    }
+  },
+  {
+    "code": "VA",
+    "name": "Valle Department",
+    "names": {
+      "ja": "バジェ県",
+      "ko": "바예주",
+      "vi": "Valle",
+      "id": "Departemen Valle",
+      "zh-Hans": "山谷省",
+      "zh-Hant": "山谷省"
+    }
+  },
+  {
+    "code": "YO",
+    "name": "Yoro Department",
+    "names": {
+      "ja": "ヨロ県",
+      "ko": "요로주",
+      "vi": "Yoro",
+      "id": "Departemen Yoro",
+      "zh-Hans": "约罗省",
+      "zh-Hant": "約羅省"
+    }
+  }
+]

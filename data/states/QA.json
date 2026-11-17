@@ -1,0 +1,89 @@
+[
+  {
+    "code": "ZA",
+    "name": "Al Daayen",
+    "names": {
+      "ja": "アッ＝ザアーイン",
+      "ko": "알다옌",
+      "vi": "Al Daayen",
+      "id": "Al Daayen",
+      "zh-Hans": "宰阿因"
+    }
+  },
+  {
+    "code": "KH",
+    "name": "Al Khor",
+    "names": {
+      "ja": "アル＝ハウル",
+      "ko": "알코르",
+      "vi": "Al Khor",
+      "id": "Al Khor",
+      "zh-Hans": "艾科尔"
+    }
+  },
+  {
+    "code": "RA",
+    "name": "Al Rayyan Municipality",
+    "names": {
+      "ja": "ライヤーン",
+      "ko": "알라이얀",
+      "vi": "Al Rayyan",
+      "id": "Ar-Rayyan",
+      "zh-Hans": "赖扬"
+    }
+  },
+  {
+    "code": "MS",
+    "name": "Al Shamal",
+    "names": {
+      "ja": "アッ＝シャマール",
+      "ko": "아시샤말",
+      "vi": "Madinat ash Shamal",
+      "id": "Madinat ash-Shamal",
+      "zh-Hans": "北部区"
+    }
+  },
+  {
+    "code": "WA",
+    "name": "Al Wakrah",
+    "names": {
+      "ja": "アル＝ワクラ市",
+      "ko": "알와크라",
+      "vi": "Al Wakrah",
+      "id": "Al-Wakrah",
+      "zh-Hans": "沃克拉",
+      "zh-Hant": "沃克拉"
+    }
+  },
+  {
+    "code": "SH",
+    "name": "Al-Shahaniya",
+    "names": {
+      "ja": "シャハーニーヤ",
+      "zh-Hans": "沙哈尼亚"
+    }
+  },
+  {
+    "code": "DA",
+    "name": "Doha",
+    "names": {
+      "ja": "ドーハ",
+      "ko": "도하",
+      "vi": "Doha",
+      "id": "Doha",
+      "zh-Hans": "多哈",
+      "zh-Hant": "杜哈"
+    }
+  },
+  {
+    "code": "US",
+    "name": "Umm Salal Municipality",
+    "names": {
+      "ja": "ウンム・サラール",
+      "ko": "움살랄",
+      "vi": "Đô thị tự trị Umm Salal",
+      "id": "Kotamadya Umm Salal",
+      "zh-Hans": "烏姆錫拉勒"
+    }
+  }
+]

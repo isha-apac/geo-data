@@ -1,0 +1,186 @@
+[
+  {
+    "code": "30",
+    "name": "Greater Poland Voivodeship",
+    "names": {
+      "ja": "ヴィエルコポルスカ県",
+      "ko": "비엘코폴스카주",
+      "vi": "Wielkopolskie",
+      "id": "Provinsi Polandia Besar",
+      "zh-Hans": "大波兰省",
+      "zh-Hant": "大波蘭省"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Kuyavian-Pomeranian Voivodeship",
+    "names": {
+      "ja": "クヤヴィ＝ポモージェ県",
+      "ko": "쿠야비포모제주",
+      "vi": "Kujawsko-Pomorskie",
+      "id": "Provinsi Kuyavia-Pomerania",
+      "zh-Hans": "库亚维滨海省",
+      "zh-Hant": "庫亞維濱海省"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Lesser Poland Voivodeship",
+    "names": {
+      "ja": "マウォポルスカ県",
+      "ko": "마워폴스카주",
+      "vi": "Małopolskie",
+      "id": "Provinsi Polandia Kecil",
+      "zh-Hans": "小波兰省",
+      "zh-Hant": "小波蘭省"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Łódź Voivodeship",
+    "names": {
+      "ja": "ウッチ県",
+      "ko": "우치주",
+      "vi": "Łódzkie",
+      "id": "Provinsi Łódź",
+      "zh-Hans": "罗兹省"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Lower Silesian Voivodeship",
+    "names": {
+      "ja": "ドルヌィ・シロンスク県",
+      "ko": "돌니실롱스크주",
+      "vi": "Dolnośląskie",
+      "id": "Provinsi Silesia Hilir",
+      "zh-Hans": "下希隆斯克省"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Lublin Voivodeship",
+    "names": {
+      "ja": "ルブリン県",
+      "ko": "루블린주",
+      "vi": "Lubelskie",
+      "id": "Provinsi Lublin",
+      "zh-Hans": "卢布林省"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Lubusz Voivodeship",
+    "names": {
+      "ja": "ルブシュ県",
+      "ko": "루부시주",
+      "vi": "Lubuskie",
+      "id": "Provinsi Lubusz",
+      "zh-Hans": "卢布斯卡省",
+      "zh-Hant": "盧布斯卡省"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Masovian Voivodeship",
+    "names": {
+      "ja": "マゾフシェ県",
+      "ko": "마조프셰주",
+      "vi": "Mazowieckie",
+      "id": "Provinsi Mazovia",
+      "zh-Hans": "马佐夫舍省",
+      "zh-Hant": "馬佐夫舍省"
+    }
+  },
+  {
+    "code": "16",
+    "name": "Opole Voivodeship",
+    "names": {
+      "ja": "オポレ県",
+      "ko": "오폴레주",
+      "vi": "Opolskie",
+      "id": "Provinsi Opole",
+      "zh-Hans": "奥波莱省"
+    }
+  },
+  {
+    "code": "18",
+    "name": "Podkarpackie Voivodeship",
+    "names": {
+      "ja": "ポトカルパチェ県",
+      "ko": "포드카르파츠키에주",
+      "vi": "Podkarpackie",
+      "id": "Provinsi Subkarpatia",
+      "zh-Hans": "喀尔巴阡山麓省",
+      "zh-Hant": "喀爾巴阡山麓省"
+    }
+  },
+  {
+    "code": "20",
+    "name": "Podlaskie Voivodeship",
+    "names": {
+      "ja": "ポドラシェ県",
+      "ko": "포들라스키에주",
+      "vi": "Podlaskie",
+      "id": "Provinsi Podlasie",
+      "zh-Hans": "波德拉谢省"
+    }
+  },
+  {
+    "code": "22",
+    "name": "Pomeranian Voivodeship",
+    "names": {
+      "ja": "ポモージェ県",
+      "ko": "포모제주",
+      "vi": "Pomorskie",
+      "id": "Provinsi Pomerania",
+      "zh-Hans": "滨海省",
+      "zh-Hant": "濱海省"
+    }
+  },
+  {
+    "code": "24",
+    "name": "Silesian Voivodeship",
+    "names": {
+      "ja": "シロンスク県",
+      "ko": "실롱스크주",
+      "vi": "Śląskie",
+      "id": "Provinsi Silesia",
+      "zh-Hans": "希隆斯克省"
+    }
+  },
+  {
+    "code": "26",
+    "name": "Świętokrzyskie Voivodeship",
+    "names": {
+      "ja": "シフィェンティクシシュ県",
+      "ko": "시비엥토크시스키에주",
+      "vi": "Świętokrzyskie",
+      "id": "Provinsi Świętokrzyskie",
+      "zh-Hans": "圣十字省"
+    }
+  },
+  {
+    "code": "28",
+    "name": "Warmian-Masurian Voivodeship",
+    "names": {
+      "ja": "ヴァルミア＝マズールィ県",
+      "ko": "바르미아마주리주",
+      "vi": "Warmińsko-Mazurskie",
+      "id": "Provinsi Warmia-Mazuria",
+      "zh-Hans": "瓦尔米亚-马祖里省"
+    }
+  },
+  {
+    "code": "32",
+    "name": "West Pomeranian Voivodeship",
+    "names": {
+      "ja": "西ポモージェ県",
+      "ko": "서포모제주",
+      "vi": "Zachodniopomorskie",
+      "id": "Provinsi Pomerania Barat",
+      "zh-Hans": "西滨海省",
+      "zh-Hant": "西濱海省"
+    }
+  }
+]

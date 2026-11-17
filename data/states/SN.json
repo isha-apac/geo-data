@@ -1,0 +1,168 @@
+[
+  {
+    "code": "DK",
+    "name": "Dakar",
+    "names": {
+      "ja": "ダカール州",
+      "ko": "다카르주",
+      "vi": "Dakar",
+      "id": "Region Dakar",
+      "zh-Hans": "达喀尔区",
+      "zh-Hant": "達卡區"
+    }
+  },
+  {
+    "code": "DB",
+    "name": "Diourbel Region",
+    "names": {
+      "ja": "ジュルベル州",
+      "ko": "디우르벨주",
+      "vi": "Khu vực Diourbel",
+      "id": "Region Diourbel",
+      "zh-Hans": "久尔贝勒区",
+      "zh-Hant": "久爾貝勒區"
+    }
+  },
+  {
+    "code": "FK",
+    "name": "Fatick",
+    "names": {
+      "ja": "ファティック州",
+      "ko": "파티크주",
+      "vi": "Fatick",
+      "id": "Region Fatick",
+      "zh-Hans": "法蒂克区",
+      "zh-Hant": "法蒂克區"
+    }
+  },
+  {
+    "code": "KA",
+    "name": "Kaffrine",
+    "names": {
+      "ja": "カフリン州",
+      "ko": "카프린주",
+      "vi": "Kaffrine",
+      "id": "Kaffrine",
+      "zh-Hans": "卡夫林区",
+      "zh-Hant": "卡夫林區"
+    }
+  },
+  {
+    "code": "KL",
+    "name": "Kaolack",
+    "names": {
+      "ja": "カオラック州",
+      "ko": "카올라크주",
+      "vi": "Kaolack",
+      "id": "Region Kaolack",
+      "zh-Hans": "考拉克区",
+      "zh-Hant": "考拉克區"
+    }
+  },
+  {
+    "code": "KE",
+    "name": "Kedougou Region",
+    "names": {
+      "ja": "ケドゥグ州",
+      "ko": "케두구주",
+      "vi": "Kédougou",
+      "id": "Kédougou",
+      "zh-Hans": "凯杜古区",
+      "zh-Hant": "凱杜古區"
+    }
+  },
+  {
+    "code": "KD",
+    "name": "Kolda",
+    "names": {
+      "ja": "コルダ州",
+      "ko": "콜다주",
+      "vi": "Kolda",
+      "id": "Region Kolda",
+      "zh-Hans": "科尔达区",
+      "zh-Hant": "科爾達區"
+    }
+  },
+  {
+    "code": "LG",
+    "name": "Louga",
+    "names": {
+      "ja": "ルーガ州",
+      "ko": "루가주",
+      "vi": "Louga",
+      "id": "Region Louga",
+      "zh-Hans": "卢加区",
+      "zh-Hant": "盧加區"
+    }
+  },
+  {
+    "code": "MT",
+    "name": "Matam",
+    "names": {
+      "ja": "マタム州",
+      "ko": "마탐주",
+      "vi": "Matam",
+      "id": "Region Matam",
+      "zh-Hans": "马塔姆区",
+      "zh-Hant": "馬塔姆區"
+    }
+  },
+  {
+    "code": "SL",
+    "name": "Saint-Louis",
+    "names": {
+      "ja": "サンルイ州",
+      "ko": "생루이주",
+      "vi": "Saint-Louis",
+      "id": "Region Saint-Louis",
+      "zh-Hans": "圣路易区"
+    }
+  },
+  {
+    "code": "SE",
+    "name": "Sédhiou",
+    "names": {
+      "ja": "セディウ州",
+      "ko": "세디우주",
+      "vi": "Sédhiou",
+      "id": "Sédhiou",
+      "zh-Hans": "塞久区"
+    }
+  },
+  {
+    "code": "TC",
+    "name": "Tambacounda Region",
+    "names": {
+      "ja": "タンバクンダ州",
+      "ko": "탐바쿤다주",
+      "vi": "Khu vực Tambacounda",
+      "id": "Region Tambacounda",
+      "zh-Hans": "坦巴昆达区",
+      "zh-Hant": "坦巴昆達區"
+    }
+  },
+  {
+    "code": "TH",
+    "name": "Thiès Region",
+    "names": {
+      "ja": "ティエス州",
+      "ko": "티에스주",
+      "vi": "Thiès",
+      "id": "Region Thiès",
+      "zh-Hans": "捷斯区",
+      "zh-Hant": "捷斯區"
+    }
+  },
+  {
+    "code": "ZG",
+    "name": "Ziguinchor Region",
+    "names": {
+      "ja": "ジガンショール州",
+      "ko": "지긴쇼르주",
+      "vi": "Ziguinchor",
+      "id": "Region Ziguinchor",
+      "zh-Hans": "济金绍尔区",
+      "zh-Hant": "濟金紹爾區"
+    }
+  }
+]

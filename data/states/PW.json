@@ -1,0 +1,187 @@
+[
+  {
+    "code": "002",
+    "name": "Aimeliik",
+    "names": {
+      "ja": "アイメリーク州",
+      "ko": "아이멜리크주",
+      "vi": "Aimeliik",
+      "id": "Aimeliik",
+      "zh-Hans": "艾梅利克州"
+    }
+  },
+  {
+    "code": "004",
+    "name": "Airai",
+    "names": {
+      "ja": "アイライ州",
+      "ko": "아이라이주",
+      "vi": "Airai",
+      "id": "Airai",
+      "zh-Hans": "艾拉伊州"
+    }
+  },
+  {
+    "code": "010",
+    "name": "Angaur",
+    "names": {
+      "ja": "アンガウル州",
+      "ko": "앙가우르주",
+      "vi": "Angaur",
+      "id": "Pulau Angaur",
+      "zh-Hans": "安加尔州",
+      "zh-Hant": "安加爾州"
+    }
+  },
+  {
+    "code": "050",
+    "name": "Hatohobei",
+    "names": {
+      "ja": "ハトホベイ州",
+      "ko": "하토호베이주",
+      "vi": "Hatohobei",
+      "id": "Hatohobei",
+      "zh-Hans": "哈托博海伊州"
+    }
+  },
+  {
+    "code": "100",
+    "name": "Kayangel",
+    "names": {
+      "ja": "カヤンゲル州",
+      "ko": "카양겔주",
+      "vi": "Kayangel",
+      "id": "Kayangel",
+      "zh-Hans": "卡扬埃尔",
+      "zh-Hant": "卡揚埃爾"
+    }
+  },
+  {
+    "code": "150",
+    "name": "Koror",
+    "names": {
+      "ja": "コロール",
+      "ko": "코로르",
+      "vi": "Koror",
+      "id": "Koror",
+      "zh-Hans": "科罗尔州",
+      "zh-Hant": "科羅爾州"
+    }
+  },
+  {
+    "code": "212",
+    "name": "Melekeok",
+    "names": {
+      "ja": "マルキョク州",
+      "ko": "멜레케오크주",
+      "vi": "Melekeok",
+      "id": "Melekeok",
+      "zh-Hans": "梅莱凯奥克州"
+    }
+  },
+  {
+    "code": "214",
+    "name": "Ngaraard",
+    "names": {
+      "ja": "ガラルド州",
+      "ko": "가라르드주",
+      "vi": "Ngaraard",
+      "id": "Ngaraard",
+      "zh-Hans": "雅拉尔德州",
+      "zh-Hant": "雅拉爾德州"
+    }
+  },
+  {
+    "code": "218",
+    "name": "Ngarchelong",
+    "names": {
+      "ja": "アルコロン州",
+      "ko": "가르첼롱주",
+      "vi": "Ngarchelong",
+      "id": "Ngarchelong",
+      "zh-Hans": "雅切隆州",
+      "zh-Hant": "雅切隆州"
+    }
+  },
+  {
+    "code": "222",
+    "name": "Ngardmau",
+    "names": {
+      "ja": "ガラスマオ州",
+      "ko": "가르드마우주",
+      "vi": "Ngardmau",
+      "id": "Ngardmau",
+      "zh-Hans": "雅德马乌州",
+      "zh-Hant": "雅德馬烏州"
+    }
+  },
+  {
+    "code": "224",
+    "name": "Ngatpang",
+    "names": {
+      "ja": "ガスパン州",
+      "ko": "가트팡주",
+      "vi": "Ngatpang",
+      "id": "Ngatpang",
+      "zh-Hans": "雅庞"
+    }
+  },
+  {
+    "code": "226",
+    "name": "Ngchesar",
+    "names": {
+      "ja": "エサール州",
+      "ko": "체사르주",
+      "vi": "Ngchesar",
+      "id": "Ngchesar",
+      "zh-Hans": "恩切萨尔州",
+      "zh-Hant": "恩切薩爾州"
+    }
+  },
+  {
+    "code": "227",
+    "name": "Ngeremlengui",
+    "names": {
+      "ja": "アルモノグイ州",
+      "ko": "가렘렝구이주",
+      "vi": "Ngaremlengui",
+      "id": "Ngaremlengui",
+      "zh-Hans": "埃雷姆伦维州"
+    }
+  },
+  {
+    "code": "228",
+    "name": "Ngiwal",
+    "names": {
+      "ja": "オギワル州",
+      "ko": "기왈주",
+      "vi": "Ngiwal",
+      "id": "Ngiwal",
+      "zh-Hans": "宜瓦尔州"
+    }
+  },
+  {
+    "code": "350",
+    "name": "Peleliu",
+    "names": {
+      "ja": "ペリリュー州",
+      "ko": "펠렐리우주",
+      "vi": "Peleliu",
+      "id": "Peleliu",
+      "zh-Hans": "佩莱利乌州",
+      "zh-Hant": "貝里琉州"
+    }
+  },
+  {
+    "code": "370",
+    "name": "Sonsorol",
+    "names": {
+      "ja": "ソンソロール州",
+      "ko": "손소롤주",
+      "vi": "Sonsorol",
+      "id": "Sonsorol",
+      "zh-Hans": "松索罗尔",
+      "zh-Hant": "松索羅爾"
+    }
+  }
+]

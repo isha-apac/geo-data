@@ -1,0 +1,152 @@
+[
+  {
+    "code": "AA",
+    "name": "Addis Ababa",
+    "names": {
+      "ja": "アディスアベバ",
+      "ko": "아디스아바바",
+      "vi": "Addis Ababa",
+      "id": "Addis Ababa",
+      "zh-Hans": "亚的斯亚贝巴",
+      "zh-Hant": "阿迪斯阿貝巴"
+    }
+  },
+  {
+    "code": "AF",
+    "name": "Afar Region",
+    "names": {
+      "ja": "アファール州",
+      "ko": "아파르주",
+      "vi": "Afar (vùng)",
+      "id": "Region Afar",
+      "zh-Hans": "阿法尔州",
+      "zh-Hant": "阿法爾州"
+    }
+  },
+  {
+    "code": "AM",
+    "name": "Amhara Region",
+    "names": {
+      "ja": "アムハラ州",
+      "ko": "암하라주",
+      "vi": "Amhara (vùng)",
+      "id": "Region Amhara",
+      "zh-Hans": "阿姆哈拉州",
+      "zh-Hant": "阿姆哈拉州"
+    }
+  },
+  {
+    "code": "BE",
+    "name": "Benishangul-Gumuz Region",
+    "names": {
+      "ja": "ベニシャングル・グムズ州",
+      "ko": "베니샹굴구무즈주",
+      "vi": "Benishangul-Gumuz",
+      "id": "Region Benishangul-Gumaz",
+      "zh-Hans": "本尚古勒-古马兹州",
+      "zh-Hant": "本尚古勒-古馬茲州"
+    }
+  },
+  {
+    "code": "55",
+    "name": "Central Ethiopia",
+    "names": {}
+  },
+  {
+    "code": "DD",
+    "name": "Dire Dawa",
+    "names": {
+      "ja": "ディレ・ダワ",
+      "ko": "디레다와",
+      "vi": "Dire Dawa",
+      "id": "Dire Dawa",
+      "zh-Hans": "德雷达瓦",
+      "zh-Hant": "德雷達瓦"
+    }
+  },
+  {
+    "code": "GA",
+    "name": "Gambela Region",
+    "names": {
+      "ja": "ガンベラ州",
+      "ko": "감벨라주",
+      "vi": "Gambela",
+      "id": "Region Gambela",
+      "zh-Hans": "甘贝拉州",
+      "zh-Hant": "甘貝拉州"
+    }
+  },
+  {
+    "code": "HA",
+    "name": "Harari Region",
+    "names": {
+      "ja": "ハラリ州",
+      "ko": "하라리주",
+      "vi": "Harari (vùng)",
+      "id": "Region Harari",
+      "zh-Hans": "哈勒尔州"
+    }
+  },
+  {
+    "code": "OR",
+    "name": "Oromia Region",
+    "names": {
+      "ja": "オロミア州",
+      "ko": "오로미아주",
+      "vi": "Oromia",
+      "id": "Region Oromia",
+      "zh-Hans": "奥罗米亚州",
+      "zh-Hant": "奧羅米亞州"
+    }
+  },
+  {
+    "code": "SI",
+    "name": "Sidama Region",
+    "names": {
+      "ja": "シダマ県",
+      "ko": "시다마주",
+      "vi": "Sidama (vùng)",
+      "zh-Hans": "锡达马地区",
+      "zh-Hant": "錫達馬地區"
+    }
+  },
+  {
+    "code": "SO",
+    "name": "Somali Region",
+    "names": {
+      "ja": "ソマリ州",
+      "ko": "소말리주",
+      "vi": "Vùng Somali",
+      "id": "Region Somali",
+      "zh-Hans": "索马里州",
+      "zh-Hant": "索馬里州"
+    }
+  },
+  {
+    "code": "56",
+    "name": "South Ethiopia",
+    "names": {}
+  },
+  {
+    "code": "SW",
+    "name": "Southwest Ethiopia Regional State",
+    "names": {
+      "ja": "南西エチオピア諸民族州",
+      "ko": "남서에티오피아인민주",
+      "vi": "Vùng các dân tộc Tây Nam Ethiopia",
+      "zh-Hans": "西南埃塞俄比亚人民州"
+    }
+  },
+  {
+    "code": "TI",
+    "name": "Tigray Region",
+    "names": {
+      "ja": "ティグレ州",
+      "ko": "티그라이주",
+      "vi": "Tigray",
+      "id": "Region Tigray",
+      "zh-Hans": "提格雷州",
+      "zh-Hant": "提格里州"
+    }
+  }
+]

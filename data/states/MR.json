@@ -1,0 +1,171 @@
+[
+  {
+    "code": "07",
+    "name": "Adrar",
+    "names": {
+      "ja": "アドラル州",
+      "ko": "아드라르 주 (모리타니)",
+      "vi": "Khu vực Adrar",
+      "id": "Adrar",
+      "zh-Hans": "阿德拉尔省 (毛里塔尼亚)",
+      "zh-Hant": "阿德拉爾省 (茅利塔尼亞)"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Assaba",
+    "names": {
+      "ja": "アサバ州",
+      "ko": "아사바주",
+      "vi": "Khu vực Assaba",
+      "id": "Assaba",
+      "zh-Hans": "阿萨巴省"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Brakna",
+    "names": {
+      "ja": "ブラクナ州",
+      "ko": "브라크나주",
+      "vi": "Khu vực Brakna",
+      "id": "Brakna",
+      "zh-Hans": "卜拉克纳省",
+      "zh-Hant": "卜拉克納省"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Dakhlet Nouadhibou",
+    "names": {
+      "ja": "ダフレト・ヌアジブ州",
+      "ko": "다클레트누아디부주",
+      "vi": "Dakhlet Nouadhibou",
+      "id": "Dakhlet Nouadhibou",
+      "zh-Hans": "努瓦迪布湾省",
+      "zh-Hant": "努瓦迪布灣省"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Gorgol",
+    "names": {
+      "ja": "ゴルゴル州",
+      "ko": "고르골주",
+      "vi": "Khu vực Gorgol",
+      "id": "Gorgol",
+      "zh-Hans": "戈尔戈勒省",
+      "zh-Hant": "戈爾戈勒省"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Guidimakha",
+    "names": {
+      "ja": "ギディマカ州",
+      "ko": "기디마카주",
+      "vi": "Khu vực Guidimaka",
+      "id": "Guidimaka",
+      "zh-Hans": "吉迪马卡省"
+    }
+  },
+  {
+    "code": "01",
+    "name": "Hodh Ech Chargui",
+    "names": {
+      "ja": "ホズ・エッ・シャルギ州",
+      "ko": "호드에슈샤르기주",
+      "vi": "Khu vực Hodh Ech Chargui",
+      "id": "Hodh Ech Chargui",
+      "zh-Hans": "東胡德省",
+      "zh-Hant": "東胡德省"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Hodh El Gharbi",
+    "names": {
+      "ja": "ホズ・エル・ガルビ州",
+      "ko": "호드엘가르비주",
+      "vi": "Khu vực Hodh El Gharbi",
+      "id": "Hodh El Gharbi",
+      "zh-Hans": "西胡德省",
+      "zh-Hant": "西胡德省"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Inchiri",
+    "names": {
+      "ja": "インシリ州",
+      "ko": "인시리주",
+      "vi": "Khu vực Inchiri",
+      "id": "Inchiri",
+      "zh-Hans": "因希里省",
+      "zh-Hant": "因希里省"
+    }
+  },
+  {
+    "code": "15",
+    "name": "Nouakchott South",
+    "names": {
+      "ja": "ヌアクショット南",
+      "ko": "남누악쇼트주",
+      "zh-Hans": "南努瓦克肖特大区"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Nouakchott West",
+    "names": {
+      "ja": "ヌアクショット西",
+      "ko": "서누악쇼트주",
+      "zh-Hans": "西努瓦克肖特大区"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Nouakchott-Nord",
+    "names": {
+      "ja": "ヌアクショット北",
+      "ko": "북누악쇼트주",
+      "zh-Hans": "北努瓦克肖特大区"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Tagant",
+    "names": {
+      "ja": "タガント州",
+      "ko": "타간트주",
+      "vi": "Khu vực Tagant",
+      "id": "Tagant",
+      "zh-Hans": "塔甘特省",
+      "zh-Hant": "塔甘特省"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Tiris Zemmour",
+    "names": {
+      "ja": "ティリス・ゼムール州",
+      "ko": "티리스젬무르주",
+      "vi": "Khu vực Tiris Zemmour",
+      "id": "Tiris Zemmour",
+      "zh-Hans": "提里斯-宰穆尔省",
+      "zh-Hant": "提里斯-宰穆爾省"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Trarza",
+    "names": {
+      "ja": "トラルザ州",
+      "ko": "트라르자주",
+      "vi": "Khu vực Trarza",
+      "id": "Trarza",
+      "zh-Hans": "特拉扎省",
+      "zh-Hant": "特拉扎省"
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "code": "BQ1",
+    "name": "Bonaire",
+    "names": {
+      "ja": "ボネール島",
+      "ko": "보네르섬",
+      "vi": "Bonaire",
+      "id": "Bonaire",
+      "zh-Hans": "博奈尔",
+      "zh-Hant": "波奈"
+    }
+  },
+  {
+    "code": "BQ2",
+    "name": "Saba",
+    "names": {
+      "ja": "サバ島",
+      "ko": "사바섬",
+      "vi": "Saba",
+      "id": "Pulau Saba",
+      "zh-Hans": "萨巴",
+      "zh-Hant": "薩巴"
+    }
+  },
+  {
+    "code": "BQ3",
+    "name": "Sint Eustatius",
+    "names": {
+      "ja": "シント・ユースタティウス島",
+      "ko": "신트외스타티위스섬",
+      "vi": "Sint Eustatius",
+      "id": "Sint Eustatius",
+      "zh-Hans": "圣尤斯特歇斯"
+    }
+  }
+]

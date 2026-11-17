@@ -1,0 +1,22 @@
+{
+  "name": "@isha-apac/geo-data",
+  "version": "1.0.0",
+  "description": "Countries and their states/provinces with translated names, for forms across Isha APAC apps",
+  "license": "CC0-1.0 AND Unicode-3.0",
+  "type": "module",
+  "repository": "github:isha-apac/geo-data",
+  "files": ["data", "index.d.ts", "LICENSE", "LICENSE-UNICODE"],
+  "types": "index.d.ts",
+  "exports": {
+    "./data/*": "./data/*",
+    "./package.json": "./package.json"
+  },
+  "scripts": {
+    "check": "node scripts/check.mjs",
+    "check:wikidata": "node scripts/check.mjs --wikidata"
+  },
+  "engines": { "node": ">=20" },
+  "devDependencies": {
+    "@countrystatecity/countries-browser": "3.0.1"
+  }
+}

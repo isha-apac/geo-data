@@ -1,0 +1,145 @@
+[
+  {
+    "code": "DR",
+    "name": "Drenthe",
+    "names": {
+      "ja": "ドレンテ州",
+      "ko": "드렌터주",
+      "vi": "Drenthe",
+      "id": "Drenthe",
+      "zh-Hans": "德伦特省",
+      "zh-Hant": "德伦特省"
+    }
+  },
+  {
+    "code": "FL",
+    "name": "Flevoland",
+    "names": {
+      "ja": "フレヴォラント州",
+      "ko": "플레볼란트주",
+      "vi": "Flevoland",
+      "id": "Flevoland",
+      "zh-Hans": "弗莱福兰省"
+    }
+  },
+  {
+    "code": "FR",
+    "name": "Friesland",
+    "names": {
+      "ja": "フリースラント州",
+      "ko": "프리슬란트주",
+      "vi": "Fryslân",
+      "id": "Friesland",
+      "zh-Hans": "弗里斯兰省",
+      "zh-Hant": "弗里斯蘭省"
+    }
+  },
+  {
+    "code": "GE",
+    "name": "Gelderland",
+    "names": {
+      "ja": "ヘルダーラント州",
+      "ko": "헬데를란트주",
+      "vi": "Gelderland",
+      "id": "Gelderland",
+      "zh-Hans": "海尔德兰省",
+      "zh-Hant": "海尔德兰省"
+    }
+  },
+  {
+    "code": "GR",
+    "name": "Groningen",
+    "names": {
+      "ja": "フローニンゲン州",
+      "ko": "흐로닝언주",
+      "vi": "Groningen",
+      "id": "Groningen",
+      "zh-Hans": "格罗宁根省",
+      "zh-Hant": "格罗宁根省"
+    }
+  },
+  {
+    "code": "LI",
+    "name": "Limburg",
+    "names": {
+      "ja": "リンブルフ州",
+      "ko": "림뷔르흐주",
+      "vi": "Limburg",
+      "id": "Limburg",
+      "zh-Hans": "林堡省",
+      "zh-Hant": "林堡省"
+    }
+  },
+  {
+    "code": "NB",
+    "name": "North Brabant",
+    "names": {
+      "ja": "北ブラバント州",
+      "ko": "노르트브라반트주",
+      "vi": "Noord-Brabant",
+      "id": "Brabant Utara",
+      "zh-Hans": "北布拉班特省",
+      "zh-Hant": "北布拉班特"
+    }
+  },
+  {
+    "code": "NH",
+    "name": "North Holland",
+    "names": {
+      "ja": "北ホラント州",
+      "ko": "노르트홀란트주",
+      "vi": "Noord-Holland",
+      "id": "Holland Utara",
+      "zh-Hans": "北荷兰省",
+      "zh-Hant": "北荷蘭省"
+    }
+  },
+  {
+    "code": "OV",
+    "name": "Overijssel",
+    "names": {
+      "ja": "オーファーアイセル州",
+      "ko": "오버레이설주",
+      "vi": "Overijssel",
+      "id": "Overijssel",
+      "zh-Hans": "上艾瑟尔省",
+      "zh-Hant": "上艾瑟尔省"
+    }
+  },
+  {
+    "code": "ZH",
+    "name": "South Holland",
+    "names": {
+      "ja": "南ホラント州",
+      "ko": "자위트홀란트주",
+      "vi": "Zuid-Holland",
+      "id": "Holland Selatan",
+      "zh-Hans": "南荷兰省",
+      "zh-Hant": "南荷蘭省"
+    }
+  },
+  {
+    "code": "UT",
+    "name": "Utrecht",
+    "names": {
+      "ja": "ユトレヒト州",
+      "ko": "위트레흐트주",
+      "vi": "Utrecht",
+      "id": "Utrecht",
+      "zh-Hans": "乌得勒支省",
+      "zh-Hant": "烏特勒支省"
+    }
+  },
+  {
+    "code": "ZE",
+    "name": "Zeeland",
+    "names": {
+      "ja": "ゼーラント州",
+      "ko": "제일란트주",
+      "vi": "Zeeland",
+      "id": "Zeeland",
+      "zh-Hans": "泽兰省",
+      "zh-Hant": "澤蘭省"
+    }
+  }
+]

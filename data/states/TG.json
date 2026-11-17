@@ -1,0 +1,62 @@
+[
+  {
+    "code": "C",
+    "name": "Centrale Region",
+    "names": {
+      "ja": "中央州",
+      "ko": "중앙주",
+      "vi": "Centrale",
+      "id": "Region Centrale",
+      "zh-Hans": "中部区",
+      "zh-Hant": "中部區"
+    }
+  },
+  {
+    "code": "K",
+    "name": "Kara Region",
+    "names": {
+      "ja": "カラ州",
+      "ko": "카라주",
+      "vi": "Kara",
+      "id": "Region Kara",
+      "zh-Hans": "卡拉区",
+      "zh-Hant": "卡拉區"
+    }
+  },
+  {
+    "code": "M",
+    "name": "Maritime",
+    "names": {
+      "ja": "沿岸州",
+      "ko": "마리팀주",
+      "vi": "Maritime",
+      "id": "Region Maritime",
+      "zh-Hans": "滨海区",
+      "zh-Hant": "濱海區"
+    }
+  },
+  {
+    "code": "P",
+    "name": "Plateaux Region",
+    "names": {
+      "ja": "高原州",
+      "ko": "플라토주",
+      "vi": "Plateaux",
+      "id": "Region Plateaux",
+      "zh-Hans": "高原区",
+      "zh-Hant": "高原區"
+    }
+  },
+  {
+    "code": "S",
+    "name": "Savanes Region",
+    "names": {
+      "ja": "サバナ州",
+      "ko": "사반주",
+      "vi": "Savanes",
+      "id": "Region Savanes",
+      "zh-Hans": "草原区",
+      "zh-Hant": "草原區"
+    }
+  }
+]

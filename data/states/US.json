@@ -1,0 +1,697 @@
+[
+  {
+    "code": "AL",
+    "name": "Alabama",
+    "names": {
+      "ja": "アラバマ州",
+      "ko": "앨라배마주",
+      "vi": "Alabama",
+      "id": "Alabama",
+      "zh-Hans": "亚拉巴马州",
+      "zh-Hant": "阿拉巴馬州"
+    }
+  },
+  {
+    "code": "AK",
+    "name": "Alaska",
+    "names": {
+      "ja": "アラスカ州",
+      "ko": "알래스카주",
+      "vi": "Alaska",
+      "id": "Alaska",
+      "zh-Hans": "阿拉斯加州",
+      "zh-Hant": "阿拉斯加州"
+    }
+  },
+  {
+    "code": "AS",
+    "name": "American Samoa",
+    "names": {
+      "ja": "アメリカ領サモア",
+      "ko": "아메리칸사모아",
+      "vi": "Samoa thuộc Mỹ",
+      "id": "Samoa Amerika",
+      "zh-Hans": "美属萨摩亚",
+      "zh-Hant": "美屬薩摩亞"
+    }
+  },
+  {
+    "code": "AZ",
+    "name": "Arizona",
+    "names": {
+      "ja": "アリゾナ州",
+      "ko": "애리조나주",
+      "zh-Hans": "亚利桑那州",
+      "zh-Hant": "亞利桑那州"
+    }
+  },
+  {
+    "code": "AR",
+    "name": "Arkansas",
+    "names": {
+      "ja": "アーカンソー州",
+      "ko": "아칸소주",
+      "vi": "Arkansas",
+      "id": "Arkansas",
+      "zh-Hans": "阿肯色州",
+      "zh-Hant": "阿肯色州"
+    }
+  },
+  {
+    "code": "AE",
+    "name": "Armed Forces Europe",
+    "names": {}
+  },
+  {
+    "code": "AA",
+    "name": "Armed Forces of the Americas",
+    "names": {}
+  },
+  {
+    "code": "AP",
+    "name": "Armed Forces Pacific",
+    "names": {}
+  },
+  {
+    "code": "CA",
+    "name": "California",
+    "names": {
+      "ja": "カリフォルニア州",
+      "ko": "캘리포니아주",
+      "id": "California",
+      "zh-Hans": "加利福尼亚州",
+      "zh-Hant": "加利福尼亞州"
+    }
+  },
+  {
+    "code": "CO",
+    "name": "Colorado",
+    "names": {
+      "ja": "コロラド州",
+      "ko": "콜로라도주",
+      "vi": "Colorado",
+      "id": "Colorado",
+      "zh-Hans": "科罗拉多州",
+      "zh-Hant": "科羅拉多州"
+    }
+  },
+  {
+    "code": "CT",
+    "name": "Connecticut",
+    "names": {
+      "ja": "コネチカット州",
+      "ko": "코네티컷주",
+      "vi": "Connecticut",
+      "id": "Connecticut",
+      "zh-Hans": "康涅狄格州",
+      "zh-Hant": "康乃狄克州"
+    }
+  },
+  {
+    "code": "DE",
+    "name": "Delaware",
+    "names": {
+      "ja": "デラウェア州",
+      "ko": "델라웨어주",
+      "vi": "Delaware",
+      "id": "Delaware",
+      "zh-Hans": "特拉华州",
+      "zh-Hant": "特拉華州"
+    }
+  },
+  {
+    "code": "DC",
+    "name": "District of Columbia",
+    "names": {
+      "ja": "コロンビア特別区",
+      "ko": "컬럼비아 특별구",
+      "vi": "Đặc khu Columbia",
+      "id": "Distrik Columbia",
+      "zh-Hans": "哥伦比亚特区"
+    }
+  },
+  {
+    "code": "FL",
+    "name": "Florida",
+    "names": {
+      "ja": "フロリダ州",
+      "ko": "플로리다주",
+      "vi": "Florida",
+      "id": "Florida",
+      "zh-Hans": "佛罗里达州",
+      "zh-Hant": "佛羅里達州"
+    }
+  },
+  {
+    "code": "GA",
+    "name": "Georgia",
+    "names": {
+      "ja": "ジョージア州",
+      "ko": "조지아주",
+      "vi": "Georgia",
+      "id": "Georgia",
+      "zh-Hans": "佐治亚州",
+      "zh-Hant": "喬治亞州"
+    }
+  },
+  {
+    "code": "GU",
+    "name": "Guam",
+    "names": {
+      "ja": "グアム",
+      "ko": "괌",
+      "vi": "Guam",
+      "id": "Guam",
+      "zh-Hans": "关岛",
+      "zh-Hant": "關島"
+    }
+  },
+  {
+    "code": "HI",
+    "name": "Hawaii",
+    "names": {
+      "ja": "ハワイ州",
+      "ko": "하와이주",
+      "vi": "Hawaii",
+      "id": "Hawaii",
+      "zh-Hans": "夏威夷州",
+      "zh-Hant": "夏威夷州"
+    }
+  },
+  {
+    "code": "ID",
+    "name": "Idaho",
+    "names": {
+      "ja": "アイダホ州",
+      "ko": "아이다호주",
+      "vi": "Idaho",
+      "id": "Idaho",
+      "zh-Hans": "爱达荷州",
+      "zh-Hant": "愛達荷州"
+    }
+  },
+  {
+    "code": "IL",
+    "name": "Illinois",
+    "names": {
+      "ja": "イリノイ州",
+      "ko": "일리노이주",
+      "vi": "Illinois",
+      "id": "Illinois",
+      "zh-Hans": "伊利诺伊州",
+      "zh-Hant": "伊利諾州"
+    }
+  },
+  {
+    "code": "IN",
+    "name": "Indiana",
+    "names": {
+      "ja": "インディアナ州",
+      "ko": "인디애나주",
+      "vi": "Indiana",
+      "id": "Indiana",
+      "zh-Hans": "印第安纳州",
+      "zh-Hant": "印第安納州"
+    }
+  },
+  {
+    "code": "IA",
+    "name": "Iowa",
+    "names": {
+      "ja": "アイオワ州",
+      "ko": "아이오와주",
+      "vi": "Iowa",
+      "id": "Iowa",
+      "zh-Hans": "爱荷华州",
+      "zh-Hant": "愛荷華州"
+    }
+  },
+  {
+    "code": "KS",
+    "name": "Kansas",
+    "names": {
+      "ja": "カンザス州",
+      "ko": "캔자스주",
+      "vi": "Kansas",
+      "id": "Kansas",
+      "zh-Hans": "堪萨斯州",
+      "zh-Hant": "堪薩斯州"
+    }
+  },
+  {
+    "code": "KY",
+    "name": "Kentucky",
+    "names": {
+      "ja": "ケンタッキー州",
+      "ko": "켄터키주",
+      "vi": "Kentucky",
+      "id": "Kentucky",
+      "zh-Hans": "肯塔基州",
+      "zh-Hant": "肯塔基州"
+    }
+  },
+  {
+    "code": "LA",
+    "name": "Louisiana",
+    "names": {
+      "ja": "ルイジアナ州",
+      "ko": "루이지애나주",
+      "vi": "Louisiana",
+      "id": "Louisiana",
+      "zh-Hans": "路易斯安那州",
+      "zh-Hant": "路易斯安那州"
+    }
+  },
+  {
+    "code": "ME",
+    "name": "Maine",
+    "names": {
+      "ja": "メイン州",
+      "ko": "메인주",
+      "vi": "Maine",
+      "id": "Maine",
+      "zh-Hans": "缅因州",
+      "zh-Hant": "緬因州"
+    }
+  },
+  {
+    "code": "MD",
+    "name": "Maryland",
+    "names": {
+      "ja": "メリーランド州",
+      "ko": "메릴랜드주",
+      "vi": "Maryland",
+      "id": "Maryland",
+      "zh-Hans": "马里兰州",
+      "zh-Hant": "馬里蘭州"
+    }
+  },
+  {
+    "code": "MA",
+    "name": "Massachusetts",
+    "names": {
+      "ja": "マサチューセッツ州",
+      "ko": "매사추세츠주",
+      "vi": "Massachusetts",
+      "id": "Massachusetts",
+      "zh-Hans": "马萨诸塞州",
+      "zh-Hant": "麻薩諸塞州"
+    }
+  },
+  {
+    "code": "MI",
+    "name": "Michigan",
+    "names": {
+      "ja": "ミシガン州",
+      "ko": "미시간주",
+      "vi": "Michigan",
+      "id": "Michigan",
+      "zh-Hans": "密歇根州",
+      "zh-Hant": "密歇根州"
+    }
+  },
+  {
+    "code": "MN",
+    "name": "Minnesota",
+    "names": {
+      "ja": "ミネソタ州",
+      "ko": "미네소타주",
+      "vi": "Minnesota",
+      "id": "Minnesota",
+      "zh-Hans": "明尼苏达州",
+      "zh-Hant": "明尼蘇達州"
+    }
+  },
+  {
+    "code": "MS",
+    "name": "Mississippi",
+    "names": {
+      "ja": "ミシシッピ州",
+      "ko": "미시시피주",
+      "vi": "Mississippi",
+      "id": "Mississippi",
+      "zh-Hans": "密西西比州",
+      "zh-Hant": "密西西比州"
+    }
+  },
+  {
+    "code": "MO",
+    "name": "Missouri",
+    "names": {
+      "ja": "ミズーリ州",
+      "ko": "미주리주",
+      "vi": "Missouri",
+      "id": "Missouri",
+      "zh-Hans": "密苏里州",
+      "zh-Hant": "密蘇里州"
+    }
+  },
+  {
+    "code": "MT",
+    "name": "Montana",
+    "names": {
+      "ja": "モンタナ州",
+      "ko": "몬태나주",
+      "vi": "Montana",
+      "id": "Montana",
+      "zh-Hans": "蒙大拿州",
+      "zh-Hant": "蒙大拿州"
+    }
+  },
+  {
+    "code": "NE",
+    "name": "Nebraska",
+    "names": {
+      "ja": "ネブラスカ州",
+      "ko": "네브래스카주",
+      "vi": "Nebraska",
+      "id": "Nebraska",
+      "zh-Hans": "内布拉斯加州",
+      "zh-Hant": "內布拉斯加州"
+    }
+  },
+  {
+    "code": "NV",
+    "name": "Nevada",
+    "names": {
+      "ja": "ネバダ州",
+      "ko": "네바다주",
+      "vi": "Nevada",
+      "id": "Nevada",
+      "zh-Hans": "内华达州",
+      "zh-Hant": "內華達州"
+    }
+  },
+  {
+    "code": "NH",
+    "name": "New Hampshire",
+    "names": {
+      "ja": "ニューハンプシャー州",
+      "ko": "뉴햄프셔주",
+      "vi": "New Hampshire",
+      "id": "New Hampshire",
+      "zh-Hans": "新罕布什尔州",
+      "zh-Hant": "新罕布夏州"
+    }
+  },
+  {
+    "code": "NJ",
+    "name": "New Jersey",
+    "names": {
+      "ja": "ニュージャージー州",
+      "ko": "뉴저지주",
+      "vi": "New Jersey",
+      "id": "New Jersey",
+      "zh-Hans": "新泽西州",
+      "zh-Hant": "紐澤西州"
+    }
+  },
+  {
+    "code": "NM",
+    "name": "New Mexico",
+    "names": {
+      "ja": "ニューメキシコ州",
+      "ko": "뉴멕시코주",
+      "vi": "New Mexico",
+      "id": "New Mexico",
+      "zh-Hans": "新墨西哥州",
+      "zh-Hant": "新墨西哥州"
+    }
+  },
+  {
+    "code": "NY",
+    "name": "New York",
+    "names": {
+      "ja": "ニューヨーク州",
+      "ko": "뉴욕주",
+      "vi": "New York",
+      "id": "New York",
+      "zh-Hans": "纽约州",
+      "zh-Hant": "紐約州"
+    }
+  },
+  {
+    "code": "NC",
+    "name": "North Carolina",
+    "names": {
+      "ja": "ノースカロライナ州",
+      "ko": "노스캐롤라이나주",
+      "vi": "Bắc Carolina",
+      "id": "Carolina Utara",
+      "zh-Hans": "北卡罗来纳州",
+      "zh-Hant": "北卡羅来納州"
+    }
+  },
+  {
+    "code": "ND",
+    "name": "North Dakota",
+    "names": {
+      "ja": "ノースダコタ州",
+      "ko": "노스다코타주",
+      "vi": "Bắc Dakota",
+      "id": "Dakota Utara",
+      "zh-Hans": "北达科他州",
+      "zh-Hant": "北達科他州"
+    }
+  },
+  {
+    "code": "MP",
+    "name": "Northern Mariana Islands",
+    "names": {
+      "ja": "北マリアナ諸島",
+      "ko": "북마리아나 제도",
+      "vi": "Quần đảo Bắc Mariana",
+      "id": "Kepulauan Mariana Utara",
+      "zh-Hans": "北马里亚纳群岛",
+      "zh-Hant": "北馬里亞納群島"
+    }
+  },
+  {
+    "code": "OH",
+    "name": "Ohio",
+    "names": {
+      "ja": "オハイオ州",
+      "ko": "오하이오주",
+      "vi": "Ohio",
+      "id": "Ohio",
+      "zh-Hans": "俄亥俄州",
+      "zh-Hant": "俄亥俄州"
+    }
+  },
+  {
+    "code": "OK",
+    "name": "Oklahoma",
+    "names": {
+      "ja": "オクラホマ州",
+      "ko": "오클라호마주",
+      "vi": "Oklahoma",
+      "id": "Oklahoma",
+      "zh-Hans": "俄克拉荷马州",
+      "zh-Hant": "俄克拉荷馬州"
+    }
+  },
+  {
+    "code": "OR",
+    "name": "Oregon",
+    "names": {
+      "ja": "オレゴン州",
+      "ko": "오리건주",
+      "vi": "Oregon",
+      "id": "Oregon",
+      "zh-Hans": "俄勒冈州",
+      "zh-Hant": "奧勒岡州"
+    }
+  },
+  {
+    "code": "PA",
+    "name": "Pennsylvania",
+    "names": {
+      "ja": "ペンシルベニア州",
+      "ko": "펜실베이니아주",
+      "vi": "Pennsylvania",
+      "id": "Pennsylvania",
+      "zh-Hans": "宾夕法尼亚州",
+      "zh-Hant": "賓夕法尼亞州"
+    }
+  },
+  {
+    "code": "PR",
+    "name": "Puerto Rico",
+    "names": {
+      "ja": "プエルトリコ",
+      "ko": "푸에르토리코",
+      "vi": "Puerto Rico",
+      "id": "Puerto Riko",
+      "zh-Hans": "波多黎各",
+      "zh-Hant": "波多黎各"
+    }
+  },
+  {
+    "code": "RI",
+    "name": "Rhode Island",
+    "names": {
+      "ja": "ロードアイランド州",
+      "ko": "로드아일랜드주",
+      "vi": "Rhode Island",
+      "id": "Rhode Island",
+      "zh-Hans": "罗得岛州",
+      "zh-Hant": "羅德島州"
+    }
+  },
+  {
+    "code": "SC",
+    "name": "South Carolina",
+    "names": {
+      "ja": "サウスカロライナ州",
+      "ko": "사우스캐롤라이나주",
+      "vi": "Nam Carolina",
+      "id": "Carolina Selatan",
+      "zh-Hans": "南卡罗来纳州",
+      "zh-Hant": "南卡羅萊納州"
+    }
+  },
+  {
+    "code": "SD",
+    "name": "South Dakota",
+    "names": {
+      "ja": "サウスダコタ州",
+      "ko": "사우스다코타주",
+      "vi": "Nam Dakota",
+      "id": "South Dakota",
+      "zh-Hans": "南达科他州",
+      "zh-Hant": "南達科他州"
+    }
+  },
+  {
+    "code": "TN",
+    "name": "Tennessee",
+    "names": {
+      "ja": "テネシー州",
+      "ko": "테네시주",
+      "vi": "Tennessee",
+      "id": "Tennessee",
+      "zh-Hans": "田纳西州",
+      "zh-Hant": "田納西州"
+    }
+  },
+  {
+    "code": "TX",
+    "name": "Texas",
+    "names": {
+      "ja": "テキサス州",
+      "ko": "텍사스주",
+      "vi": "Texas",
+      "id": "Texas",
+      "zh-Hans": "得克萨斯州",
+      "zh-Hant": "德克薩斯州"
+    }
+  },
+  {
+    "code": "UM",
+    "name": "United States Minor Outlying Islands",
+    "names": {
+      "ja": "合衆国領有小離島",
+      "ko": "미국령 군소 제도",
+      "vi": "Các tiểu đảo xa của Hoa Kỳ",
+      "id": "Kepulauan Terluar Kecil Amerika Serikat",
+      "zh-Hans": "美国本土外小岛屿",
+      "zh-Hant": "美國本土外小島嶼"
+    }
+  },
+  {
+    "code": "VI",
+    "name": "United States Virgin Islands",
+    "names": {
+      "ja": "アメリカ領ヴァージン諸島",
+      "ko": "미국령 버진아일랜드",
+      "vi": "Quần đảo Virgin thuộc Mỹ",
+      "id": "Kepulauan Virgin Amerika Serikat",
+      "zh-Hans": "美属维尔京群岛",
+      "zh-Hant": "美屬維京群島"
+    }
+  },
+  {
+    "code": "UT",
+    "name": "Utah",
+    "names": {
+      "ja": "ユタ州",
+      "ko": "유타주",
+      "vi": "Utah",
+      "id": "Utah",
+      "zh-Hans": "犹他州",
+      "zh-Hant": "猶他州"
+    }
+  },
+  {
+    "code": "VT",
+    "name": "Vermont",
+    "names": {
+      "ja": "バーモント州",
+      "ko": "버몬트주",
+      "vi": "Vermont",
+      "id": "Vermont",
+      "zh-Hans": "佛蒙特州",
+      "zh-Hant": "佛蒙特州"
+    }
+  },
+  {
+    "code": "VA",
+    "name": "Virginia",
+    "names": {
+      "ja": "バージニア州",
+      "ko": "버지니아주",
+      "vi": "Virginia",
+      "id": "Virginia",
+      "zh-Hans": "弗吉尼亚州",
+      "zh-Hant": "維吉尼亞州"
+    }
+  },
+  {
+    "code": "WA",
+    "name": "Washington",
+    "names": {
+      "ja": "ワシントン州",
+      "ko": "워싱턴주",
+      "vi": "Washington",
+      "id": "Washington",
+      "zh-Hans": "华盛顿州",
+      "zh-Hant": "華盛頓州"
+    }
+  },
+  {
+    "code": "WV",
+    "name": "West Virginia",
+    "names": {
+      "ja": "ウェストバージニア州",
+      "ko": "웨스트버지니아주",
+      "vi": "Tây Virginia",
+      "id": "Virginia Barat",
+      "zh-Hans": "西維吉尼亞州",
+      "zh-Hant": "西維吉尼亞州"
+    }
+  },
+  {
+    "code": "WI",
+    "name": "Wisconsin",
+    "names": {
+      "ja": "ウィスコンシン州",
+      "ko": "위스콘신주",
+      "vi": "Wisconsin",
+      "id": "Wisconsin",
+      "zh-Hans": "威斯康星州",
+      "zh-Hant": "威斯康辛州"
+    }
+  },
+  {
+    "code": "WY",
+    "name": "Wyoming",
+    "names": {
+      "ja": "ワイオミング州",
+      "ko": "와이오밍주",
+      "vi": "Wyoming",
+      "id": "Wyoming",
+      "zh-Hans": "怀俄明州",
+      "zh-Hant": "懷俄明州"
+    }
+  }
+]

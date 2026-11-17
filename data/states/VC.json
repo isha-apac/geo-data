@@ -1,0 +1,72 @@
+[
+  {
+    "code": "01",
+    "name": "Charlotte Parish",
+    "names": {
+      "ja": "シャーロット教区",
+      "ko": "샬럿구",
+      "vi": "Charlotte, Saint Vincent và Grenadines",
+      "id": "Paroki Charlotte",
+      "zh-Hans": "夏洛特区",
+      "zh-Hant": "夏洛特區"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Grenadines Parish",
+    "names": {
+      "ja": "グレナディーンズ郡",
+      "ko": "그레나딘구",
+      "vi": "Grenadines",
+      "zh-Hans": "格瑞那丁区",
+      "zh-Hant": "格瑞那丁區"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Saint Andrew Parish",
+    "names": {
+      "ja": "セント・アンドリューズ",
+      "ko": "세인트앤드루구",
+      "vi": "Saint Andrew, Saint Vincent và Grenadines",
+      "id": "Paroki Saint Andrew",
+      "zh-Hans": "圣安德鲁区",
+      "zh-Hant": "聖安德魯區"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Saint David Parish",
+    "names": {
+      "ja": "セント・デイヴィッド郡",
+      "ko": "세인트데이비드구",
+      "vi": "Saint David, Saint Vincent và Grenadines",
+      "id": "Paroki Saint David",
+      "zh-Hans": "圣大卫区",
+      "zh-Hant": "聖大衛區"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Saint George Parish",
+    "names": {
+      "ja": "セントジョージ",
+      "ko": "세인트조지구",
+      "vi": "Saint George, Saint Vincent và Grenadines",
+      "id": "Paroki Saint George",
+      "zh-Hans": "圣乔治区",
+      "zh-Hant": "聖喬治區"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Saint Patrick Parish",
+    "names": {
+      "ja": "セント・パトリック教区",
+      "ko": "세인트패트릭구",
+      "vi": "Saint Patrick, Saint Vincent và Grenadines",
+      "id": "Paroki Saint Patrick",
+      "zh-Hans": "圣派屈克区"
+    }
+  }
+]

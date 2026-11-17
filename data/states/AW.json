@@ -1,0 +1,47 @@
+[
+  {
+    "code": "01",
+    "name": "Noord",
+    "names": {}
+  },
+  {
+    "code": "09",
+    "name": "Oranjestad",
+    "names": {}
+  },
+  {
+    "code": "03",
+    "name": "Oranjestad East",
+    "names": {}
+  },
+  {
+    "code": "02",
+    "name": "Oranjestad West",
+    "names": {}
+  },
+  {
+    "code": "04",
+    "name": "Paradera",
+    "names": {}
+  },
+  {
+    "code": "05",
+    "name": "San Nicolaas Noord",
+    "names": {}
+  },
+  {
+    "code": "06",
+    "name": "San Nicolaas Zuid",
+    "names": {}
+  },
+  {
+    "code": "07",
+    "name": "Santa Cruz",
+    "names": {}
+  },
+  {
+    "code": "08",
+    "name": "Savaneta",
+    "names": {}
+  }
+]

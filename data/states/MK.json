@@ -1,0 +1,904 @@
+[
+  {
+    "code": "801",
+    "name": "Aerodrom Municipality",
+    "names": {
+      "ko": "아에로드롬시",
+      "zh-Hans": "艾罗德龙市镇",
+      "zh-Hant": "艾羅德龍市鎮"
+    }
+  },
+  {
+    "code": "802",
+    "name": "Aračinovo Municipality",
+    "names": {
+      "ja": "アラチノヴォ",
+      "ko": "아라치노보시",
+      "vi": "Đô thị tự trị Aracinovo",
+      "id": "Kotamadya Aračinovo",
+      "zh-Hans": "阿拉契诺沃市镇"
+    }
+  },
+  {
+    "code": "201",
+    "name": "Berovo Municipality",
+    "names": {
+      "ja": "ベロヴォ",
+      "ko": "베로보시",
+      "vi": "Đô thị tự trị Berovo",
+      "id": "Kotamadya Berovo",
+      "zh-Hans": "贝罗沃市镇"
+    }
+  },
+  {
+    "code": "501",
+    "name": "Bitola Municipality",
+    "names": {
+      "ja": "ビトラ",
+      "ko": "비톨라시",
+      "vi": "Đô thị tự trị Bitola",
+      "id": "Kotamadya Bitola",
+      "zh-Hans": "比托拉市镇",
+      "zh-Hant": "比托拉市鎮"
+    }
+  },
+  {
+    "code": "401",
+    "name": "Bogdanci Municipality",
+    "names": {
+      "ja": "ボグダンツィ",
+      "ko": "보그단치시",
+      "vi": "Đô thị tự trị Bogdanci",
+      "id": "Kotamadya Bogdanci",
+      "zh-Hans": "波格丹齐市镇",
+      "zh-Hant": "波格丹齊市鎮"
+    }
+  },
+  {
+    "code": "601",
+    "name": "Bogovinje Municipality",
+    "names": {
+      "ja": "ボゴヴィニェ",
+      "ko": "보고비네시",
+      "vi": "Đô thị tự trị Bogovinje",
+      "id": "Kotamadya Bogovinje",
+      "zh-Hans": "博戈维涅市镇"
+    }
+  },
+  {
+    "code": "402",
+    "name": "Bosilovo Municipality",
+    "names": {
+      "ja": "ボシロヴォ",
+      "ko": "보실로보시",
+      "vi": "Đô thị tự trị Bosilovo",
+      "id": "Kotamadya Bosilovo",
+      "zh-Hans": "博西洛沃市镇",
+      "zh-Hant": "博西洛沃市鎮"
+    }
+  },
+  {
+    "code": "602",
+    "name": "Brvenica Municipality",
+    "names": {
+      "ja": "ブルヴェニツァ",
+      "ko": "브르베니차시",
+      "vi": "Đô thị tự trị Brvenica",
+      "id": "Kotamadya Brvenica",
+      "zh-Hans": "布尔韦尼察市镇",
+      "zh-Hant": "布爾韋尼察市鎮"
+    }
+  },
+  {
+    "code": "803",
+    "name": "Butel Municipality",
+    "names": {
+      "ko": "부텔시",
+      "id": "Munisipalitas Butel",
+      "zh-Hans": "布泰尔市镇"
+    }
+  },
+  {
+    "code": "815",
+    "name": "Čair Municipality",
+    "names": {
+      "ko": "차이르시",
+      "id": "Munisipalitas Čair",
+      "zh-Hans": "查伊尔市镇",
+      "zh-Hant": "查伊爾市鎮"
+    }
+  },
+  {
+    "code": "109",
+    "name": "Čaška Municipality",
+    "names": {
+      "ja": "チャシュカ",
+      "ko": "차슈카시",
+      "vi": "Đô thị tự trị Caska",
+      "id": "Kotamadya Čaška",
+      "zh-Hans": "查什卡市镇",
+      "zh-Hant": "查什卡市鎮"
+    }
+  },
+  {
+    "code": "814",
+    "name": "Centar Municipality",
+    "names": {
+      "ko": "첸타르시",
+      "zh-Hans": "岑塔尔市镇",
+      "zh-Hant": "岑塔爾市鎮"
+    }
+  },
+  {
+    "code": "313",
+    "name": "Centar Župa Municipality",
+    "names": {
+      "ja": "ツェンタル・ジュパ",
+      "ko": "첸타르주파시",
+      "vi": "Đô thị tự trị Centar Zupa",
+      "id": "Kotamadya Centar Župa",
+      "zh-Hans": "中茹帕市镇",
+      "zh-Hant": "中茹帕市鎮"
+    }
+  },
+  {
+    "code": "210",
+    "name": "Češinovo-Obleševo Municipality",
+    "names": {
+      "ja": "チェシノヴォ＝オブレシェヴォ",
+      "ko": "체시노보오블레셰보시",
+      "vi": "Đô thị tự trị Cesinovo-Oblesevo",
+      "id": "Kotamadya Češinovo-Obleševo",
+      "zh-Hans": "切希诺沃-奥布莱舍沃市镇"
+    }
+  },
+  {
+    "code": "816",
+    "name": "Čučer-Sandevo Municipality",
+    "names": {
+      "ja": "チュチェル・サンデヴォ",
+      "ko": "추체르산데보시",
+      "vi": "Đô thị tự trị Cucer-Sandevo",
+      "id": "Kotamadya Čučer-Sandevo",
+      "zh-Hans": "丘切尔桑代沃市镇"
+    }
+  },
+  {
+    "code": "303",
+    "name": "Debar Municipality",
+    "names": {
+      "ja": "デバル",
+      "ko": "데바르시",
+      "vi": "Đô thị tự trị Debar",
+      "id": "Kotamadya Debar",
+      "zh-Hans": "德巴尔市镇",
+      "zh-Hant": "德巴爾市鎮"
+    }
+  },
+  {
+    "code": "304",
+    "name": "Debarca Municipality",
+    "names": {
+      "ja": "デバルツァ",
+      "ko": "데바르차시",
+      "vi": "Đô thị tự trị Debarca",
+      "id": "Kotamadya Debarca",
+      "zh-Hans": "德巴尔察市镇",
+      "zh-Hant": "德巴爾察市鎮"
+    }
+  },
+  {
+    "code": "203",
+    "name": "Delčevo Municipality",
+    "names": {
+      "ja": "デルチェヴォ",
+      "ko": "델체보시",
+      "vi": "Đô thị tự trị Delcevo",
+      "id": "Kotamadya Delčevo",
+      "zh-Hans": "代尔切沃市镇",
+      "zh-Hant": "代爾切沃市鎮"
+    }
+  },
+  {
+    "code": "502",
+    "name": "Demir Hisar Municipality",
+    "names": {
+      "ja": "デミル・ヒサル",
+      "ko": "데미르히사르시",
+      "id": "Munisipalitas Demir Hisar",
+      "zh-Hans": "代米尔希萨尔市镇",
+      "zh-Hant": "代米爾希薩爾市鎮"
+    }
+  },
+  {
+    "code": "103",
+    "name": "Demir Kapija Municipality",
+    "names": {
+      "ja": "デミル・カピヤ",
+      "ko": "데미르카피야시",
+      "id": "Munisipalitas Demir Kapija",
+      "zh-Hans": "代米尔卡皮亚市镇",
+      "zh-Hant": "代米爾卡皮亞市鎮"
+    }
+  },
+  {
+    "code": "406",
+    "name": "Dojran Municipality",
+    "names": {
+      "ja": "ドイラン",
+      "ko": "도이란시",
+      "id": "Munisipalitas Dojran",
+      "zh-Hans": "多伊兰市镇",
+      "zh-Hant": "多伊蘭市鎮"
+    }
+  },
+  {
+    "code": "503",
+    "name": "Dolneni Municipality",
+    "names": {
+      "ja": "ドルネニ",
+      "ko": "돌네니시",
+      "vi": "Đô thị tự trị Dolneni",
+      "id": "Kotamadya Dolneni",
+      "zh-Hans": "多尔内尼市镇",
+      "zh-Hant": "多爾內尼市鎮"
+    }
+  },
+  {
+    "code": "804",
+    "name": "Gazi Baba Municipality",
+    "names": {
+      "ko": "가지바바시",
+      "id": "Munisipalitas Gazi Baba",
+      "zh-Hans": "加齐巴巴市镇",
+      "zh-Hant": "加齊巴巴市鎮"
+    }
+  },
+  {
+    "code": "405",
+    "name": "Gevgelija Municipality",
+    "names": {
+      "ja": "ゲヴゲリヤ",
+      "ko": "게브겔리야시",
+      "id": "Munisipalitas Gevgelija",
+      "zh-Hans": "盖夫盖利亚市镇",
+      "zh-Hant": "蓋夫蓋利亞市鎮"
+    }
+  },
+  {
+    "code": "805",
+    "name": "Ǵorče Petrov Municipality",
+    "names": {
+      "ko": "조르체페트로프시",
+      "id": "Munisipalitas Gjorče Petrov",
+      "zh-Hans": "乔尔切彼得罗夫市镇"
+    }
+  },
+  {
+    "code": "604",
+    "name": "Gostivar Municipality",
+    "names": {
+      "ja": "ゴスティヴァル",
+      "ko": "고스티바르시",
+      "vi": "Đô thị tự trị Gostivar",
+      "id": "Kotamadya Gostivar",
+      "zh-Hans": "戈斯蒂瓦尔市镇"
+    }
+  },
+  {
+    "code": "102",
+    "name": "Gradsko Municipality",
+    "names": {
+      "ja": "グラドスコ",
+      "ko": "그라드스코시",
+      "vi": "Đô thị tự trị Gradsko",
+      "id": "Kotamadya Gradsko",
+      "zh-Hans": "格拉德斯科市镇",
+      "zh-Hant": "格拉德斯科市鎮"
+    }
+  },
+  {
+    "code": "807",
+    "name": "Ilinden Municipality",
+    "names": {
+      "ja": "イリンデン",
+      "ko": "일린덴시",
+      "vi": "Đô thị tự trị Ilinden",
+      "id": "Kotamadya Ilinden",
+      "zh-Hans": "伊林登市镇"
+    }
+  },
+  {
+    "code": "606",
+    "name": "Jegunovce Municipality",
+    "names": {
+      "ja": "イェグノヴツェ",
+      "ko": "예구노프체시",
+      "vi": "Đô thị tự trị Jegunovce",
+      "id": "Kotamadya Jegunovce",
+      "zh-Hans": "耶古诺夫采市镇"
+    }
+  },
+  {
+    "code": "205",
+    "name": "Karbinci Municipality",
+    "names": {
+      "ja": "カルビンツィ",
+      "ko": "카르빈치시",
+      "vi": "Karbinci",
+      "id": "Karbinci",
+      "zh-Hans": "卡尔宾齐市镇",
+      "zh-Hant": "卡爾賓齊市鎮"
+    }
+  },
+  {
+    "code": "808",
+    "name": "Karpoš Municipality",
+    "names": {
+      "ko": "카르포시시",
+      "id": "Munisipalitas Karpoš",
+      "zh-Hans": "卡尔波什市镇",
+      "zh-Hant": "卡爾波什市鎮"
+    }
+  },
+  {
+    "code": "104",
+    "name": "Kavadarci Municipality",
+    "names": {
+      "ja": "カヴァダルツィ",
+      "ko": "카바다르치시",
+      "vi": "Đô thị tự trị Kavadarci",
+      "id": "Kotamadya Kavadarci",
+      "zh-Hans": "卡瓦达尔齐市镇",
+      "zh-Hant": "卡瓦達爾齊市鎮"
+    }
+  },
+  {
+    "code": "307",
+    "name": "Kičevo Municipality",
+    "names": {
+      "ja": "キチェボ",
+      "ko": "키체보시",
+      "vi": "Đô thị tự trị Kicevo",
+      "id": "Kotamadya Kičevo",
+      "zh-Hans": "基切沃市镇",
+      "zh-Hant": "基切沃市鎮"
+    }
+  },
+  {
+    "code": "809",
+    "name": "Kisela Voda Municipality",
+    "names": {
+      "ko": "키셀라보다시",
+      "id": "Munisipalitas Kisela Voda",
+      "zh-Hans": "基塞拉沃达市镇"
+    }
+  },
+  {
+    "code": "206",
+    "name": "Kočani Municipality",
+    "names": {
+      "ja": "クアツェーニ",
+      "ko": "코차니시",
+      "vi": "Đô thị tự trị Kocani",
+      "id": "Kotamadya Kočani",
+      "zh-Hans": "科查尼市镇"
+    }
+  },
+  {
+    "code": "407",
+    "name": "Konče Municipality",
+    "names": {
+      "ja": "コンチェ",
+      "ko": "콘체시",
+      "vi": "Đô thị tự trị Konce",
+      "id": "Kotamadya Konče",
+      "zh-Hans": "孔切市镇",
+      "zh-Hant": "孔切市鎮"
+    }
+  },
+  {
+    "code": "701",
+    "name": "Kratovo Municipality",
+    "names": {
+      "ja": "クラトヴォ",
+      "ko": "크라토보시",
+      "vi": "Đô thị tự trị Kratovo",
+      "id": "Kotamadya Kratovo",
+      "zh-Hans": "克拉托沃市镇",
+      "zh-Hant": "克拉托沃市鎮"
+    }
+  },
+  {
+    "code": "702",
+    "name": "Kriva Palanka Municipality",
+    "names": {
+      "ja": "クリヴァ・パランカ",
+      "ko": "크리바팔란카시",
+      "vi": "Đô thị tự trị Kriva Palanka",
+      "id": "Kotamadya Kriva Palanka",
+      "zh-Hans": "克里瓦帕兰卡市镇",
+      "zh-Hant": "克里瓦帕蘭卡市鎮"
+    }
+  },
+  {
+    "code": "504",
+    "name": "Krivogaštani Municipality",
+    "names": {
+      "ja": "クリヴォガシュタニ",
+      "ko": "크리보가슈타니시",
+      "vi": "Đô thị tự trị Krivogastani",
+      "id": "Kotamadya Krivogaštani",
+      "zh-Hans": "克里沃加什塔尼市镇",
+      "zh-Hant": "克里沃加什塔尼市鎮"
+    }
+  },
+  {
+    "code": "505",
+    "name": "Kruševo Municipality",
+    "names": {
+      "ja": "クルシェヴォ",
+      "ko": "크루셰보시",
+      "vi": "Đô thị tự trị Krusevo",
+      "id": "Kotamadya Kruševo",
+      "zh-Hans": "克鲁舍沃市镇",
+      "zh-Hant": "克魯舍沃市鎮"
+    }
+  },
+  {
+    "code": "703",
+    "name": "Kumanovo Municipality",
+    "names": {
+      "ja": "クマノヴォ",
+      "ko": "쿠마노보시",
+      "vi": "Đô thị tự trị Kumanovo",
+      "id": "Kotamadya Kumanovo",
+      "zh-Hans": "库马诺沃市镇",
+      "zh-Hant": "庫馬諾沃市鎮"
+    }
+  },
+  {
+    "code": "704",
+    "name": "Lipkovo Municipality",
+    "names": {
+      "ja": "リプコヴォ",
+      "ko": "립코보시",
+      "vi": "Đô thị tự trị Lipkovo",
+      "id": "Kotamadya Lipkovo",
+      "zh-Hans": "利普科沃市镇",
+      "zh-Hant": "利普科沃市鎮"
+    }
+  },
+  {
+    "code": "105",
+    "name": "Lozovo Municipality",
+    "names": {
+      "ja": "ロゾヴォ",
+      "ko": "로조보시",
+      "vi": "Đô thị tự trị Lozovo",
+      "id": "Kotamadya Lozovo",
+      "zh-Hans": "洛佐沃市镇",
+      "zh-Hant": "洛佐沃市鎮"
+    }
+  },
+  {
+    "code": "207",
+    "name": "Makedonska Kamenica Municipality",
+    "names": {
+      "ja": "マケドンスカ・カメニツァ",
+      "ko": "마케돈스카카메니차시",
+      "vi": "Đô thị tự trị Makedonska Kamenica",
+      "id": "Kotamadya Makedonska Kamenica",
+      "zh-Hans": "马其顿卡梅尼察市镇",
+      "zh-Hant": "馬其頓卡梅尼察市鎮"
+    }
+  },
+  {
+    "code": "308",
+    "name": "Makedonski Brod Municipality",
+    "names": {
+      "ja": "マケドンスキ・ブロド",
+      "ko": "마케돈스키브로드시",
+      "vi": "Đô thị tự trị Makedonski Brod",
+      "id": "Kotamadya Makedonski Brod",
+      "zh-Hans": "马其顿布罗德市镇",
+      "zh-Hant": "馬其頓布羅德市鎮"
+    }
+  },
+  {
+    "code": "607",
+    "name": "Mavrovo i Rostuše Municipality",
+    "names": {
+      "ja": "マヴロヴォ・ロストゥシャ",
+      "ko": "마브로보로스투샤시",
+      "vi": "Đô thị tự trị Mavrovo và Rostusa",
+      "id": "Kotamadya Mavrovo dan Rostuša",
+      "zh-Hans": "马夫罗沃和罗斯图沙市镇",
+      "zh-Hant": "馬夫羅沃和羅斯圖沙市鎮"
+    }
+  },
+  {
+    "code": "506",
+    "name": "Mogila Municipality",
+    "names": {
+      "ja": "モギラ",
+      "ko": "모길라시",
+      "id": "Munisipalitas Mogila",
+      "zh-Hans": "莫吉拉市镇"
+    }
+  },
+  {
+    "code": "106",
+    "name": "Negotino Municipality",
+    "names": {
+      "ja": "ネゴティノ",
+      "ko": "네고티노시",
+      "vi": "Đô thị tự trị Negotino",
+      "id": "Kotamadya Negotino",
+      "zh-Hans": "内戈蒂诺市镇"
+    }
+  },
+  {
+    "code": "507",
+    "name": "Novaci Municipality",
+    "names": {
+      "ja": "ノヴァツィ",
+      "ko": "노바치시",
+      "id": "Munisipalitas Novaci",
+      "zh-Hans": "诺瓦齐市镇",
+      "zh-Hant": "諾瓦齊市鎮"
+    }
+  },
+  {
+    "code": "408",
+    "name": "Novo Selo Municipality",
+    "names": {
+      "ja": "ノヴォ・セロ",
+      "ko": "노보셀로시",
+      "vi": "Novo Selo",
+      "id": "Kotamadya Novo Selo",
+      "zh-Hans": "诺沃塞洛市镇",
+      "zh-Hant": "諾沃塞洛市鎮"
+    }
+  },
+  {
+    "code": "310",
+    "name": "Ohrid Municipality",
+    "names": {
+      "ja": "オフリド",
+      "ko": "오흐리드시",
+      "vi": "Đô thị tự trị Ohrid",
+      "id": "Kotamadya Ohrid",
+      "zh-Hans": "奥赫里德市镇"
+    }
+  },
+  {
+    "code": "208",
+    "name": "Pehčevo Municipality",
+    "names": {
+      "ja": "ペフチェヴォ",
+      "ko": "페흐체보시",
+      "vi": "Đô thị tự trị Pehcevo",
+      "id": "Kotamadya Pehčevo",
+      "zh-Hans": "佩赫切沃市镇"
+    }
+  },
+  {
+    "code": "810",
+    "name": "Petrovec Municipality",
+    "names": {
+      "ja": "ペトロヴェツ",
+      "ko": "페트로베츠시",
+      "id": "Munisipalitas Petrovec",
+      "zh-Hans": "彼得罗韦茨市镇",
+      "zh-Hant": "彼得羅韋茨市鎮"
+    }
+  },
+  {
+    "code": "311",
+    "name": "Plasnica Municipality",
+    "names": {
+      "ja": "プラスニツァ",
+      "ko": "플라스니차시",
+      "vi": "Đô thị tự trị Plasnica",
+      "id": "Kotamadya Plasnica",
+      "zh-Hans": "普拉斯尼察市镇",
+      "zh-Hant": "普拉斯尼察市鎮"
+    }
+  },
+  {
+    "code": "508",
+    "name": "Prilep Municipality",
+    "names": {
+      "ja": "プリレプ",
+      "ko": "프릴레프시",
+      "vi": "Đô thị tự trị Prilep",
+      "id": "Kotamadya Prilep",
+      "zh-Hans": "普里莱普市镇"
+    }
+  },
+  {
+    "code": "209",
+    "name": "Probištip Municipality",
+    "names": {
+      "ja": "プロビシュティプ",
+      "ko": "프로비슈티프시",
+      "vi": "Probistip Đô thị tự trị",
+      "id": "Kotamadya Probištip",
+      "zh-Hans": "普罗比什蒂普市镇",
+      "zh-Hant": "普罗比什蒂普市镇"
+    }
+  },
+  {
+    "code": "409",
+    "name": "Radoviš Municipality",
+    "names": {
+      "ja": "ラドヴィシュ",
+      "ko": "라도비시시",
+      "vi": "Đô thị tự trị Radovis",
+      "id": "Kotamadya Radoviš",
+      "zh-Hans": "拉多维什市镇",
+      "zh-Hant": "拉多維什市鎮"
+    }
+  },
+  {
+    "code": "705",
+    "name": "Rankovce Municipality",
+    "names": {
+      "ja": "ランコヴツェ",
+      "ko": "란코프체시",
+      "vi": "Đô thị tự trị Rankovce",
+      "id": "Kotamadya Rankovce",
+      "zh-Hans": "兰科夫采市镇",
+      "zh-Hant": "蘭科夫采市鎮"
+    }
+  },
+  {
+    "code": "509",
+    "name": "Resen Municipality",
+    "names": {
+      "ja": "レセン",
+      "ko": "레센시",
+      "vi": "Đô thị tự trị Resen",
+      "id": "Kotamadya Resen",
+      "zh-Hans": "雷森市镇"
+    }
+  },
+  {
+    "code": "107",
+    "name": "Rosoman Municipality",
+    "names": {
+      "ja": "ロソマン",
+      "ko": "로소만시",
+      "id": "Munisipalitas Rosoman",
+      "zh-Hans": "罗索曼市镇",
+      "zh-Hant": "羅索曼市鎮"
+    }
+  },
+  {
+    "code": "811",
+    "name": "Saraj Municipality",
+    "names": {
+      "ko": "사라이시",
+      "id": "Munisipalitas Saraj",
+      "zh-Hans": "萨拉伊市镇",
+      "zh-Hant": "薩拉伊市鎮"
+    }
+  },
+  {
+    "code": "812",
+    "name": "Sopište Municipality",
+    "names": {
+      "ja": "ソピシュテ",
+      "ko": "소피슈테시",
+      "vi": "Đô thị tự trị Sopiste",
+      "id": "Kotamadya Sopište",
+      "zh-Hans": "索皮什泰市镇",
+      "zh-Hant": "索皮什泰市鎮"
+    }
+  },
+  {
+    "code": "706",
+    "name": "Staro Nagoričane Municipality",
+    "names": {
+      "ja": "スタロ・ナゴリチャネ",
+      "ko": "스타로나고리차네시",
+      "id": "Munisipalitas Staro Nagoričane",
+      "zh-Hans": "旧纳戈里查内市镇"
+    }
+  },
+  {
+    "code": "211",
+    "name": "Štip Municipality",
+    "names": {
+      "ja": "シュティプ",
+      "ko": "슈티프시",
+      "vi": "Đô thị tự trị Stip",
+      "id": "Kotamadya Štip",
+      "zh-Hans": "什蒂普市镇",
+      "zh-Hant": "什蒂普市鎮"
+    }
+  },
+  {
+    "code": "312",
+    "name": "Struga Municipality",
+    "names": {
+      "ja": "ストルガ基礎自治体",
+      "ko": "스트루가시",
+      "vi": "Đô thị tự trị Struga",
+      "id": "Kotamadya Struga",
+      "zh-Hans": "斯特鲁加市镇"
+    }
+  },
+  {
+    "code": "410",
+    "name": "Strumica Municipality",
+    "names": {
+      "ja": "ストルミツァ",
+      "ko": "스트루미차시",
+      "vi": "Đô thị tự trị Strumica",
+      "id": "Kotamadya Strumica",
+      "zh-Hans": "斯特鲁米察市镇",
+      "zh-Hant": "斯特魯米察市鎮"
+    }
+  },
+  {
+    "code": "813",
+    "name": "Studeničani Municipality",
+    "names": {
+      "ja": "ストゥデニチャニ",
+      "ko": "스투데니차니시",
+      "vi": "Đô thị tự trị Studenicani",
+      "id": "Kotamadya Studeničani",
+      "zh-Hans": "斯图代尼查尼市镇",
+      "zh-Hant": "斯圖代尼查尼市鎮"
+    }
+  },
+  {
+    "code": "817",
+    "name": "Šuto Orizari Municipality",
+    "names": {
+      "ja": "シュトオリザリ",
+      "ko": "슈토오리자리시",
+      "id": "Munisipalitas Šuto Orizari",
+      "zh-Hans": "舒托奥里扎里市镇",
+      "zh-Hant": "舒托奧里扎里市鎮"
+    }
+  },
+  {
+    "code": "108",
+    "name": "Sveti Nikole Municipality",
+    "names": {
+      "ja": "スヴェティ・ニコレ",
+      "ko": "스베티니콜레시",
+      "vi": "Đô thị tự trị Sveti Nikole",
+      "id": "Kotamadya Sveti Nikole",
+      "zh-Hans": "圣尼古莱市镇",
+      "zh-Hant": "聖尼古萊市鎮"
+    }
+  },
+  {
+    "code": "608",
+    "name": "Tearce Municipality",
+    "names": {
+      "ja": "テアルツェ",
+      "ko": "테아르체시",
+      "vi": "Đô thị tự trị Tearce",
+      "id": "Kotamadya Tearce",
+      "zh-Hans": "泰阿尔采市镇",
+      "zh-Hant": "泰阿爾采市鎮"
+    }
+  },
+  {
+    "code": "609",
+    "name": "Tetovo Municipality",
+    "names": {
+      "ja": "テトヴォ",
+      "ko": "테토보시",
+      "vi": "Đô thị tự trị Tetovo",
+      "id": "Kotamadya Tetovo",
+      "zh-Hans": "泰托沃市镇",
+      "zh-Hant": "泰托沃市鎮"
+    }
+  },
+  {
+    "code": "403",
+    "name": "Valandovo Municipality",
+    "names": {
+      "ja": "ヴァランドヴォ",
+      "ko": "발란도보시",
+      "id": "Munisipalitas Valandovo",
+      "zh-Hans": "瓦兰多沃市镇",
+      "zh-Hant": "瓦蘭多沃市鎮"
+    }
+  },
+  {
+    "code": "404",
+    "name": "Vasilevo Municipality",
+    "names": {
+      "ja": "ヴァシレヴォ",
+      "ko": "바실레보시",
+      "vi": "Đô thị tự trị Vasilevo",
+      "id": "Kotamadya Vasilevo",
+      "zh-Hans": "瓦西莱沃市镇",
+      "zh-Hant": "瓦西萊沃市鎮"
+    }
+  },
+  {
+    "code": "101",
+    "name": "Veles Municipality",
+    "names": {
+      "ko": "벨레스시",
+      "id": "Munisipalitas Veles",
+      "zh-Hans": "韦莱斯市镇",
+      "zh-Hant": "韋萊斯市鎮"
+    }
+  },
+  {
+    "code": "301",
+    "name": "Vevčani Municipality",
+    "names": {
+      "ja": "ヴェヴチャニ",
+      "ko": "베브차니시",
+      "id": "Munisipalitas Vevčani",
+      "zh-Hans": "韦夫查尼市镇"
+    }
+  },
+  {
+    "code": "202",
+    "name": "Vinica Municipality",
+    "names": {
+      "ja": "ヴィニツァ",
+      "ko": "비니차시",
+      "vi": "Đô thị tự trị Vinica",
+      "id": "Kotamadya Vinica",
+      "zh-Hans": "维尼察市镇",
+      "zh-Hant": "維尼察市鎮"
+    }
+  },
+  {
+    "code": "603",
+    "name": "Vrapčište Municipality",
+    "names": {
+      "ja": "ヴラプチシュテ",
+      "ko": "브랍치슈테시",
+      "id": "Munisipalitas Vrapčište",
+      "zh-Hans": "弗拉普契什泰市鎮",
+      "zh-Hant": "弗拉普契什泰市鎮"
+    }
+  },
+  {
+    "code": "806",
+    "name": "Zelenikovo Municipality",
+    "names": {
+      "ja": "ゼレニコヴォ",
+      "ko": "젤레니코보시",
+      "vi": "Đô thị tự trị Zelenikovo",
+      "id": "Kotamadya Zelenikovo",
+      "zh-Hans": "泽莱尼科沃市镇"
+    }
+  },
+  {
+    "code": "605",
+    "name": "Želino Municipality",
+    "names": {
+      "ja": "ジェリノ",
+      "ko": "젤리노시",
+      "vi": "Đô thị tự trị Zelino",
+      "id": "Kotamadya Želino",
+      "zh-Hans": "热利诺市镇",
+      "zh-Hant": "熱利諾市鎮"
+    }
+  },
+  {
+    "code": "204",
+    "name": "Zrnovci Municipality",
+    "names": {
+      "ja": "ズルノヴツィ",
+      "ko": "즈르노프치시",
+      "vi": "Đô thị tự trị Zrnovci",
+      "id": "Kotamadya Zrnovci",
+      "zh-Hans": "兹尔诺夫齐市镇"
+    }
+  }
+]

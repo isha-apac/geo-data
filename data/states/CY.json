@@ -1,0 +1,66 @@
+[
+  {
+    "code": "04",
+    "name": "Famagusta District",
+    "names": {
+      "ja": "ファマグスタ地区",
+      "ko": "파마구스타구",
+      "id": "Distrik Famagusta",
+      "zh-Hans": "法马古斯塔区"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Kyrenia District",
+    "names": {
+      "ja": "キレニア地区",
+      "ko": "키레니아구",
+      "vi": "Huyện Kyrenia",
+      "id": "Distrik Kyrenia",
+      "zh-Hans": "凯里尼亚区"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Larnaca District",
+    "names": {
+      "ja": "ラルナカ地区",
+      "ko": "라르나카구",
+      "vi": "Quận Larnaca",
+      "id": "Distrik Larnaka",
+      "zh-Hans": "拉纳卡区"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Limassol District",
+    "names": {
+      "ja": "リマソール地区",
+      "ko": "리마솔구",
+      "vi": "Quận Limassol",
+      "id": "Distrik Limassol",
+      "zh-Hans": "利马索尔区"
+    }
+  },
+  {
+    "code": "01",
+    "name": "Nicosia District",
+    "names": {
+      "ja": "ニコシア地区",
+      "ko": "니코시아구",
+      "vi": "Nicosia",
+      "id": "Distrik Nikosia",
+      "zh-Hans": "尼科西亚区"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Paphos District",
+    "names": {
+      "ja": "パフォス地区",
+      "ko": "파포스구",
+      "id": "Distrik Paphos",
+      "zh-Hans": "帕福斯区"
+    }
+  }
+]

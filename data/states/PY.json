@@ -1,0 +1,210 @@
+[
+  {
+    "code": "16",
+    "name": "Alto Paraguay Department",
+    "names": {
+      "ja": "アルト・パラグアイ県",
+      "ko": "알토파라과이주",
+      "vi": "Alto Paraguai",
+      "id": "Departemen Alto Paraguay",
+      "zh-Hans": "上巴拉圭省"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Alto Paraná Department",
+    "names": {
+      "ja": "アルト・パラナ県",
+      "ko": "알토파라나주",
+      "vi": "Alto Paraná",
+      "id": "Departemen Alto Paraná",
+      "zh-Hans": "上巴拉那省",
+      "zh-Hant": "上巴拉那省"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Amambay Department",
+    "names": {
+      "ja": "アマンバイ県",
+      "ko": "아맘바이주",
+      "vi": "Amambay",
+      "id": "Departemen Amambay",
+      "zh-Hans": "阿曼拜省",
+      "zh-Hant": "阿曼拜省"
+    }
+  },
+  {
+    "code": "ASU",
+    "name": "Asunción",
+    "names": {
+      "ja": "アスンシオン",
+      "ko": "아순시온",
+      "vi": "Asunción",
+      "id": "Asunción",
+      "zh-Hans": "亚松森",
+      "zh-Hant": "亞松森"
+    }
+  },
+  {
+    "code": "19",
+    "name": "Boquerón Department",
+    "names": {
+      "ja": "ボケローン県",
+      "ko": "보케론주",
+      "vi": "XVI Boquerón",
+      "id": "Departemen Boquerón",
+      "zh-Hans": "博克龙省",
+      "zh-Hant": "博克龍省"
+    }
+  },
+  {
+    "code": "5",
+    "name": "Caaguazú Department",
+    "names": {
+      "ja": "カアグアスー県",
+      "ko": "카과수주",
+      "vi": "Caaguazú",
+      "id": "Departemen Caaguazú",
+      "zh-Hans": "卡瓜苏省",
+      "zh-Hant": "卡瓜蘇省"
+    }
+  },
+  {
+    "code": "6",
+    "name": "Caazapá Department",
+    "names": {
+      "ja": "カアサパー県",
+      "ko": "카사파주",
+      "vi": "Caazapá",
+      "id": "Departemen Caazapá",
+      "zh-Hans": "卡萨帕省"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Canindeyú Department",
+    "names": {
+      "ja": "カニンデジュ県",
+      "ko": "카닌데유주",
+      "vi": "Canindeyú",
+      "id": "Departemen Canindeyú",
+      "zh-Hans": "卡宁德尤省",
+      "zh-Hant": "加寧德優省"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Central Department",
+    "names": {
+      "ja": "セントラル県",
+      "ko": "센트랄주",
+      "vi": "Khu vực hành chính Miền Trung",
+      "id": "Departemen Central",
+      "zh-Hans": "中央省"
+    }
+  },
+  {
+    "code": "1",
+    "name": "Concepción Department",
+    "names": {
+      "ja": "コンセプシオン県",
+      "ko": "콘셉시온주",
+      "id": "Departemen Concepción",
+      "zh-Hans": "康塞普西翁省",
+      "zh-Hant": "康塞普西翁省"
+    }
+  },
+  {
+    "code": "3",
+    "name": "Cordillera Department",
+    "names": {
+      "ja": "コルディリェラ県",
+      "ko": "코르디예라주",
+      "vi": "Cordillera",
+      "id": "Departemen Cordillera",
+      "zh-Hans": "科迪勒拉省",
+      "zh-Hant": "科迪勒拉省"
+    }
+  },
+  {
+    "code": "4",
+    "name": "Guairá Department",
+    "names": {
+      "ja": "グアイラー県",
+      "ko": "과이라주",
+      "vi": "Guaira",
+      "id": "Departemen Guairá",
+      "zh-Hans": "瓜伊拉省",
+      "zh-Hant": "瓜伊拉省"
+    }
+  },
+  {
+    "code": "7",
+    "name": "Itapúa Department",
+    "names": {
+      "ja": "イタプア県",
+      "ko": "이타푸아주",
+      "vi": "Itapúa",
+      "id": "Departemen Itapúa",
+      "zh-Hans": "伊塔普阿省"
+    }
+  },
+  {
+    "code": "8",
+    "name": "Misiones Department",
+    "names": {
+      "ja": "ミシオネス県",
+      "ko": "미시오네스주",
+      "vi": "Misiones",
+      "id": "Departemen Misiones",
+      "zh-Hans": "米西奥内斯省"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Ñeembucú Department",
+    "names": {
+      "ja": "ニェエンブクー県",
+      "ko": "녬부쿠주",
+      "vi": "Neembucú",
+      "id": "Departemen Ñeembucú",
+      "zh-Hans": "涅恩布库省",
+      "zh-Hant": "涅恩布庫省"
+    }
+  },
+  {
+    "code": "9",
+    "name": "Paraguarí Department",
+    "names": {
+      "ja": "パラグアリー県",
+      "ko": "파라과리주",
+      "id": "Departemen Paraguarí",
+      "zh-Hans": "巴拉瓜里省"
+    }
+  },
+  {
+    "code": "15",
+    "name": "Presidente Hayes Department",
+    "names": {
+      "ja": "プレシデンテ・アジェス県",
+      "ko": "프레시덴테아예스주",
+      "vi": "Presidente Hayes",
+      "id": "Departemen Presidente Hayes",
+      "zh-Hans": "阿耶斯总统省",
+      "zh-Hant": "阿耶斯總統省"
+    }
+  },
+  {
+    "code": "2",
+    "name": "San Pedro Department",
+    "names": {
+      "ja": "サン・ペドロ県",
+      "ko": "산페드로주",
+      "vi": "San Pedro",
+      "id": "Departemen San Pedro",
+      "zh-Hans": "圣佩德罗省",
+      "zh-Hant": "聖佩德羅省"
+    }
+  }
+]

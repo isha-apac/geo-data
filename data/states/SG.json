@@ -1,0 +1,53 @@
+[
+  {
+    "code": "01",
+    "name": "Central Singapore Community Development Council",
+    "names": {
+      "ja": "シンガポール中央地区",
+      "ko": "중앙싱가포르 지구 사회 발전 이사회",
+      "id": "Dewan Pengembangan Masyarakat Singapura Tengah",
+      "zh-Hans": "中区社区发展理事会",
+      "zh-Hant": "中區社區發展理事會"
+    }
+  },
+  {
+    "code": "02",
+    "name": "North East Community Development Council",
+    "names": {
+      "ja": "北東地区",
+      "ko": "북동부 지구 사회 발전 이사회",
+      "id": "Dewan Pengembangan Masyarakat Timur Laut",
+      "zh-Hans": "东北社区发展理事会"
+    }
+  },
+  {
+    "code": "03",
+    "name": "North West Community Development Council",
+    "names": {
+      "ja": "北西地区",
+      "ko": "북서부 지구 사회 발전 이사회",
+      "id": "Dewan Pengembangan Masyarakat Barat Laut",
+      "zh-Hans": "西北社区发展理事会"
+    }
+  },
+  {
+    "code": "04",
+    "name": "South East Community Development Council",
+    "names": {
+      "ja": "南東地区",
+      "ko": "남동부 지구 사회 발전 이사회",
+      "id": "Dewan Pengembangan Masyarakat Tenggara",
+      "zh-Hans": "东南社区发展理事会"
+    }
+  },
+  {
+    "code": "05",
+    "name": "South West Community Development Council",
+    "names": {
+      "ja": "南西地区",
+      "ko": "남서부 지구 사회 발전 이사회",
+      "id": "Dewan Pengembangan Masyarakat Barat Daya",
+      "zh-Hans": "西南社区发展理事会"
+    }
+  }
+]

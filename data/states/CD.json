@@ -1,0 +1,288 @@
+[
+  {
+    "code": "BU",
+    "name": "Bas-Uele",
+    "names": {
+      "ja": "低ウエレ州",
+      "ko": "바스우엘레 주",
+      "vi": "Hạ Uélé",
+      "id": "Provinsi Bas-Uélé",
+      "zh-Hans": "下韦莱省"
+    }
+  },
+  {
+    "code": "EQ",
+    "name": "Équateur",
+    "names": {
+      "ja": "赤道州",
+      "ko": "에카퇴르주",
+      "vi": "Équateur",
+      "id": "Équateur",
+      "zh-Hans": "赤道省"
+    }
+  },
+  {
+    "code": "HK",
+    "name": "Haut-Katanga Province",
+    "names": {
+      "ja": "上カタンガ州",
+      "ko": "오카탕가주",
+      "vi": "Thượng Katanga",
+      "id": "Provinsi Haut-Katanga",
+      "zh-Hans": "上加丹加省",
+      "zh-Hant": "上加丹加省"
+    }
+  },
+  {
+    "code": "HL",
+    "name": "Haut-Lomami Province",
+    "names": {
+      "ja": "上ロマミ州",
+      "ko": "오로마미주",
+      "id": "Provinsi Haut-Lomami",
+      "zh-Hans": "上洛马米省"
+    }
+  },
+  {
+    "code": "HU",
+    "name": "Haut-Uele",
+    "names": {
+      "ja": "高ウエレ州",
+      "ko": "오트우엘레주",
+      "vi": "Thượng Uele",
+      "id": "Provinsi Haut-Uélé",
+      "zh-Hans": "上韦莱省",
+      "zh-Hant": "上韋萊省"
+    }
+  },
+  {
+    "code": "IT",
+    "name": "Ituri Province",
+    "names": {
+      "ja": "イトゥリ州",
+      "ko": "이투리주",
+      "vi": "Ituri",
+      "id": "Provinsi Ituri",
+      "zh-Hans": "伊图里省"
+    }
+  },
+  {
+    "code": "KS",
+    "name": "Kasaï",
+    "names": {}
+  },
+  {
+    "code": "KC",
+    "name": "Kasaï-Central",
+    "names": {
+      "ja": "中央カサイ州",
+      "ko": "카사이상트랄 주",
+      "vi": "Trung Kasaï",
+      "zh-Hans": "卢卢阿省",
+      "zh-Hant": "盧盧阿省"
+    }
+  },
+  {
+    "code": "KE",
+    "name": "Kasai-Oriental",
+    "names": {
+      "ja": "東カサイ州",
+      "ko": "카사이오리앙탈 주",
+      "vi": "Đông Kasaï",
+      "zh-Hans": "东开赛省",
+      "zh-Hant": "東開賽省"
+    }
+  },
+  {
+    "code": "KN",
+    "name": "Kinshasa",
+    "names": {
+      "ja": "キンシャサ",
+      "ko": "킨샤사",
+      "vi": "Kinshasa",
+      "id": "Kinshasa",
+      "zh-Hans": "金沙萨",
+      "zh-Hant": "金夏沙"
+    }
+  },
+  {
+    "code": "BC",
+    "name": "Kongo Central",
+    "names": {
+      "ja": "コンゴ中央州",
+      "ko": "중앙콩고주",
+      "vi": "Trung Kongo",
+      "id": "Kongo Central",
+      "zh-Hans": "中刚果省",
+      "zh-Hant": "中剛果省"
+    }
+  },
+  {
+    "code": "KG",
+    "name": "Kwango Province",
+    "names": {
+      "ja": "クワンゴ州",
+      "ko": "쾅고주",
+      "vi": "Kwango",
+      "id": "Provinsi Kwango",
+      "zh-Hans": "宽果省"
+    }
+  },
+  {
+    "code": "KL",
+    "name": "Kwilu",
+    "names": {
+      "ja": "クウィル州",
+      "ko": "퀼루주",
+      "vi": "Kwilu",
+      "id": "Provinsi Kwilu",
+      "zh-Hans": "奎卢省"
+    }
+  },
+  {
+    "code": "LO",
+    "name": "Lomami Province",
+    "names": {
+      "ja": "カビンダ州",
+      "ko": "로마미주",
+      "vi": "Lomami",
+      "id": "Provinsi Lomami",
+      "zh-Hans": "洛马米省",
+      "zh-Hant": "洛馬米省"
+    }
+  },
+  {
+    "code": "LU",
+    "name": "Lualaba Province",
+    "names": {
+      "ja": "ルアラバ州",
+      "ko": "루알라바주",
+      "id": "Provinsi Lualaba",
+      "zh-Hans": "卢阿拉巴省"
+    }
+  },
+  {
+    "code": "MN",
+    "name": "Mai-Ndombe Province",
+    "names": {
+      "ja": "マイ＝ンドンベ州",
+      "ko": "마이은돔베주",
+      "vi": "Mai-Ndombe",
+      "id": "Provinsi Mai-Ndombe",
+      "zh-Hans": "马伊恩东贝省"
+    }
+  },
+  {
+    "code": "MA",
+    "name": "Maniema",
+    "names": {
+      "ja": "マニエマ州",
+      "ko": "마니에마주",
+      "vi": "Maniema",
+      "id": "Maniema",
+      "zh-Hans": "马涅马省",
+      "zh-Hant": "馬涅馬省"
+    }
+  },
+  {
+    "code": "MO",
+    "name": "Mongala",
+    "names": {
+      "ja": "モンガラ州",
+      "ko": "몽갈라주",
+      "id": "Provinsi Mongala",
+      "zh-Hans": "蒙加拉省",
+      "zh-Hant": "蒙加拉省"
+    }
+  },
+  {
+    "code": "NK",
+    "name": "North Kivu",
+    "names": {
+      "ja": "北キヴ州",
+      "ko": "북키부주",
+      "vi": "Bắc Kivu",
+      "id": "Nord-Kivu",
+      "zh-Hans": "北基伍省",
+      "zh-Hant": "北基伍省"
+    }
+  },
+  {
+    "code": "NU",
+    "name": "North Ubangi",
+    "names": {
+      "ja": "北ウバンギ州",
+      "ko": "북우방기주",
+      "id": "Nord-Ubangi",
+      "zh-Hans": "北乌班吉省",
+      "zh-Hant": "北烏班吉省"
+    }
+  },
+  {
+    "code": "SA",
+    "name": "Sankuru",
+    "names": {
+      "ja": "サンクル州",
+      "ko": "상쿠루주",
+      "vi": "Sankuru",
+      "id": "Provinsi Sankuru",
+      "zh-Hans": "桑库鲁省",
+      "zh-Hant": "桑庫魯省"
+    }
+  },
+  {
+    "code": "SK",
+    "name": "South Kivu",
+    "names": {
+      "ja": "南キヴ州",
+      "ko": "남키부주",
+      "vi": "Nam Kivu",
+      "id": "Sud-Kivu",
+      "zh-Hans": "南基伍省",
+      "zh-Hant": "南基伍省"
+    }
+  },
+  {
+    "code": "SU",
+    "name": "South Ubangi",
+    "names": {
+      "ja": "南ウバンギ州",
+      "ko": "남우방기주",
+      "id": "Provinsi Sud-Ubangi",
+      "zh-Hans": "南乌班吉省",
+      "zh-Hant": "南烏班吉省"
+    }
+  },
+  {
+    "code": "TA",
+    "name": "Tanganyika",
+    "names": {
+      "ja": "タンガニーカ州",
+      "ko": "탕가니카주",
+      "vi": "Tanganyika",
+      "id": "Provinsi Tanganyika",
+      "zh-Hans": "坦噶尼喀省",
+      "zh-Hant": "坦噶尼喀省"
+    }
+  },
+  {
+    "code": "TO",
+    "name": "Tshopo",
+    "names": {
+      "ja": "ツォポ州",
+      "ko": "초포주",
+      "id": "Provinsi Tshopo",
+      "zh-Hans": "乔波省"
+    }
+  },
+  {
+    "code": "TU",
+    "name": "Tshuapa",
+    "names": {
+      "ja": "ツアパ州",
+      "ko": "추아파주",
+      "id": "Provinsi Tshuapa",
+      "zh-Hans": "楚阿帕省"
+    }
+  }
+]

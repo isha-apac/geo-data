@@ -1,0 +1,254 @@
+[
+  {
+    "code": "K",
+    "name": "Blekinge County",
+    "names": {
+      "ja": "ブレーキンゲ県",
+      "ko": "블레킹에주",
+      "vi": "hạt Blekinge",
+      "id": "Daerah Blekinge",
+      "zh-Hans": "布莱金厄省",
+      "zh-Hant": "布萊金厄省"
+    }
+  },
+  {
+    "code": "W",
+    "name": "Dalarna County",
+    "names": {
+      "ja": "ダーラナ県",
+      "ko": "달라르나주",
+      "vi": "Dalarna",
+      "id": "Daerah Dalarna",
+      "zh-Hans": "达拉纳省",
+      "zh-Hant": "達拉納省"
+    }
+  },
+  {
+    "code": "X",
+    "name": "Gävleborg County",
+    "names": {
+      "ja": "イェヴレボリ県",
+      "ko": "예블레보리주",
+      "vi": "Gävleborg",
+      "id": "Daerah Gävleborg",
+      "zh-Hans": "耶夫勒堡省",
+      "zh-Hant": "耶夫勒堡省"
+    }
+  },
+  {
+    "code": "I",
+    "name": "Gotland County",
+    "names": {
+      "ja": "ゴットランド県",
+      "ko": "고틀란드주",
+      "vi": "Gotland",
+      "id": "Daerah Gotland",
+      "zh-Hans": "哥得兰省",
+      "zh-Hant": "哥得蘭省"
+    }
+  },
+  {
+    "code": "N",
+    "name": "Halland County",
+    "names": {
+      "ja": "ハッランド県",
+      "ko": "할란드주",
+      "vi": "hạt Halland",
+      "id": "Daerah Halland",
+      "zh-Hans": "哈兰省",
+      "zh-Hant": "哈蘭省"
+    }
+  },
+  {
+    "code": "Z",
+    "name": "Jämtland County",
+    "names": {
+      "ja": "イェムトランド県",
+      "ko": "옘틀란드주",
+      "vi": "hạt Jämtland",
+      "id": "Daerah Jämtland",
+      "zh-Hans": "耶姆特兰省",
+      "zh-Hant": "耶姆特蘭省"
+    }
+  },
+  {
+    "code": "F",
+    "name": "Jönköping County",
+    "names": {
+      "ja": "ヨンショーピング県",
+      "ko": "옌셰핑주",
+      "vi": "hạt Jönköping",
+      "id": "Daerah Jönköping",
+      "zh-Hans": "延雪平省",
+      "zh-Hant": "延雪平省"
+    }
+  },
+  {
+    "code": "H",
+    "name": "Kalmar County",
+    "names": {
+      "ja": "カルマル県",
+      "ko": "칼마르주",
+      "vi": "hạt Kalmar",
+      "id": "Daerah Kalmar",
+      "zh-Hans": "卡尔马省",
+      "zh-Hant": "卡爾馬省"
+    }
+  },
+  {
+    "code": "G",
+    "name": "Kronoberg County",
+    "names": {
+      "ja": "クロノベリ県",
+      "ko": "크로노베리주",
+      "vi": "Kronoberg",
+      "id": "Daerah Kronoberg",
+      "zh-Hans": "克鲁努贝里省",
+      "zh-Hant": "克魯努貝里省"
+    }
+  },
+  {
+    "code": "BD",
+    "name": "Norrbotten County",
+    "names": {
+      "ja": "ノールボッテン県",
+      "ko": "노르보텐주",
+      "vi": "Norrbotten",
+      "id": "Daerah Norrbotten",
+      "zh-Hans": "北博滕省",
+      "zh-Hant": "北博滕省"
+    }
+  },
+  {
+    "code": "T",
+    "name": "Örebro County",
+    "names": {
+      "ja": "エレブルー県",
+      "ko": "외레브로주",
+      "vi": "Örebro",
+      "id": "Daerah Örebro",
+      "zh-Hans": "厄勒布鲁省",
+      "zh-Hant": "厄勒布魯省"
+    }
+  },
+  {
+    "code": "E",
+    "name": "Östergötland County",
+    "names": {
+      "ja": "エステルイェータランド県",
+      "ko": "외스테르예틀란드주",
+      "vi": "hạt Östergötland",
+      "id": "Daerah Östergötland",
+      "zh-Hans": "东约特兰省",
+      "zh-Hant": "東約特蘭省"
+    }
+  },
+  {
+    "code": "M",
+    "name": "Skåne County",
+    "names": {
+      "ja": "スコーネ県",
+      "ko": "스코네주",
+      "vi": "hạt Skåne",
+      "id": "County Skåne",
+      "zh-Hans": "斯科讷省",
+      "zh-Hant": "斯堪尼省"
+    }
+  },
+  {
+    "code": "D",
+    "name": "Södermanland County",
+    "names": {
+      "ja": "セーデルマンランド県",
+      "ko": "쇠데르만란드주",
+      "vi": "hạt Södermanland",
+      "id": "Daerah Södermanland",
+      "zh-Hans": "南曼兰省",
+      "zh-Hant": "南曼蘭省"
+    }
+  },
+  {
+    "code": "AB",
+    "name": "Stockholm County",
+    "names": {
+      "ja": "ストックホルム県",
+      "ko": "스톡홀름주",
+      "vi": "hạt Stockholm",
+      "id": "County Stockholm",
+      "zh-Hans": "斯德哥尔摩省",
+      "zh-Hant": "斯德哥爾摩省"
+    }
+  },
+  {
+    "code": "C",
+    "name": "Uppsala County",
+    "names": {
+      "ja": "ウプサラ県",
+      "ko": "웁살라주",
+      "vi": "hạt Uppsala",
+      "id": "Daerah Uppsala",
+      "zh-Hans": "乌普萨拉省",
+      "zh-Hant": "烏普薩拉省"
+    }
+  },
+  {
+    "code": "S",
+    "name": "Värmland County",
+    "names": {
+      "ja": "ヴェルムランド県",
+      "ko": "베름란드주",
+      "vi": "hạt Värmland",
+      "id": "Daerah Värmland",
+      "zh-Hans": "韦姆兰省",
+      "zh-Hant": "韋姆蘭省"
+    }
+  },
+  {
+    "code": "AC",
+    "name": "Västerbotten County",
+    "names": {
+      "ja": "ヴェステルボッテン県",
+      "ko": "베스테르보텐주",
+      "vi": "Västerbotten",
+      "id": "Daerah Västerbotten",
+      "zh-Hans": "西博滕省",
+      "zh-Hant": "西博滕省"
+    }
+  },
+  {
+    "code": "Y",
+    "name": "Västernorrland County",
+    "names": {
+      "ja": "ヴェステルノールランド県",
+      "ko": "베스테르노를란드주",
+      "vi": "Västernorrland",
+      "id": "Daerah Västernorrland",
+      "zh-Hans": "西诺尔兰省",
+      "zh-Hant": "西諾爾蘭省"
+    }
+  },
+  {
+    "code": "U",
+    "name": "Västmanland County",
+    "names": {
+      "ja": "ヴェストマンランド県",
+      "ko": "베스트만란드주",
+      "vi": "Västmanland",
+      "id": "Daerah Västmanland",
+      "zh-Hans": "西曼兰省",
+      "zh-Hant": "西曼蘭省"
+    }
+  },
+  {
+    "code": "O",
+    "name": "Västra Götaland County",
+    "names": {
+      "ja": "ヴェストラ・イェータランド県",
+      "ko": "베스트라예탈란드주",
+      "vi": "hạt Västra Götaland",
+      "id": "Daerah Västra Götaland",
+      "zh-Hans": "西约塔兰省",
+      "zh-Hant": "西約塔蘭省"
+    }
+  }
+]

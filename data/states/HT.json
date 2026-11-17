@@ -1,0 +1,118 @@
+[
+  {
+    "code": "AR",
+    "name": "Artibonite",
+    "names": {
+      "ja": "アルティボニット県",
+      "ko": "아르티보니트주",
+      "vi": "Artibonite",
+      "id": "Departemen Artibonite",
+      "zh-Hans": "阿蒂博尼特省",
+      "zh-Hant": "阿蒂博尼特省"
+    }
+  },
+  {
+    "code": "CE",
+    "name": "Centre",
+    "names": {
+      "ja": "中央県",
+      "ko": "중앙주",
+      "vi": "Centre",
+      "id": "Departemen Centre",
+      "zh-Hans": "中央省",
+      "zh-Hant": "中央省"
+    }
+  },
+  {
+    "code": "GA",
+    "name": "Grand'Anse",
+    "names": {
+      "ja": "グランダンス県",
+      "ko": "그랑당스주",
+      "vi": "Grand'Anse",
+      "id": "Departemen Grand'Anse",
+      "zh-Hans": "格朗当斯省",
+      "zh-Hant": "格朗當斯省"
+    }
+  },
+  {
+    "code": "NI",
+    "name": "Nippes",
+    "names": {
+      "ja": "ニップ県",
+      "ko": "니프주",
+      "vi": "Nippes",
+      "id": "Nippes",
+      "zh-Hans": "尼普省"
+    }
+  },
+  {
+    "code": "ND",
+    "name": "Nord",
+    "names": {
+      "ja": "北県",
+      "ko": "북부주",
+      "vi": "Nord",
+      "id": "Nord",
+      "zh-Hans": "北部省"
+    }
+  },
+  {
+    "code": "NE",
+    "name": "Nord-Est",
+    "names": {
+      "ja": "北東県",
+      "ko": "북동부주",
+      "vi": "Nord-Est",
+      "id": "Nord-Est",
+      "zh-Hans": "东北省",
+      "zh-Hant": "東北省"
+    }
+  },
+  {
+    "code": "NO",
+    "name": "Nord-Ouest",
+    "names": {
+      "ja": "北西県",
+      "ko": "북서부주",
+      "vi": "Nord-Ouest",
+      "id": "Nord-Ouest",
+      "zh-Hans": "西北省"
+    }
+  },
+  {
+    "code": "OU",
+    "name": "Ouest",
+    "names": {
+      "ja": "ウエスト県",
+      "ko": "서부주",
+      "vi": "Ouest",
+      "id": "Ouest",
+      "zh-Hans": "西部省"
+    }
+  },
+  {
+    "code": "SD",
+    "name": "Sud",
+    "names": {
+      "ja": "南県",
+      "ko": "남부주",
+      "vi": "Sud",
+      "id": "Sud",
+      "zh-Hans": "南部省",
+      "zh-Hant": "南部省"
+    }
+  },
+  {
+    "code": "SE",
+    "name": "Sud-Est",
+    "names": {
+      "ja": "南東県",
+      "ko": "남동부주",
+      "vi": "Sud-Est",
+      "id": "Sud-Est",
+      "zh-Hans": "东南省",
+      "zh-Hant": "東南省"
+    }
+  }
+]

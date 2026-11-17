@@ -1,0 +1,72 @@
+[
+  {
+    "code": "01",
+    "name": "Blowing Point",
+    "names": {}
+  },
+  {
+    "code": "02",
+    "name": "East End",
+    "names": {}
+  },
+  {
+    "code": "03",
+    "name": "George Hill",
+    "names": {}
+  },
+  {
+    "code": "04",
+    "name": "Island Harbour",
+    "names": {}
+  },
+  {
+    "code": "05",
+    "name": "North Hill",
+    "names": {}
+  },
+  {
+    "code": "06",
+    "name": "North Side",
+    "names": {}
+  },
+  {
+    "code": "07",
+    "name": "Sandy Ground",
+    "names": {}
+  },
+  {
+    "code": "08",
+    "name": "Sandy Hill",
+    "names": {}
+  },
+  {
+    "code": "09",
+    "name": "South Hill",
+    "names": {}
+  },
+  {
+    "code": "10",
+    "name": "Stoney Ground",
+    "names": {}
+  },
+  {
+    "code": "11",
+    "name": "The Farrington",
+    "names": {}
+  },
+  {
+    "code": "12",
+    "name": "The Quarter",
+    "names": {}
+  },
+  {
+    "code": "13",
+    "name": "The Valley",
+    "names": {}
+  },
+  {
+    "code": "14",
+    "name": "West End",
+    "names": {}
+  }
+]

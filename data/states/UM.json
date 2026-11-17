@@ -1,0 +1,110 @@
+[
+  {
+    "code": "81",
+    "name": "Baker Island",
+    "names": {
+      "ja": "ベーカー島",
+      "ko": "베이커섬",
+      "vi": "Đảo Baker",
+      "id": "Pulau Baker",
+      "zh-Hans": "贝克岛",
+      "zh-Hant": "貝克島"
+    }
+  },
+  {
+    "code": "84",
+    "name": "Howland Island",
+    "names": {
+      "ja": "ハウランド島",
+      "ko": "하울랜드섬",
+      "vi": "Đảo Howland",
+      "id": "Pulau Howland",
+      "zh-Hans": "豪兰岛",
+      "zh-Hant": "豪蘭島"
+    }
+  },
+  {
+    "code": "86",
+    "name": "Jarvis Island",
+    "names": {
+      "ja": "ジャーヴィス島",
+      "ko": "자르비스섬",
+      "vi": "Đảo Jarvis",
+      "id": "Pulau Jarvis",
+      "zh-Hans": "贾维斯岛",
+      "zh-Hant": "賈維斯島"
+    }
+  },
+  {
+    "code": "67",
+    "name": "Johnston Atoll",
+    "names": {
+      "ja": "ジョンストン島",
+      "ko": "존스턴 환초",
+      "vi": "Đảo Johnston",
+      "id": "Atol Johnston",
+      "zh-Hans": "约翰斯顿环礁",
+      "zh-Hant": "強斯頓環礁"
+    }
+  },
+  {
+    "code": "89",
+    "name": "Kingman Reef",
+    "names": {
+      "ja": "キングマン・リーフ",
+      "ko": "킹먼 암초",
+      "vi": "Đảo đá Kingman",
+      "id": "Karang Kingman",
+      "zh-Hans": "金曼礁",
+      "zh-Hant": "金曼礁"
+    }
+  },
+  {
+    "code": "71",
+    "name": "Midway Atoll",
+    "names": {
+      "ja": "ミッドウェー島",
+      "ko": "미드웨이 환초",
+      "vi": "Đảo san hô vòng Midway",
+      "id": "Atol Midway",
+      "zh-Hans": "中途岛",
+      "zh-Hant": "中途島"
+    }
+  },
+  {
+    "code": "76",
+    "name": "Navassa Island",
+    "names": {
+      "ja": "ナヴァッサ島",
+      "ko": "나배사섬",
+      "vi": "Đảo Navassa",
+      "id": "Pulau Navassa",
+      "zh-Hans": "纳瓦萨岛",
+      "zh-Hant": "納弗沙島"
+    }
+  },
+  {
+    "code": "95",
+    "name": "Palmyra Atoll",
+    "names": {
+      "ja": "パルミラ環礁",
+      "ko": "팔미라 환초",
+      "vi": "Đảo san hô Palmyra",
+      "id": "Atol Palmyra",
+      "zh-Hans": "巴尔米拉环礁",
+      "zh-Hant": "巴美拉環礁"
+    }
+  },
+  {
+    "code": "79",
+    "name": "Wake Island",
+    "names": {
+      "ja": "ウェーク島",
+      "ko": "웨이크섬",
+      "vi": "đảo Wake",
+      "id": "Pulau Wake",
+      "zh-Hans": "威克岛",
+      "zh-Hant": "威克島"
+    }
+  }
+]

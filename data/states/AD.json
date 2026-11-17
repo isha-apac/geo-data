@@ -1,0 +1,76 @@
+[
+  {
+    "code": "07",
+    "name": "Andorra la Vella",
+    "names": {
+      "ja": "アンドラ・ラ・ベリャ教区",
+      "ko": "안도라라벨랴"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Canillo",
+    "names": {
+      "ja": "カニーリョ教区",
+      "ko": "카닐료",
+      "vi": "Canillo",
+      "id": "Canillo",
+      "zh-Hans": "卡尼略"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Encamp",
+    "names": {
+      "ja": "アンカム教区",
+      "ko": "엥캄",
+      "vi": "Encamp",
+      "id": "Encamp",
+      "zh-Hans": "恩坎普"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Escaldes-Engordany",
+    "names": {
+      "ja": "エスカルデス＝エンゴルダニ教区",
+      "ko": "에스칼데스엔고르단",
+      "vi": "Escaldes-Engordany",
+      "id": "Escaldes-Engordany",
+      "zh-Hans": "埃斯卡尔德斯-恩戈尔达尼"
+    }
+  },
+  {
+    "code": "04",
+    "name": "La Massana",
+    "names": {
+      "ja": "ラ・マサナ教区",
+      "ko": "라마사나",
+      "vi": "La Massana",
+      "id": "La Massana",
+      "zh-Hans": "马萨纳"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Ordino",
+    "names": {
+      "ja": "オルディノ教区",
+      "ko": "우르디누",
+      "vi": "Ordino",
+      "id": "Ordino",
+      "zh-Hans": "奥尔迪诺"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Sant Julià de Lòria",
+    "names": {
+      "ja": "サン・ジュリア・デ・ロリア教区",
+      "ko": "산줄리아데로리아",
+      "vi": "Sant Julià de Lòria",
+      "id": "Sant Julià de Lòria",
+      "zh-Hans": "圣胡利娅-德洛里亚"
+    }
+  }
+]

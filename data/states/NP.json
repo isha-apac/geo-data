@@ -1,0 +1,72 @@
+[
+  {
+    "code": "P3",
+    "name": "Bagmati Province",
+    "names": {
+      "ja": "第三州",
+      "ko": "바그마티주",
+      "vi": "Bagmati",
+      "id": "Provinsi Nomor 3",
+      "zh-Hans": "第三省"
+    }
+  },
+  {
+    "code": "P4",
+    "name": "Gandaki",
+    "names": {}
+  },
+  {
+    "code": "P6",
+    "name": "Karnali Province",
+    "names": {
+      "ja": "カルナリ・プラデーシュ州",
+      "ko": "카르날리주",
+      "vi": "Karnali",
+      "id": "Provinsi Karnali",
+      "zh-Hans": "格尔纳利省"
+    }
+  },
+  {
+    "code": "P1",
+    "name": "Koshi Province",
+    "names": {
+      "ja": "第一州",
+      "vi": "Koshi",
+      "id": "Provinsi Nomor 1",
+      "zh-Hans": "柯西省"
+    }
+  },
+  {
+    "code": "P5",
+    "name": "Lumbini Province",
+    "names": {
+      "ja": "第五州",
+      "ko": "룸비니주",
+      "vi": "Lumbini",
+      "id": "Provinsi Nomor 5",
+      "zh-Hans": "蓝毗尼省"
+    }
+  },
+  {
+    "code": "P2",
+    "name": "Madhesh Province",
+    "names": {
+      "ja": "マデシ州",
+      "ko": "마데시주",
+      "vi": "Madhesh",
+      "id": "Provinsi Nomor 2",
+      "zh-Hans": "马德西省"
+    }
+  },
+  {
+    "code": "P7",
+    "name": "Sudurpashchim Province",
+    "names": {
+      "ja": "第七州",
+      "ko": "수두르파슈침주",
+      "vi": "Sudurpashchim",
+      "id": "Sudurpashchim",
+      "zh-Hans": "第七省"
+    }
+  }
+]

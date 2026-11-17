@@ -1,0 +1,132 @@
+[
+  {
+    "code": "P",
+    "name": "Cabo Delgado Province",
+    "names": {
+      "ja": "カボ・デルガード州",
+      "ko": "카부델가두주",
+      "vi": "Tỉnh Cabo Delgado",
+      "id": "Cabo Delgado",
+      "zh-Hans": "德尔加杜角省",
+      "zh-Hant": "德爾加杜角省"
+    }
+  },
+  {
+    "code": "G",
+    "name": "Gaza Province",
+    "names": {
+      "ja": "ガザ州",
+      "ko": "가자주",
+      "vi": "Tỉnh Gaza",
+      "id": "Provinsi Gaza",
+      "zh-Hans": "加扎省",
+      "zh-Hant": "加扎省"
+    }
+  },
+  {
+    "code": "I",
+    "name": "Inhambane Province",
+    "names": {
+      "ja": "イニャンバネ州",
+      "ko": "이냠바느주",
+      "vi": "Tỉnh Inhambane",
+      "id": "Provinsi Inhambane",
+      "zh-Hans": "伊尼扬巴内省",
+      "zh-Hant": "伊尼揚巴內省"
+    }
+  },
+  {
+    "code": "B",
+    "name": "Manica Province",
+    "names": {
+      "ja": "マニッカ州",
+      "ko": "마니카주",
+      "vi": "Tỉnh Manica",
+      "id": "Provinsi Manica",
+      "zh-Hans": "马尼卡省",
+      "zh-Hant": "馬尼卡省"
+    }
+  },
+  {
+    "code": "MPM",
+    "name": "Maputo",
+    "names": {
+      "ja": "マプト",
+      "ko": "마푸투",
+      "vi": "Maputo",
+      "id": "Maputo",
+      "zh-Hans": "马普托",
+      "zh-Hant": "馬普托"
+    }
+  },
+  {
+    "code": "L",
+    "name": "Maputo Province",
+    "names": {
+      "ja": "マプート州",
+      "ko": "마푸토 주",
+      "id": "Provinsi Maputo",
+      "zh-Hans": "马普托省",
+      "zh-Hant": "馬普托省"
+    }
+  },
+  {
+    "code": "N",
+    "name": "Nampula Province",
+    "names": {
+      "ja": "ナンプーラ州",
+      "ko": "남풀라주",
+      "vi": "Tỉnh Nampula",
+      "id": "Provinsi Nampula",
+      "zh-Hans": "楠普拉省",
+      "zh-Hant": "楠普拉省"
+    }
+  },
+  {
+    "code": "A",
+    "name": "Niassa Province",
+    "names": {
+      "ja": "ニアサ州",
+      "ko": "니아사주",
+      "vi": "Tỉnh Niassa",
+      "id": "Provinsi Niassa",
+      "zh-Hans": "尼亚萨省",
+      "zh-Hant": "尼亞薩省"
+    }
+  },
+  {
+    "code": "S",
+    "name": "Sofala",
+    "names": {
+      "ja": "ソファラ州",
+      "ko": "소팔라주",
+      "vi": "Tỉnh Sofala",
+      "id": "Provinsi Sofala",
+      "zh-Hans": "索法拉省",
+      "zh-Hant": "索法拉省"
+    }
+  },
+  {
+    "code": "T",
+    "name": "Tete Province",
+    "names": {
+      "ja": "テテ州",
+      "ko": "테트주",
+      "vi": "Tỉnh Tete",
+      "id": "Provinsi Tete",
+      "zh-Hans": "太特省"
+    }
+  },
+  {
+    "code": "Q",
+    "name": "Zambezia Province",
+    "names": {
+      "ja": "ザンベジア州",
+      "ko": "잠베지아주",
+      "vi": "Tỉnh Zambezia",
+      "id": "Provinsi Zambezia",
+      "zh-Hans": "赞比西亚省",
+      "zh-Hant": "贊比西亞省"
+    }
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "code": "AD",
+    "name": "Adamawa",
+    "names": {
+      "ja": "アダマワ州",
+      "ko": "아다마와 주 (카메룬)",
+      "vi": "Adamawa",
+      "id": "Region Adamawa",
+      "zh-Hans": "阿达马瓦区"
+    }
+  },
+  {
+    "code": "CE",
+    "name": "Centre",
+    "names": {
+      "ja": "中央州",
+      "ko": "중앙주",
+      "vi": "Vùng Miền Trung",
+      "id": "Region Tengah, Kamerun",
+      "zh-Hans": "中部区",
+      "zh-Hant": "中部區"
+    }
+  },
+  {
+    "code": "ES",
+    "name": "East",
+    "names": {
+      "ja": "東部州",
+      "ko": "동부주",
+      "vi": "East",
+      "id": "Region Timur",
+      "zh-Hans": "东部区",
+      "zh-Hant": "東部區"
+    }
+  },
+  {
+    "code": "EN",
+    "name": "Far North",
+    "names": {
+      "ja": "極北州",
+      "ko": "최북부주",
+      "vi": "Far North",
+      "id": "Region Ujung Utara",
+      "zh-Hans": "极北区",
+      "zh-Hant": "極北區"
+    }
+  },
+  {
+    "code": "LT",
+    "name": "Littoral",
+    "names": {
+      "ja": "リトラル州",
+      "ko": "리토랄주",
+      "vi": "Littoral",
+      "id": "Region Littoral",
+      "zh-Hans": "滨海区",
+      "zh-Hant": "濱海區"
+    }
+  },
+  {
+    "code": "NO",
+    "name": "North",
+    "names": {
+      "ja": "北部州",
+      "ko": "북부주",
+      "vi": "Phía Bắc",
+      "id": "Region Utara",
+      "zh-Hans": "北部区",
+      "zh-Hant": "北部區"
+    }
+  },
+  {
+    "code": "NW",
+    "name": "Northwest",
+    "names": {
+      "ja": "北西州",
+      "ko": "북서부주",
+      "vi": "Vùng Tây Bắc",
+      "id": "Region Barat Laut",
+      "zh-Hans": "西北区",
+      "zh-Hant": "西北區"
+    }
+  },
+  {
+    "code": "SU",
+    "name": "South",
+    "names": {
+      "ja": "南部州",
+      "ko": "남부주",
+      "vi": "Khu vực Phía Nam",
+      "id": "Region Selatan",
+      "zh-Hans": "南部区",
+      "zh-Hant": "南部區"
+    }
+  },
+  {
+    "code": "SW",
+    "name": "Southwest",
+    "names": {
+      "ja": "南西州",
+      "ko": "남서부주",
+      "vi": "Vùng Tây Nam",
+      "id": "Region Barat Daya, Kamerun",
+      "zh-Hans": "西南区"
+    }
+  },
+  {
+    "code": "OU",
+    "name": "West",
+    "names": {
+      "ja": "西部州",
+      "ko": "서부주",
+      "vi": "Khu vực Phía Tây",
+      "id": "Region Barat, Kamerun",
+      "zh-Hans": "西部区",
+      "zh-Hant": "西部區"
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "code": "10",
+    "name": "Carriacou and Petite Martinique",
+    "names": {
+      "ja": "カリアク島",
+      "ko": "카리아쿠 프티마르티니크",
+      "vi": "Carriacou và Petite Martinique",
+      "id": "Carriacou dan Petite Martinique",
+      "zh-Hans": "卡里亚库和小马提尼克"
+    }
+  },
+  {
+    "code": "01",
+    "name": "Saint Andrew Parish",
+    "names": {
+      "ja": "セント・アンドリュー教区",
+      "ko": "세인트앤드루구",
+      "vi": "Giáo xứ Saint Andrew",
+      "id": "Paroki Saint Andrew",
+      "zh-Hans": "圣安德鲁区 (格林纳达)"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Saint David Parish",
+    "names": {
+      "ja": "セント・デイヴィッド教区",
+      "ko": "세인트데이비드구",
+      "vi": "Giáo xứ Saint David",
+      "id": "Paroki Saint David",
+      "zh-Hans": "圣戴维区 (格林纳达)"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Saint George Parish",
+    "names": {
+      "ja": "セント・ジョージ教区",
+      "ko": "세인트조지구",
+      "vi": "Giáo xứ Saint George",
+      "id": "Paroki Saint George",
+      "zh-Hans": "圣乔治区 (格林纳达)"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Saint John Parish",
+    "names": {
+      "ja": "セント・ジョン教区",
+      "ko": "세인트존구",
+      "vi": "Giáo xứ Saint John",
+      "id": "Paroki Saint John",
+      "zh-Hans": "圣约翰区 (格林纳达)"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Saint Mark Parish",
+    "names": {
+      "ja": "セント・マーク教区",
+      "ko": "세인트마크구",
+      "vi": "Giáo xứ Saint Mark",
+      "id": "Paroki Saint Mark",
+      "zh-Hans": "圣马克区 (格林纳达)"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Saint Patrick Parish",
+    "names": {
+      "ja": "セント・パトリック教区",
+      "ko": "세인트패트릭구",
+      "vi": "Giáo xứ Saint Patrick",
+      "id": "Paroki Saint Patrick",
+      "zh-Hans": "圣帕特里克区 (格林纳达)"
+    }
+  }
+]

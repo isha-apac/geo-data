@@ -1,0 +1,514 @@
+[
+  {
+    "code": "BK",
+    "name": "Bács-Kiskun County",
+    "names": {
+      "ja": "バーチ・キシュクン県",
+      "ko": "바치키슈쿤주",
+      "vi": "Hạt Bács-Kiskun",
+      "id": "Bács-Kiskun",
+      "zh-Hans": "巴奇-基什孔州",
+      "zh-Hant": "巴奇-基什孔州"
+    }
+  },
+  {
+    "code": "BA",
+    "name": "Baranya County",
+    "names": {
+      "ja": "バラニャ県",
+      "ko": "버러녀주",
+      "id": "Baranya",
+      "zh-Hans": "巴兰尼亚州",
+      "zh-Hant": "巴蘭尼亞州"
+    }
+  },
+  {
+    "code": "BE",
+    "name": "Békés County",
+    "names": {
+      "ja": "ベーケーシュ県",
+      "ko": "베케시주",
+      "vi": "Hạt Békés",
+      "id": "Békés",
+      "zh-Hans": "贝凯什州",
+      "zh-Hant": "貝凱什州"
+    }
+  },
+  {
+    "code": "BC",
+    "name": "Békéscsaba",
+    "names": {
+      "ja": "ベーケーシュチャバ",
+      "ko": "베케슈처버",
+      "vi": "Békéscsaba",
+      "id": "Békéscsaba",
+      "zh-Hans": "贝凯什乔包",
+      "zh-Hant": "貝凱什喬包"
+    }
+  },
+  {
+    "code": "BZ",
+    "name": "Borsod-Abaúj-Zemplén County",
+    "names": {
+      "ja": "ボルショド・アバウーイ・ゼンプレーン県",
+      "ko": "보르쇼드어버우이젬플렌주",
+      "vi": "Hạt Borsod-Abaúj-Zemplén",
+      "id": "Borsod-Abaúj-Zemplén",
+      "zh-Hans": "包尔绍德-奥包乌伊-曾普伦州",
+      "zh-Hant": "包爾紹德-奧包烏伊-曾普倫州"
+    }
+  },
+  {
+    "code": "BU",
+    "name": "Budapest",
+    "names": {
+      "ja": "ブダペスト",
+      "ko": "부다페스트",
+      "vi": "Budapest",
+      "id": "Budapest",
+      "zh-Hans": "布达佩斯",
+      "zh-Hant": "布達佩斯"
+    }
+  },
+  {
+    "code": "CS",
+    "name": "Csongrád-Csanád County",
+    "names": {
+      "ja": "チョングラード・チャナード県",
+      "ko": "촌그라드처나드주",
+      "vi": "Hạt Csongrád-Csanád",
+      "id": "Csongrád-Csanád",
+      "zh-Hans": "琼格拉德-乔纳德州",
+      "zh-Hant": "瓊格拉德-喬納德州"
+    }
+  },
+  {
+    "code": "DE",
+    "name": "Debrecen",
+    "names": {
+      "ja": "デブレツェン",
+      "ko": "데브레첸",
+      "vi": "Debrecen",
+      "id": "Debrecen",
+      "zh-Hans": "德布勒森",
+      "zh-Hant": "德布勒森"
+    }
+  },
+  {
+    "code": "DU",
+    "name": "Dunaújváros",
+    "names": {
+      "ja": "ドゥナウーイヴァーロシュ",
+      "ko": "두너우이바로시",
+      "vi": "Dunaújváros",
+      "id": "Dunaújváros",
+      "zh-Hans": "多瑙新城",
+      "zh-Hant": "多瑙新城"
+    }
+  },
+  {
+    "code": "EG",
+    "name": "Eger",
+    "names": {
+      "ja": "エゲル",
+      "ko": "에게르",
+      "vi": "Eger",
+      "id": "Eger",
+      "zh-Hans": "埃格尔",
+      "zh-Hant": "埃格爾"
+    }
+  },
+  {
+    "code": "ER",
+    "name": "Érd",
+    "names": {
+      "ja": "エールド",
+      "ko": "에르드",
+      "vi": "Érd",
+      "zh-Hans": "埃尔德",
+      "zh-Hant": "埃爾德"
+    }
+  },
+  {
+    "code": "FE",
+    "name": "Fejér County",
+    "names": {
+      "ja": "フェイェール県",
+      "ko": "페예르주",
+      "vi": "Hạt Fejér",
+      "id": "Fejér",
+      "zh-Hans": "费耶尔州",
+      "zh-Hant": "費耶爾州"
+    }
+  },
+  {
+    "code": "GY",
+    "name": "Győr",
+    "names": {
+      "ja": "ジェール",
+      "ko": "죄르",
+      "vi": "Győr",
+      "id": "Győr",
+      "zh-Hans": "杰尔",
+      "zh-Hant": "焦爾"
+    }
+  },
+  {
+    "code": "GS",
+    "name": "Győr-Moson-Sopron County",
+    "names": {
+      "ja": "ジェール・モション・ショプロン県",
+      "ko": "죄르모숀쇼프론주",
+      "vi": "Hạt Gyor-Moson-Sopron",
+      "id": "Győr-Moson-Sopron",
+      "zh-Hans": "杰尔-莫雄-肖普朗州",
+      "zh-Hant": "焦爾-莫松-肖普朗州"
+    }
+  },
+  {
+    "code": "HB",
+    "name": "Hajdú-Bihar County",
+    "names": {
+      "ja": "ハイドゥー・ビハール県",
+      "ko": "허이두비허르주",
+      "vi": "Hajdu-Bihar",
+      "id": "Hajdú-Bihar",
+      "zh-Hans": "豪伊杜-比豪尔州",
+      "zh-Hant": "豪伊杜-比豪爾州"
+    }
+  },
+  {
+    "code": "HE",
+    "name": "Heves County",
+    "names": {
+      "ja": "ヘヴェシュ県",
+      "ko": "헤베시주",
+      "vi": "Hạt Heves",
+      "id": "Heves",
+      "zh-Hans": "赫维什州",
+      "zh-Hant": "赫維什州"
+    }
+  },
+  {
+    "code": "HV",
+    "name": "Hódmezővásárhely",
+    "names": {
+      "ja": "ホードメゼーヴァーシャールヘイ",
+      "ko": "호드메죄바샤르헤이",
+      "vi": "Hódmezővásárhely",
+      "id": "Hódmezővásárhely",
+      "zh-Hans": "霍德梅泽瓦沙海伊",
+      "zh-Hant": "霍德梅澤瓦沙海伊"
+    }
+  },
+  {
+    "code": "JN",
+    "name": "Jász-Nagykun-Szolnok County",
+    "names": {
+      "ja": "ヤース・ナジクン・ソルノク県",
+      "ko": "야스너지쿤솔노크주",
+      "vi": "Hạt Jász-Nagykun-Szolnok",
+      "id": "Jász-Nagykun-Szolnok",
+      "zh-Hans": "亚斯-瑙吉孔-索尔诺克州",
+      "zh-Hant": "亞斯-瑙吉孔-索爾諾克州"
+    }
+  },
+  {
+    "code": "KV",
+    "name": "Kaposvár",
+    "names": {
+      "ja": "カポシュヴァール",
+      "ko": "커포슈바르",
+      "vi": "Kaposvár",
+      "id": "Kaposvár",
+      "zh-Hans": "考波什堡",
+      "zh-Hant": "考波什堡"
+    }
+  },
+  {
+    "code": "KM",
+    "name": "Kecskemét",
+    "names": {
+      "ja": "ケチケメート",
+      "ko": "케치케메트",
+      "vi": "Kecskemét",
+      "id": "Kecskemét",
+      "zh-Hans": "凯奇凯梅特",
+      "zh-Hant": "凱奇凱梅特"
+    }
+  },
+  {
+    "code": "KE",
+    "name": "Komárom-Esztergom County",
+    "names": {
+      "ja": "コマーロム・エステルゴム県",
+      "ko": "코마롬에스테르곰주",
+      "vi": "Hạt Komárom-Esztergom",
+      "id": "Komárom-Esztergom",
+      "zh-Hans": "科马罗姆-埃斯泰尔戈姆州",
+      "zh-Hant": "科馬羅姆-埃斯泰爾戈姆州"
+    }
+  },
+  {
+    "code": "MI",
+    "name": "Miskolc",
+    "names": {
+      "ja": "ミシュコルツ",
+      "ko": "미슈콜츠",
+      "vi": "Miskolc",
+      "id": "Miskolc",
+      "zh-Hans": "米什科尔茨",
+      "zh-Hant": "米什科爾茨"
+    }
+  },
+  {
+    "code": "NK",
+    "name": "Nagykanizsa",
+    "names": {
+      "ja": "ナジカニジャ",
+      "ko": "너지커니저",
+      "vi": "Nagykanizsa",
+      "id": "Nagykanizsa",
+      "zh-Hans": "瑙吉考尼饶",
+      "zh-Hant": "瑙吉考尼饒"
+    }
+  },
+  {
+    "code": "NO",
+    "name": "Nógrád County",
+    "names": {
+      "ja": "ノーグラード県",
+      "ko": "노그라드주",
+      "vi": "Hạt Nógrád",
+      "id": "Nógrád",
+      "zh-Hans": "诺格拉德州",
+      "zh-Hant": "諾格拉德州"
+    }
+  },
+  {
+    "code": "NY",
+    "name": "Nyíregyháza",
+    "names": {
+      "ja": "ニーレジハーザ",
+      "ko": "니레지하저",
+      "vi": "Nyíregyháza",
+      "id": "Nyíregyháza",
+      "zh-Hans": "尼赖吉哈佐",
+      "zh-Hant": "尼賴吉哈佐"
+    }
+  },
+  {
+    "code": "PS",
+    "name": "Pécs",
+    "names": {
+      "ja": "ペーチ",
+      "ko": "페치",
+      "vi": "Pécs",
+      "id": "Pécs",
+      "zh-Hans": "佩奇",
+      "zh-Hant": "佩奇"
+    }
+  },
+  {
+    "code": "PE",
+    "name": "Pest County",
+    "names": {
+      "ja": "ペシュト県",
+      "ko": "페슈트주",
+      "id": "Pest",
+      "zh-Hans": "佩斯州",
+      "zh-Hant": "佩斯州"
+    }
+  },
+  {
+    "code": "ST",
+    "name": "Salgótarján",
+    "names": {
+      "ja": "シャルゴータルヤーン",
+      "ko": "셜고터랸",
+      "vi": "Salgótarján",
+      "id": "Salgótarján",
+      "zh-Hans": "绍尔戈陶尔扬",
+      "zh-Hant": "紹爾戈陶爾揚"
+    }
+  },
+  {
+    "code": "SO",
+    "name": "Somogy County",
+    "names": {
+      "ja": "ショモジ県",
+      "ko": "쇼모지주",
+      "vi": "Hạt Somogy",
+      "id": "Somogy",
+      "zh-Hans": "绍莫吉州",
+      "zh-Hant": "紹莫吉州"
+    }
+  },
+  {
+    "code": "SN",
+    "name": "Sopron",
+    "names": {
+      "ja": "ショプロン",
+      "ko": "쇼프론",
+      "vi": "Sopron",
+      "id": "Sopron",
+      "zh-Hans": "肖普朗",
+      "zh-Hant": "肖普朗"
+    }
+  },
+  {
+    "code": "SZ",
+    "name": "Szabolcs-Szatmár-Bereg County",
+    "names": {
+      "ja": "サボルチ・サトマール・ベレグ県",
+      "ko": "서볼치서트마르베레그주",
+      "vi": "Hạt Szabolcs-Szatmár-Bereg",
+      "id": "Szabolcs-Szatmár-Bereg",
+      "zh-Hans": "索博尔奇-索特马尔-拜赖格州",
+      "zh-Hant": "索博爾奇-索特馬爾-拜賴格州"
+    }
+  },
+  {
+    "code": "SD",
+    "name": "Szeged",
+    "names": {
+      "ja": "セゲド",
+      "ko": "세게드",
+      "vi": "Szeged",
+      "id": "Szeged",
+      "zh-Hans": "塞格德",
+      "zh-Hant": "塞格德"
+    }
+  },
+  {
+    "code": "SF",
+    "name": "Székesfehérvár",
+    "names": {
+      "ja": "セーケシュフェヘールヴァール",
+      "ko": "세케슈페헤르바르",
+      "vi": "Székesfehérvár",
+      "id": "Székesfehérvár",
+      "zh-Hans": "塞克什白堡",
+      "zh-Hant": "塞克什白堡"
+    }
+  },
+  {
+    "code": "SS",
+    "name": "Szekszárd",
+    "names": {
+      "ja": "セクサールド",
+      "ko": "섹사르드",
+      "vi": "Szekszárd",
+      "id": "Szekszárd",
+      "zh-Hans": "塞克萨德",
+      "zh-Hant": "塞克薩德"
+    }
+  },
+  {
+    "code": "SK",
+    "name": "Szolnok",
+    "names": {
+      "ja": "ソルノク",
+      "ko": "솔노크",
+      "vi": "Szolnok",
+      "id": "Szolnok",
+      "zh-Hans": "索尔诺克",
+      "zh-Hant": "索爾諾克"
+    }
+  },
+  {
+    "code": "SH",
+    "name": "Szombathely",
+    "names": {
+      "ja": "ソンバトヘイ",
+      "ko": "솜버트헤이",
+      "vi": "Szombathely",
+      "id": "Szombathely",
+      "zh-Hans": "松博特海伊",
+      "zh-Hant": "松博特海伊"
+    }
+  },
+  {
+    "code": "TB",
+    "name": "Tatabánya",
+    "names": {
+      "ja": "タタバーニャ",
+      "ko": "터터바녀",
+      "vi": "Tatabánya",
+      "id": "Tatabánya",
+      "zh-Hans": "陶陶巴尼奥",
+      "zh-Hant": "陶陶巴尼奧"
+    }
+  },
+  {
+    "code": "TO",
+    "name": "Tolna County",
+    "names": {
+      "ja": "トルナ県",
+      "ko": "톨너주",
+      "vi": "Hạt Tolna",
+      "id": "Tolna",
+      "zh-Hans": "托尔瑙州",
+      "zh-Hant": "托爾瑙州"
+    }
+  },
+  {
+    "code": "VA",
+    "name": "Vas County",
+    "names": {
+      "ja": "ヴァシュ県",
+      "ko": "버시주",
+      "vi": "Hạt Vas",
+      "id": "Vas",
+      "zh-Hans": "沃什州",
+      "zh-Hant": "沃什州"
+    }
+  },
+  {
+    "code": "VM",
+    "name": "Veszprém",
+    "names": {
+      "ja": "ヴェスプレーム",
+      "ko": "베스프렘",
+      "vi": "Veszprém",
+      "id": "Veszprém",
+      "zh-Hans": "维斯普雷姆",
+      "zh-Hant": "維斯普雷姆"
+    }
+  },
+  {
+    "code": "VE",
+    "name": "Veszprém County",
+    "names": {
+      "ja": "ヴェスプレーム県",
+      "ko": "베스프렘주",
+      "vi": "Hạt Veszprém",
+      "id": "Veszprém",
+      "zh-Hans": "维斯普雷姆州",
+      "zh-Hant": "維斯普雷姆州"
+    }
+  },
+  {
+    "code": "ZA",
+    "name": "Zala County",
+    "names": {
+      "ja": "ザラ県",
+      "ko": "절러주",
+      "vi": "Hạt Zala",
+      "id": "Zala",
+      "zh-Hans": "佐洛州",
+      "zh-Hant": "佐洛州"
+    }
+  },
+  {
+    "code": "ZE",
+    "name": "Zalaegerszeg",
+    "names": {
+      "ja": "ザラエゲルセグ",
+      "ko": "절러에게르세그",
+      "vi": "Zalaegerszeg",
+      "id": "Zalaegerszeg",
+      "zh-Hans": "佐洛埃格塞格"
+    }
+  }
+]

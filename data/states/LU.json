@@ -1,0 +1,135 @@
+[
+  {
+    "code": "CA",
+    "name": "Canton of Capellen",
+    "names": {
+      "ja": "カペレン郡",
+      "ko": "카펠렌주",
+      "vi": "Capellen",
+      "id": "Kanton Capellen",
+      "zh-Hans": "卡佩伦县"
+    }
+  },
+  {
+    "code": "CL",
+    "name": "Canton of Clervaux",
+    "names": {
+      "ja": "クレルヴォー郡",
+      "ko": "클레르보주",
+      "vi": "Clervaux",
+      "id": "Kanton Clervaux",
+      "zh-Hans": "克莱沃县"
+    }
+  },
+  {
+    "code": "DI",
+    "name": "Canton of Diekirch",
+    "names": {
+      "ja": "ディーキルヒ郡",
+      "ko": "디키르히주",
+      "vi": "Diekirch",
+      "id": "Kanton Diekirch",
+      "zh-Hans": "迪基希县"
+    }
+  },
+  {
+    "code": "EC",
+    "name": "Canton of Echternach",
+    "names": {
+      "ja": "エヒタナハ郡",
+      "ko": "에히터나흐주",
+      "vi": "Echternach",
+      "id": "Kanton Echternach",
+      "zh-Hans": "埃希特纳赫县"
+    }
+  },
+  {
+    "code": "ES",
+    "name": "Canton of Esch-sur-Alzette",
+    "names": {
+      "ja": "エシュ＝シュル＝アルゼット郡",
+      "ko": "에슈쉬르알제트주",
+      "vi": "Esch-sur-Alzette",
+      "id": "Kanton Esch-sur-Alzette",
+      "zh-Hans": "阿尔泽特河畔埃施县"
+    }
+  },
+  {
+    "code": "GR",
+    "name": "Canton of Grevenmacher",
+    "names": {
+      "ja": "グレーヴェンマハ郡",
+      "ko": "그레벤마허주",
+      "vi": "Grevenmacher",
+      "id": "Kanton Grevenmacher",
+      "zh-Hans": "格雷文马赫县"
+    }
+  },
+  {
+    "code": "LU",
+    "name": "Canton of Luxembourg",
+    "names": {
+      "ja": "ルクセンブルク",
+      "ko": "룩셈부르크주",
+      "vi": "Luxembourg",
+      "id": "Kanton Luksemburg",
+      "zh-Hans": "卢森堡县",
+      "zh-Hant": "盧森堡縣"
+    }
+  },
+  {
+    "code": "ME",
+    "name": "Canton of Mersch",
+    "names": {
+      "ja": "メルシュ郡",
+      "ko": "메르슈주",
+      "vi": "Mersch",
+      "id": "Kanton Mersch",
+      "zh-Hans": "梅尔施县"
+    }
+  },
+  {
+    "code": "RD",
+    "name": "Canton of Redange",
+    "names": {
+      "ja": "ルダンジュ郡",
+      "ko": "레당주주",
+      "vi": "Redange",
+      "id": "Kanton Redange",
+      "zh-Hans": "雷当日县"
+    }
+  },
+  {
+    "code": "RM",
+    "name": "Canton of Remich",
+    "names": {
+      "ja": "レーミッヒ郡",
+      "ko": "레미히주",
+      "vi": "Remich",
+      "id": "Kanton Remich",
+      "zh-Hans": "雷米希县"
+    }
+  },
+  {
+    "code": "VD",
+    "name": "Canton of Vianden",
+    "names": {
+      "ja": "ヴィアンデン郡",
+      "ko": "비앙덴주",
+      "vi": "Vianden",
+      "id": "Kanton Vianden",
+      "zh-Hans": "菲安登县"
+    }
+  },
+  {
+    "code": "WI",
+    "name": "Canton of Wiltz",
+    "names": {
+      "ja": "ヴィルツ郡",
+      "ko": "빌츠주",
+      "vi": "Wiltz",
+      "id": "Kanton Wiltz",
+      "zh-Hans": "维尔茨县"
+    }
+  }
+]

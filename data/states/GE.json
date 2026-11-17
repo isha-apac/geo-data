@@ -1,0 +1,140 @@
+[
+  {
+    "code": "AB",
+    "name": "Autonomous Republic of Abkhazia",
+    "names": {
+      "ja": "アブハジア自治共和国",
+      "ko": "압하지야 자치 공화국",
+      "zh-Hans": "阿布哈兹自治共和国政府"
+    }
+  },
+  {
+    "code": "AJ",
+    "name": "Autonomous Republic of Adjara",
+    "names": {
+      "ja": "アジャリア自治共和国",
+      "ko": "아자리야 공화국",
+      "vi": "Adjara",
+      "id": "Ajaria",
+      "zh-Hans": "阿扎尔自治共和国",
+      "zh-Hant": "阿扎爾自治共和國"
+    }
+  },
+  {
+    "code": "GU",
+    "name": "Guria",
+    "names": {
+      "ja": "グリア州",
+      "ko": "구리아주",
+      "vi": "Guria",
+      "id": "Guria",
+      "zh-Hans": "古里亚"
+    }
+  },
+  {
+    "code": "IM",
+    "name": "Imereti",
+    "names": {
+      "ja": "イメレティ州",
+      "ko": "이메레티주",
+      "vi": "Imereti",
+      "id": "Imereti",
+      "zh-Hans": "伊梅雷蒂",
+      "zh-Hant": "伊梅雷蒂"
+    }
+  },
+  {
+    "code": "KA",
+    "name": "Kakheti",
+    "names": {
+      "ja": "カヘティ州",
+      "ko": "카헤티주",
+      "vi": "Kakheti",
+      "id": "Kakheti",
+      "zh-Hans": "卡赫蒂",
+      "zh-Hant": "卡赫蒂"
+    }
+  },
+  {
+    "code": "KK",
+    "name": "Kvemo Kartli",
+    "names": {
+      "ja": "クヴェモ・カルトリ州",
+      "ko": "크베모카르틀리주",
+      "vi": "Kvemo Kartli",
+      "id": "Kvemo Kartli",
+      "zh-Hans": "下卡尔特利",
+      "zh-Hant": "下卡爾特利"
+    }
+  },
+  {
+    "code": "MM",
+    "name": "Mtskheta-Mtianeti",
+    "names": {
+      "ja": "ムツヘタ＝ムティアネティ州",
+      "ko": "므츠헤타므티아네티주",
+      "vi": "Mtskheta-Mtianeti",
+      "id": "Mtskheta-Mtianeti",
+      "zh-Hans": "姆茨赫塔-姆蒂亚内蒂",
+      "zh-Hant": "姆茨赫塔-姆蒂亞內蒂"
+    }
+  },
+  {
+    "code": "RL",
+    "name": "Racha-Lechkhumi and Kvemo Svaneti",
+    "names": {
+      "ja": "ラチャ＝レチフミおよびクヴェモ・スヴァネティ州",
+      "ko": "라차레츠후미크베모스바네티주",
+      "vi": "Racha-Lechkhumi và Kvemo Svaneti",
+      "id": "Racha-Lechkhumi dan Kvemo Svaneti",
+      "zh-Hans": "拉恰-列其呼米和下斯瓦内蒂"
+    }
+  },
+  {
+    "code": "SZ",
+    "name": "Samegrelo-Zemo Svaneti",
+    "names": {
+      "ja": "サメグレロ＝ゼモ・スヴァネティ州",
+      "ko": "사메그렐로제모스바네티주",
+      "vi": "Samegrelo-Zemo Svaneti",
+      "id": "Samegrelo-Zemo Svaneti",
+      "zh-Hans": "萨梅格雷洛-上斯瓦内蒂",
+      "zh-Hant": "薩梅格雷洛-上斯瓦內蒂"
+    }
+  },
+  {
+    "code": "SJ",
+    "name": "Samtskhe–Javakheti",
+    "names": {
+      "ja": "サムツヘ＝ジャヴァヘティ州",
+      "ko": "삼츠헤자바헤티주",
+      "vi": "Samtskhe-Javakheti",
+      "id": "Samtskhe-Javakheti",
+      "zh-Hans": "萨姆茨赫-贾瓦赫蒂"
+    }
+  },
+  {
+    "code": "SK",
+    "name": "Shida Kartli",
+    "names": {
+      "ja": "シダ・カルトリ州",
+      "ko": "시다카르틀리주",
+      "vi": "Shida Kartli",
+      "id": "Shida Kartli",
+      "zh-Hans": "内卡尔特利",
+      "zh-Hant": "內卡爾特利"
+    }
+  },
+  {
+    "code": "TB",
+    "name": "Tbilisi",
+    "names": {
+      "ja": "トビリシ",
+      "ko": "트빌리시",
+      "vi": "Tbilisi",
+      "id": "Tbilisi",
+      "zh-Hans": "第比利斯",
+      "zh-Hant": "提比里斯"
+    }
+  }
+]

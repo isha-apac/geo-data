@@ -1,0 +1,661 @@
+[
+  {
+    "code": "BAL",
+    "name": "Balé Province",
+    "names": {
+      "ja": "バレ県",
+      "ko": "발레현",
+      "vi": "Balé (tỉnh)",
+      "id": "Provinsi Balé",
+      "zh-Hans": "巴雷省"
+    }
+  },
+  {
+    "code": "BAM",
+    "name": "Bam Province",
+    "names": {
+      "ja": "バム県",
+      "ko": "밤현",
+      "vi": "Bam",
+      "id": "Provinsi Bam",
+      "zh-Hans": "巴姆省",
+      "zh-Hant": "巴姆省"
+    }
+  },
+  {
+    "code": "01",
+    "name": "Bankui",
+    "names": {
+      "ja": "ブクル・デュ・ムウン地方",
+      "ko": "부클뒤무운주",
+      "id": "Region Boucle du Mouhoun",
+      "zh-Hans": "布克萊迪穆翁大區"
+    }
+  },
+  {
+    "code": "BAN",
+    "name": "Banwa Province",
+    "names": {
+      "ja": "バンワ県",
+      "ko": "반와현",
+      "vi": "Banwa",
+      "id": "Provinsi Banwa",
+      "zh-Hans": "巴瓦省"
+    }
+  },
+  {
+    "code": "BAZ",
+    "name": "Bazèga Province",
+    "names": {
+      "ja": "バゼガ県",
+      "ko": "바제가현",
+      "vi": "Bazéga",
+      "id": "Provinsi Bazèga",
+      "zh-Hans": "巴泽加省",
+      "zh-Hant": "巴澤加省"
+    }
+  },
+  {
+    "code": "BGR",
+    "name": "Bougouriba Province",
+    "names": {
+      "ja": "ブグリバ県",
+      "ko": "부구리바현",
+      "vi": "Bougouriba",
+      "id": "Provinsi Bougouriba",
+      "zh-Hans": "布古里巴省"
+    }
+  },
+  {
+    "code": "BLG",
+    "name": "Boulgou",
+    "names": {
+      "ja": "ブルグ県",
+      "ko": "불구현",
+      "vi": "Boulgou",
+      "id": "Boulgou",
+      "zh-Hans": "布尔古省"
+    }
+  },
+  {
+    "code": "BLK",
+    "name": "Boulkiemdé Province",
+    "names": {
+      "ja": "ブルキアンデ県",
+      "ko": "불키엠데현",
+      "vi": "Boulkiemdé (tỉnh)",
+      "id": "Provinsi Boulkiemdé",
+      "zh-Hans": "布尔基恩德省"
+    }
+  },
+  {
+    "code": "COM",
+    "name": "Comoé Province",
+    "names": {
+      "ja": "コモエ県",
+      "ko": "코모에현",
+      "vi": "Comoé",
+      "id": "Provinsi Comoé",
+      "zh-Hans": "科莫埃省",
+      "zh-Hant": "科莫埃省"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Djôrô",
+    "names": {
+      "ja": "南西地方",
+      "ko": "남서부주",
+      "id": "Region Sud-Ouest",
+      "zh-Hans": "西南大區"
+    }
+  },
+  {
+    "code": "GAN",
+    "name": "Ganzourgou Province",
+    "names": {
+      "ja": "ガンズル県",
+      "ko": "간주르구현",
+      "vi": "Ganzourgou",
+      "id": "Provinsi Ganzourgou",
+      "zh-Hans": "冈祖尔古省"
+    }
+  },
+  {
+    "code": "GNA",
+    "name": "Gnagna Province",
+    "names": {
+      "ja": "グナグナ州",
+      "ko": "냐냐현",
+      "vi": "Gnagna",
+      "id": "Provinsi Gnagna",
+      "zh-Hans": "尼亚尼亚省",
+      "zh-Hant": "尼亞尼亞省"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Goulmou",
+    "names": {
+      "ja": "東部地方",
+      "ko": "동부주",
+      "id": "Region Est",
+      "zh-Hans": "东部大区",
+      "zh-Hant": "東部大區"
+    }
+  },
+  {
+    "code": "GOU",
+    "name": "Gourma Province",
+    "names": {
+      "ja": "グルマ県",
+      "ko": "구르마현",
+      "vi": "Gourma",
+      "id": "Provinsi Gourma",
+      "zh-Hans": "古尔马省"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Guiriko",
+    "names": {
+      "ja": "上流域地方",
+      "ko": "오트바생주",
+      "id": "Region Hauts-Bassins",
+      "zh-Hans": "上盆地大区",
+      "zh-Hant": "上盆地大區"
+    }
+  },
+  {
+    "code": "HOU",
+    "name": "Houet Province",
+    "names": {
+      "ja": "ウエ県",
+      "ko": "우에현",
+      "vi": "Houet",
+      "id": "Provinsi Houet",
+      "zh-Hans": "乌埃省",
+      "zh-Hant": "烏埃省"
+    }
+  },
+  {
+    "code": "IOB",
+    "name": "Ioba Province",
+    "names": {
+      "ja": "イオバ県",
+      "ko": "이오바현",
+      "vi": "Ioba",
+      "id": "Provinsi Ioba",
+      "zh-Hans": "伊奥巴省",
+      "zh-Hant": "伊奧巴省"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Kadiogo",
+    "names": {
+      "ja": "中部地方",
+      "ko": "중부주",
+      "id": "Region Centre",
+      "zh-Hans": "中央大區"
+    }
+  },
+  {
+    "code": "KAD",
+    "name": "Kadiogo Province",
+    "names": {
+      "ja": "カディオゴ県",
+      "ko": "카디오고현",
+      "vi": "Kadiogo",
+      "id": "Provinsi Kadiogo",
+      "zh-Hans": "卡焦戈省",
+      "zh-Hant": "卡焦戈省"
+    }
+  },
+  {
+    "code": "KEN",
+    "name": "Kénédougou Province",
+    "names": {
+      "ja": "ケネドゥグ県",
+      "ko": "케네두구현",
+      "vi": "Kénédougou",
+      "id": "Provinsi Kénédougou",
+      "zh-Hans": "凯内杜古省",
+      "zh-Hant": "凱內杜古省"
+    }
+  },
+  {
+    "code": "KMD",
+    "name": "Komondjari Province",
+    "names": {
+      "ja": "コモンジャリ県",
+      "ko": "코몽자리현",
+      "vi": "Komondjari",
+      "id": "Provinsi Komondjari",
+      "zh-Hans": "科蒙加里省",
+      "zh-Hant": "科蒙加里省"
+    }
+  },
+  {
+    "code": "KMP",
+    "name": "Kompienga Province",
+    "names": {
+      "ja": "コンピエンガ県",
+      "ko": "콤피엥가현",
+      "vi": "Tỉnh Kompienga",
+      "id": "Provinsi Kompienga",
+      "zh-Hans": "孔皮恩加省",
+      "zh-Hant": "孔皮恩加省"
+    }
+  },
+  {
+    "code": "KOS",
+    "name": "Kossi Province",
+    "names": {
+      "ja": "コッシ県",
+      "ko": "코시현",
+      "vi": "Kossi",
+      "id": "Provinsi Kossi",
+      "zh-Hans": "孔西省",
+      "zh-Hant": "孔西省"
+    }
+  },
+  {
+    "code": "KOP",
+    "name": "Koulpélogo Province",
+    "names": {
+      "ja": "クルペロゴ県",
+      "ko": "쿨펠로고현",
+      "vi": "Koulpélogo",
+      "id": "Provinsi Koulpélogo",
+      "zh-Hans": "库尔佩罗戈省"
+    }
+  },
+  {
+    "code": "KOT",
+    "name": "Kouritenga Province",
+    "names": {
+      "ja": "クリテンガ県",
+      "ko": "쿠리텡가현",
+      "vi": "Kouritenga",
+      "id": "Provinsi Kouritenga",
+      "zh-Hans": "库里滕加省",
+      "zh-Hant": "庫里滕加省"
+    }
+  },
+  {
+    "code": "KOW",
+    "name": "Kourwéogo Province",
+    "names": {
+      "ja": "クルウェゴ県",
+      "ko": "쿠르웨오고현",
+      "vi": "Kourwéogo",
+      "id": "Provinsi Kourwéogo",
+      "zh-Hans": "库尔维奥戈省"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Kuilsé",
+    "names": {
+      "ja": "中北部地方",
+      "ko": "중북부주",
+      "id": "Region Centre-Nord",
+      "zh-Hans": "中北大区",
+      "zh-Hant": "中北大區"
+    }
+  },
+  {
+    "code": "LER",
+    "name": "Léraba Province",
+    "names": {
+      "ja": "レラバ県",
+      "ko": "레라바현",
+      "vi": "Léraba",
+      "id": "Provinsi Léraba",
+      "zh-Hans": "雷拉巴省"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Liptako",
+    "names": {
+      "ja": "サヘル地方",
+      "ko": "사엘주",
+      "id": "Region Sahel",
+      "zh-Hans": "薩赫勒大區"
+    }
+  },
+  {
+    "code": "LOR",
+    "name": "Loroum Province",
+    "names": {
+      "ja": "ロルム県",
+      "ko": "로룸현",
+      "vi": "Loroum",
+      "id": "Provinsi Loroum",
+      "zh-Hans": "罗卢姆省",
+      "zh-Hant": "羅盧姆省"
+    }
+  },
+  {
+    "code": "MOU",
+    "name": "Mouhoun",
+    "names": {
+      "ja": "ムフン県",
+      "ko": "무운현",
+      "vi": "Mouhoun",
+      "id": "Mouhoun",
+      "zh-Hans": "穆翁省",
+      "zh-Hant": "穆翁省"
+    }
+  },
+  {
+    "code": "NAO",
+    "name": "Nahouri Province",
+    "names": {
+      "ja": "ナウリ県",
+      "ko": "나우리현",
+      "vi": "Nahouri",
+      "id": "Provinsi Nahouri",
+      "zh-Hans": "纳乌里省",
+      "zh-Hant": "納烏里省"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Nakambé (région)",
+    "names": {
+      "ja": "中東部地方",
+      "ko": "중동부주",
+      "id": "Region Centre-Est",
+      "zh-Hans": "中東大區"
+    }
+  },
+  {
+    "code": "NAM",
+    "name": "Namentenga Province",
+    "names": {
+      "ja": "ナメテンガ県",
+      "ko": "나멘텡가현",
+      "vi": "Namentenga",
+      "id": "Provinsi Namentenga",
+      "zh-Hans": "纳门滕加省",
+      "zh-Hant": "納門滕加省"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Nando",
+    "names": {
+      "ja": "中西部地方",
+      "ko": "중서부주",
+      "id": "Region Centre-Ouest",
+      "zh-Hans": "中西大区",
+      "zh-Hant": "中西大區"
+    }
+  },
+  {
+    "code": "NAY",
+    "name": "Nayala Province",
+    "names": {
+      "ja": "ナヤラ県",
+      "ko": "나얄라현",
+      "vi": "Nayala",
+      "id": "Provinsi Nayala",
+      "zh-Hans": "纳亚拉省",
+      "zh-Hant": "納亞拉省"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Nazinon",
+    "names": {
+      "ja": "中南部地方",
+      "ko": "중남부주",
+      "id": "Region Centre-Sud",
+      "zh-Hans": "中南大区",
+      "zh-Hant": "中南大區"
+    }
+  },
+  {
+    "code": "NOU",
+    "name": "Noumbiel Province",
+    "names": {
+      "ja": "ヌンビエル県",
+      "ko": "눔비엘현",
+      "vi": "Noumbiel",
+      "id": "Provinsi Noumbiel",
+      "zh-Hans": "努姆比埃尔省"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Oubri",
+    "names": {
+      "ja": "中央大地地方",
+      "ko": "플라토상트랄주",
+      "id": "Region Plateau-Central",
+      "zh-Hans": "高原-中部大区",
+      "zh-Hant": "高原-中部大區"
+    }
+  },
+  {
+    "code": "OUB",
+    "name": "Oubritenga Province",
+    "names": {
+      "ja": "ウブリテンガ県",
+      "ko": "우브리텡가현",
+      "vi": "Oubritenga",
+      "id": "Provinsi Oubritenga",
+      "zh-Hans": "乌布里滕加省",
+      "zh-Hant": "烏布里滕加省"
+    }
+  },
+  {
+    "code": "OUD",
+    "name": "Oudalan Province",
+    "names": {
+      "ja": "ウダラン県",
+      "ko": "우달란현",
+      "vi": "Oudalan",
+      "id": "Provinsi Oudalan",
+      "zh-Hans": "乌达兰省"
+    }
+  },
+  {
+    "code": "PAS",
+    "name": "Passoré Province",
+    "names": {
+      "ja": "パッソレ県",
+      "ko": "파소레현",
+      "vi": "Passoré",
+      "id": "Provinsi Passoré",
+      "zh-Hans": "帕索雷省",
+      "zh-Hant": "帕索雷省"
+    }
+  },
+  {
+    "code": "PON",
+    "name": "Poni Province",
+    "names": {
+      "ja": "ポニ県",
+      "ko": "포니현",
+      "vi": "Poni",
+      "id": "Provinsi Poni",
+      "zh-Hans": "波尼省"
+    }
+  },
+  {
+    "code": "SNG",
+    "name": "Sanguié Province",
+    "names": {
+      "ja": "サンギエ県",
+      "ko": "상기에현",
+      "vi": "Sanguié",
+      "id": "Provinsi Sanguié",
+      "zh-Hans": "桑吉省",
+      "zh-Hant": "桑吉省"
+    }
+  },
+  {
+    "code": "SMT",
+    "name": "Sanmatenga Province",
+    "names": {
+      "ja": "サンマテンガ県",
+      "ko": "산마텡가현",
+      "vi": "Sanmatenga",
+      "id": "Provinsi Sanmatenga",
+      "zh-Hans": "桑马滕加省",
+      "zh-Hant": "桑馬滕加省"
+    }
+  },
+  {
+    "code": "SEN",
+    "name": "Séno Province",
+    "names": {
+      "ja": "セノ県",
+      "ko": "세노현",
+      "vi": "Séno",
+      "id": "Provinsi Séno",
+      "zh-Hans": "塞诺省",
+      "zh-Hant": "塞諾省"
+    }
+  },
+  {
+    "code": "SIS",
+    "name": "Sissili Province",
+    "names": {
+      "ja": "シッシリ県",
+      "ko": "시실리현",
+      "vi": "Sissili",
+      "id": "Provinsi Sissili",
+      "zh-Hans": "锡西里省"
+    }
+  },
+  {
+    "code": "SOM",
+    "name": "Soum Province",
+    "names": {
+      "ja": "スム県",
+      "ko": "숨현",
+      "vi": "Soum",
+      "id": "Provinsi Soum",
+      "zh-Hans": "蘇姆省"
+    }
+  },
+  {
+    "code": "SOR",
+    "name": "Sourou Province",
+    "names": {
+      "ja": "スル県",
+      "ko": "수루현",
+      "vi": "Sourou",
+      "id": "Provinsi Sourou",
+      "zh-Hans": "苏鲁省",
+      "zh-Hant": "蘇魯省"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Tannounyan",
+    "names": {
+      "ja": "カスカード地方",
+      "ko": "카스카드주",
+      "id": "Region Cascades",
+      "zh-Hans": "瀑布大区",
+      "zh-Hant": "瀑布大區"
+    }
+  },
+  {
+    "code": "TAP",
+    "name": "Tapoa Province",
+    "names": {
+      "ja": "タポア県",
+      "ko": "타포아현",
+      "vi": "Tapoa",
+      "id": "Provinsi Tapoa",
+      "zh-Hans": "塔波阿省",
+      "zh-Hant": "塔波阿省"
+    }
+  },
+  {
+    "code": "TUI",
+    "name": "Tuy Province",
+    "names": {
+      "ja": "トゥイ県",
+      "ko": "투이현",
+      "vi": "Tuy",
+      "id": "Provinsi Tuy",
+      "zh-Hans": "图伊省"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Yaadga",
+    "names": {
+      "ja": "北部地方",
+      "ko": "북부주",
+      "id": "Region Nord",
+      "zh-Hans": "北部大区",
+      "zh-Hant": "北部大區"
+    }
+  },
+  {
+    "code": "YAG",
+    "name": "Yagha Province",
+    "names": {
+      "ja": "ヤガ県",
+      "ko": "야가현",
+      "vi": "Yagha",
+      "id": "Provinsi Yagha",
+      "zh-Hans": "亚加省",
+      "zh-Hant": "亞加省"
+    }
+  },
+  {
+    "code": "YAT",
+    "name": "Yatenga Province",
+    "names": {
+      "ja": "ヤテンガ県",
+      "ko": "야텡가현",
+      "vi": "Yatenga",
+      "id": "Provinsi Yatenga",
+      "zh-Hans": "雅滕加省",
+      "zh-Hant": "雅滕加省"
+    }
+  },
+  {
+    "code": "ZIR",
+    "name": "Ziro Province",
+    "names": {
+      "ja": "ジロ県",
+      "ko": "지로현",
+      "vi": "Ziro (tỉnh)",
+      "id": "Provinsi Ziro",
+      "zh-Hans": "济罗省"
+    }
+  },
+  {
+    "code": "ZON",
+    "name": "Zondoma Province",
+    "names": {
+      "ja": "ゾンドマ県",
+      "ko": "존도마현",
+      "vi": "Zondoma (tỉnh)",
+      "id": "Provinsi Zondoma",
+      "zh-Hans": "宗多马省"
+    }
+  },
+  {
+    "code": "ZOU",
+    "name": "Zoundwéogo Province",
+    "names": {
+      "ja": "ズンドウェオゴ県",
+      "ko": "준드웨오고현",
+      "vi": "Zoundwéogo",
+      "id": "Provinsi Zoundwéogo",
+      "zh-Hans": "宗德韦奥戈省"
+    }
+  }
+]

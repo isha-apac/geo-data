@@ -1,0 +1,1081 @@
+[
+  {
+    "code": "ABR",
+    "name": "Abra",
+    "names": {
+      "ja": "アブラ",
+      "ko": "아브라주",
+      "vi": "Abra",
+      "id": "Abra",
+      "zh-Hans": "阿布拉省",
+      "zh-Hant": "阿布拉省"
+    }
+  },
+  {
+    "code": "AGN",
+    "name": "Agusan del Norte",
+    "names": {
+      "ja": "北アグサン",
+      "ko": "북아구산주",
+      "id": "Agusan Utara",
+      "zh-Hans": "北阿古桑省"
+    }
+  },
+  {
+    "code": "AGS",
+    "name": "Agusan del Sur",
+    "names": {
+      "ja": "南アグサン",
+      "ko": "남아구산주",
+      "id": "Agusan Selatan",
+      "zh-Hans": "南阿古桑省"
+    }
+  },
+  {
+    "code": "AKL",
+    "name": "Aklan",
+    "names": {
+      "ja": "アクラン",
+      "ko": "아클란주",
+      "vi": "Aklan",
+      "id": "Aklan",
+      "zh-Hans": "阿克兰省"
+    }
+  },
+  {
+    "code": "ALB",
+    "name": "Albay",
+    "names": {
+      "ja": "アルバイ",
+      "ko": "알바이주",
+      "id": "Albai",
+      "zh-Hans": "阿尔拜省"
+    }
+  },
+  {
+    "code": "ANT",
+    "name": "Antique",
+    "names": {
+      "ja": "アンティーケ",
+      "ko": "안티케주",
+      "vi": "Antique",
+      "id": "provinsi Hamtik",
+      "zh-Hans": "安蒂克省"
+    }
+  },
+  {
+    "code": "APA",
+    "name": "Apayao",
+    "names": {
+      "ja": "アパヤオ",
+      "ko": "아파야오주",
+      "vi": "Apayao",
+      "id": "Apayau",
+      "zh-Hans": "阿巴尧省"
+    }
+  },
+  {
+    "code": "AUR",
+    "name": "Aurora",
+    "names": {
+      "ja": "アウロラ",
+      "ko": "아우로라주",
+      "zh-Hans": "奥罗拉省"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Bangsamoro Autonomous Region in Muslim Mindanao",
+    "names": {}
+  },
+  {
+    "code": "BAS",
+    "name": "Basilan",
+    "names": {
+      "ja": "バシラン",
+      "ko": "바실란주",
+      "zh-Hans": "巴西兰省",
+      "zh-Hant": "巴西蘭德省"
+    }
+  },
+  {
+    "code": "BAN",
+    "name": "Bataan",
+    "names": {
+      "ja": "バターン",
+      "ko": "바탄주",
+      "vi": "Bataan",
+      "id": "Bataan",
+      "zh-Hans": "巴丹省"
+    }
+  },
+  {
+    "code": "BTN",
+    "name": "Batanes",
+    "names": {
+      "ja": "バタネス",
+      "ko": "바타네스주",
+      "id": "Vatan",
+      "zh-Hans": "巴丹群岛省"
+    }
+  },
+  {
+    "code": "BTG",
+    "name": "Batangas",
+    "names": {
+      "ja": "バタンガス",
+      "ko": "바탕가스주",
+      "id": "provinsi Batangan",
+      "zh-Hans": "八打雁省"
+    }
+  },
+  {
+    "code": "BEN",
+    "name": "Benguet",
+    "names": {
+      "ja": "ベンゲット",
+      "ko": "벵게트주",
+      "vi": "Benguet",
+      "id": "Benguet",
+      "zh-Hans": "本格特省",
+      "zh-Hant": "本格特省"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Bicol Region",
+    "names": {
+      "ja": "ビコル地方",
+      "ko": "비콜 지방",
+      "vi": "Bicol",
+      "id": "Bikol",
+      "zh-Hans": "比科爾",
+      "zh-Hant": "比科爾區"
+    }
+  },
+  {
+    "code": "BIL",
+    "name": "Biliran",
+    "names": {
+      "ja": "ビリラン",
+      "ko": "빌리란주",
+      "vi": "Biliran",
+      "id": "Biliran",
+      "zh-Hans": "比利兰省",
+      "zh-Hant": "比利蘭省"
+    }
+  },
+  {
+    "code": "BOH",
+    "name": "Bohol",
+    "names": {
+      "ja": "ボホール",
+      "ko": "보홀주",
+      "vi": "Bohol",
+      "id": "Buul",
+      "zh-Hans": "保和省"
+    }
+  },
+  {
+    "code": "BUK",
+    "name": "Bukidnon",
+    "names": {
+      "ja": "ブキドノン",
+      "ko": "부키드논주",
+      "vi": "Bukidnon",
+      "id": "Bukidnon",
+      "zh-Hans": "布基农省",
+      "zh-Hant": "布基農省"
+    }
+  },
+  {
+    "code": "BUL",
+    "name": "Bulacan",
+    "names": {
+      "ja": "ブラカン",
+      "ko": "불라칸주",
+      "vi": "Bulacan",
+      "id": "provinsi Bulakan",
+      "zh-Hans": "布拉干省",
+      "zh-Hant": "布拉干省"
+    }
+  },
+  {
+    "code": "CAG",
+    "name": "Cagayan",
+    "names": {
+      "ja": "カガヤン",
+      "ko": "카가얀주",
+      "vi": "Cagayan",
+      "id": "Kagayan",
+      "zh-Hans": "卡加延省",
+      "zh-Hant": "卡加延省"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Cagayan Valley",
+    "names": {
+      "ja": "カガヤン・バレー地方",
+      "ko": "카가얀밸리 지방",
+      "vi": "thung lũng Cagayan",
+      "id": "Lembah Kagayan",
+      "zh-Hans": "卡加延河谷",
+      "zh-Hant": "卡加延河谷"
+    }
+  },
+  {
+    "code": "40",
+    "name": "Calabarzon",
+    "names": {
+      "ja": "カラバルソン地方",
+      "ko": "칼라바르손 지방",
+      "id": "Tagalog Selatan Daratan",
+      "zh-Hans": "卡拉巴松"
+    }
+  },
+  {
+    "code": "CAN",
+    "name": "Camarines Norte",
+    "names": {
+      "ja": "北カマリネス",
+      "ko": "북카마리네스주",
+      "id": "Kamarin Utara",
+      "zh-Hans": "北甘马粦"
+    }
+  },
+  {
+    "code": "CAS",
+    "name": "Camarines Sur",
+    "names": {
+      "ja": "南カマリネス",
+      "ko": "남카마리네스주",
+      "vi": "Camarines Sur",
+      "id": "Kamarin Selatan",
+      "zh-Hans": "南甘马粦省"
+    }
+  },
+  {
+    "code": "CAM",
+    "name": "Camiguin",
+    "names": {
+      "ja": "カミギン",
+      "ko": "카미긴주",
+      "id": "Kamigin",
+      "zh-Hans": "甘米银省",
+      "zh-Hant": "卡米金省"
+    }
+  },
+  {
+    "code": "CAP",
+    "name": "Capiz",
+    "names": {
+      "ja": "カピス",
+      "ko": "카피스주",
+      "vi": "Capiz",
+      "id": "Kapis",
+      "zh-Hans": "卡皮兹省",
+      "zh-Hant": "卡皮茲省"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Caraga",
+    "names": {
+      "ja": "カラガ地方",
+      "ko": "카라가 지방",
+      "vi": "Caraga",
+      "id": "Caraga",
+      "zh-Hans": "卡拉加区"
+    }
+  },
+  {
+    "code": "CAT",
+    "name": "Catanduanes",
+    "names": {
+      "ja": "カタンドゥアネス",
+      "ko": "카탄두아네스주",
+      "vi": "Catanduanes",
+      "id": "Ketanduan",
+      "zh-Hans": "卡坦端内斯省"
+    }
+  },
+  {
+    "code": "CAV",
+    "name": "Cavite",
+    "names": {
+      "ja": "カヴィテ",
+      "ko": "카비테주",
+      "id": "provinsi Kawit",
+      "zh-Hans": "甲米地省",
+      "zh-Hant": "甲米地省"
+    }
+  },
+  {
+    "code": "CEB",
+    "name": "Cebu",
+    "names": {
+      "ja": "セブ州",
+      "ko": "세부주",
+      "id": "Kesugbuan",
+      "zh-Hans": "宿务省",
+      "zh-Hant": "宿務省"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Central Luzon",
+    "names": {
+      "ja": "中部ルソン地方",
+      "ko": "중앙루손 지방",
+      "vi": "Trung Luzon",
+      "id": "Luson Tengah",
+      "zh-Hans": "中央吕宋",
+      "zh-Hant": "中央呂宋"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Central Visayas",
+    "names": {
+      "ja": "中部ヴィサヤ地方",
+      "ko": "중앙비사야스 지방",
+      "vi": "Trung Visayas",
+      "id": "Bisayak Tengah",
+      "zh-Hans": "中米沙鄢"
+    }
+  },
+  {
+    "code": "15",
+    "name": "Cordillera Administrative Region",
+    "names": {
+      "ja": "コルディリェラ行政地域",
+      "ko": "코르디예라 행정구",
+      "vi": "Vùng Hành chính Cordillera",
+      "id": "Region Administratif Cordillera",
+      "zh-Hans": "科迪勒拉行政區"
+    }
+  },
+  {
+    "code": "NCO",
+    "name": "Cotabato",
+    "names": {
+      "ja": "コタバト州",
+      "ko": "코타바토주",
+      "vi": "Cotabato",
+      "id": "provinsi Kota Batu",
+      "zh-Hans": "哥打巴托省",
+      "zh-Hant": "哥打巴托省"
+    }
+  },
+  {
+    "code": "COM",
+    "name": "Davao de Oro",
+    "names": {
+      "ja": "ダバオ・デ・オロ",
+      "ko": "다바오데오로주",
+      "id": "Suwarnadabau",
+      "zh-Hans": "康波斯特拉谷省"
+    }
+  },
+  {
+    "code": "DAV",
+    "name": "Davao del Norte",
+    "names": {
+      "ja": "北ダバオ",
+      "ko": "북다바오주",
+      "id": "Dabau Utara",
+      "zh-Hans": "北达沃省",
+      "zh-Hant": "北達沃省"
+    }
+  },
+  {
+    "code": "DAS",
+    "name": "Davao del Sur",
+    "names": {
+      "ja": "南ダバオ",
+      "ko": "남다바오주",
+      "id": "Dabau Selatan",
+      "zh-Hans": "南达沃省"
+    }
+  },
+  {
+    "code": "DVO",
+    "name": "Davao Occidental",
+    "names": {
+      "ja": "西ダバオ",
+      "ko": "서다바오주",
+      "id": "Dabau Barat",
+      "zh-Hans": "西达沃省",
+      "zh-Hant": "西達沃省"
+    }
+  },
+  {
+    "code": "DAO",
+    "name": "Davao Oriental",
+    "names": {
+      "ja": "東ダバオ",
+      "ko": "동다바오주",
+      "id": "Dabau Timur",
+      "zh-Hans": "东达沃省"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Davao Region",
+    "names": {
+      "ja": "ダバオ地方",
+      "ko": "다바오 지방",
+      "vi": "Vùng Davao",
+      "id": "Kedabauan",
+      "zh-Hans": "达沃区"
+    }
+  },
+  {
+    "code": "DIN",
+    "name": "Dinagat Islands",
+    "names": {
+      "ja": "ディナガット諸島",
+      "ko": "디나가트 제도주",
+      "vi": "Quần đảo Dinagat",
+      "id": "Kepulauan Dinagat",
+      "zh-Hans": "迪纳加特群岛"
+    }
+  },
+  {
+    "code": "EAS",
+    "name": "Eastern Samar",
+    "names": {
+      "ja": "東サマル",
+      "ko": "동사마르주",
+      "vi": "Đông Samar",
+      "id": "Samar Timur",
+      "zh-Hans": "东萨马省",
+      "zh-Hant": "東薩馬省"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Eastern Visayas",
+    "names": {
+      "ja": "東ヴィサヤ地方",
+      "ko": "동비사야스 지방",
+      "vi": "Đông Visayas",
+      "id": "Bisayak Timur",
+      "zh-Hans": "東米沙鄢",
+      "zh-Hant": "東維薩亞斯"
+    }
+  },
+  {
+    "code": "GUI",
+    "name": "Guimaras",
+    "names": {
+      "ja": "ギマラス",
+      "ko": "기마라스주",
+      "vi": "Guimaras",
+      "id": "Guimaras",
+      "zh-Hans": "吉马拉斯省"
+    }
+  },
+  {
+    "code": "IFU",
+    "name": "Ifugao",
+    "names": {
+      "ja": "イフガオ",
+      "ko": "이푸가오주",
+      "vi": "Ifugao",
+      "id": "Ifugau",
+      "zh-Hans": "伊富高省"
+    }
+  },
+  {
+    "code": "ILN",
+    "name": "Ilocos Norte",
+    "names": {
+      "ja": "北イロコス",
+      "ko": "북일로코스주",
+      "vi": "Ilocos Norte",
+      "id": "Ilocos Norte",
+      "zh-Hans": "北伊罗戈省"
+    }
+  },
+  {
+    "code": "01",
+    "name": "Ilocos Region",
+    "names": {
+      "ja": "イロコス地方",
+      "ko": "일로코스 지방",
+      "vi": "Ilocos",
+      "id": "Kelusonan Barat Laut",
+      "zh-Hans": "伊羅戈",
+      "zh-Hant": "伊羅戈"
+    }
+  },
+  {
+    "code": "ILS",
+    "name": "Ilocos Sur",
+    "names": {
+      "ja": "南イロコス",
+      "ko": "남일로코스주",
+      "vi": "Ilocos Sur",
+      "id": "Ilocos Sur",
+      "zh-Hans": "南伊罗戈省"
+    }
+  },
+  {
+    "code": "ILI",
+    "name": "Iloilo",
+    "names": {
+      "ja": "イロイロ",
+      "ko": "일로일로",
+      "zh-Hans": "伊洛伊洛"
+    }
+  },
+  {
+    "code": "ISA",
+    "name": "Isabela",
+    "names": {
+      "ja": "イサベラ",
+      "ko": "이사벨라주",
+      "vi": "Isabela",
+      "id": "Isabela",
+      "zh-Hans": "伊莎贝拉省"
+    }
+  },
+  {
+    "code": "KAL",
+    "name": "Kalinga",
+    "names": {
+      "ja": "カリンガ",
+      "ko": "칼링가주",
+      "zh-Hans": "卡林阿省",
+      "zh-Hant": "卡林阿省"
+    }
+  },
+  {
+    "code": "LUN",
+    "name": "La Union",
+    "names": {
+      "ja": "ラウニオン",
+      "ko": "라우니온주",
+      "vi": "La Union",
+      "id": "La Union",
+      "zh-Hans": "拉乌尼翁省"
+    }
+  },
+  {
+    "code": "LAG",
+    "name": "Laguna",
+    "names": {
+      "ja": "ラグナ",
+      "ko": "라구나주",
+      "zh-Hans": "内湖省",
+      "zh-Hant": "內湖省"
+    }
+  },
+  {
+    "code": "LAN",
+    "name": "Lanao del Norte",
+    "names": {
+      "ja": "北ラナオ",
+      "ko": "북라나오주",
+      "vi": "Lanao del Norte",
+      "id": "Keranauan Utara",
+      "zh-Hans": "北拉瑙省"
+    }
+  },
+  {
+    "code": "LAS",
+    "name": "Lanao del Sur",
+    "names": {
+      "ja": "南ラナオ",
+      "ko": "남라나오주",
+      "vi": "Lanao del Sur",
+      "id": "Keranauan Selatan",
+      "zh-Hans": "南拉瑙省"
+    }
+  },
+  {
+    "code": "LEY",
+    "name": "Leyte",
+    "names": {
+      "ja": "レイテ",
+      "ko": "레이테주",
+      "id": "Leite",
+      "zh-Hans": "莱特省",
+      "zh-Hant": "禮智省"
+    }
+  },
+  {
+    "code": "MGN",
+    "name": "Maguindanao del Norte",
+    "names": {
+      "ja": "北マギンダナオ州",
+      "ko": "북마긴다나오주",
+      "vi": "Maguindanao del Norte",
+      "id": "Magindanau Utara",
+      "zh-Hans": "北马京达瑙省"
+    }
+  },
+  {
+    "code": "MGS",
+    "name": "Maguindanao del Sur",
+    "names": {
+      "ja": "南マギンダナオ州",
+      "ko": "남마긴다나오주",
+      "vi": "Maguindanao del Sur",
+      "id": "Magindanau Selatan",
+      "zh-Hans": "南马京达瑙省"
+    }
+  },
+  {
+    "code": "MAD",
+    "name": "Marinduque",
+    "names": {
+      "ja": "マリンドゥケ",
+      "ko": "마린두케주",
+      "zh-Hans": "马林杜克省"
+    }
+  },
+  {
+    "code": "MAS",
+    "name": "Masbate",
+    "names": {
+      "ja": "マスバテ",
+      "ko": "마스바테주",
+      "vi": "Masbate",
+      "id": "provinsi Masbati",
+      "zh-Hans": "马斯巴特省",
+      "zh-Hant": "馬斯巴特"
+    }
+  },
+  {
+    "code": "00",
+    "name": "Metro Manila",
+    "names": {
+      "ja": "マニラ首都圏",
+      "ko": "메트로 마닐라",
+      "vi": "Vùng đô thị Manila",
+      "id": "Manila Raya",
+      "zh-Hans": "马尼拉大都会",
+      "zh-Hant": "馬尼拉大都會"
+    }
+  },
+  {
+    "code": "41",
+    "name": "Mimaropa",
+    "names": {
+      "ja": "ミマロパ地方",
+      "ko": "미마로파 지방",
+      "id": "Tagalog Barat Daya",
+      "zh-Hans": "民马罗巴区",
+      "zh-Hant": "民馬羅巴區"
+    }
+  },
+  {
+    "code": "MSC",
+    "name": "Misamis Occidental",
+    "names": {
+      "ja": "西ミサミス",
+      "ko": "서미사미스주",
+      "vi": "Misamis Occidental",
+      "id": "Misamis Barat",
+      "zh-Hans": "西米萨米斯省"
+    }
+  },
+  {
+    "code": "MSR",
+    "name": "Misamis Oriental",
+    "names": {
+      "ja": "東ミサミス",
+      "ko": "동미사미스주",
+      "id": "Misamis Timur",
+      "zh-Hans": "东米萨米斯省"
+    }
+  },
+  {
+    "code": "MOU",
+    "name": "Mountain Province",
+    "names": {
+      "ja": "マウンテン州",
+      "ko": "마운틴주",
+      "vi": "Mountain Province",
+      "id": "Provinsi Pegunungan",
+      "zh-Hans": "高山省"
+    }
+  },
+  {
+    "code": "18",
+    "name": "Negros Island Region",
+    "names": {}
+  },
+  {
+    "code": "NEC",
+    "name": "Negros Occidental",
+    "names": {
+      "ja": "西ネグロス",
+      "ko": "서네그로스주",
+      "id": "Buglas Barat",
+      "zh-Hans": "西内格罗省"
+    }
+  },
+  {
+    "code": "NER",
+    "name": "Negros Oriental",
+    "names": {
+      "ja": "東ネグロス",
+      "ko": "동네그로스주",
+      "vi": "Negros Oriental",
+      "id": "Buglas Timur",
+      "zh-Hans": "东内格罗省"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Northern Mindanao",
+    "names": {
+      "ja": "北ミンダナオ地方",
+      "ko": "북민다나오 지방",
+      "vi": "Bắc Mindanao",
+      "id": "Kemindanauan Utara",
+      "zh-Hans": "北棉兰老",
+      "zh-Hant": "北民答那峨"
+    }
+  },
+  {
+    "code": "NSA",
+    "name": "Northern Samar",
+    "names": {
+      "ja": "北サマル",
+      "ko": "북사마르주",
+      "vi": "Bắc Samar",
+      "id": "Samar Utara",
+      "zh-Hans": "北萨马",
+      "zh-Hant": "北薩馬"
+    }
+  },
+  {
+    "code": "NUE",
+    "name": "Nueva Ecija",
+    "names": {
+      "ja": "ヌエヴァ・エシハ",
+      "ko": "누에바에시하주",
+      "vi": "Nueva Ecija",
+      "id": "Esikha Baru",
+      "zh-Hans": "新怡诗夏省"
+    }
+  },
+  {
+    "code": "NUV",
+    "name": "Nueva Vizcaya",
+    "names": {
+      "ja": "ヌエヴァ・ヴィスカヤ",
+      "ko": "누에바비스카야주",
+      "vi": "Nueva Vizcaya",
+      "id": "Biskaya Baru",
+      "zh-Hans": "新比斯开省"
+    }
+  },
+  {
+    "code": "MDC",
+    "name": "Occidental Mindoro",
+    "names": {
+      "ja": "西ミンドロ",
+      "ko": "서민도로주",
+      "vi": "Occidental Mindoro",
+      "id": "Mindoro Barat",
+      "zh-Hans": "西民都洛"
+    }
+  },
+  {
+    "code": "MDR",
+    "name": "Oriental Mindoro",
+    "names": {
+      "ja": "東ミンドロ",
+      "ko": "동민도로주",
+      "vi": "Oriental Mindoro",
+      "id": "Mindoro Timur",
+      "zh-Hans": "东民都洛省"
+    }
+  },
+  {
+    "code": "PLW",
+    "name": "Palawan",
+    "names": {
+      "ja": "パラワン",
+      "ko": "팔라완주",
+      "vi": "Palawan",
+      "id": "Palawan",
+      "zh-Hans": "巴拉望省",
+      "zh-Hant": "巴拉望省"
+    }
+  },
+  {
+    "code": "PAM",
+    "name": "Pampanga",
+    "names": {
+      "ja": "パンパンガ",
+      "ko": "팜팡가주",
+      "zh-Hans": "邦板牙",
+      "zh-Hant": "潘帕嘉"
+    }
+  },
+  {
+    "code": "PAN",
+    "name": "Pangasinan",
+    "names": {
+      "ja": "パンガシナン",
+      "ko": "팡가시난주",
+      "zh-Hans": "邦阿西楠省",
+      "zh-Hant": "邦阿西楠省"
+    }
+  },
+  {
+    "code": "QUE",
+    "name": "Quezon",
+    "names": {
+      "ja": "ケソン",
+      "ko": "케손주",
+      "zh-Hans": "奎松省",
+      "zh-Hant": "奎松省"
+    }
+  },
+  {
+    "code": "QUI",
+    "name": "Quirino",
+    "names": {
+      "ja": "キリノ",
+      "ko": "키리노주",
+      "zh-Hans": "季里诺省"
+    }
+  },
+  {
+    "code": "RIZ",
+    "name": "Rizal",
+    "names": {
+      "ja": "リサール",
+      "ko": "리살주",
+      "vi": "Rizal",
+      "id": "Rizal",
+      "zh-Hans": "黎刹省"
+    }
+  },
+  {
+    "code": "ROM",
+    "name": "Romblon",
+    "names": {
+      "ja": "ロンブロン",
+      "ko": "롬블론주",
+      "vi": "Romblon",
+      "id": "provinsi Romblon",
+      "zh-Hans": "朗布隆省"
+    }
+  },
+  {
+    "code": "WSA",
+    "name": "Samar",
+    "names": {
+      "ja": "サマル",
+      "ko": "사마르주",
+      "vi": "Samar",
+      "id": "Samar",
+      "zh-Hans": "萨马省"
+    }
+  },
+  {
+    "code": "SAR",
+    "name": "Sarangani",
+    "names": {
+      "ja": "サランガニ",
+      "ko": "사랑가니주",
+      "vi": "Sarangani",
+      "id": "provinsi Saranggani",
+      "zh-Hans": "萨兰加尼省"
+    }
+  },
+  {
+    "code": "SIG",
+    "name": "Siquijor",
+    "names": {
+      "ja": "シキホル",
+      "ko": "시키호르주",
+      "id": "Sikihud",
+      "zh-Hans": "锡基霍尔"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Soccsksargen",
+    "names": {
+      "ja": "ソクサージェン地方",
+      "ko": "소크사르젠 지방",
+      "vi": "Soccsksargen",
+      "id": "Kemindanauan Tengah",
+      "zh-Hans": "索科斯克薩爾根"
+    }
+  },
+  {
+    "code": "SOR",
+    "name": "Sorsogon",
+    "names": {
+      "ja": "ソルソゴン",
+      "ko": "소르소곤주",
+      "vi": "Sorsogon",
+      "id": "provinsi Sorsogon",
+      "zh-Hans": "索索贡省"
+    }
+  },
+  {
+    "code": "SCO",
+    "name": "South Cotabato",
+    "names": {
+      "ja": "南コタバト",
+      "ko": "남코타바토주",
+      "vi": "Nam Cotabato",
+      "id": "Kota Batu Selatan",
+      "zh-Hans": "南哥打巴托省"
+    }
+  },
+  {
+    "code": "SLE",
+    "name": "Southern Leyte",
+    "names": {
+      "ja": "南レイテ",
+      "ko": "남레이테주",
+      "vi": "Nam Leyte",
+      "id": "Leite Selatan",
+      "zh-Hans": "南莱特省",
+      "zh-Hant": "南萊特省"
+    }
+  },
+  {
+    "code": "SUK",
+    "name": "Sultan Kudarat",
+    "names": {
+      "ja": "スルタン・クダラット",
+      "ko": "술탄쿠다라트주",
+      "vi": "Sultan Kudarat",
+      "id": "Sultan Kudarat",
+      "zh-Hans": "苏丹库达拉省"
+    }
+  },
+  {
+    "code": "SLU",
+    "name": "Sulu",
+    "names": {
+      "ja": "スールー",
+      "ko": "술루주",
+      "id": "Provinsi Suluk",
+      "zh-Hans": "苏禄省"
+    }
+  },
+  {
+    "code": "SUN",
+    "name": "Surigao del Norte",
+    "names": {
+      "ja": "北スリガオ",
+      "ko": "북수리가오주",
+      "id": "Surigau Utara",
+      "zh-Hans": "北苏里高省"
+    }
+  },
+  {
+    "code": "SUR",
+    "name": "Surigao del Sur",
+    "names": {
+      "ja": "南スリガオ",
+      "ko": "남수리가오주",
+      "id": "Surigau Selatan",
+      "zh-Hans": "南苏里高省",
+      "zh-Hant": "南蘇里高省"
+    }
+  },
+  {
+    "code": "TAR",
+    "name": "Tarlac",
+    "names": {
+      "ja": "タルラック",
+      "ko": "타를라크주",
+      "vi": "Tarlac",
+      "id": "provinsi Tarlak",
+      "zh-Hans": "丹辘省",
+      "zh-Hant": "丹轆省"
+    }
+  },
+  {
+    "code": "TAW",
+    "name": "Tawi-Tawi",
+    "names": {
+      "ja": "タウイタウイ",
+      "ko": "타위타위주",
+      "vi": "Tawi-Tawi",
+      "id": "Tawi-Tawi",
+      "zh-Hans": "塔威塔威省"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Western Visayas",
+    "names": {
+      "ja": "西ヴィサヤ地方",
+      "ko": "서비사야스 지방",
+      "vi": "Tây Visayas",
+      "id": "Bisayak Barat",
+      "zh-Hans": "西米沙鄢"
+    }
+  },
+  {
+    "code": "ZMB",
+    "name": "Zambales",
+    "names": {
+      "ja": "サンバレス",
+      "ko": "잠발레스주",
+      "id": "provinsi Sambal",
+      "zh-Hans": "三描礼士省",
+      "zh-Hant": "三描禮士省"
+    }
+  },
+  {
+    "code": "ZAN",
+    "name": "Zamboanga del Norte",
+    "names": {
+      "ja": "北サンボアンガ",
+      "ko": "북삼보앙가주",
+      "id": "Zamboanga Utara",
+      "zh-Hans": "北三宝颜省",
+      "zh-Hant": "北三寶顏省"
+    }
+  },
+  {
+    "code": "ZAS",
+    "name": "Zamboanga del Sur",
+    "names": {
+      "ja": "南サンボアンガ",
+      "ko": "남삼보앙가주",
+      "id": "Zamboanga Selatan",
+      "zh-Hans": "南三宝颜省",
+      "zh-Hant": "南三寶顏省"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Zamboanga Peninsula",
+    "names": {
+      "ja": "サンボアンガ半島地方",
+      "ko": "삼보앙가반도 지방",
+      "vi": "Bán đảo Zamboanga",
+      "id": "semenanjung Sembuangan",
+      "zh-Hans": "三宝颜半岛",
+      "zh-Hant": "三寶顏半島"
+    }
+  },
+  {
+    "code": "ZSI",
+    "name": "Zamboanga Sibugay",
+    "names": {
+      "ja": "サンボアンガ・シブガイ",
+      "ko": "삼보앙가시부가이주",
+      "zh-Hans": "三宝颜锡布格省"
+    }
+  }
+]

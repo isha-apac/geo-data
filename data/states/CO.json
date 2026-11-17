@@ -1,0 +1,391 @@
+[
+  {
+    "code": "AMA",
+    "name": "Amazonas Department",
+    "names": {
+      "ja": "アマソナス県",
+      "ko": "아마소나스주",
+      "vi": "Amazonas",
+      "id": "Departemen Amazonas",
+      "zh-Hans": "亚马孙省"
+    }
+  },
+  {
+    "code": "ANT",
+    "name": "Antioquia",
+    "names": {
+      "ja": "アンティオキア県",
+      "ko": "안티오키아주",
+      "vi": "Antioquia",
+      "id": "Departemen Antioquia",
+      "zh-Hans": "安蒂奥基亚省",
+      "zh-Hant": "安蒂奧基亞省"
+    }
+  },
+  {
+    "code": "ARA",
+    "name": "Arauca Department",
+    "names": {
+      "ja": "アラウカ県",
+      "ko": "아라우카주",
+      "vi": "Arauca",
+      "id": "Departemen Arauca",
+      "zh-Hans": "阿劳卡省",
+      "zh-Hant": "阿勞卡省"
+    }
+  },
+  {
+    "code": "SAP",
+    "name": "Archipelago of San Andrés, Providencia and Santa Catalina",
+    "names": {
+      "ja": "サン・アンドレス・イ・プロビデンシア県",
+      "ko": "산안드레스이프로비덴시아주",
+      "vi": "Archipelago ở Saint Andréws, Providence và Saint Catalina",
+      "id": "Departemen San Andrés dan Providencia",
+      "zh-Hans": "聖安德烈斯-普羅維登西亞和聖卡塔利娜群島省"
+    }
+  },
+  {
+    "code": "ATL",
+    "name": "Atlántico Department",
+    "names": {
+      "ja": "アトランティコ県",
+      "ko": "아틀란티코주",
+      "vi": "Atlántico",
+      "id": "Departemen Atlántico",
+      "zh-Hans": "大西洋省",
+      "zh-Hant": "大西洋省"
+    }
+  },
+  {
+    "code": "DC",
+    "name": "Bogotá",
+    "names": {
+      "ja": "ボゴタ",
+      "ko": "보고타",
+      "vi": "Bogotá",
+      "id": "Bogotá",
+      "zh-Hans": "波哥大",
+      "zh-Hant": "波哥大"
+    }
+  },
+  {
+    "code": "BOL",
+    "name": "Bolívar Department",
+    "names": {
+      "ja": "ボリーバル県",
+      "ko": "볼리바르주",
+      "vi": "Bolívar",
+      "id": "Departemen Bolívar",
+      "zh-Hans": "玻利瓦尔省",
+      "zh-Hant": "玻利瓦省"
+    }
+  },
+  {
+    "code": "BOY",
+    "name": "Boyacá Department",
+    "names": {
+      "ja": "ボヤカ県",
+      "ko": "보야카주",
+      "vi": "Khu vực hành chính Boyacá",
+      "id": "Departemen Boyacá",
+      "zh-Hans": "博亚卡省",
+      "zh-Hant": "博亞卡省"
+    }
+  },
+  {
+    "code": "CAL",
+    "name": "Caldas Department",
+    "names": {
+      "ja": "カルダス県",
+      "ko": "칼다스주",
+      "vi": "Caldas",
+      "id": "Departemen Caldas",
+      "zh-Hans": "卡尔达斯省",
+      "zh-Hant": "卡爾達斯省"
+    }
+  },
+  {
+    "code": "CAQ",
+    "name": "Caquetá Department",
+    "names": {
+      "ja": "カケタ県",
+      "ko": "카케타주",
+      "vi": "Caquetá",
+      "id": "Departemen Caquetá",
+      "zh-Hans": "卡克塔省"
+    }
+  },
+  {
+    "code": "CAS",
+    "name": "Casanare Department",
+    "names": {
+      "ja": "カサナレ県",
+      "ko": "카사나레주",
+      "vi": "Casanare",
+      "id": "Departemen Casanare",
+      "zh-Hans": "卡萨纳雷省"
+    }
+  },
+  {
+    "code": "CAU",
+    "name": "Cauca Department",
+    "names": {
+      "ja": "カウカ県",
+      "ko": "카우카주",
+      "vi": "Cauca",
+      "id": "Departemen Cauca",
+      "zh-Hans": "考卡省",
+      "zh-Hant": "考卡省"
+    }
+  },
+  {
+    "code": "CES",
+    "name": "Cesar Department",
+    "names": {
+      "ja": "セサール県",
+      "ko": "세사르주",
+      "vi": "Khu vực hành chính Cesar",
+      "id": "Departemen Cesar",
+      "zh-Hans": "塞萨尔省",
+      "zh-Hant": "塞薩爾省"
+    }
+  },
+  {
+    "code": "CHO",
+    "name": "Chocó Department",
+    "names": {
+      "ja": "チョコ県",
+      "ko": "초코주",
+      "vi": "Chocó",
+      "id": "Departemen Chocó",
+      "zh-Hans": "乔科省",
+      "zh-Hant": "喬科省"
+    }
+  },
+  {
+    "code": "COR",
+    "name": "Córdoba Department",
+    "names": {
+      "ja": "コルドバ県",
+      "ko": "코르도바주",
+      "vi": "Khu vực hành chính Cordoba",
+      "id": "Departemen Córdoba",
+      "zh-Hans": "科尔多瓦",
+      "zh-Hant": "哥多華"
+    }
+  },
+  {
+    "code": "CUN",
+    "name": "Cundinamarca Department",
+    "names": {
+      "ja": "クンディナマルカ県",
+      "ko": "쿤디나마르카주",
+      "vi": "Cundinamarca",
+      "id": "Departemen Kundinamarka",
+      "zh-Hans": "昆迪纳马卡省",
+      "zh-Hant": "昆迪納馬卡省"
+    }
+  },
+  {
+    "code": "GUA",
+    "name": "Guainía Department",
+    "names": {
+      "ja": "グアイニア県",
+      "ko": "과이니아주",
+      "vi": "Khu hành chính Guainía",
+      "id": "Departemen Guainía",
+      "zh-Hans": "瓜伊尼亚省",
+      "zh-Hant": "瓜伊尼亞省"
+    }
+  },
+  {
+    "code": "GUV",
+    "name": "Guaviare Department",
+    "names": {
+      "ja": "グアビアーレ県",
+      "ko": "과비아레주",
+      "vi": "Khu vực hành chính Guaviare",
+      "id": "Departemen Guaviare",
+      "zh-Hans": "瓜维亚雷省",
+      "zh-Hant": "瓜維亞雷省"
+    }
+  },
+  {
+    "code": "HUI",
+    "name": "Huila Department",
+    "names": {
+      "ja": "ウイラ県",
+      "ko": "우일라주",
+      "vi": "Khu vực hành chính Huila",
+      "id": "Departemen Huila",
+      "zh-Hans": "乌伊拉省",
+      "zh-Hant": "烏伊拉省"
+    }
+  },
+  {
+    "code": "LAG",
+    "name": "La Guajira Department",
+    "names": {
+      "ja": "ラ・グアヒーラ県",
+      "ko": "라과히라주",
+      "vi": "Khu vực hành chính La Guajira",
+      "id": "Departemen Guajira",
+      "zh-Hans": "瓜希拉省",
+      "zh-Hant": "瓜希拉省"
+    }
+  },
+  {
+    "code": "MAG",
+    "name": "Magdalena Department",
+    "names": {
+      "ja": "マグダレーナ県",
+      "ko": "마그달레나주",
+      "vi": "Magdalena",
+      "id": "Departemen Magdalena",
+      "zh-Hans": "马格达莱纳省",
+      "zh-Hant": "馬格達萊納省"
+    }
+  },
+  {
+    "code": "MET",
+    "name": "Meta",
+    "names": {
+      "ja": "メタ県",
+      "ko": "메타주",
+      "vi": "Meta",
+      "id": "Departemen Meta",
+      "zh-Hans": "梅塔省",
+      "zh-Hant": "梅塔省"
+    }
+  },
+  {
+    "code": "NAR",
+    "name": "Nariño Department",
+    "names": {
+      "ja": "ナリーニョ県",
+      "ko": "나리뇨주",
+      "vi": "Nariño",
+      "id": "Departemen Nariño",
+      "zh-Hans": "纳里尼奥省",
+      "zh-Hant": "納里尼奧省"
+    }
+  },
+  {
+    "code": "NSA",
+    "name": "Norte de Santander Department",
+    "names": {
+      "ja": "ノルテ・デ・サンタンデール県",
+      "ko": "노르테데산탄데르주",
+      "vi": "Norte de Santander",
+      "id": "Departemen Norte de Santander",
+      "zh-Hans": "北桑坦德省",
+      "zh-Hant": "北桑坦德省"
+    }
+  },
+  {
+    "code": "PUT",
+    "name": "Putumayo Department",
+    "names": {
+      "ja": "プトゥマヨ県",
+      "ko": "푸투마요주",
+      "vi": "Putumayo",
+      "id": "Departemen Putumayo",
+      "zh-Hans": "普图马约省",
+      "zh-Hant": "普圖馬約省"
+    }
+  },
+  {
+    "code": "QUI",
+    "name": "Quindío Department",
+    "names": {
+      "ja": "キンディオ県",
+      "ko": "킨디오주",
+      "vi": "Quindío",
+      "id": "Departemen Quindío",
+      "zh-Hans": "金迪奥省"
+    }
+  },
+  {
+    "code": "RIS",
+    "name": "Risaralda Department",
+    "names": {
+      "ja": "リサラルダ県",
+      "ko": "리사랄다주",
+      "vi": "Risaralda",
+      "id": "Departemen Risaralda",
+      "zh-Hans": "里萨拉尔达省"
+    }
+  },
+  {
+    "code": "SAN",
+    "name": "Santander Department",
+    "names": {
+      "ja": "サンタンデール県",
+      "ko": "산탄데르주",
+      "vi": "Khu vực hành chính Santander",
+      "id": "Departemen Santander",
+      "zh-Hans": "桑坦德省",
+      "zh-Hant": "桑坦德省"
+    }
+  },
+  {
+    "code": "SUC",
+    "name": "Sucre Department",
+    "names": {
+      "ja": "スクレ県",
+      "ko": "수크레주",
+      "vi": "Khu vực hành chính Sucre",
+      "id": "Departemen Sucre",
+      "zh-Hans": "苏克雷省",
+      "zh-Hant": "蘇克雷省"
+    }
+  },
+  {
+    "code": "TOL",
+    "name": "Tolima Department",
+    "names": {
+      "ja": "トリマ県",
+      "ko": "톨리마주",
+      "vi": "Khu vực hành chính Tolima",
+      "id": "Departemen Tolima",
+      "zh-Hans": "托利马省",
+      "zh-Hant": "托利馬省"
+    }
+  },
+  {
+    "code": "VAC",
+    "name": "Valle del Cauca Department",
+    "names": {
+      "ja": "バジェ・デル・カウカ県",
+      "ko": "바예델카우카주",
+      "vi": "Valle del Cauca",
+      "id": "Departemen Valle del Cauca",
+      "zh-Hans": "考卡河谷省"
+    }
+  },
+  {
+    "code": "VAU",
+    "name": "Vaupés Department",
+    "names": {
+      "ja": "バウペス県",
+      "ko": "바우페스주",
+      "vi": "Khu vực hành chính Vaupés",
+      "id": "Departemen Vaupés",
+      "zh-Hans": "沃佩斯省",
+      "zh-Hant": "沃佩斯省"
+    }
+  },
+  {
+    "code": "VID",
+    "name": "Vichada Department",
+    "names": {
+      "ja": "ビチャーダ県",
+      "ko": "비차다주",
+      "vi": "Khu vực hành chính Vichada",
+      "id": "Departemen Vichada",
+      "zh-Hans": "比查达省",
+      "zh-Hant": "比查達省"
+    }
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "code": "02",
+    "name": "Saint Andrew Parish",
+    "names": {
+      "ja": "セント・アンドリュー教区",
+      "ko": "세인트앤드루구",
+      "vi": "Giáo xứ Saint Andrew",
+      "id": "Paroki Saint Andrew",
+      "zh-Hans": "圣安德鲁区",
+      "zh-Hant": "聖安德魯區"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Saint David Parish",
+    "names": {
+      "ja": "セント・デイヴィッド教区",
+      "ko": "세인트데이비드구",
+      "vi": "Giáo xứ Saint David",
+      "id": "Paroki Saint David",
+      "zh-Hans": "圣戴维堂区",
+      "zh-Hant": "聖戴維堂區"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Saint George Parish",
+    "names": {
+      "ja": "セント・ジョージ教区",
+      "ko": "세인트조지구",
+      "vi": "Giáo xứ Saint George",
+      "id": "Paroki Saint George",
+      "zh-Hans": "圣乔治堂区"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Saint John Parish",
+    "names": {
+      "ja": "セント・ジョン教区",
+      "ko": "세인트존구",
+      "vi": "Giáo xứ Saint John",
+      "id": "Paroki Saint John",
+      "zh-Hans": "圣约翰堂区",
+      "zh-Hant": "聖約翰堂區"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Saint Joseph Parish",
+    "names": {
+      "ja": "セント・ジョゼフ教区",
+      "ko": "세인트조지프구",
+      "vi": "Giáo xứ Saint Joseph",
+      "id": "Paroki Saint Joseph",
+      "zh-Hans": "圣约瑟夫堂区",
+      "zh-Hant": "聖約瑟夫堂區"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Saint Luke Parish",
+    "names": {
+      "ja": "セント・ルーク教区",
+      "ko": "세인트루크구",
+      "vi": "Giáo xứ Saint Luke",
+      "id": "Paroki Saint Luke",
+      "zh-Hans": "圣卢克堂区",
+      "zh-Hant": "聖盧克堂區"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Saint Mark Parish",
+    "names": {
+      "ja": "セント・マーク教区",
+      "ko": "세인트마크구",
+      "vi": "Giáo xứ Saint Mark",
+      "id": "Paroki Saint Mark",
+      "zh-Hans": "圣马克堂区",
+      "zh-Hant": "聖馬克堂區"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Saint Patrick Parish",
+    "names": {
+      "ja": "セント・パトリック教区",
+      "ko": "세인트패트릭구",
+      "vi": "Giáo xứ Saint Patrick",
+      "id": "Paroki Saint Patrick",
+      "zh-Hans": "圣帕特里克堂区",
+      "zh-Hant": "聖帕特里克堂區"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Saint Paul Parish",
+    "names": {
+      "ja": "セント・ポール教区",
+      "ko": "세인트폴구",
+      "vi": "Giáo xứ Saint Paul",
+      "id": "Paroki Saint Paul",
+      "zh-Hans": "圣保罗堂区"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Saint Peter Parish",
+    "names": {
+      "ja": "セント・ピーター教区",
+      "ko": "세인트피터구",
+      "vi": "Giáo xứ Saint Peter",
+      "id": "Paroki Saint Peter",
+      "zh-Hans": "圣彼得堂区",
+      "zh-Hant": "聖彼得堂區"
+    }
+  }
+]

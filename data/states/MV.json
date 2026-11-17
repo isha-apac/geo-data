@@ -1,0 +1,240 @@
+[
+  {
+    "code": "01",
+    "name": "Addu Atoll",
+    "names": {
+      "ja": "アッドゥ環礁",
+      "ko": "아두 환초",
+      "id": "Atol Addu",
+      "zh-Hans": "Addu环礁",
+      "zh-Hant": "Addu環礁"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Alif Alif Atoll",
+    "names": {
+      "ja": "アリフ・アリフ・アトル",
+      "ko": "알리프알리프 환초",
+      "vi": "Alif Alif Atoll",
+      "id": "Atol Alif Alif",
+      "zh-Hans": "阿利夫阿利夫环礁"
+    }
+  },
+  {
+    "code": "00",
+    "name": "Alif Dhaal Atoll",
+    "names": {
+      "ja": "アリフ・ダール環礁区",
+      "ko": "알리프달 환초",
+      "vi": "Alif Dhaal Atoll",
+      "id": "Atol Alif Dhaal",
+      "zh-Hans": "Ari环礁",
+      "zh-Hant": "Ari環礁"
+    }
+  },
+  {
+    "code": "20",
+    "name": "Baa Atoll",
+    "names": {
+      "ja": "バア環礁",
+      "ko": "바 환초",
+      "vi": "Baa Atoll",
+      "id": "Atol Baa",
+      "zh-Hans": "巴环礁",
+      "zh-Hant": "巴環礁"
+    }
+  },
+  {
+    "code": "17",
+    "name": "Dhaalu Atoll",
+    "names": {
+      "ja": "ダァール環礁",
+      "ko": "달루 환초",
+      "vi": "Dhaalu Atoll",
+      "id": "Atol Dhaalu",
+      "zh-Hans": "达卢环礁",
+      "zh-Hant": "達盧環礁"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Faafu Atoll",
+    "names": {
+      "ja": "北ニランデ環礁区",
+      "ko": "파푸 환초",
+      "vi": "Faafu Atoll",
+      "id": "Atol Faafu",
+      "zh-Hans": "法富环礁"
+    }
+  },
+  {
+    "code": "27",
+    "name": "Gaafu Alif Atoll",
+    "names": {
+      "ja": "ガーフ・アリフ環礁",
+      "ko": "가푸알리프 환초",
+      "vi": "Gaafu Alif Atoll",
+      "id": "Atol Gaafu Alif",
+      "zh-Hans": "Huvadhoo环礁",
+      "zh-Hant": "Huvadhoo環礁"
+    }
+  },
+  {
+    "code": "28",
+    "name": "Gaafu Dhaalu Atoll",
+    "names": {
+      "ja": "ガーフ・ダール環礁",
+      "ko": "가푸달루 환초",
+      "vi": "Gaafu Dhaalu Atoll",
+      "id": "Atol Gaafu Dhaalu",
+      "zh-Hans": "加富达卢环礁",
+      "zh-Hant": "加富達盧環礁"
+    }
+  },
+  {
+    "code": "29",
+    "name": "Gnaviyani Atoll",
+    "names": {
+      "ja": "ニヤヴィヤニ環礁",
+      "ko": "그나비야니 환초",
+      "vi": "Gnaviyani Atoll",
+      "id": "Gnaviyani Atoll",
+      "zh-Hans": "尼亚维亚尼环礁",
+      "zh-Hant": "尼亞維亞尼環礁"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Haa Alif Atoll",
+    "names": {
+      "ja": "ハーアリフ環礁",
+      "ko": "하알리프 환초",
+      "vi": "Haa Alif Atoll",
+      "id": "Atol Haa Alif",
+      "zh-Hans": "哈阿利夫环礁"
+    }
+  },
+  {
+    "code": "23",
+    "name": "Haa Dhaalu Atoll",
+    "names": {
+      "ja": "南ティラドゥンマティー環礁区",
+      "ko": "하달루 환초",
+      "vi": "Haa Dhaalu Atoll",
+      "id": "Atol Haa Dhaalu",
+      "zh-Hans": "哈达卢环礁",
+      "zh-Hant": "哈達盧環礁"
+    }
+  },
+  {
+    "code": "26",
+    "name": "Kaafu Atoll",
+    "names": {
+      "ja": "カーフ環礁",
+      "ko": "카푸 환초",
+      "vi": "Kaafu Atoll",
+      "id": "Atol Kaafu",
+      "zh-Hans": "卡富环礁"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Laamu Atoll",
+    "names": {
+      "ja": "ラーム環礁",
+      "ko": "라무 환초",
+      "vi": "Laamu Atoll",
+      "id": "Atol Laamu",
+      "zh-Hans": "拉穆环礁",
+      "zh-Hant": "拉穆環礁"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Lhaviyani Atoll",
+    "names": {
+      "ja": "ラビアニ環礁",
+      "ko": "라비야니 환초",
+      "vi": "Lhaviyani Atoll",
+      "id": "Atol Lhaviyani",
+      "zh-Hans": "拉维亚尼环礁"
+    }
+  },
+  {
+    "code": "MLE",
+    "name": "Malé",
+    "names": {
+      "ja": "マレ",
+      "ko": "말레",
+      "vi": "Malé",
+      "id": "Malé",
+      "zh-Hans": "马累",
+      "zh-Hant": "馬累"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Meemu Atoll",
+    "names": {
+      "ja": "ミーム環礁",
+      "ko": "미무 환초",
+      "vi": "Meemu Atoll",
+      "id": "Atol Meemu",
+      "zh-Hans": "梅穆環礁"
+    }
+  },
+  {
+    "code": "25",
+    "name": "Noonu Atoll",
+    "names": {
+      "ja": "ヌーヌ環礁",
+      "ko": "누누 환초",
+      "vi": "Noonu Atoll",
+      "id": "Atol Noonu",
+      "zh-Hans": "诺努环礁"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Raa Atoll",
+    "names": {
+      "ja": "ラー環礁",
+      "ko": "라 환초",
+      "vi": "Raa Atoll",
+      "id": "Atol Raa",
+      "zh-Hans": "拉环礁"
+    }
+  },
+  {
+    "code": "24",
+    "name": "Shaviyani Atoll",
+    "names": {
+      "ja": "北ミラドゥンマドゥル環礁区",
+      "ko": "샤비야니 환초",
+      "vi": "Shaviyani Atoll",
+      "id": "Atol Shaviyani",
+      "zh-Hans": "沙维亚尼环礁"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Thaa Atoll",
+    "names": {
+      "ko": "타 환초",
+      "zh-Hans": "塔環礁",
+      "zh-Hant": "塔環礁"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Vaavu Atoll",
+    "names": {
+      "ja": "フェリデ環礁",
+      "ko": "바부 환초",
+      "vi": "Vaavu Atoll",
+      "id": "Atol Vaavu",
+      "zh-Hans": "瓦武环礁"
+    }
+  }
+]

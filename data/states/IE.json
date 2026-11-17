@@ -1,0 +1,361 @@
+[
+  {
+    "code": "C",
+    "name": "Connacht",
+    "names": {
+      "ja": "コノート",
+      "ko": "코노트",
+      "vi": "Connacht",
+      "id": "Connacht",
+      "zh-Hans": "康诺特省",
+      "zh-Hant": "康諾特省"
+    }
+  },
+  {
+    "code": "CW",
+    "name": "County Carlow",
+    "names": {
+      "ja": "カーロウ県",
+      "ko": "칼로주",
+      "vi": "Hạt Carlow",
+      "id": "County Carlow",
+      "zh-Hans": "卡洛郡",
+      "zh-Hant": "卡洛郡"
+    }
+  },
+  {
+    "code": "CN",
+    "name": "County Cavan",
+    "names": {
+      "ja": "キャバン県",
+      "ko": "캐번주",
+      "vi": "Hạt Cavan",
+      "id": "County Cavan",
+      "zh-Hans": "卡文郡",
+      "zh-Hant": "卡文郡"
+    }
+  },
+  {
+    "code": "CE",
+    "name": "County Clare",
+    "names": {
+      "ja": "クレア県",
+      "ko": "클래어주",
+      "vi": "Hạt Clare",
+      "id": "County Clare",
+      "zh-Hans": "克莱尔郡",
+      "zh-Hant": "克萊爾郡"
+    }
+  },
+  {
+    "code": "CO",
+    "name": "County Cork",
+    "names": {
+      "ja": "コーク県",
+      "ko": "코크주",
+      "vi": "Hạt Cork",
+      "id": "County Cork",
+      "zh-Hans": "科克郡",
+      "zh-Hant": "科克郡"
+    }
+  },
+  {
+    "code": "DL",
+    "name": "County Donegal",
+    "names": {
+      "ja": "ドニゴール県",
+      "ko": "도니골 주",
+      "vi": "Hạt Donegal",
+      "id": "County Donegal",
+      "zh-Hans": "多尼戈尔郡",
+      "zh-Hant": "多尼戈爾郡"
+    }
+  },
+  {
+    "code": "D",
+    "name": "County Dublin",
+    "names": {
+      "ja": "ダブリン県",
+      "ko": "더블린주",
+      "vi": "Hạt Dublin",
+      "id": "County Dublin",
+      "zh-Hans": "都柏林地区",
+      "zh-Hant": "都柏林地區"
+    }
+  },
+  {
+    "code": "G",
+    "name": "County Galway",
+    "names": {
+      "ja": "ゴールウェイ県",
+      "ko": "골웨이주",
+      "vi": "Hạt Galway",
+      "id": "County Galway",
+      "zh-Hans": "戈尔韦郡",
+      "zh-Hant": "戈爾韋郡"
+    }
+  },
+  {
+    "code": "KY",
+    "name": "County Kerry",
+    "names": {
+      "ja": "ケリー県",
+      "ko": "케리주",
+      "vi": "Hạt Kerry",
+      "id": "County Kerry",
+      "zh-Hans": "凯里郡",
+      "zh-Hant": "凱里郡"
+    }
+  },
+  {
+    "code": "KE",
+    "name": "County Kildare",
+    "names": {
+      "ja": "キルデア県",
+      "ko": "킬데어주",
+      "vi": "Hạt Kildare",
+      "id": "County Kildare",
+      "zh-Hans": "基尔代尔郡",
+      "zh-Hant": "基爾代爾郡"
+    }
+  },
+  {
+    "code": "KK",
+    "name": "County Kilkenny",
+    "names": {
+      "ja": "キルケニー県",
+      "ko": "킬케니주",
+      "vi": "Hạt Kilkenny",
+      "id": "County Kilkenny",
+      "zh-Hans": "基尔肯尼郡",
+      "zh-Hant": "基爾肯尼郡"
+    }
+  },
+  {
+    "code": "LS",
+    "name": "County Laois",
+    "names": {
+      "ja": "リーシュ県",
+      "ko": "레이시주",
+      "vi": "Hạt Laois",
+      "id": "County Laois",
+      "zh-Hans": "莱伊什郡",
+      "zh-Hant": "萊伊什郡"
+    }
+  },
+  {
+    "code": "LM",
+    "name": "County Leitrim",
+    "names": {
+      "ja": "リートリム県",
+      "ko": "리트림주",
+      "vi": "Hạt Leitrim",
+      "id": "County Leitrim",
+      "zh-Hans": "利特里姆郡"
+    }
+  },
+  {
+    "code": "LK",
+    "name": "County Limerick",
+    "names": {
+      "ja": "リムリック県",
+      "ko": "리머릭주",
+      "vi": "Hạt Limerick",
+      "id": "County Limerick",
+      "zh-Hans": "利默里克郡",
+      "zh-Hant": "利默里克郡"
+    }
+  },
+  {
+    "code": "LD",
+    "name": "County Longford",
+    "names": {
+      "ja": "ロングフォード県",
+      "ko": "롱퍼드주",
+      "vi": "Hạt Longford",
+      "id": "County Longford",
+      "zh-Hans": "朗福德郡",
+      "zh-Hant": "朗福德郡"
+    }
+  },
+  {
+    "code": "LH",
+    "name": "County Louth",
+    "names": {
+      "ja": "ラウス県",
+      "ko": "라우스주",
+      "vi": "Hạt Louth",
+      "id": "County Louth",
+      "zh-Hans": "劳斯郡",
+      "zh-Hant": "勞斯郡"
+    }
+  },
+  {
+    "code": "MO",
+    "name": "County Mayo",
+    "names": {
+      "ja": "メイヨー県",
+      "ko": "메이요주",
+      "vi": "Hạt Mayo",
+      "id": "County Mayo",
+      "zh-Hans": "梅奥郡",
+      "zh-Hant": "梅奧郡"
+    }
+  },
+  {
+    "code": "MH",
+    "name": "County Meath",
+    "names": {
+      "ja": "ミーズ県",
+      "ko": "미스주",
+      "vi": "Hạt Meath",
+      "id": "County Meath",
+      "zh-Hans": "米斯郡",
+      "zh-Hant": "米斯郡"
+    }
+  },
+  {
+    "code": "MN",
+    "name": "County Monaghan",
+    "names": {
+      "ja": "モナハン県",
+      "ko": "모나한 주",
+      "vi": "Hạt Monaghan",
+      "id": "County Monaghan",
+      "zh-Hans": "莫纳亨郡",
+      "zh-Hant": "莫納亨郡"
+    }
+  },
+  {
+    "code": "OY",
+    "name": "County Offaly",
+    "names": {
+      "ja": "オファリー県",
+      "ko": "오펄리주",
+      "vi": "Hạt Offaly",
+      "id": "County Offaly",
+      "zh-Hans": "奥法利郡",
+      "zh-Hant": "奧法利郡"
+    }
+  },
+  {
+    "code": "RN",
+    "name": "County Roscommon",
+    "names": {
+      "ja": "ロスコモン県",
+      "ko": "로스커먼주",
+      "vi": "Hạt Roscommon",
+      "id": "County Roscommon",
+      "zh-Hans": "罗斯康芒郡",
+      "zh-Hant": "羅斯康芒郡"
+    }
+  },
+  {
+    "code": "SO",
+    "name": "County Sligo",
+    "names": {
+      "ja": "スライゴ県",
+      "ko": "슬라이고주",
+      "vi": "Hạt Sligo",
+      "id": "County Sligo",
+      "zh-Hans": "斯莱戈郡",
+      "zh-Hant": "斯萊戈郡"
+    }
+  },
+  {
+    "code": "TA",
+    "name": "County Tipperary",
+    "names": {
+      "ja": "ティペラリー県",
+      "ko": "티퍼레리주",
+      "vi": "Hạt Tipperary",
+      "id": "County Tipperary",
+      "zh-Hans": "蒂珀雷里郡",
+      "zh-Hant": "蒂珀雷里郡"
+    }
+  },
+  {
+    "code": "WD",
+    "name": "County Waterford",
+    "names": {
+      "ja": "ウォーターフォード県",
+      "ko": "워터퍼드주",
+      "vi": "Hạt Waterford",
+      "id": "County Waterford",
+      "zh-Hans": "沃特福德郡",
+      "zh-Hant": "瓦特福郡"
+    }
+  },
+  {
+    "code": "WH",
+    "name": "County Westmeath",
+    "names": {
+      "ja": "ウェストミーズ県",
+      "ko": "웨스트미스주",
+      "vi": "Hạt Westmeath",
+      "id": "County Westmeath",
+      "zh-Hans": "韦斯特米斯郡",
+      "zh-Hant": "韋斯特米斯郡"
+    }
+  },
+  {
+    "code": "WX",
+    "name": "County Wexford",
+    "names": {
+      "ja": "ウェックスフォード県",
+      "ko": "웩스퍼드주",
+      "vi": "Hạt Wexford",
+      "id": "County Wexford",
+      "zh-Hans": "韦克斯福德郡",
+      "zh-Hant": "韋克斯福德郡"
+    }
+  },
+  {
+    "code": "WW",
+    "name": "County Wicklow",
+    "names": {
+      "ja": "ウィックロー県",
+      "ko": "위클로주",
+      "vi": "Hạt Wicklow",
+      "id": "County Wicklow",
+      "zh-Hans": "威克洛郡",
+      "zh-Hant": "威克洛郡"
+    }
+  },
+  {
+    "code": "L",
+    "name": "Leinster",
+    "names": {
+      "ja": "レンスター",
+      "ko": "렌스터",
+      "vi": "Leinster",
+      "id": "Laighean",
+      "zh-Hans": "伦斯特省",
+      "zh-Hant": "倫斯特省"
+    }
+  },
+  {
+    "code": "M",
+    "name": "Munster",
+    "names": {
+      "ja": "マンスター",
+      "ko": "먼스터",
+      "vi": "Munster",
+      "id": "Munster",
+      "zh-Hans": "芒斯特省",
+      "zh-Hant": "芒斯特省"
+    }
+  },
+  {
+    "code": "U",
+    "name": "Ulster",
+    "names": {
+      "ja": "アルスター",
+      "ko": "얼스터",
+      "vi": "Ulster",
+      "id": "Ulster",
+      "zh-Hans": "阿尔斯特省",
+      "zh-Hant": "阿爾斯特省"
+    }
+  }
+]

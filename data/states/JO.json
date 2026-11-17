@@ -1,0 +1,142 @@
+[
+  {
+    "code": "AJ",
+    "name": "Ajloun Governorate",
+    "names": {
+      "ja": "アジュルン県",
+      "ko": "아질룬주",
+      "vi": "Tỉnh Ajloun",
+      "id": "Kegubernuran Ajloun",
+      "zh-Hans": "阿杰隆省"
+    }
+  },
+  {
+    "code": "AM",
+    "name": "Amman Governorate",
+    "names": {
+      "ja": "アンマン県",
+      "ko": "암만주",
+      "vi": "Tỉnh Amman",
+      "id": "Kegubernuran Amman",
+      "zh-Hans": "安曼省"
+    }
+  },
+  {
+    "code": "AQ",
+    "name": "Aqaba Governorate",
+    "names": {
+      "ja": "アカバ県",
+      "ko": "아카바주",
+      "vi": "Tỉnh Aqaba",
+      "id": "Kegubernuran Aqaba",
+      "zh-Hans": "亚喀巴省"
+    }
+  },
+  {
+    "code": "BA",
+    "name": "Balqa Governorate",
+    "names": {
+      "ja": "バルカ県",
+      "ko": "발카주",
+      "vi": "Tỉnh Balqa",
+      "id": "Kegubernuran Balqa",
+      "zh-Hans": "拜勒加省",
+      "zh-Hant": "拜勒加省"
+    }
+  },
+  {
+    "code": "IR",
+    "name": "Irbid Governorate",
+    "names": {
+      "ja": "イルビド県",
+      "ko": "이르비드주",
+      "vi": "Tỉnh Irbid",
+      "id": "Kegubernuran Irbid",
+      "zh-Hans": "伊尔比德省",
+      "zh-Hant": "伊爾比德省"
+    }
+  },
+  {
+    "code": "JA",
+    "name": "Jerash Governorate",
+    "names": {
+      "ja": "ジェラシュ県",
+      "ko": "제라시주",
+      "vi": "Tỉnh Jerash",
+      "id": "Kegubernuran Jerash",
+      "zh-Hans": "杰拉什省",
+      "zh-Hant": "傑拉什省"
+    }
+  },
+  {
+    "code": "KA",
+    "name": "Karak Governorate",
+    "names": {
+      "ja": "カラク県",
+      "ko": "카라크주",
+      "vi": "Khu vực hành chính Karak",
+      "id": "Kegubernuran Karak",
+      "zh-Hans": "卡拉克省",
+      "zh-Hant": "卡拉克省"
+    }
+  },
+  {
+    "code": "MN",
+    "name": "Ma'an Governorate",
+    "names": {
+      "ja": "マアーン県",
+      "ko": "마안주",
+      "vi": "Tỉnh Ma'an",
+      "id": "Kegubernuran Ma'an",
+      "zh-Hans": "马安省"
+    }
+  },
+  {
+    "code": "MD",
+    "name": "Madaba Governorate",
+    "names": {
+      "ja": "マダバ県",
+      "ko": "마다바주",
+      "vi": "Tỉnh Madaba",
+      "id": "Kegubernuran Madaba",
+      "zh-Hans": "马代巴省",
+      "zh-Hant": "馬代巴省"
+    }
+  },
+  {
+    "code": "MA",
+    "name": "Mafraq Governorate",
+    "names": {
+      "ja": "マフラク県",
+      "ko": "마프라크주",
+      "vi": "Tỉnh Mafraq",
+      "id": "Kegubernuran Mafraq",
+      "zh-Hans": "马弗拉克省",
+      "zh-Hant": "馬弗拉克省"
+    }
+  },
+  {
+    "code": "AT",
+    "name": "Tafilah Governorate",
+    "names": {
+      "ja": "タフィラ県",
+      "ko": "타필라주",
+      "vi": "Tỉnh Tafilah",
+      "id": "Kegubernuran Tafilah",
+      "zh-Hans": "塔菲拉省",
+      "zh-Hant": "塔菲拉省"
+    }
+  },
+  {
+    "code": "AZ",
+    "name": "Zarqa Governorate",
+    "names": {
+      "ja": "ザルカ県",
+      "ko": "자르카주",
+      "vi": "Tỉnh Zarqa",
+      "id": "Kegubernuran Zarqa",
+      "zh-Hans": "扎尔卡省",
+      "zh-Hant": "扎爾卡省"
+    }
+  }
+]

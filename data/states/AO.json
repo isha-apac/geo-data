@@ -1,0 +1,214 @@
+[
+  {
+    "code": "BGO",
+    "name": "Bengo Province",
+    "names": {
+      "ja": "ベンゴ州",
+      "ko": "벵구주",
+      "vi": "Bengo",
+      "id": "Bengo",
+      "zh-Hans": "本戈省",
+      "zh-Hant": "本戈省"
+    }
+  },
+  {
+    "code": "BGU",
+    "name": "Benguela Province",
+    "names": {
+      "ja": "ベンゲラ州",
+      "ko": "벵겔라주",
+      "vi": "Benguela",
+      "id": "Provinsi Benguela",
+      "zh-Hans": "本格拉省",
+      "zh-Hant": "本吉拉省"
+    }
+  },
+  {
+    "code": "BIE",
+    "name": "Bié Province",
+    "names": {
+      "ja": "ビエ州",
+      "ko": "비에주",
+      "vi": "Bié",
+      "id": "Provinsi Bié",
+      "zh-Hans": "比耶省",
+      "zh-Hant": "比耶省"
+    }
+  },
+  {
+    "code": "CAB",
+    "name": "Cabinda Province",
+    "names": {
+      "ja": "カビンダ",
+      "ko": "카빈다주",
+      "vi": "Cabinda",
+      "id": "Provinsi Cabinda",
+      "zh-Hans": "卡宾达省",
+      "zh-Hant": "卡賓達省"
+    }
+  },
+  {
+    "code": "CUB",
+    "name": "Cuando",
+    "names": {}
+  },
+  {
+    "code": "CNO",
+    "name": "Cuanza Norte Province",
+    "names": {
+      "ja": "クアンザ・ノルテ州",
+      "ko": "쿠안자노르트주",
+      "vi": "Cuanza Norte",
+      "id": "Cuanza Norte",
+      "zh-Hans": "北宽扎省",
+      "zh-Hant": "北廣薩省"
+    }
+  },
+  {
+    "code": "CUS",
+    "name": "Cuanza Sul Province",
+    "names": {
+      "ja": "クアンザ・スル州",
+      "ko": "쿠안자술주",
+      "vi": "Cuanza Sul",
+      "id": "Cuanza Sul",
+      "zh-Hans": "南宽扎省",
+      "zh-Hant": "南廣薩省"
+    }
+  },
+  {
+    "code": "CBG",
+    "name": "Cubango",
+    "names": {}
+  },
+  {
+    "code": "CNN",
+    "name": "Cunene Province",
+    "names": {
+      "ja": "クネネ州",
+      "ko": "쿠네느주",
+      "vi": "Cunene",
+      "id": "Cunene",
+      "zh-Hans": "库内内省",
+      "zh-Hant": "庫內納省"
+    }
+  },
+  {
+    "code": "HUA",
+    "name": "Huambo Province",
+    "names": {
+      "ja": "ウアンボ州",
+      "ko": "우암부주",
+      "vi": "Huambo",
+      "id": "Provinsi Huambo",
+      "zh-Hans": "万博省",
+      "zh-Hant": "萬博省"
+    }
+  },
+  {
+    "code": "HUI",
+    "name": "Huíla Province",
+    "names": {
+      "ja": "ウイラ州",
+      "ko": "우일라주",
+      "vi": "Huíla",
+      "id": "Provinsi Huíla",
+      "zh-Hans": "威拉省",
+      "zh-Hant": "威拉省"
+    }
+  },
+  {
+    "code": "LUA",
+    "name": "Luanda Province",
+    "names": {
+      "ja": "ルアンダ州",
+      "ko": "루안다주",
+      "vi": "Luanda",
+      "id": "Provinsi Luanda",
+      "zh-Hans": "罗安达省",
+      "zh-Hant": "羅安達省"
+    }
+  },
+  {
+    "code": "LNO",
+    "name": "Lunda Norte Province",
+    "names": {
+      "ja": "ルンダ・ノルテ州",
+      "ko": "룬다노르트주",
+      "vi": "Lunda Norte",
+      "id": "Provinsi Lunda Norte",
+      "zh-Hans": "北隆达省",
+      "zh-Hant": "北倫達省"
+    }
+  },
+  {
+    "code": "LSU",
+    "name": "Lunda Sul Province",
+    "names": {
+      "ja": "ルンダ・スル州",
+      "ko": "룬다술주",
+      "vi": "Lunda Sul",
+      "id": "Provinsi Lunda Sul",
+      "zh-Hans": "南隆达省",
+      "zh-Hant": "南倫達省"
+    }
+  },
+  {
+    "code": "MAL",
+    "name": "Malanje Province",
+    "names": {
+      "ja": "マランジェ州",
+      "ko": "말란즈주",
+      "vi": "Malanje",
+      "id": "Provinsi Malanje",
+      "zh-Hans": "马兰热省",
+      "zh-Hant": "馬蘭哲省"
+    }
+  },
+  {
+    "code": "MOX",
+    "name": "Moxico Province",
+    "names": {
+      "ja": "モシコ州",
+      "ko": "모시쿠주",
+      "vi": "Moxico",
+      "id": "Provinsi Moxico",
+      "zh-Hans": "莫希科省"
+    }
+  },
+  {
+    "code": "NAM",
+    "name": "Namibe Province",
+    "names": {
+      "ja": "ナミベ州",
+      "ko": "나미브주",
+      "vi": "Namibe",
+      "id": "Provinsi Namibe",
+      "zh-Hans": "纳米贝省",
+      "zh-Hant": "納米貝省"
+    }
+  },
+  {
+    "code": "UIG",
+    "name": "Uíge Province",
+    "names": {
+      "ja": "ウイジェ州",
+      "ko": "우이즈주",
+      "vi": "Uíge",
+      "id": "Provinsi Uíge",
+      "zh-Hans": "威热省",
+      "zh-Hant": "威熱省"
+    }
+  },
+  {
+    "code": "ZAI",
+    "name": "Zaire Province",
+    "names": {
+      "ja": "ザイーレ州",
+      "ko": "자이르주",
+      "vi": "Zaire",
+      "id": "Provinsi Zaire",
+      "zh-Hans": "萨伊省"
+    }
+  }
+]

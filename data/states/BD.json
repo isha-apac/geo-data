@@ -1,0 +1,822 @@
+[
+  {
+    "code": "05",
+    "name": "Bagerhat District",
+    "names": {
+      "ja": "バゲルハット県",
+      "ko": "바게르하트구",
+      "vi": "Huyện Bagerhat",
+      "id": "Distrik Bagerhat",
+      "zh-Hans": "巴盖尔哈德县",
+      "zh-Hant": "巴蓋爾哈德縣"
+    }
+  },
+  {
+    "code": "01",
+    "name": "Bandarban District",
+    "names": {
+      "ja": "バンドルボン県",
+      "ko": "반다르반구",
+      "vi": "Huyện Bandarban",
+      "id": "Distrik Bandarban",
+      "zh-Hans": "班多爾班縣",
+      "zh-Hant": "班多爾班縣"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Barguna District",
+    "names": {
+      "ja": "ボルグナ県",
+      "ko": "바르구나구",
+      "vi": "Huyện Barguna",
+      "zh-Hans": "博爾古納縣",
+      "zh-Hant": "博爾古納縣"
+    }
+  },
+  {
+    "code": "A",
+    "name": "Barisal Division",
+    "names": {
+      "ja": "バリサル管区",
+      "ko": "바리살주",
+      "vi": "Barisal",
+      "id": "Divisi Barisāl",
+      "zh-Hans": "博里萨尔专区",
+      "zh-Hant": "巴里薩爾專區"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Barishal District",
+    "names": {
+      "ja": "バリサル県",
+      "ko": "바리살구",
+      "vi": "Huyện Barisal",
+      "id": "Distrik Barisal",
+      "zh-Hans": "巴里萨尔县"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Bhola District",
+    "names": {
+      "ja": "ボラ県",
+      "ko": "볼라구",
+      "vi": "Huyện Bhola",
+      "zh-Hans": "波拉縣",
+      "zh-Hant": "波拉縣"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Bogura District",
+    "names": {
+      "ja": "ボグラ県",
+      "ko": "보그라구",
+      "vi": "Huyện Bogra",
+      "id": "Distrik Bogra",
+      "zh-Hans": "博格拉县",
+      "zh-Hant": "博格拉縣"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Brahmanbaria District",
+    "names": {
+      "ja": "ブラモンバリア県",
+      "ko": "브라만바리아구",
+      "vi": "Huyện Brahmanbaria",
+      "id": "Distrik Brahmanbaria",
+      "zh-Hans": "婆羅門巴里亞縣",
+      "zh-Hant": "婆羅門巴里亞縣"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Chandpur District",
+    "names": {
+      "ja": "チャンドプール県",
+      "ko": "찬드푸르구",
+      "vi": "Huyện Chandpur",
+      "zh-Hans": "坚德布尔县",
+      "zh-Hant": "堅德布爾縣"
+    }
+  },
+  {
+    "code": "45",
+    "name": "Chapai Nawabganj",
+    "names": {
+      "ja": "ナワバンジ県",
+      "ko": "차파이나와브간지구",
+      "vi": "Huyện Nawabganj",
+      "zh-Hans": "诺瓦布甘杰县"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Chattogram District",
+    "names": {
+      "ja": "チッタゴン県",
+      "ko": "치타공구",
+      "vi": "Huyện Chittagong",
+      "id": "Distrik Chattagram",
+      "zh-Hans": "吉大港縣",
+      "zh-Hant": "吉大港縣"
+    }
+  },
+  {
+    "code": "B",
+    "name": "Chattogram Division",
+    "names": {
+      "ja": "チッタゴン管区",
+      "ko": "치타공주",
+      "vi": "Chittagong",
+      "id": "Divisi Chittagong",
+      "zh-Hans": "吉大港专区",
+      "zh-Hant": "吉大港專區"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Chuadanga District",
+    "names": {
+      "ja": "チュアダンガ県",
+      "ko": "추아당가구",
+      "vi": "Huyện Chuadanga",
+      "id": "Distrik Chuadanga",
+      "zh-Hans": "朱瓦当加县",
+      "zh-Hant": "朱瓦當加縣"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Cox's Bazar District",
+    "names": {
+      "ja": "コックスバザール県",
+      "ko": "콕스바자르구",
+      "vi": "Huyện Cox's Bazar",
+      "zh-Hans": "科克斯巴扎尔县",
+      "zh-Hant": "科克斯巴扎爾縣"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Cumilla District",
+    "names": {
+      "ja": "コミラ県",
+      "ko": "코밀라구",
+      "vi": "Huyện Comilla",
+      "zh-Hans": "库米拉县",
+      "zh-Hant": "庫米拉縣"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Dhaka District",
+    "names": {
+      "ja": "ダッカ県",
+      "ko": "다카구",
+      "vi": "Huyện Dhaka",
+      "id": "Distrik Dhaka",
+      "zh-Hans": "达卡县",
+      "zh-Hant": "達卡縣"
+    }
+  },
+  {
+    "code": "C",
+    "name": "Dhaka Division",
+    "names": {
+      "ja": "ダッカ管区",
+      "ko": "다카주",
+      "vi": "Dhaka",
+      "id": "Divisi Dhaka",
+      "zh-Hans": "达卡专区",
+      "zh-Hant": "達卡專區"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Dinajpur District",
+    "names": {
+      "ja": "ディナジプール県",
+      "ko": "디나지푸르구",
+      "zh-Hans": "迪纳杰布尔县",
+      "zh-Hant": "迪納傑布爾縣"
+    }
+  },
+  {
+    "code": "15",
+    "name": "Faridpur District",
+    "names": {
+      "ja": "ファリドプル県",
+      "ko": "파리드푸르구",
+      "vi": "Huyện Faridpur",
+      "id": "Distrik Faridpur",
+      "zh-Hans": "福里德布尔县",
+      "zh-Hant": "福里德布爾縣"
+    }
+  },
+  {
+    "code": "16",
+    "name": "Feni District",
+    "names": {
+      "ja": "フェニー県",
+      "ko": "페니구",
+      "vi": "Huyện Feni",
+      "id": "Distrik Feni",
+      "zh-Hans": "費尼縣",
+      "zh-Hant": "費尼縣"
+    }
+  },
+  {
+    "code": "19",
+    "name": "Gaibandha District",
+    "names": {
+      "ja": "ガイバンダ県",
+      "ko": "가이반다구",
+      "vi": "Huyện Gaibandha",
+      "id": "Distrik Gaibandha",
+      "zh-Hans": "戈伊班达县",
+      "zh-Hant": "戈伊班達縣"
+    }
+  },
+  {
+    "code": "18",
+    "name": "Gazipur District",
+    "names": {
+      "ja": "ガジプル県",
+      "ko": "가지푸르구",
+      "vi": "Huyện Gazipur",
+      "id": "Distrik Gazipur",
+      "zh-Hans": "加济布尔县",
+      "zh-Hant": "加濟布爾縣"
+    }
+  },
+  {
+    "code": "17",
+    "name": "Gopalganj District",
+    "names": {
+      "ja": "ゴパルガンジュ県",
+      "ko": "고팔간지구",
+      "vi": "Gopalganj",
+      "zh-Hans": "戈巴尔甘杰县",
+      "zh-Hant": "戈巴尔甘傑縣"
+    }
+  },
+  {
+    "code": "20",
+    "name": "Habiganj District",
+    "names": {
+      "ja": "ハビガンジ県",
+      "ko": "하비간지구",
+      "vi": "Huyện Habiganj",
+      "zh-Hans": "霍比甘傑縣",
+      "zh-Hant": "霍比甘傑縣"
+    }
+  },
+  {
+    "code": "21",
+    "name": "Jamalpur District",
+    "names": {
+      "ja": "ジャマルプル県",
+      "ko": "자말푸르구",
+      "vi": "Huyện Jamalpur",
+      "id": "Distrik Jamalpur",
+      "zh-Hans": "杰马勒布尔县",
+      "zh-Hant": "傑馬勒布爾縣"
+    }
+  },
+  {
+    "code": "22",
+    "name": "Jashore District",
+    "names": {
+      "ja": "ジョソール県",
+      "ko": "조쇼르구",
+      "vi": "Huyện Jessore",
+      "zh-Hans": "杰索尔县",
+      "zh-Hant": "傑索爾縣"
+    }
+  },
+  {
+    "code": "25",
+    "name": "Jhalokati District",
+    "names": {
+      "ja": "ジョルコタ県",
+      "ko": "잘로카티구",
+      "vi": "Huyện Jhalakati",
+      "id": "Distrik Jhalakathi",
+      "zh-Hans": "恰洛加蒂县",
+      "zh-Hant": "恰洛加蒂縣"
+    }
+  },
+  {
+    "code": "23",
+    "name": "Jhenaidah District",
+    "names": {
+      "ja": "ジェナイダ県",
+      "vi": "Huyện Jhenaidah",
+      "zh-Hans": "切尼达县"
+    }
+  },
+  {
+    "code": "24",
+    "name": "Joypurhat District",
+    "names": {
+      "ja": "ジョイプールハット県",
+      "ko": "조이푸르하트구",
+      "vi": "Huyện Jaipurhat",
+      "zh-Hans": "焦伊布尔哈德县",
+      "zh-Hant": "焦伊布爾哈德縣"
+    }
+  },
+  {
+    "code": "29",
+    "name": "Khagrachari District",
+    "names": {
+      "ja": "カグラチュリ県",
+      "ko": "카그라차리구",
+      "vi": "Huyện Khagrachari",
+      "zh-Hans": "科格拉焦里县",
+      "zh-Hant": "科格拉焦里縣"
+    }
+  },
+  {
+    "code": "27",
+    "name": "Khulna District",
+    "names": {
+      "ja": "クルナ県",
+      "ko": "쿨나구",
+      "vi": "Huyện Khulna",
+      "id": "Distrik Khulna",
+      "zh-Hans": "库尔纳县",
+      "zh-Hant": "庫爾納縣"
+    }
+  },
+  {
+    "code": "D",
+    "name": "Khulna Division",
+    "names": {
+      "ja": "クルナ管区",
+      "ko": "쿨나주",
+      "vi": "Khulna",
+      "id": "Divisi Khulna",
+      "zh-Hans": "库尔纳专区",
+      "zh-Hant": "庫爾納專區"
+    }
+  },
+  {
+    "code": "26",
+    "name": "Kishoreganj District",
+    "names": {
+      "ja": "キショレガンジュ県",
+      "ko": "키쇼레간지구",
+      "vi": "Huyện Kishoreganj",
+      "zh-Hans": "吉绍尔甘杰县",
+      "zh-Hant": "吉紹爾甘傑縣"
+    }
+  },
+  {
+    "code": "28",
+    "name": "Kurigram District",
+    "names": {
+      "ja": "クリグラム県",
+      "ko": "쿠리그람구",
+      "vi": "Huyện Kurigram",
+      "id": "Distrik Kurigram",
+      "zh-Hans": "古里格拉姆县",
+      "zh-Hant": "古里格拉姆縣"
+    }
+  },
+  {
+    "code": "30",
+    "name": "Kushtia District",
+    "names": {
+      "ja": "クスティア県",
+      "ko": "쿠슈티아구",
+      "vi": "Huyện Kushtia",
+      "zh-Hans": "库什蒂亚县",
+      "zh-Hant": "庫什蒂亞縣"
+    }
+  },
+  {
+    "code": "31",
+    "name": "Lakshmipur District",
+    "names": {
+      "ja": "ラクシュミプール県",
+      "ko": "락슈미푸르구",
+      "vi": "Huyện Lakshmipur",
+      "id": "Distrik Lakshmipur",
+      "zh-Hans": "罗基布尔县",
+      "zh-Hant": "羅基布爾縣"
+    }
+  },
+  {
+    "code": "32",
+    "name": "Lalmonirhat District",
+    "names": {
+      "ja": "ラルモニールハット県",
+      "ko": "랄모니르하트구",
+      "vi": "Huyện Lalmonirhat",
+      "id": "Distrik Lalmonirhat",
+      "zh-Hans": "拉尔莫尼哈德县",
+      "zh-Hant": "拉爾莫尼哈德縣"
+    }
+  },
+  {
+    "code": "36",
+    "name": "Madaripur District",
+    "names": {
+      "ja": "マダリプル県",
+      "ko": "마다리푸르구",
+      "vi": "Huyện Madaripur",
+      "id": "Distrik Madaripur",
+      "zh-Hans": "马达里布尔县"
+    }
+  },
+  {
+    "code": "37",
+    "name": "Magura District",
+    "names": {
+      "ja": "マグラ県",
+      "ko": "마구라구",
+      "vi": "Huyện Magura",
+      "id": "Distrik Magura",
+      "zh-Hans": "马古拉县",
+      "zh-Hant": "馬古拉縣"
+    }
+  },
+  {
+    "code": "33",
+    "name": "Manikganj District",
+    "names": {
+      "ja": "マニクガンジュ県",
+      "ko": "마니가니 지구",
+      "vi": "Huyện Manikganj",
+      "zh-Hans": "马尼格甘杰县"
+    }
+  },
+  {
+    "code": "39",
+    "name": "Meherpur District",
+    "names": {
+      "ja": "メヘルプル県",
+      "ko": "메헤르푸르구",
+      "vi": "Huyện Meherpur",
+      "id": "Distrik Meherpur",
+      "zh-Hans": "梅黑尔布尔县",
+      "zh-Hant": "梅黑爾布爾縣"
+    }
+  },
+  {
+    "code": "38",
+    "name": "Moulvibazar District",
+    "names": {
+      "ja": "マウルビバザール県",
+      "ko": "모울비바자르구",
+      "vi": "Huyện Moulvibazar",
+      "zh-Hans": "毛爾維巴扎爾縣",
+      "zh-Hant": "毛爾維巴扎爾縣"
+    }
+  },
+  {
+    "code": "35",
+    "name": "Munshiganj District",
+    "names": {
+      "ja": "ムンシガンジュ県",
+      "ko": "문시간지구",
+      "vi": "Huyện Munshiganj",
+      "zh-Hans": "蒙希甘杰县",
+      "zh-Hant": "蒙希甘傑縣"
+    }
+  },
+  {
+    "code": "34",
+    "name": "Mymensingh District",
+    "names": {
+      "ja": "ミメンシング県",
+      "ko": "마이멘싱구",
+      "vi": "Huyện Mymensingh",
+      "id": "Distrik Mymensingh",
+      "zh-Hans": "迈门辛县",
+      "zh-Hant": "邁門辛縣"
+    }
+  },
+  {
+    "code": "H",
+    "name": "Mymensingh Division",
+    "names": {
+      "ja": "マイメンシン管区",
+      "ko": "마이멘싱주",
+      "vi": "Mymensingh",
+      "id": "Divisi Mymensingh",
+      "zh-Hans": "迈门辛专区",
+      "zh-Hant": "邁門辛專區"
+    }
+  },
+  {
+    "code": "48",
+    "name": "Naogaon District",
+    "names": {
+      "ja": "ナオガオン県",
+      "ko": "나오가온구",
+      "vi": "Huyện Naogaon",
+      "id": "Distrik Naogaon",
+      "zh-Hans": "瑙冈县",
+      "zh-Hant": "瑙岡縣"
+    }
+  },
+  {
+    "code": "43",
+    "name": "Narail District",
+    "names": {
+      "ja": "ナライル県",
+      "ko": "나라일구",
+      "vi": "Huyện Narail",
+      "id": "Distrik Narail",
+      "zh-Hans": "诺拉尔县",
+      "zh-Hant": "諾拉爾縣"
+    }
+  },
+  {
+    "code": "40",
+    "name": "Narayanganj District",
+    "names": {
+      "ja": "ナラヤンガンジュ県",
+      "ko": "나라양간지구",
+      "vi": "Huyện Narayanganj",
+      "zh-Hans": "纳拉扬甘杰县"
+    }
+  },
+  {
+    "code": "42",
+    "name": "Narsingdi District",
+    "names": {
+      "ja": "ナルシングディ県",
+      "ko": "나르싱디구",
+      "vi": "Huyện Narsingdi",
+      "id": "Distrik Narsingdi",
+      "zh-Hans": "诺尔辛迪县",
+      "zh-Hant": "諾爾辛迪縣"
+    }
+  },
+  {
+    "code": "44",
+    "name": "Natore District",
+    "names": {
+      "ja": "ナトール県",
+      "ko": "나토르구",
+      "vi": "Huyện Natore",
+      "zh-Hans": "诺多尔县",
+      "zh-Hant": "諾多爾縣"
+    }
+  },
+  {
+    "code": "41",
+    "name": "Netrokona District",
+    "names": {
+      "ja": "ネトラコタ県",
+      "ko": "네트로코나구",
+      "vi": "Huyện Netrakona",
+      "id": "Distrik Netrokona",
+      "zh-Hans": "内德罗戈纳县"
+    }
+  },
+  {
+    "code": "46",
+    "name": "Nilphamari District",
+    "names": {
+      "ja": "ニルファマリ県",
+      "ko": "닐파마리구",
+      "vi": "Huyện Nilphamari",
+      "zh-Hans": "尼尔帕马里县"
+    }
+  },
+  {
+    "code": "47",
+    "name": "Noakhali District",
+    "names": {
+      "ja": "ノアカリ県",
+      "ko": "노아칼리구",
+      "vi": "Huyện Noakhali",
+      "id": "Distrik Noakhali",
+      "zh-Hans": "諾阿卡利縣",
+      "zh-Hant": "諾阿卡利縣"
+    }
+  },
+  {
+    "code": "49",
+    "name": "Pabna District",
+    "names": {
+      "ja": "パブナ県",
+      "ko": "파브나구",
+      "vi": "Huyện Pabna",
+      "zh-Hans": "巴布纳县"
+    }
+  },
+  {
+    "code": "52",
+    "name": "Panchagarh District",
+    "names": {
+      "ja": "ポンテョゴル県",
+      "ko": "판차가르구",
+      "vi": "Huyện Panchagarh",
+      "id": "Distrik Panchagarh",
+      "zh-Hans": "班乔戈尔县",
+      "zh-Hant": "班喬戈爾縣"
+    }
+  },
+  {
+    "code": "51",
+    "name": "Patuakhali District",
+    "names": {
+      "ja": "パトゥアカリ県",
+      "ko": "파투아칼리구",
+      "vi": "Huyện Patuakhali",
+      "zh-Hans": "博杜阿卡利县",
+      "zh-Hant": "博杜阿卡利縣"
+    }
+  },
+  {
+    "code": "50",
+    "name": "Pirojpur District",
+    "names": {
+      "ja": "ピロジプール県",
+      "vi": "Huyện Pirojpur",
+      "zh-Hans": "比羅傑布爾縣",
+      "zh-Hant": "比羅傑布爾縣"
+    }
+  },
+  {
+    "code": "53",
+    "name": "Rajbari District",
+    "names": {
+      "ja": "ラジバリ県",
+      "ko": "라지바리구",
+      "vi": "Huyện Rajbari",
+      "id": "Distrik Rajbari",
+      "zh-Hans": "拉杰巴里县",
+      "zh-Hant": "拉傑巴里縣"
+    }
+  },
+  {
+    "code": "54",
+    "name": "Rajshahi District",
+    "names": {
+      "ja": "ラジシャヒ県",
+      "ko": "라지샤히구",
+      "vi": "Huyện Rajshahi",
+      "id": "Distrik Rajshahi",
+      "zh-Hans": "拉杰沙希县",
+      "zh-Hant": "拉傑沙希縣"
+    }
+  },
+  {
+    "code": "E",
+    "name": "Rajshahi Division",
+    "names": {
+      "ja": "ラジシャヒ管区",
+      "ko": "라지샤히주",
+      "vi": "Rajshahi",
+      "id": "Divisi Rajshahi",
+      "zh-Hans": "拉杰沙希专区"
+    }
+  },
+  {
+    "code": "56",
+    "name": "Rangamati District",
+    "names": {
+      "ja": "ランガマティ県",
+      "vi": "Huyện Rangamati",
+      "id": "Distrik Rangamati",
+      "zh-Hans": "兰加马蒂县",
+      "zh-Hant": "蘭加馬蒂縣"
+    }
+  },
+  {
+    "code": "55",
+    "name": "Rangpur District",
+    "names": {
+      "ja": "ロンプール県",
+      "ko": "랑푸르구",
+      "vi": "Huyện Rangpur",
+      "id": "Rangpur District",
+      "zh-Hans": "朗布尔县",
+      "zh-Hant": "朗布爾縣"
+    }
+  },
+  {
+    "code": "F",
+    "name": "Rangpur Division",
+    "names": {
+      "ja": "ロンプール管区",
+      "ko": "랑푸르주",
+      "vi": "Rangpur",
+      "id": "Divisi Rangpur",
+      "zh-Hans": "朗布尔专区",
+      "zh-Hant": "朗布爾專區"
+    }
+  },
+  {
+    "code": "58",
+    "name": "Satkhira District",
+    "names": {
+      "ja": "シャスキラ県",
+      "vi": "Huyện Satkhira",
+      "id": "Distrik Satkhira",
+      "zh-Hans": "萨德基拉县",
+      "zh-Hant": "薩德基拉縣"
+    }
+  },
+  {
+    "code": "62",
+    "name": "Shariatpur District",
+    "names": {
+      "ja": "シャリアトプル県",
+      "ko": "샤리아트푸르구",
+      "vi": "Huyện Shariatpur",
+      "zh-Hans": "沙里亚德布尔县"
+    }
+  },
+  {
+    "code": "57",
+    "name": "Sherpur District",
+    "names": {
+      "ja": "シェルプル県",
+      "ko": "셰르푸르구",
+      "vi": "Huyện Sherpur",
+      "id": "Distrik Sherpur",
+      "zh-Hans": "谢尔布尔县",
+      "zh-Hant": "謝爾布爾縣"
+    }
+  },
+  {
+    "code": "59",
+    "name": "Sirajganj District",
+    "names": {
+      "ja": "シラジガンジ県",
+      "ko": "시라지간지구",
+      "vi": "Huyện Sirajganj",
+      "zh-Hans": "锡拉杰甘杰县",
+      "zh-Hant": "錫拉傑甘傑縣"
+    }
+  },
+  {
+    "code": "61",
+    "name": "Sunamganj District",
+    "names": {
+      "ja": "スナマンジ県",
+      "ko": "수남간지구",
+      "vi": "Huyện Sunamganj",
+      "zh-Hans": "苏纳姆甘杰县",
+      "zh-Hant": "蘇納姆甘傑縣"
+    }
+  },
+  {
+    "code": "60",
+    "name": "Sylhet District",
+    "names": {
+      "ja": "シレット県",
+      "ko": "실렛구",
+      "vi": "Huyện Sylhet",
+      "id": "Distrik Sylhet",
+      "zh-Hans": "锡尔赫特县",
+      "zh-Hant": "錫爾赫特縣"
+    }
+  },
+  {
+    "code": "G",
+    "name": "Sylhet Division",
+    "names": {
+      "ja": "シレット管区",
+      "ko": "실렛주",
+      "vi": "Sylhet",
+      "id": "Divisi Sylhet",
+      "zh-Hans": "锡尔赫特专区",
+      "zh-Hant": "錫爾赫特專區"
+    }
+  },
+  {
+    "code": "63",
+    "name": "Tangail District",
+    "names": {
+      "ja": "タンガイル県",
+      "ko": "탕가일구",
+      "vi": "Huyện Tangail",
+      "id": "Distrik Tangail",
+      "zh-Hans": "坦盖尔县"
+    }
+  },
+  {
+    "code": "64",
+    "name": "Thakurgaon District",
+    "names": {
+      "ja": "タクルガオン県",
+      "ko": "타쿠르가온구",
+      "vi": "Huyện Thakurgaon",
+      "id": "Distrik Thakurgaon",
+      "zh-Hans": "塔古尔冈县",
+      "zh-Hant": "塔古爾岡縣"
+    }
+  }
+]

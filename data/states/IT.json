@@ -1,0 +1,1390 @@
+[
+  {
+    "code": "65",
+    "name": "Abruzzo",
+    "names": {
+      "ja": "アブルッツォ州",
+      "ko": "아브루초주",
+      "vi": "Abruzzo",
+      "id": "Abruzzo",
+      "zh-Hans": "阿布鲁佐",
+      "zh-Hant": "阿布魯佐"
+    }
+  },
+  {
+    "code": "23",
+    "name": "Aosta Valley",
+    "names": {
+      "ja": "ヴァッレ・ダオスタ州",
+      "ko": "발레다오스타주",
+      "vi": "Thung lũng Aosta",
+      "id": "Valle d'Aosta",
+      "zh-Hans": "瓦莱达奥斯塔",
+      "zh-Hant": "奧斯塔谷"
+    }
+  },
+  {
+    "code": "75",
+    "name": "Apulia",
+    "names": {
+      "ja": "プッリャ州",
+      "ko": "풀리아주",
+      "vi": "Apulia",
+      "id": "Puglia",
+      "zh-Hans": "普利亚",
+      "zh-Hant": "普利亞"
+    }
+  },
+  {
+    "code": "77",
+    "name": "Basilicata",
+    "names": {
+      "ja": "バジリカータ州",
+      "ko": "바실리카타주",
+      "vi": "Basilicata",
+      "id": "Basilicata",
+      "zh-Hans": "巴斯利卡塔",
+      "zh-Hant": "巴西利卡塔"
+    }
+  },
+  {
+    "code": "78",
+    "name": "Calabria",
+    "names": {
+      "ja": "カラブリア州",
+      "ko": "칼라브리아주",
+      "vi": "Calabria",
+      "id": "Calabria",
+      "zh-Hans": "卡拉布里亚大区",
+      "zh-Hant": "卡拉布里亞大區"
+    }
+  },
+  {
+    "code": "72",
+    "name": "Campania",
+    "names": {
+      "ja": "カンパニア州",
+      "ko": "캄파니아주",
+      "vi": "Campania",
+      "id": "Campania",
+      "zh-Hans": "坎帕尼亚",
+      "zh-Hant": "坎帕尼亞大區"
+    }
+  },
+  {
+    "code": "45",
+    "name": "Emilia-Romagna",
+    "names": {
+      "ja": "エミリア＝ロマーニャ州",
+      "ko": "에밀리아로마냐주",
+      "vi": "Emilia-Romagna",
+      "id": "Emilia-Romagna",
+      "zh-Hans": "艾米利亚-罗马涅",
+      "zh-Hant": "艾米利亞-羅馬涅大區"
+    }
+  },
+  {
+    "code": "AG",
+    "name": "Free Municipal Consortium of Agrigento",
+    "names": {}
+  },
+  {
+    "code": "CL",
+    "name": "Free Municipal Consortium of Caltanissetta",
+    "names": {}
+  },
+  {
+    "code": "EN",
+    "name": "Free Municipal Consortium of Enna",
+    "names": {}
+  },
+  {
+    "code": "RG",
+    "name": "Free Municipal Consortium of Ragusa",
+    "names": {}
+  },
+  {
+    "code": "SR",
+    "name": "Free Municipal Consortium of Syracuse",
+    "names": {}
+  },
+  {
+    "code": "TP",
+    "name": "Free Municipal Consortium of Trapani",
+    "names": {}
+  },
+  {
+    "code": "36",
+    "name": "Friuli Venezia Giulia",
+    "names": {
+      "ja": "フリウリ＝ヴェネツィア・ジュリア州",
+      "ko": "프리울리베네치아줄리아주",
+      "vi": "Friuli–Venezia Giulia",
+      "id": "Friuli Venezia Giulia",
+      "zh-Hans": "弗留利-威尼斯朱利亚",
+      "zh-Hant": "弗留利-威尼斯朱利亚"
+    }
+  },
+  {
+    "code": "OT",
+    "name": "Gallura Nord-Est Sardegna",
+    "names": {}
+  },
+  {
+    "code": "GO",
+    "name": "Gorizia",
+    "names": {}
+  },
+  {
+    "code": "62",
+    "name": "Lazio",
+    "names": {
+      "ja": "ラツィオ州",
+      "ko": "라치오주",
+      "vi": "Lazio",
+      "id": "Lazio",
+      "zh-Hans": "拉齐奥大区",
+      "zh-Hant": "拉齊奧大區"
+    }
+  },
+  {
+    "code": "42",
+    "name": "Liguria",
+    "names": {
+      "ja": "リグーリア州",
+      "ko": "리구리아주",
+      "vi": "Liguria",
+      "id": "Liguria",
+      "zh-Hans": "利古里亞",
+      "zh-Hant": "利古里亞"
+    }
+  },
+  {
+    "code": "25",
+    "name": "Lombardy",
+    "names": {
+      "ja": "ロンバルディア州",
+      "ko": "롬바르디아주",
+      "vi": "Lombardia",
+      "id": "Lombardia",
+      "zh-Hans": "伦巴第",
+      "zh-Hant": "倫巴底"
+    }
+  },
+  {
+    "code": "57",
+    "name": "Marche",
+    "names": {
+      "ja": "マルケ州",
+      "ko": "마르케주",
+      "vi": "Marche",
+      "id": "Marche",
+      "zh-Hans": "马尔凯",
+      "zh-Hant": "馬凱"
+    }
+  },
+  {
+    "code": "BA",
+    "name": "Metropolitan City of Bari",
+    "names": {
+      "ja": "バーリ",
+      "ko": "바리 광역시",
+      "vi": "Thành phố Đô thị của Bari",
+      "id": "Kota Metropolitan Bari",
+      "zh-Hans": "巴里廣域市"
+    }
+  },
+  {
+    "code": "BO",
+    "name": "Metropolitan City of Bologna",
+    "names": {
+      "ja": "ボローニャ広域市",
+      "ko": "볼로냐 광역시",
+      "vi": "Thành phố Đô thị của Bologna",
+      "id": "Kota Metropolitan Bologna",
+      "zh-Hans": "博洛尼亚广域市",
+      "zh-Hant": "博洛尼亞廣域市"
+    }
+  },
+  {
+    "code": "CA",
+    "name": "Metropolitan City of Cagliari",
+    "names": {
+      "ko": "칼리아리 광역시",
+      "vi": "Thành phố trung tâm Cagliari",
+      "zh-Hans": "卡利亞里廣域市"
+    }
+  },
+  {
+    "code": "CT",
+    "name": "Metropolitan City of Catania",
+    "names": {
+      "ja": "カターニア大都市圏",
+      "ko": "카타니아 광역시",
+      "vi": "Thành phố trung tâm Catania",
+      "zh-Hans": "卡塔尼亞廣域市"
+    }
+  },
+  {
+    "code": "FI",
+    "name": "Metropolitan City of Florence",
+    "names": {
+      "ko": "피렌체 광역시",
+      "vi": "Thành phố trung tâm Firenze",
+      "zh-Hans": "佛羅倫斯廣域市",
+      "zh-Hant": "佛羅倫斯廣域市"
+    }
+  },
+  {
+    "code": "GE",
+    "name": "Metropolitan City of Genoa",
+    "names": {
+      "ja": "ジェノヴァ",
+      "ko": "제노바광역시",
+      "vi": "Thành phố Đô thị của Genoa",
+      "id": "Metropolitan City of Genoa",
+      "zh-Hans": "熱那亞廣域市"
+    }
+  },
+  {
+    "code": "ME",
+    "name": "Metropolitan City of Messina",
+    "names": {
+      "ko": "메시나 광역시",
+      "vi": "Thành phố trung tâm Messina",
+      "zh-Hans": "墨西拿廣域市"
+    }
+  },
+  {
+    "code": "MI",
+    "name": "Metropolitan City of Milan",
+    "names": {
+      "ja": "ミラノメトロポリタンシティ",
+      "ko": "밀라노 광역시",
+      "vi": "Thành phố trung tâm Milano",
+      "id": "Kota Metropolitan Milan",
+      "zh-Hans": "米蘭廣域市",
+      "zh-Hant": "米蘭廣域市"
+    }
+  },
+  {
+    "code": "NA",
+    "name": "Metropolitan City of Naples",
+    "names": {
+      "ko": "나폴리 광역시",
+      "vi": "Thành phố trung tâm Napoli",
+      "id": "Kota Metropolitan Napoli",
+      "zh-Hans": "那不勒斯廣域市",
+      "zh-Hant": "那不勒斯廣域市"
+    }
+  },
+  {
+    "code": "PA",
+    "name": "Metropolitan City of Palermo",
+    "names": {
+      "ko": "팔레르모 광역시",
+      "vi": "Thành phố trung tâm Palermo",
+      "id": "Kota Metropolitan Palermo",
+      "zh-Hans": "巴勒莫廣域市"
+    }
+  },
+  {
+    "code": "RC",
+    "name": "Metropolitan City of Reggio Calabria",
+    "names": {
+      "ko": "레조칼라브리아 광역시",
+      "vi": "Thành phố trung tâm Reggio Calabria",
+      "id": "Kota Metropolitan Reggio Calabria",
+      "zh-Hans": "雷焦卡拉布里亞廣域市",
+      "zh-Hant": "雷焦卡拉布里亞廣域市"
+    }
+  },
+  {
+    "code": "RM",
+    "name": "Metropolitan City of Rome",
+    "names": {
+      "ja": "ローマ県",
+      "ko": "로마 수도광역시",
+      "vi": "Thành phố trung tâm Thủ đô Roma",
+      "id": "Kota Metropolitan Ibu Kota Roma",
+      "zh-Hans": "羅馬首都廣域市"
+    }
+  },
+  {
+    "code": "TO",
+    "name": "Metropolitan City of Turin",
+    "names": {
+      "ko": "토리노 광역시",
+      "vi": "Thành phố trung tâm Torino",
+      "id": "Kota Metropolitan Turin",
+      "zh-Hans": "都靈廣域市"
+    }
+  },
+  {
+    "code": "VE",
+    "name": "Metropolitan City of Venice",
+    "names": {
+      "ja": "ヴェネツィア大都市圏",
+      "ko": "베네치아 광역시",
+      "vi": "Thành phố đô thị Venezia",
+      "id": "Kota Metropolitan Venesia",
+      "zh-Hans": "威尼斯廣域市"
+    }
+  },
+  {
+    "code": "67",
+    "name": "Molise",
+    "names": {
+      "ja": "モリーゼ州",
+      "ko": "몰리세주",
+      "vi": "Molise",
+      "id": "Molise",
+      "zh-Hans": "莫利塞",
+      "zh-Hant": "莫利塞"
+    }
+  },
+  {
+    "code": "OG",
+    "name": "Ogliastra",
+    "names": {}
+  },
+  {
+    "code": "21",
+    "name": "Piedmont",
+    "names": {
+      "ja": "ピエモンテ州",
+      "ko": "피에몬테주",
+      "vi": "Piemonte",
+      "id": "Piemonte",
+      "zh-Hans": "皮埃蒙特",
+      "zh-Hant": "皮埃蒙特"
+    }
+  },
+  {
+    "code": "PN",
+    "name": "Pordenone",
+    "names": {}
+  },
+  {
+    "code": "AL",
+    "name": "Province of Alessandria",
+    "names": {
+      "ja": "アレッサンドリア県",
+      "ko": "알레산드리아도",
+      "vi": "Alessandria",
+      "id": "Provinsi Alessandria",
+      "zh-Hans": "亚历山德里亚省"
+    }
+  },
+  {
+    "code": "AN",
+    "name": "Province of Ancona",
+    "names": {
+      "ja": "アンコーナ県",
+      "ko": "안코나도",
+      "vi": "Ancona",
+      "id": "Provinsi Ancona",
+      "zh-Hans": "安科纳省",
+      "zh-Hant": "安科納省"
+    }
+  },
+  {
+    "code": "AR",
+    "name": "Province of Arezzo",
+    "names": {
+      "ja": "アレッツォ県",
+      "ko": "아레초도",
+      "vi": "Arezzo",
+      "id": "Provinsi Arezzo",
+      "zh-Hans": "阿雷佐省",
+      "zh-Hant": "阿雷佐省"
+    }
+  },
+  {
+    "code": "AP",
+    "name": "Province of Ascoli Piceno",
+    "names": {
+      "ja": "アスコリ・ピチェーノ県",
+      "ko": "아스콜리피체노도",
+      "vi": "Ascoli Piceno",
+      "id": "Provinsi Ascoli Piceno",
+      "zh-Hans": "阿斯科利皮切诺省"
+    }
+  },
+  {
+    "code": "AT",
+    "name": "Province of Asti",
+    "names": {
+      "ja": "アスティ県",
+      "ko": "아스티도",
+      "vi": "Asti",
+      "id": "Provinsi Asti",
+      "zh-Hans": "阿斯蒂省"
+    }
+  },
+  {
+    "code": "AV",
+    "name": "Province of Avellino",
+    "names": {
+      "ja": "アヴェッリーノ県",
+      "ko": "아벨리노도",
+      "vi": "Avellino",
+      "id": "Provinsi Avellino",
+      "zh-Hans": "阿韦利诺省",
+      "zh-Hant": "阿韋利諾省"
+    }
+  },
+  {
+    "code": "BT",
+    "name": "Province of Barletta-Andria-Trani",
+    "names": {
+      "ja": "バルレッタ＝アンドリア＝トラーニ県",
+      "ko": "바를레타안드리아트라니도",
+      "vi": "Barletta-Andria-Trani",
+      "id": "Provinsi Barletta-Andria-Trani",
+      "zh-Hans": "巴尔莱塔-安德里亚-特兰尼省"
+    }
+  },
+  {
+    "code": "BL",
+    "name": "Province of Belluno",
+    "names": {
+      "ja": "ベッルーノ県",
+      "ko": "벨루노도",
+      "vi": "Belluno",
+      "id": "Provinsi Belluno",
+      "zh-Hans": "贝卢诺省"
+    }
+  },
+  {
+    "code": "BN",
+    "name": "Province of Benevento",
+    "names": {
+      "ja": "ベネヴェント県",
+      "ko": "베네벤토도",
+      "vi": "Benevento",
+      "id": "Provinsi Benevento",
+      "zh-Hans": "贝内文托省",
+      "zh-Hant": "貝內文托省"
+    }
+  },
+  {
+    "code": "BG",
+    "name": "Province of Bergamo",
+    "names": {
+      "ja": "ベルガモ県",
+      "ko": "베르가모도",
+      "vi": "Bergamo",
+      "id": "Provinsi Bergamo",
+      "zh-Hans": "贝加莫省",
+      "zh-Hant": "貝加莫省"
+    }
+  },
+  {
+    "code": "BI",
+    "name": "Province of Biella",
+    "names": {
+      "ja": "ビエッラ県",
+      "ko": "비엘라도",
+      "vi": "Biella",
+      "id": "Provinsi Biella",
+      "zh-Hans": "比耶拉省"
+    }
+  },
+  {
+    "code": "BS",
+    "name": "Province of Brescia",
+    "names": {
+      "ja": "ブレーシャ県",
+      "ko": "브레시아도",
+      "vi": "Brescia",
+      "id": "Provinsi Brescia",
+      "zh-Hans": "布雷西亚省",
+      "zh-Hant": "布雷西亞省"
+    }
+  },
+  {
+    "code": "BR",
+    "name": "Province of Brindisi",
+    "names": {
+      "ja": "ブリンディジ県",
+      "ko": "브린디시도",
+      "vi": "Brindisi",
+      "id": "Provinsi Brindisi",
+      "zh-Hans": "布林迪西省",
+      "zh-Hant": "布林迪西省"
+    }
+  },
+  {
+    "code": "CB",
+    "name": "province of Campobasso",
+    "names": {
+      "ja": "カンポバッソ県",
+      "ko": "캄포바소도",
+      "vi": "Campobasso",
+      "id": "Provinsi Campobasso",
+      "zh-Hans": "坎波巴索省"
+    }
+  },
+  {
+    "code": "CE",
+    "name": "Province of Caserta",
+    "names": {
+      "ja": "カゼルタ県",
+      "ko": "카세르타도",
+      "vi": "Caserta",
+      "id": "Provinsi Caserta",
+      "zh-Hans": "卡塞塔省"
+    }
+  },
+  {
+    "code": "CZ",
+    "name": "Province of Catanzaro",
+    "names": {
+      "ja": "カタンザーロ県",
+      "ko": "카탄차로도",
+      "vi": "Catanzaro",
+      "id": "Provinsi Catanzaro",
+      "zh-Hans": "卡坦札羅省",
+      "zh-Hant": "卡坦札羅省"
+    }
+  },
+  {
+    "code": "CH",
+    "name": "Province of Chieti",
+    "names": {
+      "ja": "キエーティ県",
+      "ko": "키에티도",
+      "vi": "Chieti",
+      "id": "Provinsi Chieti",
+      "zh-Hans": "基耶蒂省"
+    }
+  },
+  {
+    "code": "CO",
+    "name": "Province of Como",
+    "names": {
+      "ja": "コモ県",
+      "ko": "코모도",
+      "vi": "Como",
+      "id": "Provinsi Como",
+      "zh-Hans": "科莫省",
+      "zh-Hant": "科莫省"
+    }
+  },
+  {
+    "code": "CS",
+    "name": "Province of Cosenza",
+    "names": {
+      "ja": "コゼンツァ県",
+      "ko": "코센차도",
+      "vi": "Cosenza",
+      "id": "Provinsi Cosenza",
+      "zh-Hans": "科森扎省",
+      "zh-Hant": "科森札省"
+    }
+  },
+  {
+    "code": "CR",
+    "name": "Province of Cremona",
+    "names": {
+      "ja": "クレモナ県",
+      "ko": "크레모나도",
+      "vi": "Cremona",
+      "id": "Provinsi Cremona",
+      "zh-Hans": "克雷莫纳省"
+    }
+  },
+  {
+    "code": "KR",
+    "name": "Province of Crotone",
+    "names": {
+      "ja": "クロトーネ県",
+      "ko": "크로토네도",
+      "vi": "Crotone",
+      "id": "Provinsi Crotone",
+      "zh-Hans": "克罗托内省",
+      "zh-Hant": "克羅托內"
+    }
+  },
+  {
+    "code": "CN",
+    "name": "Province of Cuneo",
+    "names": {
+      "ja": "クーネオ県",
+      "ko": "쿠네오도",
+      "vi": "Cuneo",
+      "id": "Provinsi Cuneo",
+      "zh-Hans": "库内奥省"
+    }
+  },
+  {
+    "code": "FM",
+    "name": "Province of Fermo",
+    "names": {
+      "ja": "フェルモ県",
+      "ko": "페르모도",
+      "vi": "Fermo",
+      "id": "Provinsi Fermo",
+      "zh-Hans": "费尔莫省"
+    }
+  },
+  {
+    "code": "FE",
+    "name": "Province of Ferrara",
+    "names": {
+      "ja": "フェラーラ県",
+      "ko": "페라라도",
+      "vi": "Ferrara",
+      "id": "Provinsi Ferrara",
+      "zh-Hans": "费拉拉省"
+    }
+  },
+  {
+    "code": "FG",
+    "name": "Province of Foggia",
+    "names": {
+      "ja": "フォッジャ県",
+      "ko": "포자도",
+      "vi": "Foggia",
+      "id": "Provinsi Foggia",
+      "zh-Hans": "福贾省",
+      "zh-Hant": "福賈省"
+    }
+  },
+  {
+    "code": "FC",
+    "name": "Province of Forlì-Cesena",
+    "names": {
+      "ja": "フォルリ＝チェゼーナ県",
+      "ko": "포를리체세나도",
+      "vi": "Forlì-Cesena",
+      "id": "Provinsi Forlì-Cesena",
+      "zh-Hans": "费利-切塞纳省"
+    }
+  },
+  {
+    "code": "FR",
+    "name": "Province of Frosinone",
+    "names": {
+      "ja": "フロジノーネ県",
+      "ko": "프로시노네도",
+      "vi": "Frosinone",
+      "id": "Provinsi Frosinone",
+      "zh-Hans": "弗罗西诺内省"
+    }
+  },
+  {
+    "code": "GR",
+    "name": "Province of Grosseto",
+    "names": {
+      "ja": "グロッセート県",
+      "ko": "그로세토도",
+      "vi": "Grosseto",
+      "id": "Provinsi Grosseto",
+      "zh-Hans": "格羅塞托省",
+      "zh-Hant": "格羅塞托省"
+    }
+  },
+  {
+    "code": "IM",
+    "name": "Province of Imperia",
+    "names": {
+      "ja": "インペリア県",
+      "ko": "임페리아도",
+      "vi": "Imperia",
+      "id": "Provinsi Imperia",
+      "zh-Hans": "因佩里亚省"
+    }
+  },
+  {
+    "code": "IS",
+    "name": "province of Isernia",
+    "names": {
+      "ja": "イゼルニア県",
+      "ko": "이세르니아도",
+      "vi": "Isernia",
+      "id": "Provinsi Isernia",
+      "zh-Hans": "伊塞尔尼亚省"
+    }
+  },
+  {
+    "code": "AQ",
+    "name": "Province of L'Aquila",
+    "names": {
+      "ja": "ラクイラ県",
+      "ko": "라퀼라도",
+      "vi": "L'Aquila",
+      "id": "Provinsi L'Aquila",
+      "zh-Hans": "阿奎拉省"
+    }
+  },
+  {
+    "code": "SP",
+    "name": "Province of La Spezia",
+    "names": {
+      "ja": "ラ・スペツィア県",
+      "ko": "라스페치아도",
+      "vi": "La Spezia",
+      "id": "Provinsi La Spezia",
+      "zh-Hans": "拉斯佩齐亚省"
+    }
+  },
+  {
+    "code": "LT",
+    "name": "Province of Latina",
+    "names": {
+      "ja": "ラティーナ県",
+      "ko": "라티나도",
+      "vi": "Latina",
+      "id": "Provinsi Latina",
+      "zh-Hans": "拉蒂纳省",
+      "zh-Hant": "拉蒂納省"
+    }
+  },
+  {
+    "code": "LE",
+    "name": "province of Lecce",
+    "names": {
+      "ja": "レッチェ県",
+      "ko": "레체도",
+      "vi": "Lecce",
+      "id": "Provinsi Lecce",
+      "zh-Hans": "莱切省",
+      "zh-Hant": "雷契省"
+    }
+  },
+  {
+    "code": "LC",
+    "name": "Province of Lecco",
+    "names": {
+      "ja": "レッコ県",
+      "ko": "레코도",
+      "vi": "Lecco",
+      "id": "Provinsi Lecco",
+      "zh-Hans": "莱科省"
+    }
+  },
+  {
+    "code": "LI",
+    "name": "Province of Livorno",
+    "names": {
+      "ja": "リヴォルノ県",
+      "ko": "리보르노도",
+      "vi": "Livorno",
+      "id": "Provinsi Livorno",
+      "zh-Hans": "里窝那省"
+    }
+  },
+  {
+    "code": "LO",
+    "name": "Province of Lodi",
+    "names": {
+      "ja": "ローディ県",
+      "ko": "로디도",
+      "vi": "Lodi",
+      "id": "Provinsi Lodi",
+      "zh-Hans": "洛迪省"
+    }
+  },
+  {
+    "code": "LU",
+    "name": "Province of Lucca",
+    "names": {
+      "ja": "ルッカ県",
+      "ko": "루카도",
+      "vi": "Lucca",
+      "id": "Provinsi Lucca",
+      "zh-Hans": "卢卡省"
+    }
+  },
+  {
+    "code": "MC",
+    "name": "Province of Macerata",
+    "names": {
+      "ja": "マチェラータ県",
+      "ko": "마체라타도",
+      "vi": "Macerata",
+      "id": "Provinsi Macerata",
+      "zh-Hans": "马切拉塔省",
+      "zh-Hant": "馬切拉塔省"
+    }
+  },
+  {
+    "code": "MN",
+    "name": "Province of Mantua",
+    "names": {
+      "ja": "マントヴァ県",
+      "ko": "만토바도",
+      "vi": "Mantova",
+      "id": "Provinsi Mantova",
+      "zh-Hans": "曼托瓦省",
+      "zh-Hant": "曼托瓦省"
+    }
+  },
+  {
+    "code": "MS",
+    "name": "Province of Massa-Carrara",
+    "names": {
+      "ja": "マッサ＝カッラーラ県",
+      "ko": "마사에카라라도",
+      "vi": "Massa-Carrara",
+      "id": "Provinsi Massa-Carrara",
+      "zh-Hans": "马萨-卡拉拉省",
+      "zh-Hant": "馬薩-卡拉拉省"
+    }
+  },
+  {
+    "code": "MT",
+    "name": "province of Matera",
+    "names": {
+      "ja": "マテーラ県",
+      "ko": "마테라도",
+      "vi": "Matera",
+      "id": "Provinsi Matera",
+      "zh-Hans": "馬泰拉省",
+      "zh-Hant": "馬泰拉省"
+    }
+  },
+  {
+    "code": "VS",
+    "name": "Province of Medio Campidano",
+    "names": {
+      "ja": "メディオ・カンピダーノ県",
+      "ko": "메디오캄피다노현",
+      "vi": "Medio Campidano",
+      "id": "Provinsi Medio Campidano",
+      "zh-Hans": "中坎皮达诺省"
+    }
+  },
+  {
+    "code": "MO",
+    "name": "Province of Modena",
+    "names": {
+      "ja": "モデナ県",
+      "ko": "모데나도",
+      "vi": "Modena",
+      "id": "Provinsi Modena",
+      "zh-Hans": "摩德纳省"
+    }
+  },
+  {
+    "code": "MB",
+    "name": "Province of Monza and Brianza",
+    "names": {
+      "ja": "モンツァ・エ・ブリアンツァ県",
+      "ko": "몬차에브리안차도",
+      "vi": "Monza và Brianza",
+      "id": "Provinsi Monza dan Brianza",
+      "zh-Hans": "蒙扎和布里安扎省",
+      "zh-Hant": "蒙扎和布里安扎省"
+    }
+  },
+  {
+    "code": "NO",
+    "name": "Province of Novara",
+    "names": {
+      "ja": "ノヴァーラ県",
+      "ko": "노바라도",
+      "vi": "Novara",
+      "id": "Provinsi Novara",
+      "zh-Hans": "诺瓦拉省"
+    }
+  },
+  {
+    "code": "NU",
+    "name": "Province of Nuoro",
+    "names": {
+      "ja": "ヌーオロ県",
+      "ko": "누오로도",
+      "vi": "Nuoro",
+      "id": "Provinsi Nuoro",
+      "zh-Hans": "努奥罗省"
+    }
+  },
+  {
+    "code": "OR",
+    "name": "Province of Oristano",
+    "names": {
+      "ja": "オリスターノ県",
+      "ko": "오리스타노도",
+      "vi": "Oristano",
+      "id": "Provinsi Oristano",
+      "zh-Hans": "奥里斯塔诺省"
+    }
+  },
+  {
+    "code": "PD",
+    "name": "Province of Padua",
+    "names": {
+      "ja": "パドヴァ県",
+      "ko": "파도바도",
+      "vi": "Padova",
+      "id": "Provinsi Padova",
+      "zh-Hans": "帕多瓦省"
+    }
+  },
+  {
+    "code": "PR",
+    "name": "Province of Parma",
+    "names": {
+      "ja": "パルマ県",
+      "ko": "파르마도",
+      "vi": "Parma",
+      "id": "Provinsi Parma",
+      "zh-Hans": "帕爾馬省",
+      "zh-Hant": "帕爾馬省"
+    }
+  },
+  {
+    "code": "PV",
+    "name": "Province of Pavia",
+    "names": {
+      "ja": "パヴィーア県",
+      "ko": "파비아도",
+      "vi": "Pavia",
+      "id": "Provinsi Pavia",
+      "zh-Hans": "帕维亚省"
+    }
+  },
+  {
+    "code": "PG",
+    "name": "province of Perugia",
+    "names": {
+      "ja": "ペルージャ県",
+      "ko": "페루자도",
+      "vi": "Perugia",
+      "id": "Provinsi Perugia",
+      "zh-Hans": "佩魯賈省",
+      "zh-Hant": "佩魯賈省"
+    }
+  },
+  {
+    "code": "PU",
+    "name": "Province of Pesaro and Urbino",
+    "names": {
+      "ja": "ペーザロ・エ・ウルビーノ県",
+      "ko": "페사로에우르비노도",
+      "vi": "Pesaro và Urbino",
+      "id": "Provinsi Pesaro dan Urbino",
+      "zh-Hans": "佩萨罗-乌尔比诺省"
+    }
+  },
+  {
+    "code": "PE",
+    "name": "Province of Pescara",
+    "names": {
+      "ja": "ペスカーラ県",
+      "ko": "페스카라도",
+      "vi": "Pescara",
+      "id": "Provinsi Pescara",
+      "zh-Hans": "佩斯卡拉省"
+    }
+  },
+  {
+    "code": "PC",
+    "name": "Province of Piacenza",
+    "names": {
+      "ja": "ピアチェンツァ県",
+      "ko": "피아첸차도",
+      "vi": "Piacenza",
+      "id": "Provinsi Piacenza",
+      "zh-Hans": "皮亚琴察省"
+    }
+  },
+  {
+    "code": "PI",
+    "name": "Province of Pisa",
+    "names": {
+      "ja": "ピサ県",
+      "ko": "피사도",
+      "vi": "Pisa",
+      "id": "Provinsi Pisa",
+      "zh-Hans": "比萨省"
+    }
+  },
+  {
+    "code": "PT",
+    "name": "Province of Pistoia",
+    "names": {
+      "ja": "ピストイア県",
+      "ko": "피스토이아도",
+      "vi": "Pistoia",
+      "id": "Provinsi Pistoia",
+      "zh-Hans": "皮斯托亚省"
+    }
+  },
+  {
+    "code": "PZ",
+    "name": "province of Potenza",
+    "names": {
+      "ja": "ポテンツァ県",
+      "ko": "포텐차도",
+      "vi": "Potenza",
+      "id": "Provinsi Potenza",
+      "zh-Hans": "波坦察省",
+      "zh-Hant": "波坦察省"
+    }
+  },
+  {
+    "code": "PO",
+    "name": "Province of Prato",
+    "names": {
+      "ja": "プラート県",
+      "ko": "프라토도",
+      "vi": "Prato",
+      "id": "Provinsi Prato",
+      "zh-Hans": "普拉托省",
+      "zh-Hant": "普拉托省"
+    }
+  },
+  {
+    "code": "RA",
+    "name": "Province of Ravenna",
+    "names": {
+      "ja": "ラヴェンナ県",
+      "ko": "라벤나도",
+      "vi": "Ravenna",
+      "id": "Provinsi Ravenna",
+      "zh-Hans": "拉韦纳省"
+    }
+  },
+  {
+    "code": "RE",
+    "name": "Province of Reggio Emilia",
+    "names": {
+      "ja": "レッジョ・エミリア県",
+      "ko": "레조넬에밀리아도",
+      "vi": "Reggio Emilia",
+      "id": "Provinsi Reggio Emilia",
+      "zh-Hans": "雷焦艾米利亚省",
+      "zh-Hant": "雷焦艾米利亞省"
+    }
+  },
+  {
+    "code": "RI",
+    "name": "Province of Rieti",
+    "names": {
+      "ja": "リエーティ県",
+      "ko": "리에티도",
+      "vi": "Rieti",
+      "id": "Provinsi Rieti",
+      "zh-Hans": "列蒂省"
+    }
+  },
+  {
+    "code": "RN",
+    "name": "Province of Rimini",
+    "names": {
+      "ja": "リミニ県",
+      "ko": "리미니도",
+      "vi": "Rimini",
+      "id": "Provinsi Rimini",
+      "zh-Hans": "里米尼省"
+    }
+  },
+  {
+    "code": "RO",
+    "name": "Province of Rovigo",
+    "names": {
+      "ja": "ロヴィーゴ県",
+      "ko": "로비고도",
+      "vi": "Rovigo",
+      "id": "Provinsi Rovigo",
+      "zh-Hans": "罗维戈省"
+    }
+  },
+  {
+    "code": "SA",
+    "name": "Province of Salerno",
+    "names": {
+      "ja": "サレルノ県",
+      "ko": "살레르노도",
+      "vi": "Salerno",
+      "id": "Provinsi Salerno",
+      "zh-Hans": "萨莱诺省",
+      "zh-Hant": "薩萊諾省"
+    }
+  },
+  {
+    "code": "SS",
+    "name": "Province of Sassari",
+    "names": {
+      "ja": "サッサリ県",
+      "ko": "사사리도",
+      "vi": "Sassari",
+      "id": "Provinsi Sassari",
+      "zh-Hans": "萨萨里省",
+      "zh-Hant": "薩薩里省"
+    }
+  },
+  {
+    "code": "SV",
+    "name": "Province of Savona",
+    "names": {
+      "ja": "サヴォーナ県",
+      "ko": "사보나도",
+      "vi": "Savona",
+      "id": "Provinsi Savona",
+      "zh-Hans": "萨沃纳省"
+    }
+  },
+  {
+    "code": "SI",
+    "name": "Province of Siena",
+    "names": {
+      "ja": "シエーナ県",
+      "ko": "시에나도",
+      "vi": "Siena",
+      "id": "Provinsi Siena",
+      "zh-Hans": "锡耶纳省",
+      "zh-Hant": "錫耶納省"
+    }
+  },
+  {
+    "code": "SO",
+    "name": "Province of Sondrio",
+    "names": {
+      "ja": "ソンドリオ県",
+      "ko": "손드리오도",
+      "vi": "Sondrio",
+      "id": "Provinsi Sondrio",
+      "zh-Hans": "松德里奥省"
+    }
+  },
+  {
+    "code": "TA",
+    "name": "Province of Taranto",
+    "names": {
+      "ja": "ターラント県",
+      "ko": "타란토도",
+      "vi": "Taranto",
+      "id": "Provinsi Taranto",
+      "zh-Hans": "塔兰托省",
+      "zh-Hant": "塔蘭托省"
+    }
+  },
+  {
+    "code": "TE",
+    "name": "Province of Teramo",
+    "names": {
+      "ja": "テーラモ県",
+      "ko": "테라모도",
+      "vi": "Teramo",
+      "id": "Provinsi Teramo",
+      "zh-Hans": "泰拉莫省"
+    }
+  },
+  {
+    "code": "TR",
+    "name": "province of Terni",
+    "names": {
+      "ja": "テルニ県",
+      "ko": "테르니도",
+      "vi": "Terni",
+      "id": "Provinsi Terni",
+      "zh-Hans": "特爾尼省",
+      "zh-Hant": "特爾尼省"
+    }
+  },
+  {
+    "code": "TV",
+    "name": "Province of Treviso",
+    "names": {
+      "ja": "トレヴィーゾ県",
+      "ko": "트레비소도",
+      "vi": "Treviso",
+      "id": "Provinsi Treviso",
+      "zh-Hans": "特雷維索省",
+      "zh-Hant": "特雷維索省"
+    }
+  },
+  {
+    "code": "VA",
+    "name": "Province of Varese",
+    "names": {
+      "ja": "ヴァレーゼ県",
+      "ko": "바레세도",
+      "vi": "Varese",
+      "id": "Provinsi Varese",
+      "zh-Hans": "瓦雷泽省",
+      "zh-Hant": "瓦雷澤省"
+    }
+  },
+  {
+    "code": "VB",
+    "name": "Province of Verbano-Cusio-Ossola",
+    "names": {
+      "ja": "ヴェルバーノ・クジオ・オッソラ県",
+      "ko": "베르바노쿠시오오솔라도",
+      "vi": "Verbano-Cusio-Ossola",
+      "id": "Provinsi Verbano-Cusio-Ossola",
+      "zh-Hans": "韦尔巴诺-库西亚-奥索拉省"
+    }
+  },
+  {
+    "code": "VC",
+    "name": "Province of Vercelli",
+    "names": {
+      "ja": "ヴェルチェッリ県",
+      "ko": "베르첼리도",
+      "vi": "Vercelli",
+      "id": "Provinsi Vercelli",
+      "zh-Hans": "韦尔切利省"
+    }
+  },
+  {
+    "code": "VR",
+    "name": "Province of Verona",
+    "names": {
+      "ja": "ヴェローナ県",
+      "ko": "베로나도",
+      "vi": "Verona",
+      "id": "Provinsi Verona",
+      "zh-Hans": "维罗纳省"
+    }
+  },
+  {
+    "code": "VV",
+    "name": "Province of Vibo Valentia",
+    "names": {
+      "ja": "ヴィボ・ヴァレンツィア県",
+      "ko": "비보발렌티아도",
+      "vi": "Vibo Valentia",
+      "id": "Provinsi Vibo Valentia",
+      "zh-Hans": "维博瓦伦蒂亚省"
+    }
+  },
+  {
+    "code": "VI",
+    "name": "Province of Vicenza",
+    "names": {
+      "ja": "ヴィチェンツァ県",
+      "ko": "비첸차도",
+      "vi": "Vicenza",
+      "id": "Provinsi Vicenza",
+      "zh-Hans": "维琴察省"
+    }
+  },
+  {
+    "code": "VT",
+    "name": "Province of Viterbo",
+    "names": {
+      "ja": "ヴィテルボ県",
+      "ko": "비테르보도",
+      "vi": "Viterbo",
+      "id": "Provinsi Viterbo",
+      "zh-Hans": "维泰博省"
+    }
+  },
+  {
+    "code": "88",
+    "name": "Sardinia",
+    "names": {
+      "ja": "サルデーニャ",
+      "ko": "사르데냐",
+      "vi": "Sardegna",
+      "id": "Sardinia",
+      "zh-Hans": "撒丁",
+      "zh-Hant": "薩丁尼亞島"
+    }
+  },
+  {
+    "code": "82",
+    "name": "Sicily",
+    "names": {
+      "ja": "シチリア州",
+      "ko": "시칠리아",
+      "vi": "Sicilia",
+      "id": "Sisilia",
+      "zh-Hans": "西西里岛",
+      "zh-Hant": "西西里島"
+    }
+  },
+  {
+    "code": "BZ",
+    "name": "South Tyrol",
+    "names": {
+      "ja": "ボルツァーノ自治県",
+      "ko": "볼차노도",
+      "vi": "Bolzano-Bozen",
+      "id": "Tirol Selatan",
+      "zh-Hans": "波爾扎諾自治省",
+      "zh-Hant": "波爾察諾-上阿迪傑自治省"
+    }
+  },
+  {
+    "code": "CI",
+    "name": "Sulcis Iglesiente",
+    "names": {}
+  },
+  {
+    "code": "TN",
+    "name": "Trentino",
+    "names": {
+      "ja": "トレン",
+      "ko": "트렌토도",
+      "vi": "Trento",
+      "id": "Trentino",
+      "zh-Hans": "特伦托",
+      "zh-Hant": "特倫托"
+    }
+  },
+  {
+    "code": "32",
+    "name": "Trentino-South Tyrol",
+    "names": {
+      "ja": "トレンティーノ＝アルト・アディジェ州",
+      "ko": "트렌티노알토아디제주",
+      "vi": "Trentino-Alto Adige/Südtirol",
+      "id": "Trentino-Tirol Selatan",
+      "zh-Hans": "特伦蒂诺-上阿迪杰",
+      "zh-Hant": "特伦蒂诺-上阿迪杰"
+    }
+  },
+  {
+    "code": "TS",
+    "name": "Trieste",
+    "names": {}
+  },
+  {
+    "code": "52",
+    "name": "Tuscany",
+    "names": {
+      "ja": "トスカーナ州",
+      "ko": "토스카나주",
+      "vi": "Toscana",
+      "id": "Toscana",
+      "zh-Hans": "托斯卡纳大区",
+      "zh-Hant": "托斯卡納大區"
+    }
+  },
+  {
+    "code": "UD",
+    "name": "Udine",
+    "names": {}
+  },
+  {
+    "code": "55",
+    "name": "Umbria",
+    "names": {
+      "ja": "ウンブリア州",
+      "ko": "움브리아주",
+      "vi": "Umbria",
+      "id": "Umbra",
+      "zh-Hans": "翁布里亚"
+    }
+  },
+  {
+    "code": "34",
+    "name": "Veneto",
+    "names": {
+      "ja": "ヴェネト州",
+      "ko": "베네토주",
+      "vi": "Veneto",
+      "id": "Veneto",
+      "zh-Hans": "威尼托",
+      "zh-Hant": "威尼托大區"
+    }
+  }
+]

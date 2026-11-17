@@ -1,0 +1,937 @@
+[
+  {
+    "code": "37",
+    "name": "Amnat Charoen",
+    "names": {
+      "ja": "アムナートチャルーン県",
+      "ko": "암낫짜른주",
+      "vi": "Amnat Charoen",
+      "id": "Provinsi Amnat Charoen",
+      "zh-Hans": "安纳乍伦府",
+      "zh-Hant": "安納乍倫府"
+    }
+  },
+  {
+    "code": "15",
+    "name": "Ang Thong",
+    "names": {
+      "ja": "アーントーン県",
+      "ko": "앙통주",
+      "vi": "Ang Thong",
+      "id": "Ang Thong",
+      "zh-Hans": "红统府",
+      "zh-Hant": "紅統府"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Bangkok",
+    "names": {
+      "ja": "バンコク",
+      "ko": "방콕",
+      "vi": "Băng Cốc",
+      "id": "Bangkok",
+      "zh-Hans": "曼谷",
+      "zh-Hant": "曼谷"
+    }
+  },
+  {
+    "code": "38",
+    "name": "Bueng Kan",
+    "names": {
+      "ja": "ブンカーン県",
+      "ko": "븡깐주",
+      "vi": "Bueng Kan",
+      "id": "Provinsi Bueng Kan",
+      "zh-Hans": "汶干府",
+      "zh-Hant": "汶干府"
+    }
+  },
+  {
+    "code": "31",
+    "name": "Buriram",
+    "names": {
+      "ja": "ブリーラム県",
+      "ko": "부리람주",
+      "vi": "Buri Ram",
+      "id": "Provinsi Buriram",
+      "zh-Hans": "武里南府",
+      "zh-Hant": "武里南府"
+    }
+  },
+  {
+    "code": "24",
+    "name": "Chachoengsao",
+    "names": {
+      "ja": "チャチューンサオ県",
+      "ko": "차층사오주",
+      "vi": "Chachoengsao",
+      "id": "Chachoengsao",
+      "zh-Hans": "差春骚府",
+      "zh-Hant": "差春騷府"
+    }
+  },
+  {
+    "code": "18",
+    "name": "Chai Nat",
+    "names": {
+      "ja": "チャイナート県",
+      "ko": "차이낫주",
+      "vi": "Chainat",
+      "id": "Chai Nat",
+      "zh-Hans": "猜纳府",
+      "zh-Hant": "猜納府"
+    }
+  },
+  {
+    "code": "36",
+    "name": "Chaiyaphum",
+    "names": {
+      "ja": "チャイヤプーム県",
+      "ko": "차이야품주",
+      "vi": "Chaiyaphum",
+      "id": "Provinsi Chaiyaphum",
+      "zh-Hans": "猜也蓬府"
+    }
+  },
+  {
+    "code": "22",
+    "name": "Chanthaburi",
+    "names": {
+      "ja": "チャンタブリー県",
+      "ko": "짠타부리주",
+      "vi": "Chanthaburi",
+      "id": "Chanthaburi",
+      "zh-Hans": "庄他武里府",
+      "zh-Hant": "莊他武里府"
+    }
+  },
+  {
+    "code": "50",
+    "name": "Chiang Mai",
+    "names": {
+      "ja": "チエンマイ県",
+      "ko": "치앙마이주",
+      "vi": "Chiang Mai",
+      "id": "Provinsi Chiang Mai",
+      "zh-Hans": "清迈府",
+      "zh-Hant": "清邁府"
+    }
+  },
+  {
+    "code": "57",
+    "name": "Chiang Rai",
+    "names": {
+      "ja": "チエンラーイ県",
+      "ko": "치앙라이주",
+      "vi": "Chiang Rai",
+      "id": "Provinsi Chiang Rai",
+      "zh-Hans": "清莱府",
+      "zh-Hant": "清萊府"
+    }
+  },
+  {
+    "code": "20",
+    "name": "Chon Buri",
+    "names": {
+      "ja": "チョンブリー県",
+      "ko": "촌부리주",
+      "vi": "Chon Buri",
+      "id": "Chon Buri",
+      "zh-Hans": "春武里府",
+      "zh-Hant": "春武里府"
+    }
+  },
+  {
+    "code": "86",
+    "name": "Chumphon",
+    "names": {
+      "ja": "チュムポーン県",
+      "ko": "춤폰주",
+      "vi": "Chumphon",
+      "id": "Provinsi Chumphon",
+      "zh-Hans": "春蓬府",
+      "zh-Hant": "春蓬府"
+    }
+  },
+  {
+    "code": "46",
+    "name": "Kalasin",
+    "names": {
+      "ja": "カーラシン県",
+      "ko": "깔라신주",
+      "vi": "Kalasin",
+      "id": "Provinsi Kalasin",
+      "zh-Hans": "加拉信府",
+      "zh-Hant": "加拉信府"
+    }
+  },
+  {
+    "code": "62",
+    "name": "Kamphaeng Phet",
+    "names": {
+      "ja": "カムペーンペット県",
+      "ko": "깜팽펫주",
+      "vi": "Kamphaeng Phet",
+      "id": "Provinsi Kamphaeng Phet",
+      "zh-Hans": "甘烹碧府",
+      "zh-Hant": "甘烹碧府"
+    }
+  },
+  {
+    "code": "71",
+    "name": "Kanchanaburi",
+    "names": {
+      "ja": "カーンチャナブリー県",
+      "ko": "깐짜나부리주",
+      "vi": "Kanchanaburi",
+      "id": "Kanchanaburi",
+      "zh-Hans": "北碧府",
+      "zh-Hant": "北碧府"
+    }
+  },
+  {
+    "code": "40",
+    "name": "Khon Kaen",
+    "names": {
+      "ja": "コーンケン県",
+      "ko": "콘깬주",
+      "vi": "Khon Kaen",
+      "id": "Provinsi Khon Kaen",
+      "zh-Hans": "孔敬府",
+      "zh-Hant": "孔敬府"
+    }
+  },
+  {
+    "code": "81",
+    "name": "Krabi",
+    "names": {
+      "ja": "クラビー県",
+      "ko": "끄라비주",
+      "vi": "Krabi",
+      "id": "Provinsi Krabi",
+      "zh-Hans": "甲米府",
+      "zh-Hant": "甲米府"
+    }
+  },
+  {
+    "code": "52",
+    "name": "Lampang",
+    "names": {
+      "ja": "ラムパーン県",
+      "ko": "람빵주",
+      "vi": "Lampang",
+      "id": "Provinsi Lampang",
+      "zh-Hans": "南邦府",
+      "zh-Hant": "南邦府"
+    }
+  },
+  {
+    "code": "51",
+    "name": "Lamphun",
+    "names": {
+      "ja": "ラムプーン県",
+      "ko": "람푼주",
+      "vi": "Lamphun",
+      "id": "Provinsi Lamphun",
+      "zh-Hans": "南奔府",
+      "zh-Hant": "南奔府"
+    }
+  },
+  {
+    "code": "42",
+    "name": "Loei",
+    "names": {
+      "ja": "ルーイ県",
+      "ko": "르이주",
+      "vi": "Loei",
+      "id": "Provinsi Loei",
+      "zh-Hans": "黎府",
+      "zh-Hant": "黎府"
+    }
+  },
+  {
+    "code": "16",
+    "name": "Lopburi",
+    "names": {
+      "ja": "ロッブリー県",
+      "ko": "롭부리주",
+      "vi": "Lopburi",
+      "id": "Lopburi",
+      "zh-Hans": "华富里府",
+      "zh-Hant": "華富里府"
+    }
+  },
+  {
+    "code": "58",
+    "name": "Mae Hong Son",
+    "names": {
+      "ja": "メーホンソーン県",
+      "ko": "매홍손주",
+      "vi": "Mae Hong Son",
+      "id": "Provinsi Mae Hong Son",
+      "zh-Hans": "夜丰颂府",
+      "zh-Hant": "夜豐頌府"
+    }
+  },
+  {
+    "code": "44",
+    "name": "Maha Sarakham",
+    "names": {
+      "ja": "マハーサーラカーム県",
+      "ko": "마하사라캄주",
+      "vi": "Maha Sarakham",
+      "id": "Provinsi Maha Sarakham",
+      "zh-Hans": "马哈沙拉堪府",
+      "zh-Hant": "馬哈沙拉堪府"
+    }
+  },
+  {
+    "code": "49",
+    "name": "Mukdahan",
+    "names": {
+      "ja": "ムックダーハーン県",
+      "ko": "묵다한주",
+      "vi": "Mukdahan",
+      "id": "Provinsi Mukdahan",
+      "zh-Hans": "穆达汉府",
+      "zh-Hant": "穆達漢府"
+    }
+  },
+  {
+    "code": "26",
+    "name": "Nakhon Nayok",
+    "names": {
+      "ja": "ナコーンナーヨック県",
+      "ko": "나콘나욕주",
+      "vi": "Nakhon Nayok",
+      "id": "Nakhon Nayok",
+      "zh-Hans": "那空那育府",
+      "zh-Hant": "那空那育府"
+    }
+  },
+  {
+    "code": "73",
+    "name": "Nakhon Pathom",
+    "names": {
+      "ja": "ナコーンパトム県",
+      "ko": "나콘빠톰주",
+      "vi": "Nakhon Pathom",
+      "id": "Nakhon Pathom",
+      "zh-Hans": "佛统府",
+      "zh-Hant": "佛統府"
+    }
+  },
+  {
+    "code": "48",
+    "name": "Nakhon Phanom",
+    "names": {
+      "ja": "ナコーンパノム県",
+      "ko": "나콘파놈주",
+      "vi": "Nakhon Phanom",
+      "id": "Provinsi Nakhon Phanom",
+      "zh-Hans": "那空拍侬府",
+      "zh-Hant": "那空拍儂府"
+    }
+  },
+  {
+    "code": "30",
+    "name": "Nakhon Ratchasima",
+    "names": {
+      "ja": "ナコーンラーチャシーマー県",
+      "ko": "나콘랏차시마주",
+      "vi": "Nakhon Ratchasima",
+      "id": "Provinsi Nakhon Ratchasima",
+      "zh-Hans": "那空叻差是玛府",
+      "zh-Hant": "那空叻差是瑪府"
+    }
+  },
+  {
+    "code": "60",
+    "name": "Nakhon Sawan",
+    "names": {
+      "ja": "ナコーンサワン県",
+      "ko": "나콘사완주",
+      "vi": "Nakhon Sawan",
+      "id": "Provinsi Nakhon Sawan",
+      "zh-Hans": "那空沙旺府",
+      "zh-Hant": "那空沙旺府"
+    }
+  },
+  {
+    "code": "80",
+    "name": "Nakhon Si Thammarat",
+    "names": {
+      "ja": "ナコーンシータンマラート県",
+      "ko": "나콘시탐마랏주",
+      "vi": "Nakhon Si Thammarat",
+      "id": "Provinsi Nakhon Si Thammarat",
+      "zh-Hans": "那空是贪玛叻府",
+      "zh-Hant": "那空是貪瑪叻府"
+    }
+  },
+  {
+    "code": "55",
+    "name": "Nan",
+    "names": {
+      "ja": "ナーン県",
+      "ko": "난주",
+      "vi": "Nan",
+      "id": "Provinsi Nan",
+      "zh-Hans": "难府",
+      "zh-Hant": "難府"
+    }
+  },
+  {
+    "code": "96",
+    "name": "Narathiwat",
+    "names": {
+      "ja": "ナラーティワート県",
+      "ko": "나라티왓주",
+      "vi": "Narathiwat",
+      "id": "Narathiwat",
+      "zh-Hans": "那拉提瓦府",
+      "zh-Hant": "那拉提瓦府"
+    }
+  },
+  {
+    "code": "39",
+    "name": "Nong Bua Lamphu",
+    "names": {
+      "ja": "ノーンブワラムプー県",
+      "ko": "농부아람푸주",
+      "vi": "Nongbua Lamphu",
+      "id": "Provinsi Nong Bua Lamphu",
+      "zh-Hans": "农磨兰普府",
+      "zh-Hant": "農磨蘭普府"
+    }
+  },
+  {
+    "code": "43",
+    "name": "Nong Khai",
+    "names": {
+      "ja": "ノーンカーイ県",
+      "ko": "농카이주",
+      "vi": "Nong Khai",
+      "id": "Provinsi Nong Khai",
+      "zh-Hans": "廊开府",
+      "zh-Hant": "廊開府"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Nonthaburi",
+    "names": {
+      "ja": "ノンタブリー県",
+      "ko": "논타부리주",
+      "vi": "Nonthaburi",
+      "id": "Nonthaburi",
+      "zh-Hans": "暖武里府",
+      "zh-Hant": "暖武里府"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Pathum Thani",
+    "names": {
+      "ja": "パトゥムターニー県",
+      "ko": "빠툼타니주",
+      "vi": "Pathum Thani",
+      "id": "Pathum Thani",
+      "zh-Hans": "巴吞他尼府",
+      "zh-Hant": "巴吞他尼府"
+    }
+  },
+  {
+    "code": "94",
+    "name": "Pattani",
+    "names": {
+      "ja": "パッターニー県",
+      "ko": "빠따니주",
+      "vi": "Pattani",
+      "id": "Provinsi Pattani",
+      "zh-Hans": "北大年府",
+      "zh-Hant": "北大年府"
+    }
+  },
+  {
+    "code": "S",
+    "name": "Pattaya",
+    "names": {
+      "ja": "パッタヤー",
+      "ko": "파타야",
+      "vi": "Pattaya",
+      "id": "Pattaya",
+      "zh-Hans": "芭堤雅",
+      "zh-Hant": "芭達雅"
+    }
+  },
+  {
+    "code": "82",
+    "name": "Phang Nga",
+    "names": {
+      "ja": "パンガー県",
+      "ko": "팡응아주",
+      "vi": "Phang Nga",
+      "id": "Provinsi Phang Nga",
+      "zh-Hans": "攀牙府",
+      "zh-Hant": "攀牙府"
+    }
+  },
+  {
+    "code": "93",
+    "name": "Phatthalung",
+    "names": {
+      "ja": "パッタルン県",
+      "ko": "파탈룽주",
+      "vi": "Phatthalung",
+      "id": "Provinsi Phatthalung",
+      "zh-Hans": "博他仑府",
+      "zh-Hant": "博他侖府"
+    }
+  },
+  {
+    "code": "56",
+    "name": "Phayao",
+    "names": {
+      "ja": "パヤオ県",
+      "ko": "파야오주",
+      "vi": "Phayao",
+      "id": "Provinsi Phayao",
+      "zh-Hans": "帕尧府",
+      "zh-Hant": "帕堯府"
+    }
+  },
+  {
+    "code": "67",
+    "name": "Phetchabun",
+    "names": {
+      "ja": "ペッチャブーン県",
+      "ko": "펫차분주",
+      "vi": "Phetchabun",
+      "id": "Provinsi Phetchabun",
+      "zh-Hans": "碧差汶府",
+      "zh-Hant": "碧差汶府"
+    }
+  },
+  {
+    "code": "76",
+    "name": "Phetchaburi",
+    "names": {
+      "ja": "ペッチャブリー県",
+      "ko": "펫차부리주",
+      "vi": "Phetchaburi",
+      "id": "Provinsi Phetchaburi",
+      "zh-Hans": "碧武里府",
+      "zh-Hant": "佛丕府"
+    }
+  },
+  {
+    "code": "66",
+    "name": "Phichit",
+    "names": {
+      "ja": "ピチット県",
+      "ko": "피찟주",
+      "vi": "Phichit",
+      "id": "Provinsi Phichit",
+      "zh-Hans": "披集府",
+      "zh-Hant": "披集府"
+    }
+  },
+  {
+    "code": "65",
+    "name": "Phitsanulok",
+    "names": {
+      "ja": "ピッサヌローク県",
+      "ko": "핏사눌록주",
+      "vi": "Phitsanulok",
+      "id": "Provinsi Phitsanulok",
+      "zh-Hans": "彭世洛府",
+      "zh-Hant": "彭世洛府"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Phra Nakhon Si Ayutthaya",
+    "names": {
+      "ja": "アユタヤ県",
+      "ko": "아유타야주",
+      "vi": "Ayutthaya",
+      "id": "Phra Nakhon Si Ayutthaya",
+      "zh-Hans": "大城府",
+      "zh-Hant": "大城府"
+    }
+  },
+  {
+    "code": "54",
+    "name": "Phrae",
+    "names": {
+      "ja": "プレー県",
+      "ko": "프래주",
+      "vi": "Phrae",
+      "id": "Provinsi Phrae",
+      "zh-Hans": "帕府",
+      "zh-Hant": "帕府"
+    }
+  },
+  {
+    "code": "83",
+    "name": "Phuket",
+    "names": {
+      "ja": "プーケット県",
+      "ko": "푸껫주",
+      "vi": "Phuket",
+      "id": "Pulau Phuket",
+      "zh-Hans": "普吉府",
+      "zh-Hant": "普吉府"
+    }
+  },
+  {
+    "code": "25",
+    "name": "Prachin Buri",
+    "names": {
+      "ja": "プラーチーンブリー県",
+      "ko": "쁘라찐부리주",
+      "vi": "Prachinburi",
+      "id": "Prachin Buri",
+      "zh-Hans": "巴真府",
+      "zh-Hant": "巴真府"
+    }
+  },
+  {
+    "code": "77",
+    "name": "Prachuap Khiri Khan",
+    "names": {
+      "ja": "プラチュワップキーリーカン県",
+      "ko": "쁘라쭈압키리칸주",
+      "vi": "Prachuap Khiri Khan",
+      "id": "Provinsi Prachuap Khiri Khan",
+      "zh-Hans": "巴蜀府",
+      "zh-Hant": "巴蜀府"
+    }
+  },
+  {
+    "code": "85",
+    "name": "Ranong",
+    "names": {
+      "ja": "ラノーン県",
+      "ko": "라농주",
+      "vi": "Ranong",
+      "id": "Provinsi Ranong",
+      "zh-Hans": "拉廊府",
+      "zh-Hant": "拉廊府"
+    }
+  },
+  {
+    "code": "70",
+    "name": "Ratchaburi",
+    "names": {
+      "ja": "ラーチャブリー県",
+      "ko": "랏차부리주",
+      "vi": "Ratchaburi",
+      "id": "Provinsi Ratchaburi",
+      "zh-Hans": "叻武里府",
+      "zh-Hant": "叻武里府"
+    }
+  },
+  {
+    "code": "21",
+    "name": "Rayong",
+    "names": {
+      "ja": "ラヨーン県",
+      "ko": "라영 주",
+      "vi": "Rayong",
+      "id": "Rayong",
+      "zh-Hans": "罗勇府",
+      "zh-Hant": "羅勇府"
+    }
+  },
+  {
+    "code": "45",
+    "name": "Roi Et",
+    "names": {
+      "ja": "ローイエット県",
+      "ko": "로이엣주",
+      "vi": "Roi Et",
+      "id": "Provinsi Roi Et",
+      "zh-Hans": "黎逸府",
+      "zh-Hant": "黎逸府"
+    }
+  },
+  {
+    "code": "27",
+    "name": "Sa Kaeo",
+    "names": {
+      "ja": "サケーオ県",
+      "ko": "사깨오주",
+      "vi": "Sa Kaeo",
+      "id": "Provinsi Sa Kaeo",
+      "zh-Hans": "沙缴府",
+      "zh-Hant": "沙繳府"
+    }
+  },
+  {
+    "code": "47",
+    "name": "Sakon Nakhon",
+    "names": {
+      "ja": "サコンナコーン県",
+      "ko": "사꼰나콘주",
+      "vi": "Sakon Nakhon",
+      "id": "Provinsi Sakon Nakhon",
+      "zh-Hans": "沙功那空府",
+      "zh-Hant": "沙功那空府"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Samut Prakan",
+    "names": {
+      "ja": "サムットプラーカーン県",
+      "ko": "사뭇쁘라깐주",
+      "vi": "Samut Prakan",
+      "id": "Samut Prakan",
+      "zh-Hans": "沙没巴干府",
+      "zh-Hant": "沙沒巴干府"
+    }
+  },
+  {
+    "code": "74",
+    "name": "Samut Sakhon",
+    "names": {
+      "ja": "サムットサーコーン県",
+      "ko": "사뭇사콘주",
+      "vi": "Samut Sakhon",
+      "id": "Samut Sakhon",
+      "zh-Hans": "沙没沙空府",
+      "zh-Hant": "沙沒沙空府"
+    }
+  },
+  {
+    "code": "75",
+    "name": "Samut Songkhram",
+    "names": {
+      "ja": "サムットソンクラーム県",
+      "ko": "사뭇송크람주",
+      "vi": "Samut Songkhram",
+      "id": "Samut Songkhram",
+      "zh-Hans": "沙没颂堪府",
+      "zh-Hant": "沙沒頌堪府"
+    }
+  },
+  {
+    "code": "19",
+    "name": "Saraburi",
+    "names": {
+      "ja": "サラブリー県",
+      "ko": "사라부리주",
+      "vi": "Saraburi",
+      "id": "Saraburi",
+      "zh-Hans": "沙拉武里府",
+      "zh-Hant": "沙拉武里府"
+    }
+  },
+  {
+    "code": "91",
+    "name": "Satun",
+    "names": {
+      "ja": "サトゥーン県",
+      "ko": "사뚠주",
+      "vi": "Satun",
+      "id": "Provinsi Satun",
+      "zh-Hans": "沙敦府",
+      "zh-Hant": "沙敦府"
+    }
+  },
+  {
+    "code": "33",
+    "name": "Si Sa Ket",
+    "names": {
+      "ja": "シーサケート県",
+      "ko": "시사껫주",
+      "vi": "Sisaket",
+      "id": "Provinsi Sisaket",
+      "zh-Hans": "四色菊府",
+      "zh-Hant": "四色菊府"
+    }
+  },
+  {
+    "code": "17",
+    "name": "Sing Buri",
+    "names": {
+      "ja": "シンブリー県",
+      "ko": "싱부리주",
+      "vi": "Sing Buri",
+      "id": "Sing Buri",
+      "zh-Hans": "信武里府",
+      "zh-Hant": "信武里府"
+    }
+  },
+  {
+    "code": "90",
+    "name": "Songkhla",
+    "names": {
+      "ja": "ソンクラー県",
+      "ko": "송클라주",
+      "vi": "Songkhla",
+      "id": "Provinsi Songkhla",
+      "zh-Hans": "宋卡府",
+      "zh-Hant": "宋卡府"
+    }
+  },
+  {
+    "code": "64",
+    "name": "Sukhothai",
+    "names": {
+      "ja": "スコータイ県",
+      "ko": "수코타이주",
+      "vi": "Sukhothai",
+      "id": "Provinsi Sukhothai",
+      "zh-Hans": "素可泰府",
+      "zh-Hant": "素可泰府"
+    }
+  },
+  {
+    "code": "72",
+    "name": "Suphan Buri",
+    "names": {
+      "ja": "スパンブリー県",
+      "ko": "수판부리주",
+      "vi": "Suphanburi",
+      "id": "Provinsi Suphan Buri",
+      "zh-Hans": "素攀府",
+      "zh-Hant": "素攀府"
+    }
+  },
+  {
+    "code": "84",
+    "name": "Surat Thani",
+    "names": {
+      "ja": "スラートターニー県",
+      "ko": "수랏타니주",
+      "vi": "Surat Thani",
+      "id": "Provinsi Surat Thani",
+      "zh-Hans": "素叻他尼府",
+      "zh-Hant": "素叻他尼府"
+    }
+  },
+  {
+    "code": "32",
+    "name": "Surin",
+    "names": {
+      "ja": "スリン県",
+      "ko": "수린주",
+      "vi": "Surin",
+      "id": "Provinsi Surin",
+      "zh-Hans": "素林府",
+      "zh-Hant": "素林府"
+    }
+  },
+  {
+    "code": "63",
+    "name": "Tak",
+    "names": {
+      "ja": "ターク県",
+      "ko": "딱주",
+      "vi": "Tak",
+      "id": "Provinsi Tak",
+      "zh-Hans": "达府",
+      "zh-Hant": "達府"
+    }
+  },
+  {
+    "code": "92",
+    "name": "Trang",
+    "names": {
+      "ja": "トラン県",
+      "ko": "뜨랑주",
+      "vi": "Trang",
+      "id": "Provinsi Trang",
+      "zh-Hans": "董里府",
+      "zh-Hant": "董里府"
+    }
+  },
+  {
+    "code": "23",
+    "name": "Trat",
+    "names": {
+      "ja": "トラート県",
+      "ko": "뜨랏주",
+      "vi": "Trat",
+      "id": "Provinsi Trat",
+      "zh-Hans": "达叻府",
+      "zh-Hant": "達叻府"
+    }
+  },
+  {
+    "code": "34",
+    "name": "Ubon Ratchathani",
+    "names": {
+      "ja": "ウボンラーチャターニー県",
+      "ko": "우본랏차타니주",
+      "vi": "Ubon Ratchathani",
+      "id": "Ubon Ratchathani",
+      "zh-Hans": "乌汶府",
+      "zh-Hant": "烏汶府"
+    }
+  },
+  {
+    "code": "41",
+    "name": "Udon Thani",
+    "names": {
+      "ja": "ウドーンターニー県",
+      "ko": "우돈타니주",
+      "vi": "Udon Thani",
+      "id": "Udon Thani",
+      "zh-Hans": "乌隆府",
+      "zh-Hant": "烏隆府"
+    }
+  },
+  {
+    "code": "61",
+    "name": "Uthai Thani",
+    "names": {
+      "ja": "ウタイターニー県",
+      "ko": "우타이타니주",
+      "vi": "Uthai Thani",
+      "id": "Provinsi Uthai Thani",
+      "zh-Hans": "乌泰他尼府",
+      "zh-Hant": "烏泰他尼府"
+    }
+  },
+  {
+    "code": "53",
+    "name": "Uttaradit",
+    "names": {
+      "ja": "ウッタラディット県",
+      "ko": "우따라딧주",
+      "vi": "Uttaradit",
+      "id": "Provinsi Uttaradit",
+      "zh-Hans": "程逸府",
+      "zh-Hant": "程逸府"
+    }
+  },
+  {
+    "code": "95",
+    "name": "Yala",
+    "names": {
+      "ja": "ヤラー県",
+      "ko": "얄라주",
+      "vi": "Yala",
+      "id": "Provinsi Yala",
+      "zh-Hans": "也拉府",
+      "zh-Hant": "也拉府"
+    }
+  },
+  {
+    "code": "35",
+    "name": "Yasothon",
+    "names": {
+      "ja": "ヤソートーン県",
+      "ko": "야소톤주",
+      "vi": "Yasothon",
+      "id": "Yasothon",
+      "zh-Hans": "益梭通府",
+      "zh-Hant": "益梭通府"
+    }
+  }
+]

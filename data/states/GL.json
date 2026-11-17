@@ -1,0 +1,57 @@
+[
+  {
+    "code": "AV",
+    "name": "Avannaata",
+    "names": {
+      "ja": "アヴァンナータ",
+      "ko": "아반나타",
+      "vi": "Avannaata",
+      "id": "Avannaata",
+      "zh-Hans": "阿万纳塔"
+    }
+  },
+  {
+    "code": "KU",
+    "name": "Kujalleq",
+    "names": {
+      "ja": "クヤレック",
+      "ko": "쿠얄레크",
+      "vi": "Kujalleq",
+      "id": "Kujalleq",
+      "zh-Hans": "库亚莱克"
+    }
+  },
+  {
+    "code": "QT",
+    "name": "Qeqertalik",
+    "names": {
+      "ja": "ケケタリク",
+      "ko": "케케르탈리크",
+      "id": "Qeqertalik",
+      "zh-Hans": "奎克塔利克"
+    }
+  },
+  {
+    "code": "QE",
+    "name": "Qeqqata",
+    "names": {
+      "ja": "ケカッタ",
+      "ko": "케카타",
+      "vi": "Qeqqata",
+      "id": "Qeqqata",
+      "zh-Hans": "凯卡塔"
+    }
+  },
+  {
+    "code": "SM",
+    "name": "Sermersooq",
+    "names": {
+      "ja": "セルメルソーク",
+      "ko": "세르메르소크",
+      "vi": "Sermersooq",
+      "id": "Sermersooq",
+      "zh-Hans": "塞梅索克",
+      "zh-Hant": "塞梅索克"
+    }
+  }
+]

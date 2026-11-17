@@ -1,0 +1,535 @@
+[
+  {
+    "code": "01",
+    "name": "Baringo County",
+    "names": {
+      "ja": "バリンゴ (カウンティ)",
+      "ko": "바링고현",
+      "vi": "Baringo",
+      "id": "County Baringo",
+      "zh-Hans": "巴林戈郡"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Bomet County",
+    "names": {
+      "ja": "ボメット (カウンティ)",
+      "ko": "보메트현",
+      "vi": "Bomet",
+      "id": "County Bomet",
+      "zh-Hans": "博美特郡"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Bungoma County",
+    "names": {
+      "ja": "ブンゴマ (カウンティ)",
+      "ko": "붕고마현",
+      "vi": "Bungoma",
+      "id": "County Bungoma",
+      "zh-Hans": "邦戈馬郡"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Busia County",
+    "names": {
+      "ja": "ブシア (カウンティ)",
+      "ko": "부시아현",
+      "vi": "Busia",
+      "id": "County Busia",
+      "zh-Hans": "布希亞郡",
+      "zh-Hant": "布希亞郡"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Elgeyo-Marakwet County",
+    "names": {
+      "ja": "エルゲーヨ＝マラクウェト (カウンティ)",
+      "ko": "엘게요마라퀘트현",
+      "id": "County Elgeyo-Marakwet",
+      "zh-Hans": "埃爾格約-馬拉奎特郡",
+      "zh-Hant": "埃爾格約-馬拉奎特郡"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Embu County",
+    "names": {
+      "ja": "エンブ (カウンティ)",
+      "ko": "엠부현",
+      "vi": "Embu",
+      "id": "County Embu",
+      "zh-Hans": "恩布郡"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Garissa County",
+    "names": {
+      "ja": "ガリッサ (カウンティ)",
+      "ko": "가리사현",
+      "vi": "Garissa",
+      "id": "County Garissa",
+      "zh-Hans": "加里薩郡",
+      "zh-Hant": "加里薩郡"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Homa Bay County",
+    "names": {
+      "ja": "ホマ・ベイ (カウンティ)",
+      "ko": "호마베이현",
+      "vi": "Homa Bay",
+      "id": "County Homa Bay",
+      "zh-Hans": "霍馬灣郡",
+      "zh-Hant": "霍馬灣郡"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Isiolo County",
+    "names": {
+      "ja": "イシオロ (カウンティ)",
+      "ko": "이시올로현",
+      "vi": "Isiolo",
+      "id": "County Isiolo",
+      "zh-Hans": "伊希約洛郡"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Kajiado County",
+    "names": {
+      "ja": "カジアド (カウンティ)",
+      "ko": "카지아도현",
+      "vi": "Kajiado",
+      "id": "County Kajiado",
+      "zh-Hans": "卡耶亞多郡",
+      "zh-Hant": "卡耶亞多郡"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Kakamega County",
+    "names": {
+      "ja": "カカメガ (カウンティ)",
+      "ko": "카카메가현",
+      "vi": "Kakamega",
+      "id": "County Kakamega",
+      "zh-Hans": "卡卡梅加郡"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Kericho County",
+    "names": {
+      "ja": "ケリチョ (カウンティ)",
+      "ko": "케리초현",
+      "vi": "Kericho",
+      "id": "County Kericho",
+      "zh-Hans": "凱里喬郡"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Kiambu County",
+    "names": {
+      "ja": "キアンブ (カウンティ)",
+      "ko": "키암부현",
+      "vi": "Kiambu",
+      "id": "County Kiambu",
+      "zh-Hans": "基安布郡"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Kilifi County",
+    "names": {
+      "ja": "キリフィ (カウンティ)",
+      "ko": "킬리피현",
+      "vi": "Kilifi",
+      "id": "County Kilifi",
+      "zh-Hans": "基利菲县"
+    }
+  },
+  {
+    "code": "15",
+    "name": "Kirinyaga County",
+    "names": {
+      "ja": "キリーニャガ (カウンティ)",
+      "ko": "키리니아가현",
+      "vi": "Kirinyaga",
+      "id": "County Kirinyaga",
+      "zh-Hans": "基里尼亚加郡"
+    }
+  },
+  {
+    "code": "16",
+    "name": "Kisii County",
+    "names": {
+      "ja": "キシイ県",
+      "ko": "키시현",
+      "vi": "Kisii Central",
+      "id": "County Kisii",
+      "zh-Hans": "基西郡"
+    }
+  },
+  {
+    "code": "17",
+    "name": "Kisumu County",
+    "names": {
+      "ja": "キスム (カウンティ)",
+      "ko": "키수무현",
+      "vi": "Kisumu",
+      "id": "County Kisumu",
+      "zh-Hans": "基蘇木郡"
+    }
+  },
+  {
+    "code": "18",
+    "name": "Kitui County",
+    "names": {
+      "ja": "キツイ (カウンティ)",
+      "ko": "키투이현",
+      "vi": "Kitui",
+      "id": "County Kitui",
+      "zh-Hans": "基圖伊郡"
+    }
+  },
+  {
+    "code": "19",
+    "name": "Kwale County",
+    "names": {
+      "ja": "クワレ (カウンティ)",
+      "ko": "콸레현",
+      "vi": "Kwale",
+      "id": "County Kwale",
+      "zh-Hans": "夸莱郡"
+    }
+  },
+  {
+    "code": "20",
+    "name": "Laikipia County",
+    "names": {
+      "ja": "ライキピア (カウンティ)",
+      "ko": "라이키피아현",
+      "vi": "Laikipia",
+      "id": "County Laikipia",
+      "zh-Hans": "莱基皮亚郡"
+    }
+  },
+  {
+    "code": "21",
+    "name": "Lamu County",
+    "names": {
+      "ja": "ラム (カウンティ)",
+      "ko": "라무현",
+      "vi": "Lamu",
+      "id": "County Lamu",
+      "zh-Hans": "拉穆郡"
+    }
+  },
+  {
+    "code": "22",
+    "name": "Machakos County",
+    "names": {
+      "ja": "マチャコス (カウンティ)",
+      "ko": "마차코스현",
+      "vi": "Machakos",
+      "id": "County Machakos",
+      "zh-Hans": "馬查科斯郡",
+      "zh-Hant": "馬查科斯郡"
+    }
+  },
+  {
+    "code": "23",
+    "name": "Makueni County",
+    "names": {
+      "ja": "マクエニ (カウンティ)",
+      "ko": "마쿠에니현",
+      "vi": "Makueni",
+      "id": "County Makueni",
+      "zh-Hans": "馬瓜尼郡",
+      "zh-Hant": "馬瓜尼郡"
+    }
+  },
+  {
+    "code": "24",
+    "name": "Mandera County",
+    "names": {
+      "ja": "マンデラ (カウンティ)",
+      "ko": "만데라현",
+      "vi": "Mandera",
+      "id": "County Mandera",
+      "zh-Hans": "曼德拉郡"
+    }
+  },
+  {
+    "code": "25",
+    "name": "Marsabit County",
+    "names": {
+      "ja": "マルサビット (カウンティ)",
+      "ko": "마르사비트현",
+      "vi": "Marsabit",
+      "id": "County Marsabit",
+      "zh-Hans": "馬薩比特郡",
+      "zh-Hant": "馬薩比特郡"
+    }
+  },
+  {
+    "code": "26",
+    "name": "Meru County",
+    "names": {
+      "ja": "メルー (カウンティ)",
+      "ko": "메루현",
+      "vi": "Meru (hạt)",
+      "id": "County Meru",
+      "zh-Hans": "梅魯郡"
+    }
+  },
+  {
+    "code": "27",
+    "name": "Migori County",
+    "names": {
+      "ja": "ミゴリ (カウンティ)",
+      "ko": "미고리현",
+      "vi": "Migori",
+      "id": "County Migori",
+      "zh-Hans": "米戈利郡"
+    }
+  },
+  {
+    "code": "28",
+    "name": "Mombasa County",
+    "names": {
+      "ja": "モンバサ (カウンティ)",
+      "ko": "몸바사현",
+      "vi": "Mombasa",
+      "id": "County Mombasa",
+      "zh-Hans": "蒙巴萨县",
+      "zh-Hant": "蒙巴薩縣"
+    }
+  },
+  {
+    "code": "29",
+    "name": "Muranga County",
+    "names": {
+      "ja": "ムランガ (カウンティ)",
+      "ko": "무랑가현",
+      "vi": "Murang'a",
+      "id": "County Murang'a",
+      "zh-Hans": "穆蘭卡郡"
+    }
+  },
+  {
+    "code": "30",
+    "name": "Nairobi City County",
+    "names": {
+      "ja": "ナイロビ (カウンティ)",
+      "ko": "나이로비현",
+      "vi": "Hạt Nairobi",
+      "id": "Nairobi County",
+      "zh-Hans": "内罗毕郡"
+    }
+  },
+  {
+    "code": "31",
+    "name": "Nakuru County",
+    "names": {
+      "ja": "ナクル (カウンティ)",
+      "ko": "나쿠루현",
+      "vi": "Nakuru",
+      "id": "County Nakuru",
+      "zh-Hans": "納庫魯郡",
+      "zh-Hant": "納庫魯郡"
+    }
+  },
+  {
+    "code": "32",
+    "name": "Nandi County",
+    "names": {
+      "ja": "ナンディ (カウンティ)",
+      "ko": "난디현",
+      "vi": "Nandi",
+      "id": "County Nandi",
+      "zh-Hans": "南迪郡"
+    }
+  },
+  {
+    "code": "33",
+    "name": "Narok County",
+    "names": {
+      "ja": "ナロク (カウンティ)",
+      "ko": "나로크현",
+      "vi": "Narok",
+      "id": "County Narok",
+      "zh-Hans": "納羅克郡",
+      "zh-Hant": "納羅克郡"
+    }
+  },
+  {
+    "code": "34",
+    "name": "Nyamira county",
+    "names": {
+      "ja": "ニャミラ県",
+      "ko": "냐미라현",
+      "vi": "Nyamira",
+      "id": "County Nyamira",
+      "zh-Hans": "尼亞米拉郡"
+    }
+  },
+  {
+    "code": "35",
+    "name": "Nyandarua County",
+    "names": {
+      "ja": "ニャンダルア (カウンティ)",
+      "ko": "냔다루아현",
+      "vi": "Nyandarua",
+      "id": "County Nyandarua",
+      "zh-Hans": "年達魯阿郡",
+      "zh-Hant": "年達魯阿郡"
+    }
+  },
+  {
+    "code": "36",
+    "name": "Nyeri County",
+    "names": {
+      "ja": "ニエリ (カウンティ)",
+      "ko": "니에리현",
+      "vi": "Nyeri",
+      "id": "County Nyeri",
+      "zh-Hans": "涅里郡"
+    }
+  },
+  {
+    "code": "37",
+    "name": "Samburu County",
+    "names": {
+      "ja": "サンブル (カウンティ)",
+      "ko": "삼부루현",
+      "vi": "Samburu",
+      "id": "County Samburu",
+      "zh-Hans": "桑布盧郡"
+    }
+  },
+  {
+    "code": "38",
+    "name": "Siaya County",
+    "names": {
+      "ja": "シアヤ",
+      "ko": "시아야현",
+      "vi": "Siaya",
+      "id": "County Siaya",
+      "zh-Hans": "夏亞郡",
+      "zh-Hant": "夏亞郡"
+    }
+  },
+  {
+    "code": "39",
+    "name": "Taita–Taveta County",
+    "names": {
+      "ja": "タイタ＝タヴェタ (カウンティ)",
+      "ko": "타이타타베타현",
+      "vi": "Taita Taveta",
+      "id": "County Taita–Taveta",
+      "zh-Hans": "泰塔塔維塔郡",
+      "zh-Hant": "泰塔塔維塔郡"
+    }
+  },
+  {
+    "code": "40",
+    "name": "Tana River County",
+    "names": {
+      "ja": "タナ・リバー (カウンティ)",
+      "ko": "타나리버현",
+      "vi": "Tana River",
+      "id": "County Tana River",
+      "zh-Hans": "塔納河郡"
+    }
+  },
+  {
+    "code": "41",
+    "name": "Tharaka Nithi County",
+    "names": {
+      "ja": "タラカ＝ニシ (カウンティ)",
+      "ko": "타라카니티현",
+      "vi": "Tharaka",
+      "id": "County Tharaka-Nithi",
+      "zh-Hans": "薩拉卡尼蒂郡"
+    }
+  },
+  {
+    "code": "42",
+    "name": "Trans-Nzoia county",
+    "names": {
+      "ja": "トランス・ンゾイア (カウンティ)",
+      "ko": "트랜스은조이아현",
+      "vi": "Trans Nzoia",
+      "id": "County Trans-Nzoia",
+      "zh-Hans": "特兰斯-恩佐亚郡"
+    }
+  },
+  {
+    "code": "43",
+    "name": "Turkana County",
+    "names": {
+      "ja": "トゥルカナ (カウンティ)",
+      "ko": "투르카나현",
+      "vi": "Turkana",
+      "id": "Kabupaten Turkana",
+      "zh-Hans": "圖爾卡納郡",
+      "zh-Hant": "圖爾卡納郡"
+    }
+  },
+  {
+    "code": "44",
+    "name": "Uasin Gishu County",
+    "names": {
+      "ja": "ウアシン・ギシュ (カウンティ)",
+      "ko": "우아신기슈현",
+      "vi": "Uasin Gishu",
+      "id": "County Uasin Gishu",
+      "zh-Hans": "瓦辛基苏郡"
+    }
+  },
+  {
+    "code": "45",
+    "name": "Vihiga County",
+    "names": {
+      "ja": "ヴィヒガ (カウンティ)",
+      "ko": "비히가현",
+      "vi": "Vihiga",
+      "id": "County Vihiga",
+      "zh-Hans": "维希加县",
+      "zh-Hant": "維希加縣"
+    }
+  },
+  {
+    "code": "46",
+    "name": "Wajir County",
+    "names": {
+      "ja": "ワジール (カウンティ)",
+      "ko": "와지르현",
+      "vi": "Wajir",
+      "id": "County Wajir",
+      "zh-Hans": "瓦吉爾郡",
+      "zh-Hant": "瓦吉爾郡"
+    }
+  },
+  {
+    "code": "47",
+    "name": "West Pokot County",
+    "names": {
+      "ja": "ウェスト・ポコット (カウンティ)",
+      "ko": "서포코트현",
+      "vi": "West Pokot",
+      "id": "County West Pokot",
+      "zh-Hans": "西波克特郡"
+    }
+  }
+]

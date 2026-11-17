@@ -1,0 +1,612 @@
+[
+  {
+    "code": "01",
+    "name": "Akmenė District Municipality",
+    "names": {
+      "ko": "아크메네구",
+      "zh-Hans": "阿克梅内区"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Alytus City Municipality",
+    "names": {}
+  },
+  {
+    "code": "AL",
+    "name": "Alytus County",
+    "names": {
+      "ja": "アリートゥス郡",
+      "ko": "알리투스주",
+      "vi": "Hạt Alytus",
+      "id": "County Alytus",
+      "zh-Hans": "阿利图斯县"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Alytus District Municipality",
+    "names": {
+      "ja": "アリートゥス地区自治体",
+      "ko": "알리투스구",
+      "zh-Hans": "阿利圖斯區"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Anykščiai District Municipality",
+    "names": {
+      "ko": "아닉슈차이구",
+      "zh-Hans": "阿尼克什奇艾区"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Birštonas Municipality",
+    "names": {
+      "ja": "ビルシュトナス自治体",
+      "ko": "비르슈토나스시",
+      "zh-Hans": "比尔什托纳斯"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Biržai District Municipality",
+    "names": {
+      "ko": "비르자이구",
+      "zh-Hans": "比尔扎伊区"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Druskininkai municipality",
+    "names": {
+      "ko": "드루스키닝카이시",
+      "zh-Hans": "德鲁斯基宁凯"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Elektrėnai Municipality",
+    "names": {
+      "ko": "엘렉트레나이시",
+      "zh-Hans": "埃莱克特雷奈"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Ignalina District Municipality",
+    "names": {
+      "ja": "イグナリナ地区自治体",
+      "ko": "이그날리나구",
+      "zh-Hans": "伊格納利納區",
+      "zh-Hant": "伊格納利納區"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Jonava District Municipality",
+    "names": {
+      "ja": "ヨナヴァ地区自治体",
+      "ko": "요나바구",
+      "zh-Hans": "約納瓦區",
+      "zh-Hant": "約納瓦區"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Joniškis District Municipality",
+    "names": {
+      "ko": "요니슈키스구",
+      "zh-Hans": "约尼什基斯区"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Jurbarkas District Municipality",
+    "names": {
+      "ko": "유르바르카스구",
+      "zh-Hans": "尤尔巴尔卡斯区"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Kaišiadorys District Municipality",
+    "names": {
+      "ko": "카이샤도리스구",
+      "zh-Hans": "凱希亞多里斯區",
+      "zh-Hant": "凱希亞多里斯區"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Kalvarija Municipality",
+    "names": {
+      "ko": "칼바리야시",
+      "zh-Hans": "卡爾瓦里亞"
+    }
+  },
+  {
+    "code": "15",
+    "name": "Kaunas City Municipality",
+    "names": {}
+  },
+  {
+    "code": "KU",
+    "name": "Kaunas County",
+    "names": {
+      "ja": "カウナス郡",
+      "ko": "카우나스주",
+      "vi": "Hạt Kaunas",
+      "id": "County Kaunas",
+      "zh-Hans": "考纳斯县",
+      "zh-Hant": "考納斯縣"
+    }
+  },
+  {
+    "code": "16",
+    "name": "Kaunas District Municipality",
+    "names": {
+      "ko": "카우나스구",
+      "zh-Hans": "考纳斯区"
+    }
+  },
+  {
+    "code": "17",
+    "name": "Kazlų Rūda Municipality",
+    "names": {
+      "ko": "카즐루루다시",
+      "zh-Hans": "卡兹卢鲁达"
+    }
+  },
+  {
+    "code": "18",
+    "name": "Kėdainiai District Municipality",
+    "names": {
+      "ko": "케다이냐이구",
+      "vi": "đô thị quận Kėdainiai",
+      "zh-Hans": "凯代尼艾区"
+    }
+  },
+  {
+    "code": "19",
+    "name": "Kelmė District Municipality",
+    "names": {
+      "ko": "켈메구",
+      "zh-Hans": "凱爾梅區"
+    }
+  },
+  {
+    "code": "20",
+    "name": "Klaipeda City Municipality",
+    "names": {
+      "ja": "クライペダ自治体"
+    }
+  },
+  {
+    "code": "KL",
+    "name": "Klaipėda County",
+    "names": {
+      "ja": "クライペダ郡",
+      "ko": "클라이페다주",
+      "id": "County Klaipėda",
+      "zh-Hans": "克萊佩達縣",
+      "zh-Hant": "克萊佩達縣"
+    }
+  },
+  {
+    "code": "21",
+    "name": "Klaipėda District Municipality",
+    "names": {
+      "ko": "클라이페다구",
+      "zh-Hans": "克莱佩达区"
+    }
+  },
+  {
+    "code": "22",
+    "name": "Kretinga Municipality",
+    "names": {
+      "ja": "クレティンガ地区自治体",
+      "ko": "크레팅가구",
+      "zh-Hans": "克雷廷加區"
+    }
+  },
+  {
+    "code": "23",
+    "name": "Kupiškis District Municipality",
+    "names": {
+      "ko": "쿠피슈키스구",
+      "zh-Hans": "库皮什基斯区"
+    }
+  },
+  {
+    "code": "24",
+    "name": "Lazdijai District Municipality",
+    "names": {
+      "ko": "라즈디야이구",
+      "zh-Hans": "拉茲迪亞伊區",
+      "zh-Hant": "拉茲迪亞伊區"
+    }
+  },
+  {
+    "code": "MR",
+    "name": "Marijampolė County",
+    "names": {
+      "ja": "マリヤンポレ郡",
+      "ko": "마리얌폴레주",
+      "vi": "Marijampolė (hạt)",
+      "id": "County Marijampolė",
+      "zh-Hans": "马里扬波莱县"
+    }
+  },
+  {
+    "code": "25",
+    "name": "Marijampolė Municipality",
+    "names": {
+      "ko": "마리얌폴레시",
+      "zh-Hans": "马里扬波莱"
+    }
+  },
+  {
+    "code": "26",
+    "name": "Mažeikiai District Municipality",
+    "names": {
+      "ko": "마제이캬이구",
+      "zh-Hans": "马热伊基艾区",
+      "zh-Hant": "馬熱伊基艾區"
+    }
+  },
+  {
+    "code": "27",
+    "name": "Molėtai District Municipality",
+    "names": {
+      "ko": "몰레타이구",
+      "zh-Hans": "莫雷泰区",
+      "zh-Hant": "莫雷泰區"
+    }
+  },
+  {
+    "code": "28",
+    "name": "Neringa Municipality",
+    "names": {
+      "ja": "ネリンガ基礎自治体",
+      "ko": "네링가시",
+      "zh-Hans": "内林加"
+    }
+  },
+  {
+    "code": "29",
+    "name": "Pagėgiai Municipality",
+    "names": {
+      "ko": "파게갸이시",
+      "zh-Hans": "帕盖吉艾"
+    }
+  },
+  {
+    "code": "30",
+    "name": "Pakruojis District Municipality",
+    "names": {
+      "ko": "파크루오이스구",
+      "zh-Hans": "帕克魯奧伊斯區"
+    }
+  },
+  {
+    "code": "31",
+    "name": "Palanga City Municipality",
+    "names": {
+      "ko": "팔랑가시",
+      "zh-Hans": "帕兰加市"
+    }
+  },
+  {
+    "code": "32",
+    "name": "Panevėžys City Municipality",
+    "names": {}
+  },
+  {
+    "code": "PN",
+    "name": "Panevėžys County",
+    "names": {
+      "ja": "パネヴェジース郡",
+      "ko": "파네베지스주",
+      "vi": "Hạt Panevezys",
+      "id": "County Panevėžys",
+      "zh-Hans": "帕内韦日斯县",
+      "zh-Hant": "帕內韋日斯縣"
+    }
+  },
+  {
+    "code": "33",
+    "name": "Panevėžys District Municipality",
+    "names": {
+      "ko": "파네베지스구",
+      "zh-Hans": "帕内韦日斯区"
+    }
+  },
+  {
+    "code": "34",
+    "name": "Pasvalys District Municipality",
+    "names": {
+      "ko": "파스발리스구",
+      "zh-Hans": "帕斯瓦利斯区"
+    }
+  },
+  {
+    "code": "35",
+    "name": "Plungė District Municipality",
+    "names": {
+      "ko": "플룽게구",
+      "zh-Hans": "普倫蓋區",
+      "zh-Hant": "普倫蓋區"
+    }
+  },
+  {
+    "code": "36",
+    "name": "Prienai District Municipality",
+    "names": {
+      "ko": "프리에나이구",
+      "vi": "đô thị quận Prienai",
+      "zh-Hans": "普列奈區"
+    }
+  },
+  {
+    "code": "37",
+    "name": "Radviliškis District Municipality",
+    "names": {
+      "ko": "라드빌리슈키스구",
+      "zh-Hans": "拉德維利什基斯區",
+      "zh-Hant": "拉德維利什基斯區"
+    }
+  },
+  {
+    "code": "38",
+    "name": "Raseiniai District Municipality",
+    "names": {
+      "ko": "라세이냐이구",
+      "zh-Hans": "拉塞尼艾區",
+      "zh-Hant": "拉塞尼艾區"
+    }
+  },
+  {
+    "code": "39",
+    "name": "Rietavas Municipality",
+    "names": {
+      "ja": "リエタヴァス市",
+      "ko": "리에타바스시",
+      "zh-Hans": "列塔瓦斯"
+    }
+  },
+  {
+    "code": "40",
+    "name": "Rokiškis District Municipality",
+    "names": {
+      "ko": "로키슈키스구",
+      "zh-Hans": "罗基什基斯区"
+    }
+  },
+  {
+    "code": "41",
+    "name": "Šakiai District Municipality",
+    "names": {
+      "ja": "シャケイ地区自治体",
+      "ko": "샤캬이구",
+      "zh-Hans": "沙基艾區"
+    }
+  },
+  {
+    "code": "42",
+    "name": "Šalčininkai District Municipality",
+    "names": {
+      "ko": "샬치닝카이구",
+      "zh-Hans": "沙爾奇寧凱區"
+    }
+  },
+  {
+    "code": "43",
+    "name": "Šiauliai City Municipality",
+    "names": {}
+  },
+  {
+    "code": "SA",
+    "name": "Šiauliai County",
+    "names": {
+      "ja": "シャウレイ郡",
+      "ko": "샤울랴이주",
+      "vi": "Hạt siauliai",
+      "id": "County Šiauliai",
+      "zh-Hans": "希奥利艾县",
+      "zh-Hant": "希奧利艾縣"
+    }
+  },
+  {
+    "code": "44",
+    "name": "Šiauliai District Municipality",
+    "names": {
+      "ja": "シャウレイ地区自治体",
+      "ko": "샤울랴이구",
+      "zh-Hans": "希奥利艾区"
+    }
+  },
+  {
+    "code": "45",
+    "name": "Šilalė District Municipality",
+    "names": {
+      "ko": "실랄레구",
+      "zh-Hans": "希拉萊區"
+    }
+  },
+  {
+    "code": "46",
+    "name": "Šilutė District Municipality",
+    "names": {
+      "ko": "실루테구",
+      "zh-Hans": "希盧泰區"
+    }
+  },
+  {
+    "code": "47",
+    "name": "Širvintos District Municipality",
+    "names": {
+      "ko": "시르빈토스구",
+      "zh-Hans": "希尔温托斯区"
+    }
+  },
+  {
+    "code": "48",
+    "name": "Skuodas District Municipality",
+    "names": {
+      "ko": "스쿠오다스구",
+      "zh-Hans": "斯庫奧達斯區",
+      "zh-Hant": "斯庫奧達斯區"
+    }
+  },
+  {
+    "code": "49",
+    "name": "Švenčionys District Municipality",
+    "names": {
+      "ko": "슈벤초니스구",
+      "zh-Hans": "什文喬尼斯區"
+    }
+  },
+  {
+    "code": "TA",
+    "name": "Tauragė County",
+    "names": {
+      "ja": "タウラゲ郡",
+      "ko": "타우라게주",
+      "vi": "Hạt Taurage",
+      "id": "County Tauragė",
+      "zh-Hans": "陶拉盖县",
+      "zh-Hant": "陶拉蓋縣"
+    }
+  },
+  {
+    "code": "50",
+    "name": "Tauragė District Municipality",
+    "names": {
+      "ko": "타우라게구",
+      "zh-Hans": "陶拉盖区",
+      "zh-Hant": "陶拉蓋区"
+    }
+  },
+  {
+    "code": "TE",
+    "name": "Telšiai County",
+    "names": {
+      "ja": "テルシェイ郡",
+      "ko": "텔샤이주",
+      "vi": "Hạt Telsiai",
+      "id": "County Telšiai",
+      "zh-Hans": "泰尔希艾县",
+      "zh-Hant": "特爾希艾縣"
+    }
+  },
+  {
+    "code": "51",
+    "name": "Telšiai District Municipality",
+    "names": {
+      "ko": "텔샤이구",
+      "zh-Hans": "特爾希艾區"
+    }
+  },
+  {
+    "code": "52",
+    "name": "Trakai District Municipality",
+    "names": {
+      "ja": "トラカイ地区自治体",
+      "ko": "트라카이구",
+      "zh-Hans": "特拉凯区"
+    }
+  },
+  {
+    "code": "53",
+    "name": "Ukmergė District Municipality",
+    "names": {
+      "ko": "우크메르게구",
+      "zh-Hans": "烏克梅爾蓋區"
+    }
+  },
+  {
+    "code": "UT",
+    "name": "Utena County",
+    "names": {
+      "ja": "ウテナ郡",
+      "ko": "우테나주",
+      "vi": "Hạt Utena",
+      "id": "County Utena",
+      "zh-Hans": "乌泰纳县",
+      "zh-Hant": "烏田納縣"
+    }
+  },
+  {
+    "code": "54",
+    "name": "Utena District Municipality",
+    "names": {
+      "ja": "ウテナ地区自治体",
+      "ko": "우테나구",
+      "zh-Hans": "乌泰纳区"
+    }
+  },
+  {
+    "code": "55",
+    "name": "Varėna District Municipality",
+    "names": {
+      "ko": "바레나구",
+      "zh-Hans": "瓦雷納區",
+      "zh-Hant": "瓦雷納區"
+    }
+  },
+  {
+    "code": "56",
+    "name": "Vilkaviškis District Municipality",
+    "names": {
+      "ko": "빌카비슈키스구",
+      "zh-Hans": "维尔卡维什基斯区"
+    }
+  },
+  {
+    "code": "57",
+    "name": "Vilnius City Municipality",
+    "names": {
+      "zh-Hans": "维尔纽斯城市市镇"
+    }
+  },
+  {
+    "code": "VL",
+    "name": "Vilnius County",
+    "names": {
+      "ja": "ヴィルニュス郡",
+      "ko": "빌뉴스주",
+      "vi": "Hạt Vilnius",
+      "id": "County Vilnius",
+      "zh-Hans": "维尔纽斯县",
+      "zh-Hant": "維爾紐斯縣"
+    }
+  },
+  {
+    "code": "58",
+    "name": "Vilnius District Municipality",
+    "names": {
+      "ko": "빌뉴스구",
+      "zh-Hans": "维尔纽斯区"
+    }
+  },
+  {
+    "code": "59",
+    "name": "Visaginas Municipality",
+    "names": {
+      "ko": "비사기나스시",
+      "zh-Hans": "維薩吉納斯",
+      "zh-Hant": "維薩吉納斯"
+    }
+  },
+  {
+    "code": "60",
+    "name": "Zarasai District Municipality",
+    "names": {
+      "ja": "ザラサイ地区自治体",
+      "ko": "자라사이구",
+      "zh-Hans": "扎拉賽區"
+    }
+  }
+]

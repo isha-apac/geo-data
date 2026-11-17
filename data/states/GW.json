@@ -1,0 +1,122 @@
+[
+  {
+    "code": "BA",
+    "name": "Bafatá",
+    "names": {
+      "ja": "バファタ州",
+      "ko": "바파타주",
+      "vi": "Khu vực Bafatá",
+      "id": "Wilayah Bafatá",
+      "zh-Hans": "巴法塔区"
+    }
+  },
+  {
+    "code": "BM",
+    "name": "Biombo Region",
+    "names": {
+      "ja": "ビオンボ州",
+      "ko": "비옴부주",
+      "vi": "Khu vực Biombo",
+      "id": "Wilayah Biombo",
+      "zh-Hans": "比翁博区",
+      "zh-Hant": "比翁博區"
+    }
+  },
+  {
+    "code": "BS",
+    "name": "Bissau",
+    "names": {
+      "ja": "ビサウ",
+      "ko": "비사우",
+      "vi": "Bissau",
+      "id": "Bissau",
+      "zh-Hans": "比绍",
+      "zh-Hant": "比索"
+    }
+  },
+  {
+    "code": "BL",
+    "name": "Bolama region",
+    "names": {
+      "ja": "ボラマ州",
+      "ko": "볼라마주",
+      "vi": "Khu vực Bolama",
+      "id": "Wilayah Bolama",
+      "zh-Hans": "博拉马区"
+    }
+  },
+  {
+    "code": "CA",
+    "name": "Cacheu Region",
+    "names": {
+      "ja": "カシェウ州",
+      "ko": "카셰우주",
+      "vi": "Khu vực Cacheu",
+      "id": "Wilayah Cacheu",
+      "zh-Hans": "卡谢乌区"
+    }
+  },
+  {
+    "code": "GA",
+    "name": "Gabú Region",
+    "names": {
+      "ja": "ガブ州",
+      "ko": "가부주",
+      "vi": "Khu vực Gabú",
+      "id": "Wilayah Gabú",
+      "zh-Hans": "加布区",
+      "zh-Hant": "加布區"
+    }
+  },
+  {
+    "code": "L",
+    "name": "Leste Province",
+    "names": {}
+  },
+  {
+    "code": "N",
+    "name": "Norte Province",
+    "names": {}
+  },
+  {
+    "code": "OI",
+    "name": "Oio Region",
+    "names": {
+      "ja": "オイオ州",
+      "ko": "오이우주",
+      "vi": "Khu vực Oio",
+      "id": "Wilayah Oio",
+      "zh-Hans": "奥约区",
+      "zh-Hant": "奧約區"
+    }
+  },
+  {
+    "code": "QU",
+    "name": "Quinara Region",
+    "names": {
+      "ja": "キナラ州",
+      "ko": "키나라주",
+      "vi": "Khu vực Quinara",
+      "id": "Wilayah Quinara",
+      "zh-Hans": "基纳拉区",
+      "zh-Hant": "基納拉區"
+    }
+  },
+  {
+    "code": "S",
+    "name": "Sul Province",
+    "names": {}
+  },
+  {
+    "code": "TO",
+    "name": "Tombali Region",
+    "names": {
+      "ja": "トンバリ州",
+      "ko": "톰발리주",
+      "vi": "Khu vực Tombali",
+      "id": "TombaliWilayah",
+      "zh-Hans": "通巴利区",
+      "zh-Hant": "通巴利區"
+    }
+  }
+]

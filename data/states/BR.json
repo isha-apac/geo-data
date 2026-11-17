@@ -1,0 +1,326 @@
+[
+  {
+    "code": "AC",
+    "name": "Acre",
+    "names": {
+      "ja": "アクレ州",
+      "ko": "아크리주",
+      "vi": "Acre",
+      "id": "Acre",
+      "zh-Hans": "阿克里州",
+      "zh-Hant": "阿克里州"
+    }
+  },
+  {
+    "code": "AL",
+    "name": "Alagoas",
+    "names": {
+      "ja": "アラゴアス州",
+      "ko": "알라고아스주",
+      "vi": "Alagoas",
+      "id": "Alagoas",
+      "zh-Hans": "阿拉戈斯州",
+      "zh-Hant": "阿拉戈斯州"
+    }
+  },
+  {
+    "code": "AP",
+    "name": "Amapá",
+    "names": {
+      "ja": "アマパー州",
+      "ko": "아마파주",
+      "vi": "Amapá",
+      "id": "Amapá",
+      "zh-Hans": "阿马帕州",
+      "zh-Hant": "阿馬帕州"
+    }
+  },
+  {
+    "code": "AM",
+    "name": "Amazonas",
+    "names": {
+      "ja": "アマゾナス州",
+      "ko": "아마조나스주",
+      "vi": "Amazonas",
+      "id": "Amazonas",
+      "zh-Hans": "亚马孙州",
+      "zh-Hant": "亞馬遜州 (巴西)"
+    }
+  },
+  {
+    "code": "BA",
+    "name": "Bahia",
+    "names": {
+      "ja": "バイーア州",
+      "ko": "바이아주",
+      "vi": "Bahia",
+      "id": "Bahia",
+      "zh-Hans": "巴伊亚州",
+      "zh-Hant": "巴伊亞州"
+    }
+  },
+  {
+    "code": "CE",
+    "name": "Ceará",
+    "names": {
+      "ja": "セアラー州",
+      "ko": "세아라주",
+      "vi": "Ceará",
+      "id": "Ceará",
+      "zh-Hans": "塞阿拉州",
+      "zh-Hant": "塞阿拉州"
+    }
+  },
+  {
+    "code": "ES",
+    "name": "Espírito Santo",
+    "names": {
+      "ja": "エスピリトサント州",
+      "ko": "이스피리투산투주",
+      "vi": "Espírito Santo",
+      "id": "Espírito Santo",
+      "zh-Hans": "聖埃斯皮里圖州",
+      "zh-Hant": "聖埃斯皮里圖州"
+    }
+  },
+  {
+    "code": "DF",
+    "name": "Federal District",
+    "names": {
+      "ja": "ブラジリア連邦直轄区",
+      "ko": "연방구",
+      "vi": "Quận liên bang Brasil",
+      "id": "Distrik Federal Brasil",
+      "zh-Hans": "联邦区",
+      "zh-Hant": "聯邦區"
+    }
+  },
+  {
+    "code": "GO",
+    "name": "Goiás",
+    "names": {
+      "ja": "ゴイアス州",
+      "ko": "고이아스주",
+      "vi": "Goiás",
+      "id": "Goiás",
+      "zh-Hans": "戈亚斯州",
+      "zh-Hant": "戈亞斯州"
+    }
+  },
+  {
+    "code": "MA",
+    "name": "Maranhão",
+    "names": {
+      "ja": "マラニョン州",
+      "ko": "마라냥주",
+      "vi": "Maranhão",
+      "id": "Maranhão",
+      "zh-Hans": "马拉尼昂州",
+      "zh-Hant": "馬拉尼昂州"
+    }
+  },
+  {
+    "code": "MT",
+    "name": "Mato Grosso",
+    "names": {
+      "ja": "マットグロッソ州",
+      "ko": "마투그로수주",
+      "vi": "Mato Grosso",
+      "id": "Mato Grosso",
+      "zh-Hans": "马托格罗索州",
+      "zh-Hant": "馬托格羅索州"
+    }
+  },
+  {
+    "code": "MS",
+    "name": "Mato Grosso do Sul",
+    "names": {
+      "ja": "マットグロッソ・ド・スル州",
+      "ko": "마투그로수두술주",
+      "vi": "Mato Grosso do Sul",
+      "id": "Mato Grosso do Sul",
+      "zh-Hans": "南马托格罗索州",
+      "zh-Hant": "南馬托格羅索州"
+    }
+  },
+  {
+    "code": "MG",
+    "name": "Minas Gerais",
+    "names": {
+      "ja": "ミナス・ジェライス州",
+      "ko": "미나스제라이스주",
+      "vi": "Minas Gerais",
+      "id": "Minas Gerais",
+      "zh-Hans": "米纳斯吉拉斯州",
+      "zh-Hant": "米納斯吉拉斯州"
+    }
+  },
+  {
+    "code": "PA",
+    "name": "Pará",
+    "names": {
+      "ja": "パラー州",
+      "ko": "파라주",
+      "vi": "Pará",
+      "id": "Pará",
+      "zh-Hans": "帕拉州",
+      "zh-Hant": "帕拉州"
+    }
+  },
+  {
+    "code": "PB",
+    "name": "Paraíba",
+    "names": {
+      "ja": "パライバ州",
+      "ko": "파라이바주",
+      "vi": "Paraíba",
+      "id": "Paraíba",
+      "zh-Hans": "帕拉伊巴州",
+      "zh-Hant": "帕拉伊巴州"
+    }
+  },
+  {
+    "code": "PR",
+    "name": "Paraná",
+    "names": {
+      "ja": "パラナ州",
+      "ko": "파라나주",
+      "vi": "Paraná",
+      "id": "Paraná",
+      "zh-Hans": "巴拉那州",
+      "zh-Hant": "巴拉那州"
+    }
+  },
+  {
+    "code": "PE",
+    "name": "Pernambuco",
+    "names": {
+      "ja": "ペルナンブーコ州",
+      "ko": "페르남부쿠주",
+      "vi": "Pernambuco",
+      "id": "Pernambuco",
+      "zh-Hans": "伯南布哥州",
+      "zh-Hant": "伯南布科州"
+    }
+  },
+  {
+    "code": "PI",
+    "name": "Piauí",
+    "names": {
+      "ja": "ピアウイ州",
+      "ko": "피아우이주",
+      "vi": "Piauí",
+      "id": "Piauí",
+      "zh-Hans": "皮奥伊州",
+      "zh-Hant": "皮奧伊州"
+    }
+  },
+  {
+    "code": "RJ",
+    "name": "Rio de Janeiro",
+    "names": {
+      "ja": "リオデジャネイロ州",
+      "ko": "리우데자네이루주",
+      "vi": "Rio de Janeiro",
+      "id": "Rio de Janeiro",
+      "zh-Hans": "里约热内卢州",
+      "zh-Hant": "里約熱內盧州"
+    }
+  },
+  {
+    "code": "RN",
+    "name": "Rio Grande do Norte",
+    "names": {
+      "ja": "リオグランデ・ド・ノルテ州",
+      "ko": "히우그란지두노르치주",
+      "vi": "Rio Grande do Norte",
+      "id": "Rio Grande do Norte",
+      "zh-Hans": "北里奥格兰德州",
+      "zh-Hant": "北里約格朗德州"
+    }
+  },
+  {
+    "code": "RS",
+    "name": "Rio Grande do Sul",
+    "names": {
+      "ja": "リオグランデ・ド・スル州",
+      "ko": "히우그란지두술주",
+      "vi": "Rio Grande do Sul",
+      "id": "Rio Grande do Sul",
+      "zh-Hans": "南里奥格兰德州",
+      "zh-Hant": "南大河州"
+    }
+  },
+  {
+    "code": "RO",
+    "name": "Rondônia",
+    "names": {
+      "ja": "ロンドニア州",
+      "ko": "혼도니아주",
+      "vi": "Rondônia",
+      "id": "Rondônia",
+      "zh-Hans": "朗多尼亚州",
+      "zh-Hant": "朗多尼亞州"
+    }
+  },
+  {
+    "code": "RR",
+    "name": "Roraima",
+    "names": {
+      "ja": "ロライマ州",
+      "ko": "호라이마주",
+      "vi": "Roraima",
+      "id": "Roraima",
+      "zh-Hans": "罗赖马州",
+      "zh-Hant": "羅賴馬州"
+    }
+  },
+  {
+    "code": "SC",
+    "name": "Santa Catarina",
+    "names": {
+      "ja": "サンタカタリーナ州",
+      "ko": "산타카타리나주",
+      "vi": "Santa Catarina",
+      "id": "Santa Catarina",
+      "zh-Hans": "圣卡塔琳娜州",
+      "zh-Hant": "聖塔卡塔林那"
+    }
+  },
+  {
+    "code": "SP",
+    "name": "São Paulo",
+    "names": {
+      "ja": "サンパウロ州",
+      "ko": "상파울루주",
+      "vi": "São Paulo",
+      "id": "São Paulo",
+      "zh-Hans": "圣保罗州",
+      "zh-Hant": "聖保羅州"
+    }
+  },
+  {
+    "code": "SE",
+    "name": "Sergipe",
+    "names": {
+      "ja": "セルジペ州",
+      "ko": "세르지피주",
+      "vi": "Sergipe",
+      "id": "Sergipe",
+      "zh-Hans": "塞尔希培州",
+      "zh-Hant": "塞爾希培州"
+    }
+  },
+  {
+    "code": "TO",
+    "name": "Tocantins",
+    "names": {
+      "ja": "トカンティンス州",
+      "ko": "토칸칭스주",
+      "vi": "Tocantins",
+      "id": "Tocantins",
+      "zh-Hans": "托坎廷斯",
+      "zh-Hant": "托坎廷斯"
+    }
+  }
+]

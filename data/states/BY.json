@@ -1,0 +1,85 @@
+[
+  {
+    "code": "BR",
+    "name": "Brest region",
+    "names": {
+      "ja": "ブレスト州",
+      "ko": "브레스트주",
+      "vi": "Khu vực Brest",
+      "id": "Provinsi Brest",
+      "zh-Hans": "布列斯特州"
+    }
+  },
+  {
+    "code": "HO",
+    "name": "Gomel Region",
+    "names": {
+      "ja": "ホメリ州",
+      "ko": "호멜주",
+      "vi": "Khu vực Homieĺ",
+      "id": "Provinsi Homiel",
+      "zh-Hans": "戈梅利州",
+      "zh-Hant": "戈梅利州"
+    }
+  },
+  {
+    "code": "HR",
+    "name": "Grodno Region",
+    "names": {
+      "ja": "フロドナ州",
+      "ko": "흐로드나주",
+      "vi": "Khu vực Grodno",
+      "id": "Provinsi Horadnia",
+      "zh-Hans": "格罗德诺州",
+      "zh-Hant": "格羅德諾州"
+    }
+  },
+  {
+    "code": "HM",
+    "name": "Minsk",
+    "names": {
+      "ja": "ミンスク",
+      "ko": "민스크",
+      "vi": "Minsk",
+      "id": "Minsk",
+      "zh-Hans": "明斯克",
+      "zh-Hant": "明斯克"
+    }
+  },
+  {
+    "code": "MI",
+    "name": "Minsk region",
+    "names": {
+      "ja": "ミンスク州",
+      "ko": "민스크주",
+      "vi": "Khu vực Minsk",
+      "id": "Provinsi Minsk",
+      "zh-Hans": "明斯克州",
+      "zh-Hant": "明斯克州"
+    }
+  },
+  {
+    "code": "MA",
+    "name": "Mogilev Region",
+    "names": {
+      "ja": "マヒリョウ州",
+      "ko": "마힐료우주",
+      "vi": "Khu vực Mogilev",
+      "id": "Provinsi Mahilyow",
+      "zh-Hans": "莫吉廖夫州",
+      "zh-Hant": "莫吉廖夫州"
+    }
+  },
+  {
+    "code": "VI",
+    "name": "Vitebsk Region",
+    "names": {
+      "ja": "ヴィーツェプスク州",
+      "ko": "비쳅스크주",
+      "vi": "Khu vực Vitebsk",
+      "id": "Provinsi Vitsebsk",
+      "zh-Hans": "维捷布斯克州",
+      "zh-Hant": "維捷布斯克州"
+    }
+  }
+]

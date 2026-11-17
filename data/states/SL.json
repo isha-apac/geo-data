@@ -1,0 +1,58 @@
+[
+  {
+    "code": "E",
+    "name": "Eastern Province",
+    "names": {
+      "ja": "東部州",
+      "ko": "동부주",
+      "vi": "Eastern Province, Sierra Leone",
+      "id": "Provinsi Timur, Sierra Leone",
+      "zh-Hans": "东方省",
+      "zh-Hant": "東方省"
+    }
+  },
+  {
+    "code": "NW",
+    "name": "North West Province",
+    "names": {
+      "ja": "北西部州",
+      "ko": "북서부주",
+      "zh-Hans": "塞拉利昂西北省"
+    }
+  },
+  {
+    "code": "N",
+    "name": "Northern Province",
+    "names": {
+      "ja": "北部州",
+      "ko": "북부주",
+      "vi": "Tỉnh Phía Bắc",
+      "id": "Provinsi Utara, Sierra Leone",
+      "zh-Hans": "北方省",
+      "zh-Hant": "北方省"
+    }
+  },
+  {
+    "code": "S",
+    "name": "Southern Province",
+    "names": {
+      "ja": "南部州",
+      "ko": "남부주",
+      "vi": "Tỉnh Phía Nam",
+      "id": "Provinsi Selatan, Sierra Leone",
+      "zh-Hans": "南方省"
+    }
+  },
+  {
+    "code": "W",
+    "name": "Western Area",
+    "names": {
+      "ja": "西部地域",
+      "ko": "서부구",
+      "vi": "Khu vực Phía Tây",
+      "id": "Wilayah Barat",
+      "zh-Hans": "西部区",
+      "zh-Hant": "西部區"
+    }
+  }
+]

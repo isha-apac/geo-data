@@ -1,0 +1,231 @@
+[
+  {
+    "code": "33",
+    "name": "Bumthang District",
+    "names": {
+      "ja": "ブムタン県",
+      "ko": "붐탕현",
+      "vi": "Bumthang",
+      "id": "Distrik Bumthang",
+      "zh-Hans": "布姆唐宗",
+      "zh-Hant": "布姆唐宗"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Chukha District",
+    "names": {
+      "ja": "チュカ県",
+      "ko": "추카현",
+      "vi": "Quận Chukha",
+      "id": "Distrik Chukha",
+      "zh-Hans": "楚卡宗",
+      "zh-Hant": "楚卡宗"
+    }
+  },
+  {
+    "code": "22",
+    "name": "Dagana District",
+    "names": {
+      "ja": "ダガナ県",
+      "ko": "다가나현",
+      "id": "Distrik Dagana",
+      "zh-Hans": "达加纳宗",
+      "zh-Hant": "達加納宗"
+    }
+  },
+  {
+    "code": "GA",
+    "name": "Gasa District",
+    "names": {
+      "ja": "ガサ県",
+      "ko": "가사현",
+      "vi": "Quận Gasa",
+      "id": "Distrik Gasa",
+      "zh-Hans": "加萨宗"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Haa District",
+    "names": {
+      "ja": "ハ県",
+      "ko": "하현",
+      "vi": "Quận Haa",
+      "id": "Distrik Haa",
+      "zh-Hans": "哈阿宗",
+      "zh-Hant": "哈阿宗"
+    }
+  },
+  {
+    "code": "44",
+    "name": "Lhuntse District",
+    "names": {
+      "ja": "ルンツェ県",
+      "ko": "룬체현",
+      "vi": "Tỉnh Lhuntse",
+      "id": "Distrik Lhuntse",
+      "zh-Hans": "伦奇宗"
+    }
+  },
+  {
+    "code": "42",
+    "name": "Mongar District",
+    "names": {
+      "ja": "モンガル県",
+      "ko": "몽가르현",
+      "vi": "Quận Mongar",
+      "id": "Distrik Mongar",
+      "zh-Hans": "蒙加尔宗"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Paro District",
+    "names": {
+      "ja": "パロ県",
+      "ko": "파로현",
+      "vi": "Paro",
+      "id": "Distrik Paro",
+      "zh-Hans": "帕罗宗",
+      "zh-Hant": "帕羅宗"
+    }
+  },
+  {
+    "code": "43",
+    "name": "Pemagatshel District",
+    "names": {
+      "ja": "ペマガツェル県",
+      "ko": "페마가첼현",
+      "vi": "Quận Pemagatshel",
+      "id": "Distrik Pemagatshel",
+      "zh-Hans": "佩马加策尔宗"
+    }
+  },
+  {
+    "code": "23",
+    "name": "Punakha District",
+    "names": {
+      "ja": "プナカ県",
+      "ko": "푸나카현",
+      "vi": "Quận Punakha",
+      "id": "Distrik Punakha",
+      "zh-Hans": "普那卡宗"
+    }
+  },
+  {
+    "code": "45",
+    "name": "Samdrup Jongkhar District",
+    "names": {
+      "ja": "サムドゥプ・ジョンカル県",
+      "ko": "삼드룹종카르현",
+      "vi": "Quận Samdrup Jongkhar",
+      "id": "Distrik Samdrup Jongkhar",
+      "zh-Hans": "萨姆德鲁琼卡尔宗",
+      "zh-Hant": "薩姆德魯瓊卡爾宗"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Samtse District",
+    "names": {
+      "ja": "サムツェ県",
+      "ko": "삼체현",
+      "vi": "Quận Samtse",
+      "id": "Distrik Samtse",
+      "zh-Hans": "萨姆奇宗",
+      "zh-Hant": "薩姆奇宗"
+    }
+  },
+  {
+    "code": "31",
+    "name": "Sarpang District",
+    "names": {
+      "ja": "サルパン県",
+      "ko": "사르팡현",
+      "id": "Distrik Sarpang",
+      "zh-Hans": "盖莱普宗",
+      "zh-Hant": "蓋萊普宗"
+    }
+  },
+  {
+    "code": "15",
+    "name": "Thimphu District",
+    "names": {
+      "ja": "ティンプー県",
+      "ko": "팀부현",
+      "vi": "Quận Thimphu",
+      "id": "Distrik Thimphu",
+      "zh-Hans": "廷布宗"
+    }
+  },
+  {
+    "code": "41",
+    "name": "Trashigang District",
+    "names": {
+      "ja": "タシガン県",
+      "ko": "트라시강현",
+      "vi": "Quận Trashigang",
+      "id": "Distrik Trashigang",
+      "zh-Hans": "塔希冈宗",
+      "zh-Hant": "塔希岡宗"
+    }
+  },
+  {
+    "code": "TY",
+    "name": "Trashiyangtse District",
+    "names": {
+      "ja": "タシ・ヤンツェ県",
+      "ko": "트라시양체현",
+      "vi": "Trashiyangste",
+      "id": "Distrik Trashiyangtse",
+      "zh-Hans": "塔希央奇宗"
+    }
+  },
+  {
+    "code": "32",
+    "name": "Trongsa District",
+    "names": {
+      "ja": "トンサ県",
+      "ko": "트롱사현",
+      "vi": "Quận Trongsa",
+      "id": "Distrik Trongsa",
+      "zh-Hans": "通萨宗",
+      "zh-Hant": "通薩宗"
+    }
+  },
+  {
+    "code": "21",
+    "name": "Tsirang District",
+    "names": {
+      "ja": "チラン県",
+      "ko": "치랑현",
+      "id": "Distrik Tsirang",
+      "zh-Hans": "奇朗宗",
+      "zh-Hant": "奇朗宗"
+    }
+  },
+  {
+    "code": "24",
+    "name": "Wangdue Phodrang District",
+    "names": {
+      "ja": "ワンデュ・ポダン県",
+      "ko": "왕두에포드랑현",
+      "vi": "Quận Wangdue Phodrang",
+      "id": "Distrik Wangdue Phodrang",
+      "zh-Hans": "旺杜波德朗宗",
+      "zh-Hant": "旺杜波德朗宗"
+    }
+  },
+  {
+    "code": "34",
+    "name": "Zhemgang District",
+    "names": {
+      "ja": "シェムガン県",
+      "ko": "젬강현",
+      "vi": "Zhemgang",
+      "id": "Distrik Zhemgang",
+      "zh-Hans": "谢姆冈宗"
+    }
+  }
+]

@@ -1,0 +1,410 @@
+[
+  {
+    "code": "AH",
+    "name": "Anhui",
+    "names": {
+      "ja": "安徽省",
+      "ko": "안후이성",
+      "vi": "An Huy",
+      "id": "Anhui",
+      "zh-Hans": "安徽省",
+      "zh-Hant": "安徽省"
+    }
+  },
+  {
+    "code": "BJ",
+    "name": "Beijing",
+    "names": {
+      "ja": "北京市",
+      "ko": "베이징시",
+      "vi": "Bắc Kinh",
+      "id": "Beijing",
+      "zh-Hans": "北京市",
+      "zh-Hant": "北京市"
+    }
+  },
+  {
+    "code": "CQ",
+    "name": "Chongqing",
+    "names": {
+      "ja": "重慶市",
+      "ko": "충칭시",
+      "vi": "Trùng Khánh",
+      "id": "Chongqing",
+      "zh-Hans": "重庆市",
+      "zh-Hant": "重慶市"
+    }
+  },
+  {
+    "code": "FJ",
+    "name": "Fujian",
+    "names": {
+      "ja": "福建省",
+      "ko": "푸젠성",
+      "vi": "Phúc Kiến",
+      "id": "Fujian",
+      "zh-Hans": "福建省",
+      "zh-Hant": "福建省"
+    }
+  },
+  {
+    "code": "GS",
+    "name": "Gansu",
+    "names": {
+      "ja": "甘粛省",
+      "ko": "간쑤성",
+      "vi": "Cam Túc",
+      "id": "Gansu",
+      "zh-Hans": "甘肃省",
+      "zh-Hant": "甘肅省"
+    }
+  },
+  {
+    "code": "GD",
+    "name": "Guangdong",
+    "names": {
+      "ja": "広東省",
+      "ko": "광둥성",
+      "vi": "Quảng Đông",
+      "id": "Guangdong",
+      "zh-Hans": "广东省",
+      "zh-Hant": "廣東省"
+    }
+  },
+  {
+    "code": "GX",
+    "name": "Guangxi",
+    "names": {
+      "ja": "広西チワン族自治区",
+      "ko": "광시 좡족 자치구",
+      "vi": "Quảng Tây",
+      "id": "Guangxi",
+      "zh-Hans": "广西壮族自治区",
+      "zh-Hant": "廣西壯族自治區"
+    }
+  },
+  {
+    "code": "GZ",
+    "name": "Guizhou",
+    "names": {
+      "ja": "貴州省",
+      "ko": "구이저우성",
+      "vi": "Quý Châu",
+      "id": "Guizhou",
+      "zh-Hans": "贵州省",
+      "zh-Hant": "貴州省"
+    }
+  },
+  {
+    "code": "HI",
+    "name": "Hainan",
+    "names": {
+      "ja": "海南省",
+      "ko": "하이난성",
+      "vi": "Hải Nam",
+      "id": "Hainan",
+      "zh-Hans": "海南省",
+      "zh-Hant": "海南省"
+    }
+  },
+  {
+    "code": "HE",
+    "name": "Hebei",
+    "names": {
+      "ja": "河北省",
+      "ko": "허베이성",
+      "vi": "Hà Bắc",
+      "id": "Hebei",
+      "zh-Hans": "河北省",
+      "zh-Hant": "河北省"
+    }
+  },
+  {
+    "code": "HL",
+    "name": "Heilongjiang",
+    "names": {
+      "ja": "黒竜江省",
+      "ko": "헤이룽장성",
+      "vi": "Hắc Long Giang",
+      "id": "Heilongjiang",
+      "zh-Hans": "黑龙江省",
+      "zh-Hant": "黑龍江省"
+    }
+  },
+  {
+    "code": "HA",
+    "name": "Henan",
+    "names": {
+      "ja": "河南省",
+      "ko": "허난성",
+      "vi": "Hà Nam",
+      "id": "Henan",
+      "zh-Hans": "河南省",
+      "zh-Hant": "河南省"
+    }
+  },
+  {
+    "code": "HK",
+    "name": "Hong Kong",
+    "names": {
+      "ja": "香港",
+      "ko": "홍콩",
+      "vi": "Hồng Kông",
+      "id": "Hong Kong",
+      "zh-Hans": "香港特别行政区",
+      "zh-Hant": "香港特別行政區"
+    }
+  },
+  {
+    "code": "HB",
+    "name": "Hubei",
+    "names": {
+      "ja": "湖北省",
+      "ko": "후베이성",
+      "vi": "Hồ Bắc",
+      "id": "Hubei",
+      "zh-Hans": "湖北省",
+      "zh-Hant": "湖北省"
+    }
+  },
+  {
+    "code": "HN",
+    "name": "Hunan",
+    "names": {
+      "ja": "湖南省",
+      "ko": "후난성",
+      "vi": "Hồ Nam",
+      "id": "Hunan",
+      "zh-Hans": "湖南省",
+      "zh-Hant": "湖南省"
+    }
+  },
+  {
+    "code": "NM",
+    "name": "Inner Mongolia",
+    "names": {
+      "ja": "内モンゴル自治区",
+      "ko": "내몽골 자치구",
+      "vi": "Nội Mông",
+      "id": "Mongolia Dalam",
+      "zh-Hans": "内蒙古自治区",
+      "zh-Hant": "內蒙古自治區"
+    }
+  },
+  {
+    "code": "JS",
+    "name": "Jiangsu",
+    "names": {
+      "ja": "江蘇省",
+      "ko": "장쑤성",
+      "vi": "Giang Tô",
+      "id": "Jiangsu",
+      "zh-Hans": "江苏省",
+      "zh-Hant": "江蘇省"
+    }
+  },
+  {
+    "code": "JX",
+    "name": "Jiangxi",
+    "names": {
+      "ja": "江西省",
+      "ko": "장시성",
+      "vi": "Giang Tây",
+      "id": "Jiangxi",
+      "zh-Hans": "江西省",
+      "zh-Hant": "江西省"
+    }
+  },
+  {
+    "code": "JL",
+    "name": "Jilin",
+    "names": {
+      "ja": "吉林省",
+      "ko": "지린성",
+      "vi": "Cát Lâm",
+      "id": "Jilin",
+      "zh-Hans": "吉林省",
+      "zh-Hant": "吉林省"
+    }
+  },
+  {
+    "code": "LN",
+    "name": "Liaoning",
+    "names": {
+      "ja": "遼寧省",
+      "ko": "랴오닝성",
+      "vi": "Liêu Ninh",
+      "id": "Liaoning",
+      "zh-Hans": "辽宁省",
+      "zh-Hant": "遼寧省"
+    }
+  },
+  {
+    "code": "MO",
+    "name": "Macau",
+    "names": {
+      "ja": "マカオ",
+      "ko": "마카오",
+      "vi": "Ma Cao",
+      "id": "Makau",
+      "zh-Hans": "澳门特别行政区",
+      "zh-Hant": "澳門特別行政區"
+    }
+  },
+  {
+    "code": "NX",
+    "name": "Ningxia",
+    "names": {
+      "ja": "寧夏回族自治区",
+      "ko": "닝샤 후이족 자치구",
+      "vi": "Ninh Hạ",
+      "id": "Ningxia",
+      "zh-Hans": "宁夏回族自治区",
+      "zh-Hant": "寧夏回族自治區"
+    }
+  },
+  {
+    "code": "QH",
+    "name": "Qinghai",
+    "names": {
+      "ja": "青海省",
+      "ko": "칭하이성",
+      "vi": "Thanh Hải",
+      "id": "Qinghai",
+      "zh-Hans": "青海省",
+      "zh-Hant": "青海省"
+    }
+  },
+  {
+    "code": "SN",
+    "name": "Shaanxi",
+    "names": {
+      "ja": "陝西省",
+      "ko": "산시성",
+      "vi": "Thiểm Tây",
+      "id": "Shaanxi",
+      "zh-Hans": "陕西省",
+      "zh-Hant": "陝西省"
+    }
+  },
+  {
+    "code": "SD",
+    "name": "Shandong",
+    "names": {
+      "ja": "山東省",
+      "ko": "산둥성",
+      "vi": "Sơn Đông",
+      "id": "Shandong",
+      "zh-Hans": "山东省",
+      "zh-Hant": "山東省"
+    }
+  },
+  {
+    "code": "SH",
+    "name": "Shanghai",
+    "names": {
+      "ja": "上海市",
+      "ko": "상하이시",
+      "vi": "Thượng Hải",
+      "id": "Shanghai",
+      "zh-Hans": "上海市",
+      "zh-Hant": "上海市"
+    }
+  },
+  {
+    "code": "SX",
+    "name": "Shanxi",
+    "names": {
+      "ja": "山西省",
+      "ko": "산시성",
+      "vi": "Sơn Tây",
+      "id": "Shanxi",
+      "zh-Hans": "山西省",
+      "zh-Hant": "山西省"
+    }
+  },
+  {
+    "code": "SC",
+    "name": "Sichuan",
+    "names": {
+      "ja": "四川省",
+      "ko": "쓰촨성",
+      "vi": "Tứ Xuyên",
+      "id": "Sichuan",
+      "zh-Hans": "四川省",
+      "zh-Hant": "四川省"
+    }
+  },
+  {
+    "code": "TW",
+    "name": "Taiwan",
+    "names": {
+      "ja": "台湾省",
+      "ko": "타이완성",
+      "vi": "Đài Loan",
+      "id": "Provinsi Taiwan",
+      "zh-Hans": "台湾",
+      "zh-Hant": "台灣"
+    }
+  },
+  {
+    "code": "TJ",
+    "name": "Tianjin",
+    "names": {
+      "ja": "天津市",
+      "ko": "톈진시",
+      "vi": "Thiên Tân",
+      "id": "Tianjin",
+      "zh-Hans": "天津市",
+      "zh-Hant": "天津市"
+    }
+  },
+  {
+    "code": "XZ",
+    "name": "Tibet Autonomous Region",
+    "names": {
+      "ja": "チベット自治区",
+      "ko": "티베트 자치구",
+      "vi": "Khu tự trị Tây Tạng",
+      "id": "Daerah Otonom Tibet",
+      "zh-Hans": "西藏自治区",
+      "zh-Hant": "西藏自治區"
+    }
+  },
+  {
+    "code": "XJ",
+    "name": "Xinjiang",
+    "names": {
+      "ja": "新疆ウイグル自治区",
+      "ko": "신장 위구르 자치구",
+      "vi": "Tân Cương",
+      "id": "Xinjiang",
+      "zh-Hans": "新疆维吾尔自治区",
+      "zh-Hant": "新疆維吾爾自治區"
+    }
+  },
+  {
+    "code": "YN",
+    "name": "Yunnan",
+    "names": {
+      "ja": "雲南省",
+      "ko": "윈난성",
+      "vi": "Vân Nam",
+      "id": "Yunnan",
+      "zh-Hans": "云南省",
+      "zh-Hant": "雲南省"
+    }
+  },
+  {
+    "code": "ZJ",
+    "name": "Zhejiang",
+    "names": {
+      "ja": "浙江省",
+      "ko": "저장성",
+      "vi": "Chiết Giang",
+      "id": "Zhejiang",
+      "zh-Hans": "浙江省",
+      "zh-Hant": "浙江省"
+    }
+  }
+]

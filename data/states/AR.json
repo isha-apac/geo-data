@@ -1,0 +1,281 @@
+[
+  {
+    "code": "C",
+    "name": "Buenos Aires",
+    "names": {
+      "ja": "ブエノスアイレス",
+      "ko": "부에노스아이레스",
+      "vi": "Buenos Aires",
+      "id": "Buenos Aires",
+      "zh-Hans": "布宜诺斯艾利斯",
+      "zh-Hant": "布宜諾斯艾利斯"
+    }
+  },
+  {
+    "code": "B",
+    "name": "Buenos Aires Province",
+    "names": {
+      "ja": "ブエノスアイレス州",
+      "ko": "부에노스아이레스주",
+      "vi": "Buenos Aires",
+      "id": "Provinsi Buenos Aires",
+      "zh-Hans": "布宜诺斯艾利斯省",
+      "zh-Hant": "布宜諾斯艾利斯省"
+    }
+  },
+  {
+    "code": "K",
+    "name": "Catamarca Province",
+    "names": {
+      "ja": "カタマルカ州",
+      "ko": "카타마르카주",
+      "vi": "Catamarca",
+      "id": "Provinsi Catamarca",
+      "zh-Hans": "卡塔马卡省",
+      "zh-Hant": "卡塔马卡省"
+    }
+  },
+  {
+    "code": "H",
+    "name": "Chaco Province",
+    "names": {
+      "ja": "チャコ州",
+      "ko": "차코주",
+      "vi": "Chaco",
+      "id": "Provinsi Chaco",
+      "zh-Hans": "查科省"
+    }
+  },
+  {
+    "code": "U",
+    "name": "Chubut Province",
+    "names": {
+      "ja": "チュブ州",
+      "ko": "추부트주",
+      "vi": "Chubut",
+      "id": "Provinsi Chubut",
+      "zh-Hans": "丘布特省"
+    }
+  },
+  {
+    "code": "X",
+    "name": "Córdoba Province",
+    "names": {
+      "ja": "コルドバ州",
+      "ko": "코르도바주",
+      "vi": "Córdoba",
+      "id": "Provinsi Córdoba",
+      "zh-Hans": "科尔多瓦省",
+      "zh-Hant": "科爾多瓦省"
+    }
+  },
+  {
+    "code": "W",
+    "name": "Corrientes Province",
+    "names": {
+      "ja": "コリエンテス州",
+      "ko": "코리엔테스주",
+      "vi": "Corrientes",
+      "id": "Provinsi Corrientes",
+      "zh-Hans": "科連特斯省"
+    }
+  },
+  {
+    "code": "E",
+    "name": "Entre Ríos Province",
+    "names": {
+      "ja": "エントレ・リオス州",
+      "ko": "엔트레리오스주",
+      "vi": "Entre Ríos",
+      "id": "Provinsi Entre Ríos",
+      "zh-Hans": "恩特雷里奥斯省"
+    }
+  },
+  {
+    "code": "P",
+    "name": "Formosa Province",
+    "names": {
+      "ja": "フォルモサ州",
+      "ko": "포르모사주",
+      "vi": "Formosa",
+      "id": "Provinsi Formosa",
+      "zh-Hans": "福尔摩沙省"
+    }
+  },
+  {
+    "code": "Y",
+    "name": "Jujuy Province",
+    "names": {
+      "ja": "フフイ州",
+      "ko": "후후이주",
+      "vi": "Jujuy",
+      "id": "Jujuy",
+      "zh-Hans": "胡胡伊省",
+      "zh-Hant": "胡胡伊省"
+    }
+  },
+  {
+    "code": "L",
+    "name": "La Pampa Province",
+    "names": {
+      "ja": "ラ・パンパ州",
+      "ko": "라팜파주",
+      "vi": "La Pampa",
+      "id": "Provinsi La Pampa",
+      "zh-Hans": "拉潘帕省"
+    }
+  },
+  {
+    "code": "F",
+    "name": "La Rioja Province",
+    "names": {
+      "ja": "ラ・リオハ州",
+      "ko": "라리오하주",
+      "vi": "La Rioja",
+      "id": "Provinsi La Rioja",
+      "zh-Hans": "拉里奥哈省"
+    }
+  },
+  {
+    "code": "M",
+    "name": "Mendoza Province",
+    "names": {
+      "ja": "メンドーサ州",
+      "ko": "멘도사주",
+      "vi": "Mendoza",
+      "id": "Provinsi Mendoza",
+      "zh-Hans": "门多萨省",
+      "zh-Hant": "門多薩"
+    }
+  },
+  {
+    "code": "N",
+    "name": "Misiones Province",
+    "names": {
+      "ja": "ミシオネス州",
+      "ko": "미시오네스주",
+      "vi": "Misiones",
+      "id": "Provinsi Misiones",
+      "zh-Hans": "米西奥内斯省",
+      "zh-Hant": "米西奧內斯省"
+    }
+  },
+  {
+    "code": "Q",
+    "name": "Neuquén Province",
+    "names": {
+      "ja": "ネウケン州",
+      "ko": "네우켄주",
+      "vi": "Neuquén",
+      "id": "Provinsi Neuquén",
+      "zh-Hans": "内乌肯省",
+      "zh-Hant": "內烏肯省"
+    }
+  },
+  {
+    "code": "R",
+    "name": "Río Negro Province",
+    "names": {
+      "ja": "リオネグロ州",
+      "ko": "리오네그로주",
+      "vi": "Río Negro",
+      "id": "Provinsi Río Negro",
+      "zh-Hans": "内格罗河省",
+      "zh-Hant": "内格羅河省"
+    }
+  },
+  {
+    "code": "A",
+    "name": "Salta Province",
+    "names": {
+      "ja": "サルタ州",
+      "ko": "살타주",
+      "vi": "Salta",
+      "id": "Provinsi Salta",
+      "zh-Hans": "萨尔塔省"
+    }
+  },
+  {
+    "code": "J",
+    "name": "San Juan Province",
+    "names": {
+      "ja": "サンフアン州",
+      "ko": "산후안주",
+      "vi": "San Juan",
+      "id": "Provinsi San Juan, Argentina",
+      "zh-Hans": "圣胡安省",
+      "zh-Hant": "聖胡安省"
+    }
+  },
+  {
+    "code": "D",
+    "name": "San Luis Province",
+    "names": {
+      "ja": "サンルイス州",
+      "ko": "산루이스주",
+      "vi": "San Luis",
+      "id": "Provinsi San Luis",
+      "zh-Hans": "圣路易斯省",
+      "zh-Hant": "圣路易斯省"
+    }
+  },
+  {
+    "code": "Z",
+    "name": "Santa Cruz Province",
+    "names": {
+      "ja": "サンタクルス州",
+      "ko": "산타크루스주",
+      "vi": "Santa Cruz",
+      "id": "Provinsi Santa Cruz",
+      "zh-Hans": "圣克鲁斯省"
+    }
+  },
+  {
+    "code": "S",
+    "name": "Santa Fe Province",
+    "names": {
+      "ja": "サンタフェ州",
+      "ko": "산타페주",
+      "vi": "Santa Fe",
+      "id": "Provinsi Santa Fe",
+      "zh-Hans": "圣菲省",
+      "zh-Hant": "聖菲省"
+    }
+  },
+  {
+    "code": "G",
+    "name": "Santiago del Estero Province",
+    "names": {
+      "ja": "サンティアゴ・デル・エステロ州",
+      "ko": "산티아고델에스테로주",
+      "vi": "Santiago del Estero",
+      "id": "Provinsi Santiago del Estero",
+      "zh-Hans": "圣地亚哥-德尔埃斯特罗省",
+      "zh-Hant": "聖地亞哥-德爾埃斯特羅省"
+    }
+  },
+  {
+    "code": "V",
+    "name": "Tierra del Fuego Province",
+    "names": {
+      "ja": "ティエラ・デル・フエゴ州",
+      "ko": "티에라델푸에고주",
+      "vi": "Tierra del Fuego",
+      "id": "Provinsi Tierra del Fuego",
+      "zh-Hans": "火地岛省",
+      "zh-Hant": "火地岛省"
+    }
+  },
+  {
+    "code": "T",
+    "name": "Tucumán Province",
+    "names": {
+      "ja": "トゥクマン州",
+      "ko": "투쿠만주",
+      "vi": "Tucumán",
+      "id": "Provinsi Tucumán",
+      "zh-Hans": "图库曼省",
+      "zh-Hant": "圖庫曼省"
+    }
+  }
+]

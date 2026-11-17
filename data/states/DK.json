@@ -1,0 +1,61 @@
+[
+  {
+    "code": "84",
+    "name": "Capital Region of Denmark",
+    "names": {
+      "ja": "デンマーク首都地域",
+      "ko": "덴마크 수도 지역",
+      "vi": "Vùng thủ đô Đan Mạch",
+      "id": "Region Hovedstaden",
+      "zh-Hans": "首都大區",
+      "zh-Hant": "首都大區"
+    }
+  },
+  {
+    "code": "82",
+    "name": "Central Denmark",
+    "names": {
+      "ja": "中央ユラン地域",
+      "ko": "중앙윌란 지역",
+      "vi": "Trung Jutland",
+      "id": "Region Midtjylland",
+      "zh-Hans": "中日德兰大区",
+      "zh-Hant": "中日德蘭大區"
+    }
+  },
+  {
+    "code": "81",
+    "name": "North Denmark Region",
+    "names": {
+      "ja": "北ユラン地域",
+      "ko": "북윌란 지역",
+      "vi": "Bắc Jutland",
+      "id": "Region Nordjylland",
+      "zh-Hans": "北日德兰大区"
+    }
+  },
+  {
+    "code": "85",
+    "name": "Region Zealand",
+    "names": {
+      "ja": "シェラン地域",
+      "ko": "셸란 지역",
+      "vi": "Zealand",
+      "id": "Region Sjælland",
+      "zh-Hans": "西兰大区",
+      "zh-Hant": "西蘭大區"
+    }
+  },
+  {
+    "code": "83",
+    "name": "Southern Denmark",
+    "names": {
+      "ja": "南デンマーク地域",
+      "ko": "남덴마크 지역",
+      "vi": "Nam Đan Mạch",
+      "id": "Region Syddanmark",
+      "zh-Hans": "南丹麦大区",
+      "zh-Hant": "南丹麥大區"
+    }
+  }
+]

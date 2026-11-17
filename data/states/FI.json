@@ -1,0 +1,217 @@
+[
+  {
+    "code": "01",
+    "name": "Åland",
+    "names": {
+      "ja": "オーランド諸島",
+      "ko": "올란드 제도",
+      "vi": "Åland",
+      "id": "Kepulauan Åland",
+      "zh-Hans": "奥兰",
+      "zh-Hant": "奧蘭"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Central Finland",
+    "names": {
+      "ja": "中央スオミ県",
+      "ko": "중앙수오미 지역",
+      "vi": "Miền Trung Phần Lan",
+      "id": "Finlandia Tengah",
+      "zh-Hans": "中芬蘭區",
+      "zh-Hant": "中芬蘭區"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Central Ostrobothnia",
+    "names": {
+      "ja": "中部ポフヤンマー県",
+      "ko": "중부 포흐얀마 지역",
+      "vi": "Miền Trung Ostrobothnia",
+      "id": "Ostrobothnia Tengah",
+      "zh-Hans": "中波赫扬马区"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Kainuu",
+    "names": {
+      "ja": "カイヌー県",
+      "ko": "카이누 지역",
+      "vi": "Kainuu",
+      "id": "Kainuu",
+      "zh-Hans": "凯努区"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Kanta-Häme",
+    "names": {
+      "ja": "カンタ＝ハメ県",
+      "ko": "칸타헤메 지역",
+      "vi": "Tavastia Proper",
+      "id": "Tavastia Sejati",
+      "zh-Hans": "坎塔海梅区"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Kymenlaakso",
+    "names": {
+      "ja": "キュメンラークソ県",
+      "ko": "퀴멘락소 지역",
+      "vi": "Kymenlaakso",
+      "id": "Kymenlaakso",
+      "zh-Hans": "屈米河谷区"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Lapland",
+    "names": {
+      "ja": "ラッピ県",
+      "ko": "라피 지역",
+      "vi": "Lapland",
+      "id": "Laplandia",
+      "zh-Hans": "拉普蘭區"
+    }
+  },
+  {
+    "code": "13",
+    "name": "North Karelia",
+    "names": {
+      "ja": "北カルヤラ県",
+      "ko": "북카리알라 지역",
+      "vi": "Bắc Karelia",
+      "id": "Karelia Utara",
+      "zh-Hans": "北卡累利阿区"
+    }
+  },
+  {
+    "code": "14",
+    "name": "North Ostrobothnia",
+    "names": {
+      "ja": "北ポフヤンマー県",
+      "ko": "북포흐얀마 지역",
+      "vi": "Phía Bắc Ostrobothnia",
+      "id": "Ostrobothnia Utara",
+      "zh-Hans": "北波赫扬马区",
+      "zh-Hant": "北波赫揚馬區"
+    }
+  },
+  {
+    "code": "15",
+    "name": "North Savo",
+    "names": {
+      "ja": "北サヴォ県",
+      "ko": "북사보 지역",
+      "vi": "Phía Bắc Savonia",
+      "id": "Savonia Utara",
+      "zh-Hans": "北萨沃区"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Ostrobothnia",
+    "names": {
+      "ja": "ポフヤンマー県",
+      "ko": "포흐얀마 지역",
+      "vi": "Ostrobothnia",
+      "id": "Ostrobothnia",
+      "zh-Hans": "波赫扬马区"
+    }
+  },
+  {
+    "code": "16",
+    "name": "Päijät-Häme",
+    "names": {
+      "ja": "パイヤト＝ハメ県",
+      "ko": "페이예트헤메 지역",
+      "vi": "Päijänne Tavastia",
+      "id": "Tavastia Päijänne",
+      "zh-Hans": "派耶特海梅区",
+      "zh-Hant": "派耶特海梅區"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Pirkanmaa",
+    "names": {
+      "ja": "ピルカンマー県",
+      "ko": "피르칸마 지역",
+      "vi": "Pirkanmaa",
+      "id": "Pirkanmaa",
+      "zh-Hans": "皮尔坎马区"
+    }
+  },
+  {
+    "code": "17",
+    "name": "Satakunta",
+    "names": {
+      "ja": "サタクンタ県",
+      "ko": "사타쿤타 지역",
+      "vi": "Satakunta",
+      "id": "Satakunta",
+      "zh-Hans": "萨塔昆塔区",
+      "zh-Hant": "薩塔昆塔區"
+    }
+  },
+  {
+    "code": "02",
+    "name": "South Karelia",
+    "names": {
+      "ja": "南カルヤラ県",
+      "ko": "남카리알라 지역",
+      "vi": "Nam Karelia",
+      "id": "Karelia Selatan",
+      "zh-Hans": "南卡累利阿区"
+    }
+  },
+  {
+    "code": "03",
+    "name": "South Ostrobothnia",
+    "names": {
+      "ja": "南ポフヤンマー県",
+      "ko": "남포흐얀마 지역",
+      "vi": "Phía Nam Ostrobothnia",
+      "id": "Ostrobothnia Selatan",
+      "zh-Hans": "南波赫扬马区"
+    }
+  },
+  {
+    "code": "04",
+    "name": "South Savo",
+    "names": {
+      "ja": "南サヴォ県",
+      "ko": "남사보 지역",
+      "vi": "Nam Savo",
+      "id": "Savonia Selatan",
+      "zh-Hans": "南萨沃区"
+    }
+  },
+  {
+    "code": "19",
+    "name": "Southwest Finland",
+    "names": {
+      "ja": "南西スオミ県",
+      "ko": "남서수오미 지역",
+      "vi": "Finland Proper",
+      "id": "Finlandia Sejati",
+      "zh-Hans": "芬兰本部区",
+      "zh-Hant": "芬蘭本部區"
+    }
+  },
+  {
+    "code": "18",
+    "name": "Uusimaa",
+    "names": {
+      "ja": "ウーシマー県",
+      "ko": "우시마 지역",
+      "vi": "Uusimaa",
+      "id": "Uusimaa",
+      "zh-Hans": "新地区"
+    }
+  }
+]

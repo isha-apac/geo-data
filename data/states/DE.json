@@ -1,0 +1,194 @@
+[
+  {
+    "code": "BW",
+    "name": "Baden-Württemberg",
+    "names": {
+      "ja": "バーデン＝ヴュルテンベルク州",
+      "ko": "바덴뷔르템베르크주",
+      "vi": "Baden-Württemberg",
+      "id": "Baden-Württemberg",
+      "zh-Hans": "巴登-符腾堡州",
+      "zh-Hant": "巴登-符腾堡州"
+    }
+  },
+  {
+    "code": "BY",
+    "name": "Bavaria",
+    "names": {
+      "ja": "バイエルン",
+      "ko": "바이에른주",
+      "vi": "Bayern",
+      "id": "Bayern",
+      "zh-Hans": "巴伐利亚州",
+      "zh-Hant": "巴伐利亞州"
+    }
+  },
+  {
+    "code": "BE",
+    "name": "Berlin",
+    "names": {
+      "ja": "ベルリン",
+      "ko": "베를린",
+      "vi": "Berlin",
+      "id": "Berlin",
+      "zh-Hans": "柏林",
+      "zh-Hant": "柏林"
+    }
+  },
+  {
+    "code": "BB",
+    "name": "Brandenburg",
+    "names": {
+      "ja": "ブランデンブルク州",
+      "ko": "브란덴부르크주",
+      "vi": "Brandenburg",
+      "id": "Brandenburg",
+      "zh-Hans": "勃兰登堡州",
+      "zh-Hant": "勃蘭登堡州"
+    }
+  },
+  {
+    "code": "HB",
+    "name": "Bremen",
+    "names": {
+      "ja": "ブレーメン州",
+      "ko": "브레멘주",
+      "vi": "Bremen",
+      "id": "Bremen",
+      "zh-Hans": "不来梅州",
+      "zh-Hant": "不來梅州"
+    }
+  },
+  {
+    "code": "HH",
+    "name": "Hamburg",
+    "names": {
+      "ja": "ハンブルク",
+      "ko": "함부르크",
+      "vi": "Hamburg",
+      "id": "Hamburg",
+      "zh-Hans": "汉堡",
+      "zh-Hant": "漢堡"
+    }
+  },
+  {
+    "code": "HE",
+    "name": "Hesse",
+    "names": {
+      "ja": "ヘッセン州",
+      "ko": "헤센주",
+      "vi": "Hessen",
+      "id": "Hesse",
+      "zh-Hans": "黑森州",
+      "zh-Hant": "黑森州"
+    }
+  },
+  {
+    "code": "NI",
+    "name": "Lower Saxony",
+    "names": {
+      "ja": "下ザクセン州",
+      "ko": "니더작센주",
+      "vi": "Niedersachsen",
+      "id": "Niedersachsen",
+      "zh-Hans": "下萨克森州",
+      "zh-Hant": "下薩克森州"
+    }
+  },
+  {
+    "code": "MV",
+    "name": "Mecklenburg-Vorpommern",
+    "names": {
+      "ja": "メクレンブルク＝フォアポンメルン州",
+      "ko": "메클렌부르크포어포메른주",
+      "vi": "Mecklenburg-Vorpommern",
+      "id": "Mecklenburg-Vorpommern",
+      "zh-Hans": "梅克伦堡－前波美拉尼亚",
+      "zh-Hant": "梅克倫堡－前波美拉尼亞"
+    }
+  },
+  {
+    "code": "NW",
+    "name": "North Rhine-Westphalia",
+    "names": {
+      "ja": "ノルトライン＝ヴェストファーレン州",
+      "ko": "노르트라인베스트팔렌주",
+      "vi": "Nordrhein-Westfalen",
+      "id": "Nordrhein-Westfalen",
+      "zh-Hans": "北莱茵-威斯特法伦州",
+      "zh-Hant": "北萊茵-威斯特法連邦"
+    }
+  },
+  {
+    "code": "RP",
+    "name": "Rhineland-Palatinate",
+    "names": {
+      "ja": "ラインラント＝プファルツ州",
+      "ko": "라인란트팔츠주",
+      "vi": "Rheinland-Pfalz",
+      "id": "Rheinland-Pfalz",
+      "zh-Hans": "莱茵兰-普法尔茨州",
+      "zh-Hant": "萊因蘭-法爾茲"
+    }
+  },
+  {
+    "code": "SL",
+    "name": "Saarland",
+    "names": {
+      "ja": "ザールラント州",
+      "ko": "자를란트주",
+      "vi": "Saarland",
+      "id": "Saarland",
+      "zh-Hans": "萨尔兰州",
+      "zh-Hant": "薩爾蘭州"
+    }
+  },
+  {
+    "code": "SN",
+    "name": "Saxony",
+    "names": {
+      "ja": "ザクセン州",
+      "ko": "작센주",
+      "vi": "Sachsen",
+      "id": "Saxonia",
+      "zh-Hans": "萨克森州",
+      "zh-Hant": "薩克森州"
+    }
+  },
+  {
+    "code": "ST",
+    "name": "Saxony-Anhalt",
+    "names": {
+      "ja": "ザクセン＝アンハルト州",
+      "ko": "작센안할트주",
+      "vi": "Sachsen-Anhalt",
+      "id": "Sachsen-Anhalt",
+      "zh-Hans": "萨克森-安哈尔特州",
+      "zh-Hant": "薩克森-安哈爾特州"
+    }
+  },
+  {
+    "code": "SH",
+    "name": "Schleswig-Holstein",
+    "names": {
+      "ja": "シュレースヴィヒ＝ホルシュタイン州",
+      "ko": "슐레스비히홀슈타인주",
+      "vi": "Schleswig-Holstein",
+      "id": "Schleswig-Holstein",
+      "zh-Hans": "石勒苏益格-荷尔斯泰因",
+      "zh-Hant": "什列斯威-霍爾斯坦"
+    }
+  },
+  {
+    "code": "TH",
+    "name": "Thuringia",
+    "names": {
+      "ja": "テューリンゲン州",
+      "ko": "튀링겐주",
+      "vi": "Thüringen",
+      "id": "Thuringia",
+      "zh-Hans": "图林根州",
+      "zh-Hant": "圖林根州"
+    }
+  }
+]

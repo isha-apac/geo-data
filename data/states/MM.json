@@ -1,0 +1,180 @@
+[
+  {
+    "code": "07",
+    "name": "Ayeyarwady Region",
+    "names": {
+      "ja": "エーヤワディ管区",
+      "ko": "에야와디 구",
+      "vi": "Vùng Ayeyarwady",
+      "id": "Region Ayeyarwady",
+      "zh-Hans": "伊洛瓦底省"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Bago Region",
+    "names": {
+      "ja": "バゴー管区",
+      "ko": "바고 구",
+      "vi": "Vùng Bago",
+      "id": "Region Bago",
+      "zh-Hans": "勃固省"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Chin State",
+    "names": {
+      "ja": "チン州",
+      "ko": "친주",
+      "vi": "Chin",
+      "id": "Negara Bagian Chin",
+      "zh-Hans": "钦邦",
+      "zh-Hant": "欽邦"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Kachin State",
+    "names": {
+      "ja": "カチン州",
+      "ko": "카친 주",
+      "vi": "Kachin",
+      "id": "Negara Bagian Kachin",
+      "zh-Hans": "克钦邦",
+      "zh-Hant": "克欽邦"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Kayah State",
+    "names": {
+      "ja": "カヤー州",
+      "ko": "카야 주",
+      "vi": "Kayah",
+      "id": "Negara Bagian Kayah",
+      "zh-Hans": "克耶邦",
+      "zh-Hant": "克耶邦"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Kayin State",
+    "names": {
+      "ja": "カレン州",
+      "ko": "카인 주",
+      "vi": "Kayin",
+      "id": "Negara Bagian Kayin",
+      "zh-Hans": "克伦邦",
+      "zh-Hant": "克倫邦"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Magway Region",
+    "names": {
+      "ja": "マグウェ管区",
+      "ko": "마궤 구",
+      "vi": "Vùng Magway",
+      "id": "Region Magway",
+      "zh-Hans": "马圭省",
+      "zh-Hant": "馬圭省"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Mandalay Region",
+    "names": {
+      "ja": "マンダレー管区",
+      "ko": "만달레이 구",
+      "vi": "Vùng Mandalay",
+      "id": "Region Mandalay",
+      "zh-Hans": "曼德勒省",
+      "zh-Hant": "曼德勒省"
+    }
+  },
+  {
+    "code": "15",
+    "name": "Mon State",
+    "names": {
+      "ja": "モン州",
+      "ko": "몬주",
+      "vi": "Mon",
+      "id": "Mon State",
+      "zh-Hans": "孟邦",
+      "zh-Hant": "孟邦"
+    }
+  },
+  {
+    "code": "18",
+    "name": "Naypyidaw Union Territory",
+    "names": {
+      "ja": "ネピドー連邦領",
+      "ko": "네피도 연방구",
+      "vi": "Lãnh thổ Liên bang Naypyidaw",
+      "id": "Naypyidaw Union Territory",
+      "zh-Hans": "内比都联邦区",
+      "zh-Hant": "內比都聯邦區"
+    }
+  },
+  {
+    "code": "16",
+    "name": "Rakhine State",
+    "names": {
+      "ja": "ラカイン州",
+      "ko": "라카인주",
+      "vi": "ARAKAN",
+      "id": "Negara Bagian Rakhine",
+      "zh-Hans": "若开邦",
+      "zh-Hant": "若開邦"
+    }
+  },
+  {
+    "code": "01",
+    "name": "Sagaing Region",
+    "names": {
+      "ja": "ザガイン管区",
+      "ko": "사가잉도",
+      "vi": "Vùng Sagaing",
+      "id": "Region Sagaing",
+      "zh-Hans": "实皆省",
+      "zh-Hant": "實皆省"
+    }
+  },
+  {
+    "code": "17",
+    "name": "Shan State",
+    "names": {
+      "ja": "シャン州",
+      "ko": "샨주",
+      "vi": "Shan",
+      "id": "Negara Bagian Shan",
+      "zh-Hans": "掸邦",
+      "zh-Hant": "撣邦"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Tanintharyi Region",
+    "names": {
+      "ja": "タニンダーイー管区",
+      "ko": "타닌타리 구",
+      "vi": "Vùng Tanintharyi",
+      "id": "Region Tanintharyi",
+      "zh-Hans": "德林达依省",
+      "zh-Hant": "德林達依省"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Yangon Region",
+    "names": {
+      "ja": "ヤンゴン管区",
+      "ko": "양곤 구",
+      "vi": "Vùng Yangon",
+      "id": "Region Yangon",
+      "zh-Hans": "仰光省",
+      "zh-Hant": "仰光省"
+    }
+  }
+]

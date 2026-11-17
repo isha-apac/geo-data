@@ -1,0 +1,128 @@
+[
+  {
+    "code": "AA",
+    "name": "A'ana",
+    "names": {
+      "ja": "アアーナ",
+      "ko": "아아나 구",
+      "vi": "A'ana",
+      "id": "A'ana",
+      "zh-Hans": "阿纳",
+      "zh-Hant": "阿納"
+    }
+  },
+  {
+    "code": "AL",
+    "name": "Aiga-i-le-Tai",
+    "names": {
+      "ja": "アイガイレタイ",
+      "ko": "아이가이레타이구",
+      "vi": "Aiga-i-le-Tai",
+      "id": "Aiga-i-le-Tai",
+      "zh-Hans": "艾加伊勒泰",
+      "zh-Hant": "艾加伊勒泰"
+    }
+  },
+  {
+    "code": "AT",
+    "name": "Atua",
+    "names": {
+      "ja": "アトゥア",
+      "ko": "아투아구",
+      "vi": "Atua",
+      "id": "Atua",
+      "zh-Hans": "阿图阿",
+      "zh-Hant": "阿圖阿"
+    }
+  },
+  {
+    "code": "FA",
+    "name": "Fa'asaleleaga",
+    "names": {
+      "ja": "ファアセールリーガ",
+      "ko": "파아살렐레아가 구",
+      "vi": "Fa'asaleleaga",
+      "id": "Fa'asaleleaga",
+      "zh-Hans": "法塞莱莱阿加"
+    }
+  },
+  {
+    "code": "GE",
+    "name": "Gaga'emauga",
+    "names": {
+      "ja": "ガガイーモーガ",
+      "ko": "가가에마우가구",
+      "vi": "Gaga'emauga",
+      "id": "Gaga'emauga",
+      "zh-Hans": "加加埃毛加"
+    }
+  },
+  {
+    "code": "GI",
+    "name": "Gaga'ifomauga",
+    "names": {
+      "ja": "ガガイフォモーガ",
+      "ko": "가가이포마우가구",
+      "vi": "Gaga'ifomauga",
+      "id": "Gaga'ifomauga",
+      "zh-Hans": "加盖福毛加"
+    }
+  },
+  {
+    "code": "PA",
+    "name": "Palauli",
+    "names": {
+      "ja": "パラウリ",
+      "ko": "팔라울리구",
+      "vi": "Palauli",
+      "id": "Palauli",
+      "zh-Hans": "帕劳利"
+    }
+  },
+  {
+    "code": "SA",
+    "name": "Satupa'itea",
+    "names": {
+      "ja": "サチューパイテア",
+      "ko": "사투파이테아구",
+      "vi": "Satupa'itea",
+      "id": "Satupa'itea",
+      "zh-Hans": "萨图帕伊泰阿"
+    }
+  },
+  {
+    "code": "TU",
+    "name": "Tuamasaga",
+    "names": {
+      "ja": "ツアマサガ",
+      "ko": "투아마사가구",
+      "vi": "Tuamasaga",
+      "id": "Tuamasaga",
+      "zh-Hans": "图阿马萨加",
+      "zh-Hant": "圖阿馬薩加"
+    }
+  },
+  {
+    "code": "VF",
+    "name": "Va'a-o-Fonoti",
+    "names": {
+      "ja": "バア＝オ＝フォノッティ",
+      "ko": "바아오포노티 구",
+      "vi": "Va'a-o-Fonoti",
+      "id": "Va'a-o-Fonoti",
+      "zh-Hans": "瓦奥福诺蒂",
+      "zh-Hant": "瓦奧福諾蒂"
+    }
+  },
+  {
+    "code": "VS",
+    "name": "Vaisigano",
+    "names": {
+      "ja": "ベサイガーノ",
+      "ko": "바이시가노구",
+      "vi": "Vaisigano",
+      "id": "Vaisigano",
+      "zh-Hans": "韦西加诺"
+    }
+  }
+]

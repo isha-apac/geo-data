@@ -1,0 +1,153 @@
+[
+  {
+    "code": "11",
+    "name": "Al-Baha Province",
+    "names": {
+      "ja": "バーハ州",
+      "ko": "바하주",
+      "vi": "Khu vực Al Bahah",
+      "id": "Provinsi Bahah",
+      "zh-Hans": "巴哈省",
+      "zh-Hant": "巴哈省"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Al-Jowf Province",
+    "names": {
+      "ja": "ジャウフ州",
+      "ko": "자우프 주 (사우디아라비아)",
+      "vi": "Khu vực Al Jawf",
+      "id": "Provinsi Jauf",
+      "zh-Hans": "焦夫省 (沙地阿拉伯)"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Al-Qassim",
+    "names": {
+      "ja": "カスィーム州",
+      "ko": "카심주",
+      "vi": "Khu vực Al-Qassim",
+      "id": "Provinsi Qasim",
+      "zh-Hans": "盖西姆省"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Asir Province",
+    "names": {
+      "ja": "アスィール州",
+      "ko": "아시르주",
+      "vi": "Khu vực Asir",
+      "id": "Provinsi 'Asir",
+      "zh-Hans": "阿西尔省",
+      "zh-Hant": "阿西爾省"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Eastern Province",
+    "names": {
+      "ja": "東部州",
+      "ko": "동부주",
+      "vi": "Tỉnh Miền Đông",
+      "id": "Syarqiyah, Arab Saudi",
+      "zh-Hans": "东部省"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Ḥaʼil Province",
+    "names": {
+      "ja": "ハーイル州",
+      "ko": "하일주",
+      "vi": "Tỉnh Ha'il",
+      "id": "Provinsi Ha'il",
+      "zh-Hans": "哈伊勒省",
+      "zh-Hant": "哈伊勒省"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Jazan Province",
+    "names": {
+      "ja": "ジーザーン州",
+      "ko": "지잔주",
+      "vi": "Jizan",
+      "id": "Provinsi Jizan",
+      "zh-Hans": "吉赞省",
+      "zh-Hant": "吉贊省"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Mecca Province",
+    "names": {
+      "ja": "マッカ州",
+      "ko": "메카주",
+      "vi": "Khu vực Makkah",
+      "id": "Provinsi Makkah",
+      "zh-Hans": "麦加省",
+      "zh-Hant": "麥加省"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Medina Province",
+    "names": {
+      "ja": "マディーナ州",
+      "ko": "메디나주",
+      "vi": "Khu vực Al Madinah",
+      "id": "Provinsi Madinah",
+      "zh-Hans": "麦地那省",
+      "zh-Hant": "麥地那省"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Najran Province",
+    "names": {
+      "ja": "ナジュラーン州",
+      "ko": "나즈란 주",
+      "vi": "Khu vực Najran",
+      "id": "Provinsi Najran",
+      "zh-Hans": "奈季兰省",
+      "zh-Hant": "奈季蘭省"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Northern Borders Province",
+    "names": {
+      "ja": "北部国境州",
+      "ko": "북부 변경주",
+      "vi": "Biên giới Phương Bắc",
+      "id": "Hududusy Syamaliyah",
+      "zh-Hans": "北部边疆省"
+    }
+  },
+  {
+    "code": "01",
+    "name": "Riyadh Province",
+    "names": {
+      "ja": "リヤード州",
+      "ko": "리야드주",
+      "vi": "Riyadh",
+      "id": "Provinsi Riyadh",
+      "zh-Hans": "利雅得省",
+      "zh-Hant": "利雅得省"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Tabuk Province",
+    "names": {
+      "ja": "タブーク州",
+      "ko": "타부크주",
+      "vi": "Khu vực Tabuk",
+      "id": "Provinsi Tabuk",
+      "zh-Hans": "塔布克省"
+    }
+  }
+]

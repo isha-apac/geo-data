@@ -1,0 +1,288 @@
+[
+  {
+    "code": "A",
+    "name": "Azuay Province",
+    "names": {
+      "ja": "アスアイ県",
+      "ko": "아수아이주",
+      "vi": "Azuay",
+      "id": "Provinsi Azuay",
+      "zh-Hans": "阿苏艾省",
+      "zh-Hant": "阿蘇艾省"
+    }
+  },
+  {
+    "code": "B",
+    "name": "Bolívar Province",
+    "names": {
+      "ja": "ボリーバル県",
+      "ko": "볼리바르주",
+      "vi": "Tỉnh Bolívar",
+      "id": "Provinsi Bolívar",
+      "zh-Hans": "玻利瓦尔省"
+    }
+  },
+  {
+    "code": "F",
+    "name": "Cañar Province",
+    "names": {
+      "ja": "カニャール県",
+      "ko": "카냐르주",
+      "vi": "Tỉnh Canar",
+      "id": "Provinsi Cañar",
+      "zh-Hans": "卡尼亚尔省",
+      "zh-Hant": "卡尼亞爾省"
+    }
+  },
+  {
+    "code": "C",
+    "name": "Carchi Province",
+    "names": {
+      "ja": "カルチ県",
+      "ko": "카르치주",
+      "vi": "Tỉnh Carchi",
+      "id": "Provinsi Carchi",
+      "zh-Hans": "卡尔奇省",
+      "zh-Hant": "卡爾奇省"
+    }
+  },
+  {
+    "code": "H",
+    "name": "Chimborazo Province",
+    "names": {
+      "ja": "チンボラソ県",
+      "ko": "침보라소주",
+      "vi": "Chimborazo",
+      "id": "Provinsi Chimborazo",
+      "zh-Hans": "钦博拉索省",
+      "zh-Hant": "欽博拉索省"
+    }
+  },
+  {
+    "code": "X",
+    "name": "Cotopaxi Province",
+    "names": {
+      "ja": "コトパクシ県",
+      "ko": "코토팍시주",
+      "vi": "Cotopaxi",
+      "id": "Provinsi Cotopaxi",
+      "zh-Hans": "科托帕希省",
+      "zh-Hant": "科托帕希省"
+    }
+  },
+  {
+    "code": "O",
+    "name": "El Oro Province",
+    "names": {
+      "ja": "エル・オロ県",
+      "ko": "엘오로주",
+      "vi": "Tỉnh El Oro",
+      "id": "Provinsi El Oro",
+      "zh-Hans": "埃尔奥罗省",
+      "zh-Hant": "埃爾奧羅省"
+    }
+  },
+  {
+    "code": "E",
+    "name": "Esmeraldas Province",
+    "names": {
+      "ja": "エスメラルダス県",
+      "ko": "에스메랄다스주",
+      "vi": "Esmeraldas",
+      "id": "Provinsi Esmeraldas",
+      "zh-Hans": "埃斯梅拉达斯省",
+      "zh-Hant": "艾斯美拉達斯省"
+    }
+  },
+  {
+    "code": "W",
+    "name": "Galápagos Province",
+    "names": {
+      "ja": "ガラパゴス県",
+      "ko": "갈라파고스주",
+      "vi": "Tỉnh Galápagos",
+      "id": "Provinsi Galápagos",
+      "zh-Hans": "加拉帕戈斯省",
+      "zh-Hant": "加拉巴哥省"
+    }
+  },
+  {
+    "code": "G",
+    "name": "Guayas Province",
+    "names": {
+      "ja": "グアヤス県",
+      "ko": "과야스주",
+      "vi": "Tỉnh Guayas",
+      "id": "Provinsi Guayas",
+      "zh-Hans": "瓜亚斯省",
+      "zh-Hant": "瓜亞斯省"
+    }
+  },
+  {
+    "code": "I",
+    "name": "Imbabura Province",
+    "names": {
+      "ja": "インバブーラ県",
+      "ko": "임바부라주",
+      "vi": "Imbabura",
+      "id": "Provinsi Imbabura",
+      "zh-Hans": "因巴布拉省",
+      "zh-Hant": "因巴布拉省"
+    }
+  },
+  {
+    "code": "L",
+    "name": "Loja Province",
+    "names": {
+      "ja": "ロハ県",
+      "ko": "로하주",
+      "vi": "Tỉnh Loja",
+      "id": "Provinsi Loja",
+      "zh-Hans": "洛哈省",
+      "zh-Hant": "洛哈省"
+    }
+  },
+  {
+    "code": "R",
+    "name": "Los Ríos Province",
+    "names": {
+      "ja": "ロス・リオス県",
+      "ko": "로스리오스주",
+      "vi": "Los Ríos",
+      "id": "Provinsi Los Ríos",
+      "zh-Hans": "洛斯里奥斯省",
+      "zh-Hant": "洛斯里奧斯省"
+    }
+  },
+  {
+    "code": "M",
+    "name": "Manabí Province",
+    "names": {
+      "ja": "マナビ県",
+      "ko": "마나비주",
+      "vi": "Tỉnh Manabí",
+      "id": "Provinsi Manabí",
+      "zh-Hans": "马纳比省",
+      "zh-Hant": "馬納比省"
+    }
+  },
+  {
+    "code": "S",
+    "name": "Morona-Santiago Province",
+    "names": {
+      "ja": "モロナ・サンティアゴ県",
+      "ko": "모로나산티아고주",
+      "vi": "Tỉnh Morona-Santiago",
+      "id": "Provinsi Morona-Santiago",
+      "zh-Hans": "莫罗纳-圣地亚哥省"
+    }
+  },
+  {
+    "code": "N",
+    "name": "Napo Province",
+    "names": {
+      "ja": "ナポ県",
+      "ko": "나포주",
+      "vi": "Tỉnh Napo",
+      "id": "Provinsi Napo",
+      "zh-Hans": "纳波省",
+      "zh-Hant": "納波省"
+    }
+  },
+  {
+    "code": "D",
+    "name": "Orellana Province",
+    "names": {
+      "ja": "オレリャーナ県",
+      "ko": "오레야나주",
+      "vi": "Tỉnh Orellana",
+      "id": "Provinsi Orellana",
+      "zh-Hans": "奥雷亚纳省",
+      "zh-Hant": "奧雷亞納省"
+    }
+  },
+  {
+    "code": "Y",
+    "name": "Pastaza Province",
+    "names": {
+      "ja": "パスタサ県",
+      "ko": "파스타사주",
+      "vi": "Tỉnh Pastaza",
+      "id": "Provinsi Pastaza",
+      "zh-Hans": "帕斯塔萨省",
+      "zh-Hant": "帕斯塔薩省"
+    }
+  },
+  {
+    "code": "P",
+    "name": "Pichincha Province",
+    "names": {
+      "ja": "ピチンチャ県",
+      "ko": "피친차주",
+      "vi": "Tỉnh Pichincha",
+      "id": "Provinsi Pichincha",
+      "zh-Hans": "皮钦查省",
+      "zh-Hant": "皮欽查省"
+    }
+  },
+  {
+    "code": "SE",
+    "name": "Santa Elena Province",
+    "names": {
+      "ja": "サンタ・エレーナ県",
+      "ko": "산타엘레나주",
+      "vi": "Tỉnh Santa Elena",
+      "id": "Provinsi Santa Elena",
+      "zh-Hans": "圣埃伦娜省",
+      "zh-Hant": "聖埃倫娜省"
+    }
+  },
+  {
+    "code": "SD",
+    "name": "Santo Domingo de los Tsáchilas Province",
+    "names": {
+      "ja": "サント・ドミンゴ・デ・ロス・ツァチラス県",
+      "ko": "산토도밍고데로스차칠라스주",
+      "vi": "Tỉnh Santo Domingo de los Tsáchilas",
+      "id": "Provinsi Santo Domingo de los Tsáchilas",
+      "zh-Hans": "圣多明各-德洛斯查奇拉斯省",
+      "zh-Hant": "聖多明各-德洛斯查奇拉斯省"
+    }
+  },
+  {
+    "code": "U",
+    "name": "Sucumbíos Province",
+    "names": {
+      "ja": "スクンビオス県",
+      "ko": "수쿰비오스주",
+      "vi": "Tỉnh Sucumbíos",
+      "id": "Provinsi Sucumbíos",
+      "zh-Hans": "苏昆比奥斯省",
+      "zh-Hant": "蘇崑比奧斯省"
+    }
+  },
+  {
+    "code": "T",
+    "name": "Tungurahua Province",
+    "names": {
+      "ja": "トゥングラワ県",
+      "ko": "퉁구라우아주",
+      "vi": "Tungurahua",
+      "id": "Provinsi Tungurahua",
+      "zh-Hans": "通古拉瓦省",
+      "zh-Hant": "通古拉瓦省"
+    }
+  },
+  {
+    "code": "Z",
+    "name": "Zamora Chinchipe",
+    "names": {
+      "ja": "サモラ・チンチペ県",
+      "ko": "사모라친치페주",
+      "vi": "Tỉnh Zamora-Chinchipe",
+      "id": "Provinsi Zamora-Chinchipe",
+      "zh-Hans": "萨莫拉-钦奇佩省",
+      "zh-Hant": "薩莫拉-欽奇佩省"
+    }
+  }
+]

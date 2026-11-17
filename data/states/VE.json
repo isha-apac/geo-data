@@ -1,0 +1,298 @@
+[
+  {
+    "code": "Z",
+    "name": "Amazonas",
+    "names": {
+      "ja": "アマソナス州",
+      "ko": "아마소나스주",
+      "vi": "Amazonas",
+      "id": "Amazonas",
+      "zh-Hans": "亚马孙州",
+      "zh-Hant": "亞馬孫州"
+    }
+  },
+  {
+    "code": "B",
+    "name": "Anzoátegui",
+    "names": {
+      "ja": "アンソアテギ州",
+      "ko": "안소아테기주",
+      "vi": "Anzoategui",
+      "id": "Anzoátegui",
+      "zh-Hans": "安索阿特吉州",
+      "zh-Hant": "安索阿特吉州"
+    }
+  },
+  {
+    "code": "C",
+    "name": "Apure",
+    "names": {
+      "ja": "アプレ州",
+      "ko": "아푸레주",
+      "vi": "Apure",
+      "id": "Apure",
+      "zh-Hans": "阿普雷州"
+    }
+  },
+  {
+    "code": "D",
+    "name": "Aragua",
+    "names": {
+      "ja": "アラグア州",
+      "ko": "아라과주",
+      "vi": "Aragua",
+      "id": "Aragua",
+      "zh-Hans": "阿拉瓜州",
+      "zh-Hant": "阿拉瓜州"
+    }
+  },
+  {
+    "code": "E",
+    "name": "Barinas",
+    "names": {
+      "ja": "バリナス州",
+      "ko": "바리나스",
+      "vi": "Barinas",
+      "id": "Barinas",
+      "zh-Hans": "巴里纳斯州"
+    }
+  },
+  {
+    "code": "F",
+    "name": "Bolívar",
+    "names": {
+      "ja": "ボリバル州",
+      "ko": "볼리바르",
+      "vi": "Bolívar",
+      "id": "Bolívar",
+      "zh-Hans": "玻利瓦尔州",
+      "zh-Hant": "玻利瓦爾州"
+    }
+  },
+  {
+    "code": "A",
+    "name": "Capital District",
+    "names": {
+      "ja": "首都地区",
+      "ko": "수도 지구",
+      "vi": "Quận Capital",
+      "id": "Distrik Ibu Kota",
+      "zh-Hans": "联邦区",
+      "zh-Hant": "聯邦區"
+    }
+  },
+  {
+    "code": "G",
+    "name": "Carabobo",
+    "names": {
+      "ja": "カラボボ州",
+      "ko": "카라보보주",
+      "vi": "Carabobo",
+      "id": "Carabobo",
+      "zh-Hans": "卡拉沃沃州",
+      "zh-Hant": "卡拉沃沃州"
+    }
+  },
+  {
+    "code": "H",
+    "name": "Cojedes",
+    "names": {
+      "ja": "コヘデス州",
+      "ko": "코헤데스주",
+      "vi": "Cojedes",
+      "id": "Cojedes",
+      "zh-Hans": "科赫德斯州",
+      "zh-Hant": "科赫德斯州"
+    }
+  },
+  {
+    "code": "Y",
+    "name": "Delta Amacuro",
+    "names": {
+      "ja": "デルタアマクロ州",
+      "ko": "델타아마쿠로",
+      "vi": "Delta Amacuro",
+      "id": "Delta Amacuro",
+      "zh-Hans": "阿马库罗三角洲州",
+      "zh-Hant": "阿馬庫羅三角洲州"
+    }
+  },
+  {
+    "code": "I",
+    "name": "Falcón",
+    "names": {
+      "ja": "ファルコン州",
+      "ko": "팔콘주",
+      "vi": "Falcón",
+      "id": "Falcón",
+      "zh-Hans": "法尔孔州",
+      "zh-Hant": "法爾孔州"
+    }
+  },
+  {
+    "code": "W",
+    "name": "Federal Dependencies",
+    "names": {
+      "ja": "連邦保護領",
+      "ko": "연방 속지",
+      "vi": "Vùng lãnh thổ phụ thuộccủa",
+      "id": "Federal Dependencies",
+      "zh-Hans": "联邦属地",
+      "zh-Hant": "聯邦屬地"
+    }
+  },
+  {
+    "code": "J",
+    "name": "Guárico",
+    "names": {
+      "ja": "グアリコ州",
+      "ko": "과리코",
+      "vi": "Guarico",
+      "id": "Guárico",
+      "zh-Hans": "瓜里科州",
+      "zh-Hant": "瓜里科州"
+    }
+  },
+  {
+    "code": "X",
+    "name": "La Guaira state",
+    "names": {
+      "ja": "バルガス州",
+      "ko": "바르가스주",
+      "vi": "Vargas (bang)",
+      "id": "Vargas",
+      "zh-Hans": "巴尔加斯州",
+      "zh-Hant": "巴爾加斯州"
+    }
+  },
+  {
+    "code": "K",
+    "name": "Lara",
+    "names": {
+      "ja": "ララ州",
+      "ko": "라라",
+      "vi": "Lara",
+      "id": "Lara",
+      "zh-Hans": "拉腊州",
+      "zh-Hant": "拉臘州"
+    }
+  },
+  {
+    "code": "L",
+    "name": "Mérida",
+    "names": {
+      "ja": "メリダ州",
+      "ko": "메리다주",
+      "vi": "Mérida",
+      "id": "Mérida",
+      "zh-Hans": "梅里达州"
+    }
+  },
+  {
+    "code": "M",
+    "name": "Miranda",
+    "names": {
+      "ja": "ミランダ州",
+      "ko": "미란다주",
+      "vi": "Miranda",
+      "id": "Miranda",
+      "zh-Hans": "米兰达州",
+      "zh-Hant": "米蘭達州"
+    }
+  },
+  {
+    "code": "N",
+    "name": "Monagas",
+    "names": {
+      "ja": "モナガス州",
+      "ko": "모나가스주",
+      "vi": "Monagas",
+      "id": "Monagas",
+      "zh-Hans": "莫纳加斯州",
+      "zh-Hant": "莫納加斯州"
+    }
+  },
+  {
+    "code": "O",
+    "name": "Nueva Esparta",
+    "names": {
+      "ja": "ヌエバ・エスパルタ州",
+      "ko": "누에바에스파르타주",
+      "vi": "Nueva Esparta",
+      "id": "Nueva Esparta",
+      "zh-Hans": "新埃斯帕塔州",
+      "zh-Hant": "新埃斯帕塔州"
+    }
+  },
+  {
+    "code": "P",
+    "name": "Portuguesa",
+    "names": {
+      "ja": "ポルトゥゲサ州",
+      "ko": "포르투게사주",
+      "vi": "Portuguesa (bang)",
+      "id": "Portuguesa",
+      "zh-Hans": "波图格萨州",
+      "zh-Hant": "波圖格薩州"
+    }
+  },
+  {
+    "code": "R",
+    "name": "Sucre",
+    "names": {
+      "ja": "スクレ州",
+      "ko": "수크레주",
+      "vi": "Sucre (bang)",
+      "id": "Sucre",
+      "zh-Hans": "苏克雷州",
+      "zh-Hant": "蘇克雷州"
+    }
+  },
+  {
+    "code": "S",
+    "name": "Táchira",
+    "names": {
+      "ja": "タチラ州",
+      "ko": "타치라주",
+      "vi": "Táchira (bang)",
+      "id": "Táchira",
+      "zh-Hans": "塔奇拉州"
+    }
+  },
+  {
+    "code": "T",
+    "name": "Trujillo",
+    "names": {
+      "ja": "トルヒージョ州",
+      "ko": "트루히요주",
+      "vi": "Trujillo",
+      "id": "Trujillo",
+      "zh-Hans": "特鲁希略州",
+      "zh-Hant": "特魯希略州"
+    }
+  },
+  {
+    "code": "U",
+    "name": "Yaracuy",
+    "names": {
+      "ja": "ヤラクイ州",
+      "ko": "야라쿠이주",
+      "vi": "Yaracuy",
+      "id": "Yaracuy",
+      "zh-Hans": "亚拉奎州",
+      "zh-Hant": "亞拉奎州"
+    }
+  },
+  {
+    "code": "V",
+    "name": "Zulia",
+    "names": {
+      "ja": "スリア州",
+      "ko": "술리아주",
+      "vi": "Zulia",
+      "id": "Zulia",
+      "zh-Hans": "苏利亚州",
+      "zh-Hant": "蘇利亞"
+    }
+  }
+]

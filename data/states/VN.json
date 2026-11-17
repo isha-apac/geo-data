@@ -1,0 +1,389 @@
+[
+  {
+    "code": "44",
+    "name": "An Giang",
+    "names": {
+      "ja": "アンザン省",
+      "ko": "안장성",
+      "vi": "An Giang",
+      "id": "Provinsi An Giang",
+      "zh-Hans": "安江省"
+    }
+  },
+  {
+    "code": "56",
+    "name": "Bắc Ninh",
+    "names": {
+      "ja": "バクニン省",
+      "ko": "박닌성",
+      "vi": "Bắc Ninh",
+      "id": "Provinsi Bac Ninh",
+      "zh-Hans": "北宁省"
+    }
+  },
+  {
+    "code": "59",
+    "name": "Cà Mau",
+    "names": {
+      "ja": "カマウ省",
+      "ko": "까마우성",
+      "vi": "Cà Mau",
+      "id": "Provinsi Ca Mau",
+      "zh-Hans": "金瓯省"
+    }
+  },
+  {
+    "code": "CT",
+    "name": "Cần Thơ",
+    "names": {
+      "ja": "カントー",
+      "ko": "껀터",
+      "vi": "Cần Thơ",
+      "id": "Cần Thơ",
+      "zh-Hans": "芹苴市",
+      "zh-Hant": "芹苴市"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Cao Bằng",
+    "names": {
+      "ja": "カオバン省",
+      "ko": "까오방성",
+      "vi": "Cao Bằng",
+      "id": "Provinsi Cao Bang",
+      "zh-Hans": "高平省"
+    }
+  },
+  {
+    "code": "DN",
+    "name": "Da Nang",
+    "names": {
+      "ja": "ダナン",
+      "ko": "다낭",
+      "vi": "Đà Nẵng",
+      "id": "Đà Nẵng",
+      "zh-Hans": "岘港市",
+      "zh-Hant": "峴港市"
+    }
+  },
+  {
+    "code": "33",
+    "name": "Đắk Lắk",
+    "names": {
+      "ja": "ダクラク省",
+      "ko": "닥락성",
+      "vi": "Đắk Lắk",
+      "id": "Provinsi Dak Lak",
+      "zh-Hans": "多乐省"
+    }
+  },
+  {
+    "code": "71",
+    "name": "Điện Biên",
+    "names": {
+      "ja": "ディエンビエン省",
+      "ko": "디엔비엔성",
+      "vi": "Điện Biên",
+      "id": "Provinsi Dien Bien",
+      "zh-Hans": "奠边省"
+    }
+  },
+  {
+    "code": "39",
+    "name": "Đồng Nai",
+    "names": {
+      "ja": "ドンナイ省",
+      "ko": "동나이성",
+      "vi": "Đồng Nai",
+      "id": "Kota Dong Nai",
+      "zh-Hans": "同奈市"
+    }
+  },
+  {
+    "code": "45",
+    "name": "Đồng Tháp",
+    "names": {
+      "ja": "ドンタップ省",
+      "ko": "동탑성",
+      "vi": "Đồng Tháp",
+      "id": "Đồng Tháp",
+      "zh-Hans": "同塔省",
+      "zh-Hant": "同塔省"
+    }
+  },
+  {
+    "code": "30",
+    "name": "Gia Lai",
+    "names": {
+      "ja": "ザライ省",
+      "ko": "잘라이성",
+      "vi": "Gia Lai",
+      "id": "Provinsi Gia Lai",
+      "zh-Hans": "嘉莱省"
+    }
+  },
+  {
+    "code": "23",
+    "name": "Hà Tĩnh",
+    "names": {
+      "ja": "ハティン省",
+      "ko": "하띤성",
+      "vi": "Hà Tĩnh",
+      "id": "Provinsi Ha Tinh",
+      "zh-Hans": "河静省",
+      "zh-Hant": "河靜省"
+    }
+  },
+  {
+    "code": "HP",
+    "name": "Haiphong",
+    "names": {
+      "ja": "ハイフォン",
+      "ko": "하이퐁",
+      "vi": "Hải Phòng",
+      "id": "Hải Phòng",
+      "zh-Hans": "海防市",
+      "zh-Hant": "海防市"
+    }
+  },
+  {
+    "code": "HN",
+    "name": "Hanoi",
+    "names": {
+      "ja": "ハノイ",
+      "ko": "하노이",
+      "vi": "Hà Nội",
+      "id": "Hanoi",
+      "zh-Hans": "河内",
+      "zh-Hant": "河內"
+    }
+  },
+  {
+    "code": "SG",
+    "name": "Ho Chi Minh City",
+    "names": {
+      "ja": "ホーチミン市",
+      "ko": "호찌민시",
+      "vi": "Hồ Chí Minh",
+      "id": "Kota Hồ Chí Minh",
+      "zh-Hans": "胡志明市",
+      "zh-Hant": "胡志明市"
+    }
+  },
+  {
+    "code": "26",
+    "name": "Huế",
+    "names": {
+      "ja": "フエ市",
+      "ko": "후에",
+      "vi": "Huế",
+      "id": "Hue",
+      "zh-Hans": "顺化市",
+      "zh-Hant": "順化市"
+    }
+  },
+  {
+    "code": "66",
+    "name": "Hưng Yên",
+    "names": {
+      "ja": "フンイエン省",
+      "ko": "흥옌성",
+      "vi": "Hưng Yên",
+      "id": "Provinsi Hung Yen",
+      "zh-Hans": "興安省"
+    }
+  },
+  {
+    "code": "34",
+    "name": "Khánh Hòa",
+    "names": {
+      "ja": "カインホア省",
+      "ko": "카인호아성",
+      "vi": "Khánh Hòa",
+      "id": "Provinsi Khanh Hoa",
+      "zh-Hans": "庆和省",
+      "zh-Hant": "慶和省"
+    }
+  },
+  {
+    "code": "01",
+    "name": "Lai Châu",
+    "names": {
+      "ja": "ライチャウ省",
+      "ko": "라이쩌우성",
+      "vi": "Lai Châu",
+      "id": "Provinsi Lai Chau",
+      "zh-Hans": "莱州省"
+    }
+  },
+  {
+    "code": "35",
+    "name": "Lâm Đồng",
+    "names": {
+      "ja": "ラムドン省",
+      "ko": "럼동성",
+      "vi": "Lâm Đồng",
+      "id": "Provinsi Lam Dong",
+      "zh-Hans": "林同省"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Lạng Sơn",
+    "names": {
+      "ja": "ランソン省",
+      "ko": "랑선성",
+      "vi": "Lạng Sơn",
+      "id": "Provinsi Lang Son",
+      "zh-Hans": "谅山省"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Lào Cai",
+    "names": {
+      "ja": "ラオカイ省",
+      "ko": "라오까이성",
+      "vi": "Lào Cai",
+      "id": "Provinsi Lao Cai",
+      "zh-Hans": "老街省"
+    }
+  },
+  {
+    "code": "22",
+    "name": "Nghệ An",
+    "names": {
+      "ja": "ゲアン省",
+      "ko": "응에안성",
+      "vi": "Nghệ An",
+      "id": "Provinsi Nghệ An",
+      "zh-Hans": "乂安省"
+    }
+  },
+  {
+    "code": "18",
+    "name": "Ninh Bình",
+    "names": {
+      "ja": "ニンビン省",
+      "ko": "닌빈성",
+      "vi": "Ninh Bình",
+      "id": "Provinsi Ninh Bình",
+      "zh-Hans": "宁平省"
+    }
+  },
+  {
+    "code": "68",
+    "name": "Phú Thọ",
+    "names": {
+      "ja": "フート省",
+      "ko": "푸토성",
+      "vi": "Phú Thọ",
+      "id": "Provinsi Phu Tho",
+      "zh-Hans": "富寿省"
+    }
+  },
+  {
+    "code": "29",
+    "name": "Quảng Ngãi",
+    "names": {
+      "ja": "クアンガイ省",
+      "ko": "꽝응아이성",
+      "vi": "Quảng Ngãi",
+      "id": "Provinsi Quang Ngai",
+      "zh-Hans": "广义省"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Quảng Ninh",
+    "names": {
+      "ja": "クアンニン省",
+      "ko": "꽝닌성",
+      "vi": "Quảng Ninh",
+      "id": "Provinsi Quang Ninh",
+      "zh-Hans": "广宁省",
+      "zh-Hant": "廣寧省"
+    }
+  },
+  {
+    "code": "25",
+    "name": "Quảng Trị",
+    "names": {
+      "ja": "クアンチ省",
+      "ko": "꽝찌성",
+      "vi": "Quảng Trị",
+      "id": "Provinsi Quang Tri",
+      "zh-Hans": "广治省",
+      "zh-Hant": "廣治省"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Sơn La",
+    "names": {
+      "ja": "ソンラ省",
+      "ko": "선라성",
+      "vi": "Sơn La",
+      "id": "Provinsi Son La",
+      "zh-Hans": "山罗省"
+    }
+  },
+  {
+    "code": "37",
+    "name": "Tây Ninh",
+    "names": {
+      "ja": "タイニン省",
+      "ko": "떠이닌성",
+      "vi": "Tây Ninh",
+      "id": "Provinsi Tay Ninh",
+      "zh-Hans": "西宁省",
+      "zh-Hant": "西寧省"
+    }
+  },
+  {
+    "code": "69",
+    "name": "Thái Nguyên",
+    "names": {
+      "ja": "タイグエン省",
+      "ko": "타이응우옌성",
+      "vi": "Thái Nguyên",
+      "id": "Provinsi Thai Nguyen",
+      "zh-Hans": "太原省"
+    }
+  },
+  {
+    "code": "21",
+    "name": "Thanh Hóa",
+    "names": {
+      "ja": "タインホア省",
+      "ko": "타인호아성",
+      "vi": "Thanh Hóa",
+      "id": "Provinsi Thanh Hoa",
+      "zh-Hans": "清化省",
+      "zh-Hant": "清化省"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Tuyên Quang",
+    "names": {
+      "ja": "トゥエンクアン省",
+      "ko": "뚜옌꽝성",
+      "vi": "Tuyên Quang",
+      "id": "Provinsi Tuyen Quang",
+      "zh-Hans": "宣光省"
+    }
+  },
+  {
+    "code": "49",
+    "name": "Vĩnh Long",
+    "names": {
+      "ja": "ヴィンロン省",
+      "ko": "빈롱성",
+      "vi": "Vĩnh Long",
+      "id": "Provinsi Vinh Long",
+      "zh-Hans": "永隆省"
+    }
+  }
+]

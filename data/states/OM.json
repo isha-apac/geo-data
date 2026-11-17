@@ -1,0 +1,124 @@
+[
+  {
+    "code": "DA",
+    "name": "Ad Dakhiliyah Governorate",
+    "names": {
+      "ja": "ダーヒリーヤ行政区",
+      "ko": "다킬리야주",
+      "vi": "Tỉnh Ad Dakhiliyah",
+      "id": "Kegubernuran Ad-Dakhiliyah",
+      "zh-Hans": "内地省"
+    }
+  },
+  {
+    "code": "ZA",
+    "name": "Ad Dhahirah Governorate",
+    "names": {
+      "ja": "ザーヒラ行政区",
+      "ko": "다히라주",
+      "vi": "Tỉnh Ad Dhahirah",
+      "id": "Kegubernuran Azh-Zhahirah Utara",
+      "zh-Hans": "扎希拉省"
+    }
+  },
+  {
+    "code": "BS",
+    "name": "Al Batinah North Governorate",
+    "names": {
+      "ja": "北バーティナ地方",
+      "ko": "북바티나주",
+      "id": "Kegubernuran Al-Batinah Utara",
+      "zh-Hans": "北巴提奈省"
+    }
+  },
+  {
+    "code": "BJ",
+    "name": "Al Batinah South Governorate",
+    "names": {
+      "ja": "南バーティナ地方",
+      "ko": "남바티나주",
+      "vi": "Tỉnh Al Batinah South",
+      "id": "Kegubernuran Al-Batinah Selatan",
+      "zh-Hans": "南巴提奈省"
+    }
+  },
+  {
+    "code": "BU",
+    "name": "Al Buraimi Governorate",
+    "names": {
+      "ja": "ブライミ特別行政区",
+      "ko": "부라이미주",
+      "vi": "Buraimi",
+      "id": "Kegubernuran Al-Buraimi",
+      "zh-Hans": "布赖米省"
+    }
+  },
+  {
+    "code": "WU",
+    "name": "Al Wusta Governorate",
+    "names": {
+      "ja": "ウスタ行政区",
+      "ko": "중부주",
+      "vi": "Tỉnh Al Wusta",
+      "id": "Kegubernuran Al-Wusta (Oman)",
+      "zh-Hans": "中部省"
+    }
+  },
+  {
+    "code": "SS",
+    "name": "Ash Sharqiyah North Governorate",
+    "names": {
+      "ja": "北シャルキーヤ地方",
+      "ko": "북동부주",
+      "vi": "Tỉnh Bắc Ash Sharqiyah",
+      "id": "Kegubernuran Asy-Syarqiyah Utara",
+      "zh-Hans": "东北省",
+      "zh-Hant": "東北省"
+    }
+  },
+  {
+    "code": "SJ",
+    "name": "Ash Sharqiyah South Governorate",
+    "names": {
+      "ja": "南シャルキーヤ地方",
+      "ko": "남동부주",
+      "vi": "Tỉnh Nam Ash Sharqiyah",
+      "id": "Kegubernuran Asy-Syarqiyah Selatan",
+      "zh-Hans": "东南省",
+      "zh-Hant": "東南省"
+    }
+  },
+  {
+    "code": "ZU",
+    "name": "Dhofar Governorate",
+    "names": {
+      "ja": "ドファール特別行政区",
+      "ko": "도파르주",
+      "vi": "Tỉnh Dhofar",
+      "id": "Dhofar",
+      "zh-Hans": "佐法尔省"
+    }
+  },
+  {
+    "code": "MU",
+    "name": "Musandam Governorate",
+    "names": {
+      "ja": "ムサンダム特別行政区",
+      "ko": "무산담주",
+      "vi": "Musandam",
+      "id": "Musandam",
+      "zh-Hans": "穆桑代姆省"
+    }
+  },
+  {
+    "code": "MA",
+    "name": "Muscat Governorate",
+    "names": {
+      "ja": "マスカット特別行政区",
+      "ko": "무스카트주",
+      "vi": "Tỉnh Muscat",
+      "id": "Kegubernuran Muskat",
+      "zh-Hans": "马斯喀特省"
+    }
+  }
+]

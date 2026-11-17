@@ -1,0 +1,98 @@
+[
+  {
+    "code": "ACT",
+    "name": "Australian Capital Territory",
+    "names": {
+      "ja": "オーストラリア首都特別地域",
+      "ko": "오스트레일리아 수도 준주",
+      "vi": "Lãnh thổ Thủ đô Úc",
+      "id": "Wilayah Ibu Kota Australia",
+      "zh-Hans": "澳大利亚首都特区",
+      "zh-Hant": "澳大利亞首都特區"
+    }
+  },
+  {
+    "code": "NSW",
+    "name": "New South Wales",
+    "names": {
+      "ja": "ニューサウスウェールズ州",
+      "ko": "뉴사우스웨일스주",
+      "vi": "New South Wales",
+      "id": "New South Wales",
+      "zh-Hans": "新南威尔士州",
+      "zh-Hant": "新南威爾斯州"
+    }
+  },
+  {
+    "code": "NT",
+    "name": "Northern Territory",
+    "names": {
+      "ja": "ノーザンテリトリー",
+      "ko": "노던 준주",
+      "vi": "Lãnh thổ Bắc Úc",
+      "id": "Wilayah Utara",
+      "zh-Hans": "北领地",
+      "zh-Hant": "北領地"
+    }
+  },
+  {
+    "code": "QLD",
+    "name": "Queensland",
+    "names": {
+      "ja": "クイーンズランド州",
+      "ko": "퀸즐랜드주",
+      "vi": "Queensland",
+      "id": "Queensland",
+      "zh-Hans": "昆士兰州",
+      "zh-Hant": "昆士蘭州"
+    }
+  },
+  {
+    "code": "SA",
+    "name": "South Australia",
+    "names": {
+      "ja": "南オーストラリア州",
+      "ko": "사우스오스트레일리아주",
+      "vi": "Nam Úc",
+      "id": "Australia Selatan",
+      "zh-Hans": "南澳大利亚州",
+      "zh-Hant": "南澳州"
+    }
+  },
+  {
+    "code": "TAS",
+    "name": "Tasmania",
+    "names": {
+      "ja": "タスマニア州",
+      "ko": "태즈메이니아주",
+      "vi": "Tasmania",
+      "id": "Tasmania",
+      "zh-Hans": "塔斯马尼亚州",
+      "zh-Hant": "塔斯馬尼亞州"
+    }
+  },
+  {
+    "code": "VIC",
+    "name": "Victoria",
+    "names": {
+      "ja": "ビクトリア州",
+      "ko": "빅토리아주",
+      "vi": "Victoria",
+      "id": "Victoria",
+      "zh-Hans": "维多利亚州",
+      "zh-Hant": "維多利亞省"
+    }
+  },
+  {
+    "code": "WA",
+    "name": "Western Australia",
+    "names": {
+      "ja": "西オーストラリア州",
+      "ko": "웨스턴오스트레일리아주",
+      "vi": "Tây Úc",
+      "id": "Australia Barat",
+      "zh-Hans": "西澳大利亚州",
+      "zh-Hant": "西澳州"
+    }
+  }
+]

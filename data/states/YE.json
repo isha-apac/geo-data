@@ -1,0 +1,252 @@
+[
+  {
+    "code": "AM",
+    "name": "'Amran Governorate",
+    "names": {
+      "ja": "アムラーン県",
+      "ko": "암란주",
+      "vi": "'Amrān",
+      "id": "Kegubernuran 'Amran",
+      "zh-Hans": "阿姆兰省",
+      "zh-Hant": "阿姆蘭省"
+    }
+  },
+  {
+    "code": "AB",
+    "name": "Abyan Governorate",
+    "names": {
+      "ja": "アビヤン県",
+      "ko": "아브얀주",
+      "vi": "Tỉnh Abyan",
+      "id": "Kegubernuran Abyan",
+      "zh-Hans": "阿比扬省",
+      "zh-Hant": "阿比揚省"
+    }
+  },
+  {
+    "code": "AD",
+    "name": "Aden Governorate",
+    "names": {
+      "ja": "アデン県",
+      "ko": "아덴주",
+      "id": "Kegubernuran 'Adan",
+      "zh-Hans": "亚丁省",
+      "zh-Hant": "亞丁省"
+    }
+  },
+  {
+    "code": "BA",
+    "name": "Al Bayda' Governorate",
+    "names": {
+      "ja": "バイダー県",
+      "ko": "바이다주",
+      "vi": "Tỉnh Al Bayda'",
+      "id": "Kegubernuran Al-Bayda'",
+      "zh-Hans": "贝达省"
+    }
+  },
+  {
+    "code": "HU",
+    "name": "Al Hudaydah Governorate",
+    "names": {
+      "ja": "フダイダ県",
+      "ko": "호데이다주",
+      "vi": "Tỉnh Al Hudaydah",
+      "id": "Kegubernuran Al-Hudaydah",
+      "zh-Hans": "荷台达省",
+      "zh-Hant": "荷台達省"
+    }
+  },
+  {
+    "code": "JA",
+    "name": "Al Jawf Governorate",
+    "names": {
+      "ja": "ジャウフ県",
+      "ko": "자우프주",
+      "vi": "Tỉnh Al Jawf",
+      "id": "Kegubernuran Al-Jawf",
+      "zh-Hans": "焦夫省",
+      "zh-Hant": "焦夫省"
+    }
+  },
+  {
+    "code": "MR",
+    "name": "Al Mahrah Governorate",
+    "names": {
+      "ja": "マフラ県",
+      "ko": "마라주",
+      "vi": "Tỉnh Al Mahrah",
+      "id": "Kegubernuran Al-Mahrah",
+      "zh-Hans": "迈赫拉省",
+      "zh-Hant": "邁赫拉省"
+    }
+  },
+  {
+    "code": "MW",
+    "name": "Al Mahwit Governorate",
+    "names": {
+      "ja": "マフウィート県",
+      "ko": "마위트주",
+      "vi": "Tỉnh Al Mahwit",
+      "id": "Kegubernuran Al-Mahwit",
+      "zh-Hans": "迈赫维特省",
+      "zh-Hant": "邁赫維特省"
+    }
+  },
+  {
+    "code": "SA",
+    "name": "Amanat al-Asimah Governorate",
+    "names": {}
+  },
+  {
+    "code": "DA",
+    "name": "Dhale Governorate",
+    "names": {
+      "ja": "ダーリウ県",
+      "ko": "달리주",
+      "vi": "Tỉnh Ad Dali'",
+      "id": "Kegubernuran Ad-Dali'",
+      "zh-Hans": "达利阿省",
+      "zh-Hant": "達利阿省"
+    }
+  },
+  {
+    "code": "DH",
+    "name": "Dhamar Governorate",
+    "names": {
+      "ja": "ザマール県",
+      "ko": "다마르주",
+      "vi": "Tỉnh Dhamar",
+      "id": "Kegubernuran Dhamar",
+      "zh-Hans": "扎马尔省",
+      "zh-Hant": "扎馬爾省"
+    }
+  },
+  {
+    "code": "HD",
+    "name": "Hadhramaut Governorate",
+    "names": {
+      "ja": "ハドラマウト県",
+      "ko": "하드라마우트주",
+      "vi": "Tỉnh Hadhramaut",
+      "id": "Kegubernuran Hadhramaut",
+      "zh-Hans": "哈德拉毛省",
+      "zh-Hant": "哈德拉毛省"
+    }
+  },
+  {
+    "code": "HJ",
+    "name": "Hajjah Governorate",
+    "names": {
+      "ja": "ハッジャ県",
+      "ko": "하자주",
+      "vi": "Tỉnh Hajjah",
+      "id": "Kegubernuran Hajjah",
+      "zh-Hans": "哈杰省",
+      "zh-Hant": "哈傑省"
+    }
+  },
+  {
+    "code": "IB",
+    "name": "Ibb Governorate",
+    "names": {
+      "ja": "イッブ県",
+      "ko": "이브주",
+      "vi": "Tỉnh Ibb",
+      "id": "Kegubernuran Ibb",
+      "zh-Hans": "伊卜省",
+      "zh-Hant": "伊卜省"
+    }
+  },
+  {
+    "code": "LA",
+    "name": "Lahij Governorate",
+    "names": {
+      "ja": "ラヒジュ県",
+      "ko": "라히즈주",
+      "id": "Kegubernuran Lahij",
+      "zh-Hans": "拉赫季省",
+      "zh-Hant": "拉赫季省"
+    }
+  },
+  {
+    "code": "MA",
+    "name": "Marib Governorate",
+    "names": {
+      "ja": "マアリブ県",
+      "ko": "마리브주",
+      "vi": "Tỉnh Ma'rib",
+      "id": "Kegubernuran Ma'rib",
+      "zh-Hans": "马里卜省",
+      "zh-Hant": "馬里卜省"
+    }
+  },
+  {
+    "code": "RA",
+    "name": "Raymah Governorate",
+    "names": {
+      "ja": "ライマ県",
+      "ko": "라이마주",
+      "vi": "Tỉnh Raymah",
+      "id": "Kegubernuran Raymah",
+      "zh-Hans": "赖马省",
+      "zh-Hant": "賴馬省"
+    }
+  },
+  {
+    "code": "SD",
+    "name": "Saada Governorate",
+    "names": {
+      "ja": "サアダ県",
+      "ko": "사다주",
+      "vi": "Tỉnh Saada",
+      "id": "Kegubernuran Saada",
+      "zh-Hans": "萨达省",
+      "zh-Hant": "薩達省"
+    }
+  },
+  {
+    "code": "SN",
+    "name": "Sanaa Governorate",
+    "names": {
+      "ja": "サナア県",
+      "ko": "사나주",
+      "id": "Kegubernuran Sana'a",
+      "zh-Hans": "萨那省",
+      "zh-Hant": "沙那省"
+    }
+  },
+  {
+    "code": "SH",
+    "name": "Shabwah Governorate",
+    "names": {
+      "ja": "シャブワ県",
+      "ko": "샤브와주",
+      "vi": "Tỉnh Shabwah",
+      "id": "Kegubernuran Shabwah",
+      "zh-Hans": "舍卜沃省",
+      "zh-Hant": "舍卜沃省"
+    }
+  },
+  {
+    "code": "SU",
+    "name": "Socotra Archipelago Governorate",
+    "names": {
+      "ja": "ソコトラ県",
+      "ko": "소코트라주",
+      "zh-Hans": "索科特拉省"
+    }
+  },
+  {
+    "code": "TA",
+    "name": "Ta'izz Governorate",
+    "names": {
+      "ja": "タイズ県",
+      "ko": "타이즈주",
+      "vi": "Tỉnh Ta'izz",
+      "id": "Kegubernuran Ta'izz",
+      "zh-Hans": "塔伊兹省",
+      "zh-Hant": "塔伊茲省"
+    }
+  }
+]

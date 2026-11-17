@@ -1,0 +1,150 @@
+[
+  {
+    "code": "AL",
+    "name": "Aileu municipality",
+    "names": {
+      "ja": "アイレウ県",
+      "ko": "아일레우현",
+      "vi": "Aileu (quận)",
+      "id": "Aileu (distrik)",
+      "zh-Hans": "阿伊莱乌县"
+    }
+  },
+  {
+    "code": "AN",
+    "name": "Ainaro Municipality",
+    "names": {
+      "ja": "アイナロ県",
+      "ko": "아이나루현",
+      "vi": "Ainaro (quận)",
+      "id": "Ainaro",
+      "zh-Hans": "阿伊纳罗县"
+    }
+  },
+  {
+    "code": "BA",
+    "name": "Baucau Municipality",
+    "names": {
+      "ja": "バウカウ県",
+      "ko": "바우카우현",
+      "vi": "Baucau (quận)",
+      "id": "Baucau (distrik)",
+      "zh-Hans": "包考县"
+    }
+  },
+  {
+    "code": "BO",
+    "name": "Bobonaro Municipality",
+    "names": {
+      "ja": "ボボナロ県",
+      "ko": "보보나루현",
+      "vi": "Bobonaro",
+      "id": "Bobonaro",
+      "zh-Hans": "博博纳罗县",
+      "zh-Hant": "博博納羅縣"
+    }
+  },
+  {
+    "code": "CO",
+    "name": "Cova Lima Municipality",
+    "names": {
+      "ja": "コヴァ・リマ県",
+      "ko": "코바리마현",
+      "vi": "Cova Lima",
+      "id": "Cova-Lima",
+      "zh-Hans": "科瓦利马县"
+    }
+  },
+  {
+    "code": "DI",
+    "name": "Dili Municipality",
+    "names": {
+      "ja": "ディリ県",
+      "ko": "딜리현",
+      "vi": "Dili",
+      "id": "Díli",
+      "zh-Hans": "帝力县",
+      "zh-Hant": "帝力縣"
+    }
+  },
+  {
+    "code": "ER",
+    "name": "Ermera Municipality",
+    "names": {
+      "ja": "エルメラ県",
+      "ko": "에르메라현",
+      "vi": "Ermera",
+      "id": "Ermera",
+      "zh-Hans": "埃尔梅拉县"
+    }
+  },
+  {
+    "code": "LA",
+    "name": "Lautém Municipality",
+    "names": {
+      "ja": "ラウテン県",
+      "ko": "라우텡현",
+      "vi": "Lautém",
+      "id": "Lautém",
+      "zh-Hans": "劳滕县"
+    }
+  },
+  {
+    "code": "LI",
+    "name": "Liquiçá Municipality",
+    "names": {
+      "ja": "リキシャ県",
+      "ko": "리키사현",
+      "vi": "Liquiçá",
+      "id": "Liquiçá",
+      "zh-Hans": "利逵萨县",
+      "zh-Hant": "利逵薩縣"
+    }
+  },
+  {
+    "code": "MT",
+    "name": "Manatuto Municipality",
+    "names": {
+      "ja": "マナトゥト県",
+      "ko": "마나투투현",
+      "vi": "Manatuto",
+      "id": "Manatuto",
+      "zh-Hans": "马纳图托县",
+      "zh-Hant": "馬納圖托縣"
+    }
+  },
+  {
+    "code": "MF",
+    "name": "Manufahi Municipality",
+    "names": {
+      "ja": "マヌファヒ県",
+      "ko": "마누파이현",
+      "vi": "Manufahi",
+      "id": "Manufahi",
+      "zh-Hans": "马努法伊县"
+    }
+  },
+  {
+    "code": "OE",
+    "name": "Oe-Cusse Ambeno",
+    "names": {
+      "ja": "オエクシ＝アンベノ",
+      "ko": "오에쿠시현",
+      "vi": "Oecusse",
+      "id": "Oe-Cusse Ambeno",
+      "zh-Hans": "欧库西-安贝诺县",
+      "zh-Hant": "歐庫西-安貝諾縣"
+    }
+  },
+  {
+    "code": "VI",
+    "name": "Viqueque Municipality",
+    "names": {
+      "ja": "ヴィケケ県",
+      "ko": "비케크현",
+      "vi": "Viqueque",
+      "id": "Viqueque",
+      "zh-Hans": "维克克县"
+    }
+  }
+]

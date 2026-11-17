@@ -1,0 +1,45 @@
+[
+  {
+    "code": "02",
+    "name": "Haʻapai district",
+    "names": {
+      "ja": "ハアパイ（地区）"
+    }
+  },
+  {
+    "code": "01",
+    "name": "ʻEua district",
+    "names": {
+      "ja": "エウア（地区）"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Niuas",
+    "names": {
+      "ja": "ニウアス諸島",
+      "ko": "니우아 제도",
+      "vi": "Niuas",
+      "id": "Kepulauan Niua",
+      "zh-Hans": "紐阿斯群島"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Tongatapu",
+    "names": {
+      "ja": "トンガタプ（地区）",
+      "vi": "Tongatapu",
+      "id": "Tongatapu"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Vava‘u",
+    "names": {
+      "ja": "ヴァヴァウ（地区）",
+      "vi": "Vava'u",
+      "id": "Vava'u"
+    }
+  }
+]

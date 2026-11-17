@@ -1,0 +1,38 @@
+[
+  {
+    "code": "A",
+    "name": "Anjouan",
+    "names": {
+      "ja": "アンジュアン島",
+      "ko": "앙주앙섬",
+      "vi": "Anjouan",
+      "id": "Anjouan",
+      "zh-Hans": "昂儒昂岛",
+      "zh-Hant": "昂儒昂島"
+    }
+  },
+  {
+    "code": "G",
+    "name": "Grande Comore",
+    "names": {
+      "ja": "グランドコモロ島",
+      "ko": "그랑드코모르섬",
+      "vi": "Grande Comore",
+      "id": "Komoro Besar",
+      "zh-Hans": "大科摩罗岛",
+      "zh-Hant": "大科摩羅島"
+    }
+  },
+  {
+    "code": "M",
+    "name": "Mohéli",
+    "names": {
+      "ja": "モヘリ島",
+      "ko": "모엘리섬",
+      "vi": "Mohéli",
+      "id": "Mohéli",
+      "zh-Hans": "莫埃利岛",
+      "zh-Hant": "莫埃利島"
+    }
+  }
+]

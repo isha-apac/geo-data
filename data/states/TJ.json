@@ -1,0 +1,62 @@
+[
+  {
+    "code": "RA",
+    "name": "Districts under Central Government Jurisdiction",
+    "names": {
+      "ja": "共和国直轄地",
+      "ko": "공화국 직할구",
+      "vi": "Các Quận của Republican Subordination",
+      "id": "Region Republik Subordinasi",
+      "zh-Hans": "国家直辖区",
+      "zh-Hant": "國家直轄區"
+    }
+  },
+  {
+    "code": "DU",
+    "name": "Dushanbe",
+    "names": {
+      "ja": "ドゥシャンベ",
+      "ko": "두샨베",
+      "vi": "Dushanbe",
+      "id": "Dushanbe",
+      "zh-Hans": "杜尚别",
+      "zh-Hant": "杜尚貝"
+    }
+  },
+  {
+    "code": "GB",
+    "name": "Gorno-Badakhshan Autonomous Region",
+    "names": {
+      "ja": "ゴルノ・バダフシャン自治州",
+      "ko": "고르노바다흐샨 자치주",
+      "vi": "Gorno-Badakhshan",
+      "id": "Provinsi Otonom Gorno-Badakhshan",
+      "zh-Hans": "山地巴达赫尚自治州",
+      "zh-Hant": "山地巴達赫尚自治州"
+    }
+  },
+  {
+    "code": "KT",
+    "name": "Khatlon Province",
+    "names": {
+      "ja": "ハトロン州",
+      "ko": "하틀론주",
+      "vi": "Khatlon",
+      "id": "Khatlon",
+      "zh-Hans": "哈特隆州",
+      "zh-Hant": "哈特隆州"
+    }
+  },
+  {
+    "code": "SU",
+    "name": "Sughd Province",
+    "names": {
+      "ja": "ソグド州",
+      "ko": "수그드주",
+      "vi": "Sughd",
+      "id": "Provinsi Sughd",
+      "zh-Hans": "粟特州",
+      "zh-Hant": "粟特州"
+    }
+  }
+]

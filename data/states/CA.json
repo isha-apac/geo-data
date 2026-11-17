@@ -1,0 +1,158 @@
+[
+  {
+    "code": "AB",
+    "name": "Alberta",
+    "names": {
+      "ja": "アルバータ州",
+      "ko": "앨버타주",
+      "vi": "Alberta",
+      "id": "Alberta",
+      "zh-Hans": "阿尔伯塔省",
+      "zh-Hant": "亞伯達省"
+    }
+  },
+  {
+    "code": "BC",
+    "name": "British Columbia",
+    "names": {
+      "ja": "ブリティッシュコロンビア州",
+      "ko": "브리티시컬럼비아주",
+      "vi": "British Columbia",
+      "id": "British Columbia",
+      "zh-Hans": "不列颠哥伦比亚省",
+      "zh-Hant": "不列顛哥倫比亞省"
+    }
+  },
+  {
+    "code": "MB",
+    "name": "Manitoba",
+    "names": {
+      "ja": "マニトバ州",
+      "ko": "매니토바주",
+      "vi": "Manitoba",
+      "id": "Manitoba",
+      "zh-Hans": "马尼托巴省",
+      "zh-Hant": "曼尼托巴省"
+    }
+  },
+  {
+    "code": "NB",
+    "name": "New Brunswick",
+    "names": {
+      "ja": "ニューブランズウィック州",
+      "ko": "뉴브런즈윅주",
+      "vi": "New Brunswick",
+      "id": "New Brunswick",
+      "zh-Hans": "新不伦瑞克",
+      "zh-Hant": "新不倫瑞克"
+    }
+  },
+  {
+    "code": "NL",
+    "name": "Newfoundland and Labrador",
+    "names": {
+      "ja": "ニューファンドランド・ラブラドール州",
+      "ko": "뉴펀들랜드 래브라도주",
+      "vi": "Newfoundland và Labrador",
+      "id": "Newfoundland and Labrador",
+      "zh-Hans": "纽芬兰-拉布拉多省",
+      "zh-Hant": "紐芬蘭-拉布拉多省"
+    }
+  },
+  {
+    "code": "NT",
+    "name": "Northwest Territories",
+    "names": {
+      "ja": "ノースウエスト準州",
+      "ko": "노스웨스트 준주",
+      "vi": "Các Lãnh thổ Tây Bắc",
+      "id": "Wilayah Barat Laut",
+      "zh-Hans": "西北地区",
+      "zh-Hant": "西北地區"
+    }
+  },
+  {
+    "code": "NS",
+    "name": "Nova Scotia",
+    "names": {
+      "ja": "ノバスコシア州",
+      "ko": "노바스코샤주",
+      "vi": "Nova Scotia",
+      "id": "Nova Scotia",
+      "zh-Hans": "新斯科舍省",
+      "zh-Hant": "新斯科舍省"
+    }
+  },
+  {
+    "code": "NU",
+    "name": "Nunavut",
+    "names": {
+      "ja": "ヌナブト準州",
+      "ko": "누나부트 준주",
+      "vi": "Nunavut",
+      "id": "Nunavut",
+      "zh-Hans": "努纳武特",
+      "zh-Hant": "努納武特"
+    }
+  },
+  {
+    "code": "ON",
+    "name": "Ontario",
+    "names": {
+      "ja": "オンタリオ州",
+      "ko": "온타리오주",
+      "vi": "Ontario",
+      "id": "Ontario",
+      "zh-Hans": "安大略省",
+      "zh-Hant": "安大略省"
+    }
+  },
+  {
+    "code": "PE",
+    "name": "Prince Edward Island",
+    "names": {
+      "ja": "プリンスエドワード島",
+      "ko": "프린스에드워드아일랜드",
+      "vi": "Đảo Hoàng tử Edward",
+      "id": "Pulau Pangeran Edward",
+      "zh-Hans": "爱德华王子岛",
+      "zh-Hant": "愛德華王子島省"
+    }
+  },
+  {
+    "code": "QC",
+    "name": "Quebec",
+    "names": {
+      "ja": "ケベック州",
+      "ko": "퀘벡주",
+      "vi": "Québec",
+      "id": "Quebec",
+      "zh-Hans": "魁北克省",
+      "zh-Hant": "魁北克省"
+    }
+  },
+  {
+    "code": "SK",
+    "name": "Saskatchewan",
+    "names": {
+      "ja": "サスカチュワン州",
+      "ko": "서스캐처원주",
+      "vi": "Saskatchewan",
+      "id": "Saskatchewan",
+      "zh-Hans": "萨斯喀彻温省",
+      "zh-Hant": "薩斯喀徹溫省"
+    }
+  },
+  {
+    "code": "YT",
+    "name": "Yukon",
+    "names": {
+      "ja": "ユーコン準州",
+      "ko": "유콘 준주",
+      "vi": "Yukon",
+      "id": "Yukon",
+      "zh-Hans": "育空",
+      "zh-Hant": "育空"
+    }
+  }
+]

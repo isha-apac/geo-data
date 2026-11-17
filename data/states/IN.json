@@ -1,0 +1,422 @@
+[
+  {
+    "code": "AN",
+    "name": "Andaman and Nicobar Islands",
+    "names": {
+      "ja": "アンダマン・ニコバル諸島",
+      "ko": "안다만 니코바르 제도",
+      "vi": "Quần đảo Andaman và Nicobar",
+      "id": "Kepulauan Andaman dan Nikobar",
+      "zh-Hans": "安达曼-尼科巴群岛",
+      "zh-Hant": "安達曼-尼科巴群島"
+    }
+  },
+  {
+    "code": "AP",
+    "name": "Andhra Pradesh",
+    "names": {
+      "ja": "アーンドラ・プラデーシュ州",
+      "ko": "안드라프라데시주",
+      "vi": "Andhra Pradesh",
+      "id": "Andhra Pradesh",
+      "zh-Hans": "安得拉邦",
+      "zh-Hant": "安得拉邦"
+    }
+  },
+  {
+    "code": "AR",
+    "name": "Arunachal Pradesh",
+    "names": {
+      "ja": "アルナーチャル・プラデーシュ州",
+      "ko": "아루나찰프라데시주",
+      "vi": "Arunachal Pradesh",
+      "id": "Arunachal Pradesh",
+      "zh-Hans": "阿鲁纳恰尔邦",
+      "zh-Hant": "阿魯納恰爾邦"
+    }
+  },
+  {
+    "code": "AS",
+    "name": "Assam",
+    "names": {
+      "ja": "アッサム州",
+      "ko": "아삼주",
+      "vi": "Assam",
+      "id": "Assam",
+      "zh-Hans": "阿萨姆邦",
+      "zh-Hant": "阿薩姆邦"
+    }
+  },
+  {
+    "code": "BR",
+    "name": "Bihar",
+    "names": {
+      "ja": "ビハール州",
+      "ko": "비하르주",
+      "vi": "Bihar",
+      "id": "Bihar",
+      "zh-Hans": "比哈尔邦",
+      "zh-Hant": "比哈爾邦"
+    }
+  },
+  {
+    "code": "CH",
+    "name": "Chandigarh",
+    "names": {}
+  },
+  {
+    "code": "CT",
+    "name": "Chhattisgarh",
+    "names": {
+      "ja": "チャッティースガル州",
+      "ko": "차티스가르주",
+      "vi": "Chhattisgarh",
+      "id": "Chhattisgarh",
+      "zh-Hans": "切蒂斯格尔邦",
+      "zh-Hant": "切蒂斯格爾邦"
+    }
+  },
+  {
+    "code": "DH",
+    "name": "Dadra and Nagar Haveli and Daman and Diu",
+    "names": {
+      "ja": "ダードラー・ナガル・ハヴェーリーおよびダマン・ディーウ連邦直轄領",
+      "ko": "다드라 나가르하벨리 다만 디우",
+      "vi": "Dadra và Nagar Haveli và Daman và Diu",
+      "id": "Dadra dan Nagar Haveli dan Daman dan Diu",
+      "zh-Hans": "達德拉-納加爾哈維利和達曼-第烏",
+      "zh-Hant": "達德拉-納加爾哈維利和達曼-第烏"
+    }
+  },
+  {
+    "code": "GA",
+    "name": "Goa",
+    "names": {
+      "ja": "ゴア州",
+      "ko": "고아주",
+      "vi": "Goa",
+      "id": "Goa",
+      "zh-Hans": "果阿邦",
+      "zh-Hant": "果亞邦"
+    }
+  },
+  {
+    "code": "GJ",
+    "name": "Gujarat",
+    "names": {
+      "ja": "グジャラート州",
+      "ko": "구자라트주",
+      "vi": "Gujarat",
+      "id": "Gujarat",
+      "zh-Hans": "古吉拉特邦",
+      "zh-Hant": "古吉拉特邦"
+    }
+  },
+  {
+    "code": "HR",
+    "name": "Haryana",
+    "names": {
+      "ja": "ハリヤーナー州",
+      "ko": "하리아나주",
+      "vi": "Haryana",
+      "id": "Haryana",
+      "zh-Hans": "哈里亚纳邦",
+      "zh-Hant": "哈里亞納邦"
+    }
+  },
+  {
+    "code": "HP",
+    "name": "Himachal Pradesh",
+    "names": {
+      "ja": "ヒマーチャル・プラデーシュ州",
+      "ko": "히마찰프라데시주",
+      "vi": "Himachal Pradesh",
+      "id": "Himachal Pradesh",
+      "zh-Hans": "喜马偕尔邦",
+      "zh-Hant": "喜馬偕爾邦"
+    }
+  },
+  {
+    "code": "JK",
+    "name": "Jammu and Kashmir",
+    "names": {
+      "ja": "ジャンムー・カシミール連邦直轄領",
+      "ko": "잠무 카슈미르",
+      "vi": "Jammu và Kashmir",
+      "id": "Jammu dan Kashmir",
+      "zh-Hans": "查谟和克什米尔",
+      "zh-Hant": "查謨和克什米爾"
+    }
+  },
+  {
+    "code": "JH",
+    "name": "Jharkhand",
+    "names": {
+      "ja": "ジャールカンド州",
+      "ko": "자르칸드주",
+      "vi": "Jharkhand",
+      "id": "Jharkhand",
+      "zh-Hans": "贾坎德邦",
+      "zh-Hant": "賈坎德邦"
+    }
+  },
+  {
+    "code": "KA",
+    "name": "Karnataka",
+    "names": {
+      "ja": "カルナータカ州",
+      "ko": "카르나타카주",
+      "vi": "Karnataka",
+      "id": "Karnataka",
+      "zh-Hans": "卡纳塔克邦",
+      "zh-Hant": "卡納塔克邦"
+    }
+  },
+  {
+    "code": "KL",
+    "name": "Kerala",
+    "names": {
+      "ja": "ケーララ州",
+      "ko": "케랄라주",
+      "vi": "Kerala",
+      "id": "Kerala",
+      "zh-Hans": "喀拉拉邦",
+      "zh-Hant": "喀拉拉邦"
+    }
+  },
+  {
+    "code": "LA",
+    "name": "Ladakh",
+    "names": {
+      "ja": "ラダック",
+      "ko": "라다크",
+      "vi": "Ladakh",
+      "id": "Ladakh",
+      "zh-Hans": "拉达克",
+      "zh-Hant": "拉達克"
+    }
+  },
+  {
+    "code": "LD",
+    "name": "Lakshadweep",
+    "names": {
+      "ja": "ラクシャディープ諸島",
+      "ko": "락샤드위프 제도",
+      "vi": "Lakshadweep",
+      "id": "Lakshadweep",
+      "zh-Hans": "拉克沙群岛",
+      "zh-Hant": "拉克沙群島"
+    }
+  },
+  {
+    "code": "MP",
+    "name": "Madhya Pradesh",
+    "names": {
+      "ja": "マディヤ・プラデーシュ州",
+      "ko": "마디아프라데시주",
+      "vi": "Madhya Pradesh",
+      "id": "Madhya Pradesh",
+      "zh-Hans": "中央邦",
+      "zh-Hant": "中央邦"
+    }
+  },
+  {
+    "code": "MH",
+    "name": "Maharashtra",
+    "names": {
+      "ja": "マハーラーシュトラ州",
+      "ko": "마하라슈트라주",
+      "vi": "Maharashtra",
+      "id": "Maharashtra",
+      "zh-Hans": "马哈拉施特拉邦",
+      "zh-Hant": "馬哈拉什特拉邦"
+    }
+  },
+  {
+    "code": "MN",
+    "name": "Manipur",
+    "names": {
+      "ja": "マニプル州",
+      "ko": "마니푸르주",
+      "vi": "Manipur",
+      "id": "Manipur",
+      "zh-Hans": "曼尼普尔邦",
+      "zh-Hant": "曼尼普爾邦"
+    }
+  },
+  {
+    "code": "ML",
+    "name": "Meghalaya",
+    "names": {
+      "ja": "メーガーラヤ州",
+      "ko": "메갈라야주",
+      "vi": "Meghalaya",
+      "id": "Meghalaya",
+      "zh-Hans": "梅加拉亚邦",
+      "zh-Hant": "梅加拉亚邦"
+    }
+  },
+  {
+    "code": "MZ",
+    "name": "Mizoram",
+    "names": {
+      "ja": "ミゾラム州",
+      "ko": "미조람주",
+      "vi": "Mizoram",
+      "id": "Mizoram",
+      "zh-Hans": "米佐拉姆邦",
+      "zh-Hant": "米佐拉姆邦"
+    }
+  },
+  {
+    "code": "NL",
+    "name": "Nagaland",
+    "names": {
+      "ja": "ナガランド州",
+      "ko": "나갈랜드주",
+      "vi": "Nagaland",
+      "id": "Nagaland",
+      "zh-Hans": "那加兰邦",
+      "zh-Hant": "那加蘭邦"
+    }
+  },
+  {
+    "code": "DL",
+    "name": "National Capital Territory of Delhi",
+    "names": {
+      "ko": "델리 연방 수도구역"
+    }
+  },
+  {
+    "code": "OR",
+    "name": "Odisha",
+    "names": {
+      "ja": "オリッサ州",
+      "ko": "오디샤주",
+      "vi": "Orissa",
+      "id": "Orissa",
+      "zh-Hans": "奥迪沙邦",
+      "zh-Hant": "奥迪沙邦"
+    }
+  },
+  {
+    "code": "PY",
+    "name": "Puducherry",
+    "names": {
+      "ja": "ポンディシェリ連邦直轄領",
+      "ko": "푸두체리",
+      "vi": "Puducherry",
+      "id": "Puducherry",
+      "zh-Hans": "本地治里",
+      "zh-Hant": "本地治里"
+    }
+  },
+  {
+    "code": "PB",
+    "name": "Punjab",
+    "names": {
+      "ja": "パンジャーブ州",
+      "ko": "펀자브주",
+      "vi": "Punjab",
+      "id": "Punjab",
+      "zh-Hans": "旁遮普邦",
+      "zh-Hant": "旁遮普邦"
+    }
+  },
+  {
+    "code": "RJ",
+    "name": "Rajasthan",
+    "names": {
+      "ja": "ラージャスターン州",
+      "ko": "라자스탄주",
+      "vi": "Rajasthan",
+      "id": "Rajasthan",
+      "zh-Hans": "拉贾斯坦邦",
+      "zh-Hant": "拉賈斯坦邦"
+    }
+  },
+  {
+    "code": "SK",
+    "name": "Sikkim",
+    "names": {
+      "ja": "シッキム州",
+      "ko": "시킴주",
+      "vi": "Sikkim",
+      "id": "Sikkim",
+      "zh-Hans": "锡金邦",
+      "zh-Hant": "錫金邦"
+    }
+  },
+  {
+    "code": "TN",
+    "name": "Tamil Nadu",
+    "names": {
+      "ja": "タミル・ナードゥ州",
+      "ko": "타밀나두주",
+      "vi": "Tamil Nadu",
+      "id": "Tamil Nadu",
+      "zh-Hans": "泰米尔纳德邦",
+      "zh-Hant": "坦米爾納杜邦"
+    }
+  },
+  {
+    "code": "TG",
+    "name": "Telangana",
+    "names": {
+      "ja": "テランガーナ州",
+      "ko": "텔랑가나주",
+      "vi": "Telangana",
+      "id": "Telangana",
+      "zh-Hans": "特伦甘纳邦",
+      "zh-Hant": "泰倫加納邦"
+    }
+  },
+  {
+    "code": "TR",
+    "name": "Tripura",
+    "names": {
+      "ja": "トリプラ州",
+      "ko": "트리푸라주",
+      "vi": "Tripura",
+      "id": "Tripura",
+      "zh-Hans": "特里普拉邦",
+      "zh-Hant": "特里普拉邦"
+    }
+  },
+  {
+    "code": "UP",
+    "name": "Uttar Pradesh",
+    "names": {
+      "ja": "ウッタル・プラデーシュ州",
+      "ko": "우타르프라데시주",
+      "vi": "Uttar Pradesh",
+      "id": "Uttar Pradesh",
+      "zh-Hans": "北方邦",
+      "zh-Hant": "北方邦"
+    }
+  },
+  {
+    "code": "UK",
+    "name": "Uttarakhand",
+    "names": {
+      "ja": "ウッタラーカンド州",
+      "ko": "우타라칸드주",
+      "vi": "Uttarakhand",
+      "id": "Uttarakhand",
+      "zh-Hans": "北阿坎德邦",
+      "zh-Hant": "北阿坎德邦"
+    }
+  },
+  {
+    "code": "WB",
+    "name": "West Bengal",
+    "names": {
+      "ja": "西ベンガル州",
+      "ko": "서벵골주",
+      "vi": "Tây Bengal",
+      "id": "Benggala Barat",
+      "zh-Hans": "西孟加拉邦",
+      "zh-Hant": "西孟加拉邦"
+    }
+  }
+]

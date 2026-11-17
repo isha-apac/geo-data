@@ -1,0 +1,202 @@
+[
+  {
+    "code": "BB",
+    "name": "Bamingui-Bangoran Prefecture",
+    "names": {
+      "ja": "バミンギ・バンゴラン州",
+      "ko": "바밍기방고랑주",
+      "vi": "Bamingui-Bangoran",
+      "id": "Bamingui-Bangoran",
+      "zh-Hans": "巴明吉-班戈兰省",
+      "zh-Hant": "巴明吉-班戈蘭省"
+    }
+  },
+  {
+    "code": "BGF",
+    "name": "Bangui",
+    "names": {
+      "ja": "バンギ",
+      "ko": "방기",
+      "vi": "Bangui",
+      "id": "Bangui",
+      "zh-Hans": "班吉",
+      "zh-Hant": "班基"
+    }
+  },
+  {
+    "code": "BK",
+    "name": "Basse-Kotto Prefecture",
+    "names": {
+      "ja": "バス・コト州",
+      "ko": "바스코토주",
+      "vi": "Basse-Kotto",
+      "id": "Prefektur Basse-Kotto",
+      "zh-Hans": "下科托省"
+    }
+  },
+  {
+    "code": "HM",
+    "name": "Haut-Mbomou Prefecture",
+    "names": {
+      "ja": "オー・ムボム州",
+      "ko": "오트음보무주",
+      "vi": "Quận Haut-Mbomou",
+      "id": "Prefektur Haut-Mbomou",
+      "zh-Hans": "上姆博穆省",
+      "zh-Hant": "上姆博穆省"
+    }
+  },
+  {
+    "code": "HK",
+    "name": "Haute-Kotto Prefecture",
+    "names": {
+      "ja": "オート・コト州",
+      "ko": "오트코토주",
+      "vi": "Tỉnh Haute-Kotto",
+      "id": "Prefektur Haute-Kotto",
+      "zh-Hans": "上科托省",
+      "zh-Hant": "上科托省"
+    }
+  },
+  {
+    "code": "KG",
+    "name": "Kémo Prefecture",
+    "names": {
+      "ja": "ケモ州",
+      "ko": "케모주",
+      "vi": "Tỉnh Kémo",
+      "id": "Prefektur Kémo",
+      "zh-Hans": "凯莫省",
+      "zh-Hant": "凱莫省"
+    }
+  },
+  {
+    "code": "LB",
+    "name": "Lobaye Prefecture",
+    "names": {
+      "ja": "ロバイエ州",
+      "ko": "로바예주",
+      "vi": "Tỉnh Lobaye",
+      "id": "Lobaye",
+      "zh-Hans": "洛巴耶省",
+      "zh-Hant": "洛巴耶省"
+    }
+  },
+  {
+    "code": "HS",
+    "name": "Mambéré-Kadéï",
+    "names": {
+      "ja": "マンベレ・カデイ州",
+      "ko": "맘베레카데이주",
+      "vi": "Mambéré-Kadéi",
+      "id": "Mambéré-Kadéï",
+      "zh-Hans": "曼贝雷-卡代省",
+      "zh-Hant": "曼貝雷-卡代省"
+    }
+  },
+  {
+    "code": "MB",
+    "name": "Mbomou Prefecture",
+    "names": {
+      "ja": "ムボム州",
+      "ko": "음보무주",
+      "vi": "Tỉnh Mbomou",
+      "id": "Prefektur Mbomou",
+      "zh-Hans": "姆博穆省",
+      "zh-Hant": "姆博穆省"
+    }
+  },
+  {
+    "code": "KB",
+    "name": "Nana-Grébizi Economic Prefecture",
+    "names": {
+      "ja": "ナナ・グリビジ州",
+      "ko": "나나그레비지주",
+      "vi": "Tỉnh Nana-Grébizi Economic",
+      "id": "Prefektur Ekonomi Nana-Grébizi",
+      "zh-Hans": "纳纳-格雷比济省",
+      "zh-Hant": "納納-格雷比濟省"
+    }
+  },
+  {
+    "code": "NM",
+    "name": "Nana-Mambéré Prefecture",
+    "names": {
+      "ja": "ナナ・メンベレ州",
+      "ko": "나나맘베레주",
+      "vi": "Quận Nana-Mambéré",
+      "id": "Prefektur Nana-Mambéré",
+      "zh-Hans": "纳纳-曼贝雷省"
+    }
+  },
+  {
+    "code": "MP",
+    "name": "Ombella-M'Poko Prefecture",
+    "names": {
+      "ja": "オンベラ・ムポコ州",
+      "ko": "옴벨라음포코주",
+      "vi": "Tỉnh Ombella-M'Poko",
+      "id": "Prefektur Ombella-M'Poko",
+      "zh-Hans": "翁贝拉－姆波科省"
+    }
+  },
+  {
+    "code": "UK",
+    "name": "Ouaka Prefecture",
+    "names": {
+      "ja": "ワカ州",
+      "ko": "와카주",
+      "vi": "Tỉnh Ouaka",
+      "id": "Prefektur Ouaka",
+      "zh-Hans": "瓦卡省",
+      "zh-Hant": "瓦卡省"
+    }
+  },
+  {
+    "code": "AC",
+    "name": "Ouham Prefecture",
+    "names": {
+      "ja": "ウハム州",
+      "ko": "우암주",
+      "vi": "Tỉnh Ouham",
+      "id": "Prefektur Ouham",
+      "zh-Hans": "瓦姆省"
+    }
+  },
+  {
+    "code": "OP",
+    "name": "Ouham-Pendé Prefecture",
+    "names": {
+      "ja": "ウハム・ペンデ州",
+      "ko": "우암펭데주",
+      "vi": "Quận Ouham-Pendé",
+      "id": "Prefektur Ouham-Pendé",
+      "zh-Hans": "瓦姆-彭代省",
+      "zh-Hant": "瓦姆-彭代省"
+    }
+  },
+  {
+    "code": "SE",
+    "name": "Sangha-Mbaéré",
+    "names": {
+      "ja": "サンガ・ムバエレ州",
+      "ko": "상가음바에레주",
+      "vi": "Tỉnh Kinh tế Sangha-Mbaéré",
+      "id": "Prefektur Ekonomi Sangha-Mbaéré",
+      "zh-Hans": "桑加-姆巴埃雷省",
+      "zh-Hant": "桑加-姆巴埃雷省"
+    }
+  },
+  {
+    "code": "VK",
+    "name": "Vakaga Prefecture",
+    "names": {
+      "ja": "バカガ州",
+      "ko": "바카가주",
+      "vi": "Tỉnh Vakaga",
+      "id": "Prefektur Vakaga",
+      "zh-Hans": "瓦卡加省",
+      "zh-Hant": "瓦卡加省"
+    }
+  }
+]

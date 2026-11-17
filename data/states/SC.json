@@ -1,0 +1,295 @@
+[
+  {
+    "code": "02",
+    "name": "Anse Boileau",
+    "names": {
+      "ja": "アンセ・ボイレヤー",
+      "ko": "앙스부알로구",
+      "vi": "Anse Boileau",
+      "id": "Anse Boileau",
+      "zh-Hans": "安塞布瓦洛区"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Anse Etoile",
+    "names": {
+      "ja": "アンセ・エチオエ",
+      "ko": "앙스에투알구",
+      "vi": "Anse Etoile",
+      "id": "Anse Etoile",
+      "zh-Hans": "安塞艾托瓦区"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Anse Royale",
+    "names": {
+      "ja": "アンセ・ロイヤル",
+      "ko": "앙스루아얄구",
+      "vi": "Anse Royale",
+      "id": "Anse Royale",
+      "zh-Hans": "安塞罗亚莱区",
+      "zh-Hant": "安塞羅亞萊區"
+    }
+  },
+  {
+    "code": "01",
+    "name": "Anse-aux-Pins",
+    "names": {
+      "ja": "アンセ=エクス=プリス",
+      "ko": "앙스오팽구",
+      "vi": "Anse-aux-Pins",
+      "id": "Anse aux Pins",
+      "zh-Hans": "安塞奥潘区"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Au Cap",
+    "names": {
+      "ja": "アウ・カップ",
+      "ko": "오카프구",
+      "vi": "Au Cap",
+      "id": "Au Cap",
+      "zh-Hans": "奥凯普区"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Baie Lazare",
+    "names": {
+      "ja": "バイエ・ロザーレ",
+      "ko": "베라자르구",
+      "vi": "Baie Lazare",
+      "id": "Baie Lazare",
+      "zh-Hans": "贝拉扎尔区"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Baie Sainte Anne",
+    "names": {
+      "ja": "バイエ・セント・アンセ",
+      "ko": "베생트안구",
+      "vi": "Baie Sainte Anne",
+      "id": "Baie Sainte Anne",
+      "zh-Hans": "贝圣安那区"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Beau Vallon",
+    "names": {
+      "ja": "ベウ・バロン",
+      "ko": "보발롱구",
+      "vi": "Beau Vallon",
+      "id": "Beau Vallon",
+      "zh-Hans": "博瓦隆区"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Bel Air",
+    "names": {
+      "ja": "ベル・エアー",
+      "ko": "벨에르구",
+      "vi": "Bel Air",
+      "id": "Bel Air, Seychelles",
+      "zh-Hans": "贝尔艾尔区"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Bel Ombre",
+    "names": {
+      "ja": "ベル・オンブレ",
+      "ko": "벨옴브르구",
+      "vi": "Bel Ombre",
+      "id": "Bel Ombre",
+      "zh-Hans": "贝尔翁布雷区",
+      "zh-Hant": "貝爾翁布雷區"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Cascade",
+    "names": {
+      "ja": "カスカドゥ",
+      "ko": "카스카드구",
+      "vi": "Cascade",
+      "id": "Cascade, Seychelles",
+      "zh-Hans": "卡斯喀得区"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Glacis",
+    "names": {
+      "ja": "グラシ",
+      "ko": "글라시구",
+      "vi": "Glacis",
+      "id": "Glacis",
+      "zh-Hans": "格拉西斯区",
+      "zh-Hant": "格拉西斯區"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Grand'Anse Mahé",
+    "names": {
+      "ja": "グランド・アンセ・マーヘ",
+      "ko": "그랑당스마에구",
+      "id": "Grand'Anse Mahé",
+      "zh-Hans": "马埃大安塞区",
+      "zh-Hant": "馬埃大安塞區"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Grand'Anse Praslin",
+    "names": {
+      "ja": "グランド・アンセ・プラスリン",
+      "ko": "그랑당스프라슬랭구",
+      "vi": "Grand'Anse Praslin",
+      "id": "Grand'Anse Praslin",
+      "zh-Hans": "普拉兰大安塞区"
+    }
+  },
+  {
+    "code": "26",
+    "name": "Ile Perseverance I",
+    "names": {}
+  },
+  {
+    "code": "27",
+    "name": "Ile Perseverance II",
+    "names": {}
+  },
+  {
+    "code": "15",
+    "name": "La Digue and Inner Islands",
+    "names": {
+      "ja": "ラ・ディーグ島およびインナー諸島",
+      "ko": "라디그 및 내부 도서 구",
+      "vi": "Quần đảo La Digue và Inner",
+      "id": "La Digue dan Inner Islands",
+      "zh-Hans": "拉蒂格与内岛区",
+      "zh-Hant": "拉蒂格與內島區"
+    }
+  },
+  {
+    "code": "16",
+    "name": "La Rivière Anglaise",
+    "names": {
+      "ja": "ラ・リヴィエール・アングレーズ",
+      "ko": "라리비에르앙글레즈구",
+      "vi": "La Rivière Anglaise",
+      "id": "La Rivière Anglaise",
+      "zh-Hans": "英吉利河"
+    }
+  },
+  {
+    "code": "24",
+    "name": "Les Mamelles",
+    "names": {
+      "ja": "レス・マーメルズ",
+      "ko": "레마멜구",
+      "vi": "Les Mamelles",
+      "id": "Les Mamelles",
+      "zh-Hans": "雷玛麦尔区"
+    }
+  },
+  {
+    "code": "17",
+    "name": "Mont Buxton",
+    "names": {
+      "ja": "モント・ブクソン",
+      "ko": "몽뷕스통구",
+      "vi": "Mont Buxton",
+      "id": "Mont Buxton",
+      "zh-Hans": "蒙巴克斯顿区",
+      "zh-Hant": "蒙巴克斯頓區"
+    }
+  },
+  {
+    "code": "18",
+    "name": "Mont Fleuri",
+    "names": {
+      "ja": "モント・フレーリー",
+      "ko": "몽플뢰리구",
+      "vi": "Mont Fleuri",
+      "id": "Mont Fleuri",
+      "zh-Hans": "蒙弗勒利区"
+    }
+  },
+  {
+    "code": "19",
+    "name": "Plaisance",
+    "names": {
+      "ja": "プライセンス",
+      "ko": "플레장스구",
+      "vi": "Plaisance",
+      "id": "Plaisance, Seychelles",
+      "zh-Hans": "普莱桑斯区"
+    }
+  },
+  {
+    "code": "20",
+    "name": "Pointe La Rue",
+    "names": {
+      "ja": "ポイント・ラ・ルエ",
+      "ko": "푸앵트라루구",
+      "vi": "Pointe La Rue",
+      "id": "Pointe La Rue",
+      "zh-Hans": "普安特拉儒区"
+    }
+  },
+  {
+    "code": "21",
+    "name": "Port Glaud",
+    "names": {
+      "ja": "ポート・グランド",
+      "ko": "포르글로드구",
+      "vi": "Port Glaud",
+      "id": "Port Glaud",
+      "zh-Hans": "波特格劳德区",
+      "zh-Hant": "波特格勞德區"
+    }
+  },
+  {
+    "code": "25",
+    "name": "Roche Caiman",
+    "names": {
+      "ja": "ロッチェ・チャイマン",
+      "ko": "로슈카이망구",
+      "vi": "Roche Caiman",
+      "id": "Roche Caiman",
+      "zh-Hans": "罗切凯曼区",
+      "zh-Hant": "羅切凱曼區"
+    }
+  },
+  {
+    "code": "22",
+    "name": "Saint Louis",
+    "names": {
+      "ja": "セント・ローイス",
+      "ko": "생루이구",
+      "vi": "Saint Louis",
+      "id": "Saint Louis, Seychelles",
+      "zh-Hans": "圣路易区"
+    }
+  },
+  {
+    "code": "23",
+    "name": "Takamaka",
+    "names": {
+      "ja": "タカマカ",
+      "ko": "타카마카구",
+      "vi": "Takamaka",
+      "id": "Takamaka",
+      "zh-Hans": "塔卡玛卡区",
+      "zh-Hant": "塔卡瑪卡區"
+    }
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "code": "AN",
+    "name": "Anseba Region",
+    "names": {
+      "ja": "アンセバ地方",
+      "ko": "안세바주",
+      "vi": "Khu vực Anseba",
+      "id": "Wilayah Anseba",
+      "zh-Hans": "安塞巴区"
+    }
+  },
+  {
+    "code": "DU",
+    "name": "Debub Region",
+    "names": {
+      "ja": "デブブ地方",
+      "ko": "남부주",
+      "vi": "Khu vực Debub",
+      "id": "Wilayah Debub",
+      "zh-Hans": "南部区"
+    }
+  },
+  {
+    "code": "GB",
+    "name": "Gash-Barka Region",
+    "names": {
+      "ja": "ガシュ・バルカ地方",
+      "ko": "가시바르카주",
+      "vi": "Khu vực Gash-Barka",
+      "id": "Wilayah Gash-Barka",
+      "zh-Hans": "加什-巴尔卡区",
+      "zh-Hant": "加什-巴爾卡區"
+    }
+  },
+  {
+    "code": "MA",
+    "name": "Maekel Region",
+    "names": {
+      "ja": "マアカル地方",
+      "ko": "중앙주",
+      "vi": "Khu vực Maekel",
+      "id": "Wilayah Maekel",
+      "zh-Hans": "中部区"
+    }
+  },
+  {
+    "code": "SK",
+    "name": "Northern Red Sea Region",
+    "names": {
+      "ja": "セメナウィ・ケイバハリ地方",
+      "ko": "북홍해주",
+      "vi": "Khu vực Phía Bắc Biển Đỏ",
+      "id": "Wilayah Laut Merah Utara",
+      "zh-Hans": "北红海区"
+    }
+  },
+  {
+    "code": "DK",
+    "name": "Southern Red Sea Region",
+    "names": {
+      "ja": "デブバウィ・ケイバハリ地方",
+      "ko": "남홍해주",
+      "vi": "Nam Biển Đỏ",
+      "id": "Wilayah Laut Merah Selatan",
+      "zh-Hans": "南红海区"
+    }
+  }
+]

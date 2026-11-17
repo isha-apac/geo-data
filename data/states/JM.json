@@ -1,0 +1,167 @@
+[
+  {
+    "code": "13",
+    "name": "Clarendon Parish",
+    "names": {
+      "ja": "クラレンドン教区",
+      "ko": "클래런던구",
+      "vi": "Giáo xứ Clarendon",
+      "id": "Paroki Clarendon",
+      "zh-Hans": "克拉伦登区"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Hanover Parish",
+    "names": {
+      "ja": "ハノーバー教区",
+      "ko": "해노버구",
+      "vi": "Giáo xứ Hanover",
+      "id": "Paroki Hanover",
+      "zh-Hans": "汉诺威区",
+      "zh-Hant": "漢諾威區"
+    }
+  },
+  {
+    "code": "01",
+    "name": "Kingston Parish",
+    "names": {
+      "ja": "キングストン教区",
+      "ko": "킹스턴구",
+      "vi": "Giáo xứ Kingston",
+      "id": "Paroki Kingston",
+      "zh-Hans": "金斯敦区",
+      "zh-Hant": "金斯敦區"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Manchester Parish",
+    "names": {
+      "ja": "マンチェスター教区",
+      "ko": "맨체스터구",
+      "vi": "Giáo xứ Manchester",
+      "id": "Paroki Manchester",
+      "zh-Hans": "曼彻斯特区",
+      "zh-Hant": "曼徹斯特"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Portland Parish",
+    "names": {
+      "ja": "ポートランド教区",
+      "ko": "포틀랜드구",
+      "vi": "Giáo xứ Portland",
+      "id": "Paroki Portland",
+      "zh-Hans": "波特兰区"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Saint Andrew Parish",
+    "names": {
+      "ja": "セント・アンドリュー教区",
+      "ko": "세인트앤드루구",
+      "vi": "Saint Andrew",
+      "id": "Saint Andrew",
+      "zh-Hans": "圣安德鲁区",
+      "zh-Hant": "聖安德魯"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Saint Ann Parish",
+    "names": {
+      "ja": "セント・アン教区",
+      "ko": "세인트앤구",
+      "vi": "Giáo xứ Saint Ann",
+      "id": "Paroki Saint Ann",
+      "zh-Hans": "圣安堂区",
+      "zh-Hant": "聖安堂區"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Saint Catherine Parish",
+    "names": {
+      "ja": "セント・キャサリン教区",
+      "ko": "세인트캐서린구",
+      "vi": "Giáo xứ Saint Catherine",
+      "id": "Paroki Saint Catherine",
+      "zh-Hans": "圣凯瑟琳区",
+      "zh-Hant": "聖凱瑟琳區"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Saint Elizabeth Parish",
+    "names": {
+      "ja": "セント・エリザベス教区",
+      "ko": "세인트엘리자베스구",
+      "vi": "Giáo xứ Saint Elizabeth",
+      "id": "Paroki Saint Elizabeth",
+      "zh-Hans": "圣伊丽莎白区",
+      "zh-Hant": "聖伊麗莎白區"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Saint James Parish",
+    "names": {
+      "ja": "セント・ジェームズ教区",
+      "ko": "세인트제임스구",
+      "vi": "Giáo xứ Saint James",
+      "id": "Paroki Saint James",
+      "zh-Hans": "圣詹姆斯区",
+      "zh-Hant": "聖詹姆斯區"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Saint Mary Parish",
+    "names": {
+      "ja": "セント・メアリー教区",
+      "ko": "세인트메리구",
+      "vi": "Giáo xứ Saint Mary",
+      "id": "Paroki Saint Mary",
+      "zh-Hans": "圣玛丽区",
+      "zh-Hant": "聖瑪麗區"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Saint Thomas Parish",
+    "names": {
+      "ja": "セント・トーマス教区",
+      "ko": "세인트토머스구",
+      "vi": "Giáo xứ Saint Thomas",
+      "id": "Paroki Saint Thomas",
+      "zh-Hans": "圣托马斯区",
+      "zh-Hant": "聖托馬斯區"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Trelawny Parish",
+    "names": {
+      "ja": "トレローニー教区",
+      "ko": "트렐로니구",
+      "vi": "Giáo xứ Trelawny",
+      "id": "Paroki Trelawny",
+      "zh-Hans": "特里洛尼区",
+      "zh-Hant": "特里洛尼區"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Westmoreland Parish",
+    "names": {
+      "ja": "ウェストモアランド教区",
+      "ko": "웨스트모얼랜드구",
+      "vi": "Giáo xứ Westmoreland",
+      "id": "Paroki Westmoreland",
+      "zh-Hans": "西摩兰区"
+    }
+  }
+]

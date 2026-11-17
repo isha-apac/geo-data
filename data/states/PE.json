@@ -1,0 +1,309 @@
+[
+  {
+    "code": "AMA",
+    "name": "Amazonas Department",
+    "names": {
+      "ja": "アマソナス県",
+      "ko": "아마소나스주",
+      "vi": "Khu vực Amazonas",
+      "id": "Region Amazonas",
+      "zh-Hans": "亚马孙大区",
+      "zh-Hant": "亞馬遜大區"
+    }
+  },
+  {
+    "code": "ANC",
+    "name": "Áncash Department",
+    "names": {
+      "ja": "アンカシュ県",
+      "ko": "앙카시주",
+      "vi": "Vùng Ancash",
+      "id": "Region Ancash",
+      "zh-Hans": "安卡什大区",
+      "zh-Hant": "安卡什大區"
+    }
+  },
+  {
+    "code": "APU",
+    "name": "Apurímac Department",
+    "names": {
+      "ja": "アプリマク県",
+      "ko": "아푸리막주",
+      "vi": "Apurímac",
+      "id": "Region Apurímac",
+      "zh-Hans": "阿普里马克大区",
+      "zh-Hant": "阿普里馬克大區"
+    }
+  },
+  {
+    "code": "ARE",
+    "name": "Arequipa Department",
+    "names": {
+      "ja": "アレキパ県",
+      "ko": "아레키파주",
+      "vi": "Khu vực Arequipa",
+      "id": "Region Arequipa",
+      "zh-Hans": "阿雷基帕大区",
+      "zh-Hant": "阿雷基帕大區"
+    }
+  },
+  {
+    "code": "AYA",
+    "name": "Ayacucho Department",
+    "names": {
+      "ja": "アヤクーチョ県",
+      "ko": "아야쿠초주",
+      "vi": "Vùng Ayacucho",
+      "id": "Region Ayacucho",
+      "zh-Hans": "阿亚库乔大区",
+      "zh-Hant": "阿亞庫喬大區"
+    }
+  },
+  {
+    "code": "CAJ",
+    "name": "Cajamarca Department",
+    "names": {
+      "ja": "カハマルカ県",
+      "ko": "카하마르카주",
+      "vi": "Cajamarca",
+      "id": "Region Cajamarca",
+      "zh-Hans": "卡哈马卡大区",
+      "zh-Hant": "卡哈馬卡大區"
+    }
+  },
+  {
+    "code": "CAL",
+    "name": "Constitutional Province of Callao",
+    "names": {
+      "ja": "カヤオ特別区",
+      "zh-Hans": "卡亞俄憲法省"
+    }
+  },
+  {
+    "code": "CUS",
+    "name": "Cusco Department",
+    "names": {
+      "ja": "クスコ県",
+      "ko": "쿠스코주",
+      "vi": "Khu vực Cusco",
+      "id": "Region Cusco",
+      "zh-Hans": "库斯科大区",
+      "zh-Hant": "庫斯科大區"
+    }
+  },
+  {
+    "code": "HUV",
+    "name": "Huancavelica Department",
+    "names": {
+      "ja": "ワンカベリカ県",
+      "ko": "우앙카벨리카주",
+      "vi": "Khu vực Huancavelica",
+      "id": "Region Huancavelica",
+      "zh-Hans": "万卡韦利卡大区",
+      "zh-Hant": "萬卡韋利卡大區"
+    }
+  },
+  {
+    "code": "HUC",
+    "name": "Huanuco Department",
+    "names": {
+      "ja": "ワヌコ県",
+      "ko": "우아누코주",
+      "vi": "Khu vực Huánuco",
+      "id": "Region Huánuco",
+      "zh-Hans": "瓦努科大区",
+      "zh-Hant": "瓦努科大區"
+    }
+  },
+  {
+    "code": "ICA",
+    "name": "Ica Department",
+    "names": {
+      "ja": "イカ県",
+      "ko": "이카주",
+      "vi": "Khu vực Ica",
+      "id": "Region Ica",
+      "zh-Hans": "伊卡大区",
+      "zh-Hant": "伊卡大區"
+    }
+  },
+  {
+    "code": "JUN",
+    "name": "Junín Department",
+    "names": {
+      "ja": "フニン県",
+      "ko": "후닌주",
+      "vi": "Khu vực Junín",
+      "id": "Region Junín",
+      "zh-Hans": "胡宁大区",
+      "zh-Hant": "胡寧大區"
+    }
+  },
+  {
+    "code": "LAL",
+    "name": "La Libertad Department",
+    "names": {
+      "ja": "ラ・リベルタ県",
+      "ko": "라리베르타드주",
+      "vi": "Khu vực La Libertad",
+      "id": "Region La Libertad",
+      "zh-Hans": "拉利伯塔德大区",
+      "zh-Hant": "拉利伯塔德大區"
+    }
+  },
+  {
+    "code": "LAM",
+    "name": "Lambayeque Department",
+    "names": {
+      "ja": "ランバイエケ県",
+      "ko": "람바예케주",
+      "vi": "Khu vực Lambayeque",
+      "id": "Region Lambayeque",
+      "zh-Hans": "兰巴耶克大区",
+      "zh-Hant": "蘭巴耶克大區"
+    }
+  },
+  {
+    "code": "LMA",
+    "name": "Lima",
+    "names": {
+      "ja": "リマ郡",
+      "ko": "리마군",
+      "vi": "Tỉnh Lima",
+      "id": "Provinsi Lima",
+      "zh-Hans": "利马省"
+    }
+  },
+  {
+    "code": "LIM",
+    "name": "Lima Department",
+    "names": {
+      "ja": "リマ県",
+      "ko": "리마주",
+      "vi": "Khu vực Lima",
+      "id": "Region Lima",
+      "zh-Hans": "利马大区",
+      "zh-Hant": "利馬大區"
+    }
+  },
+  {
+    "code": "LOR",
+    "name": "Loreto Department",
+    "names": {
+      "ja": "ロレート県",
+      "ko": "로레토주",
+      "vi": "Khu vực Loreto",
+      "id": "Region Loreto",
+      "zh-Hans": "洛雷托大区",
+      "zh-Hant": "洛雷託大區"
+    }
+  },
+  {
+    "code": "MDD",
+    "name": "Madre de Dios Department",
+    "names": {
+      "ja": "マードレ・デ・ディオス県",
+      "ko": "마드레데디오스주",
+      "vi": "Khu vực Madre de Dios",
+      "id": "Region Madre de Dios",
+      "zh-Hans": "马德雷德迪奥斯大区",
+      "zh-Hant": "馬德雷德迪奧斯大區"
+    }
+  },
+  {
+    "code": "MOQ",
+    "name": "Moquegua Department",
+    "names": {
+      "ja": "モケグア県",
+      "ko": "모케과주",
+      "vi": "Khu vực Moquegua",
+      "id": "Region Moquegua",
+      "zh-Hans": "莫克瓜大区",
+      "zh-Hant": "莫克瓜大區"
+    }
+  },
+  {
+    "code": "PAS",
+    "name": "Pasco Department",
+    "names": {
+      "ja": "パスコ県",
+      "ko": "파스코주",
+      "vi": "Khu vực Pasco",
+      "id": "Region Pasco",
+      "zh-Hans": "帕斯科大区",
+      "zh-Hant": "帕斯科大區"
+    }
+  },
+  {
+    "code": "PIU",
+    "name": "Piura Department",
+    "names": {
+      "ja": "ピウラ県",
+      "ko": "피우라주",
+      "vi": "Khu vực Piura",
+      "id": "Region Piura",
+      "zh-Hans": "皮乌拉地区",
+      "zh-Hant": "皮烏拉地區"
+    }
+  },
+  {
+    "code": "PUN",
+    "name": "Puno Department",
+    "names": {
+      "ja": "プーノ県",
+      "ko": "푸노주",
+      "vi": "Puno",
+      "id": "Region Puno",
+      "zh-Hans": "普诺大区",
+      "zh-Hant": "普諾大區"
+    }
+  },
+  {
+    "code": "SAM",
+    "name": "San Martin Department",
+    "names": {
+      "ja": "サン・マルティン県",
+      "ko": "산마르틴주",
+      "vi": "San Martín (tỉnh)",
+      "id": "Region San Martín",
+      "zh-Hans": "圣马丁大区",
+      "zh-Hant": "聖馬丁大區"
+    }
+  },
+  {
+    "code": "TAC",
+    "name": "Tacna Department",
+    "names": {
+      "ja": "タクナ県",
+      "ko": "타크나주",
+      "vi": "Khu vựcTacna",
+      "id": "Region Tacna",
+      "zh-Hans": "塔克纳大区",
+      "zh-Hant": "塔克納大區"
+    }
+  },
+  {
+    "code": "TUM",
+    "name": "Tumbes Department",
+    "names": {
+      "ja": "トゥンベス県",
+      "ko": "툼베스주",
+      "vi": "Khu vực hành chính Tumbes",
+      "id": "Region Tumbes",
+      "zh-Hans": "通贝斯大区",
+      "zh-Hant": "通貝斯大區"
+    }
+  },
+  {
+    "code": "UCA",
+    "name": "Ucayali Department",
+    "names": {
+      "ja": "ウカヤリ県",
+      "ko": "우카얄리주",
+      "vi": "Ucayali",
+      "id": "Region Ucayali",
+      "zh-Hans": "乌卡亚利大区",
+      "zh-Hant": "烏卡亞利大區"
+    }
+  }
+]

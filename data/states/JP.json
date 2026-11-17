@@ -1,0 +1,566 @@
+[
+  {
+    "code": "23",
+    "name": "Aichi Prefecture",
+    "names": {
+      "ja": "愛知県",
+      "ko": "아이치현",
+      "vi": "Aichi",
+      "id": "Prefektur Aichi",
+      "zh-Hans": "爱知县",
+      "zh-Hant": "愛知縣"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Akita Prefecture",
+    "names": {
+      "ja": "秋田県",
+      "ko": "아키타현",
+      "vi": "Akita",
+      "id": "Prefektur Akita",
+      "zh-Hans": "秋田县",
+      "zh-Hant": "秋田縣"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Aomori Prefecture",
+    "names": {
+      "ja": "青森県",
+      "ko": "아오모리현",
+      "vi": "Aomori",
+      "id": "Prefektur Aomori",
+      "zh-Hans": "青森县",
+      "zh-Hant": "青森縣"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Chiba Prefecture",
+    "names": {
+      "ja": "千葉県",
+      "ko": "지바현",
+      "vi": "Chiba",
+      "id": "Prefektur Chiba",
+      "zh-Hans": "千叶县",
+      "zh-Hant": "千葉縣"
+    }
+  },
+  {
+    "code": "38",
+    "name": "Ehime Prefecture",
+    "names": {
+      "ja": "愛媛県",
+      "ko": "에히메현",
+      "vi": "Ehime",
+      "id": "Prefektur Ehime",
+      "zh-Hans": "爱媛县",
+      "zh-Hant": "愛媛縣"
+    }
+  },
+  {
+    "code": "18",
+    "name": "Fukui Prefecture",
+    "names": {
+      "ja": "福井県",
+      "ko": "후쿠이현",
+      "vi": "Fukui",
+      "id": "Prefektur Fukui",
+      "zh-Hans": "福井县",
+      "zh-Hant": "福井縣"
+    }
+  },
+  {
+    "code": "40",
+    "name": "Fukuoka Prefecture",
+    "names": {
+      "ja": "福岡県",
+      "ko": "후쿠오카현",
+      "vi": "Fukuoka",
+      "id": "Prefektur Fukuoka",
+      "zh-Hans": "福冈县",
+      "zh-Hant": "福岡縣"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Fukushima Prefecture",
+    "names": {
+      "ja": "福島県",
+      "ko": "후쿠시마현",
+      "vi": "Fukushima",
+      "id": "Prefektur Fukushima",
+      "zh-Hans": "福岛县",
+      "zh-Hant": "福島縣"
+    }
+  },
+  {
+    "code": "21",
+    "name": "Gifu Prefecture",
+    "names": {
+      "ja": "岐阜県",
+      "ko": "기후현",
+      "vi": "Gifu",
+      "id": "Prefektur Gifu",
+      "zh-Hans": "岐阜县",
+      "zh-Hant": "岐阜縣"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Gunma Prefecture",
+    "names": {
+      "ja": "群馬県",
+      "ko": "군마현",
+      "vi": "Gunma",
+      "id": "Prefektur Gunma",
+      "zh-Hans": "群马县",
+      "zh-Hant": "群馬縣"
+    }
+  },
+  {
+    "code": "34",
+    "name": "Hiroshima Prefecture",
+    "names": {
+      "ja": "広島県",
+      "ko": "히로시마현",
+      "vi": "Hiroshima",
+      "id": "Prefektur Hiroshima",
+      "zh-Hans": "广岛县",
+      "zh-Hant": "廣島縣"
+    }
+  },
+  {
+    "code": "01",
+    "name": "Hokkaido Prefecture",
+    "names": {
+      "ja": "北海道",
+      "ko": "홋카이도",
+      "vi": "Hokkaidō",
+      "id": "Prefektur Hokkaido",
+      "zh-Hans": "北海道",
+      "zh-Hant": "北海道"
+    }
+  },
+  {
+    "code": "28",
+    "name": "Hyōgo Prefecture",
+    "names": {
+      "ja": "兵庫県",
+      "ko": "효고현",
+      "vi": "Hyōgo",
+      "id": "Prefektur Hyogo",
+      "zh-Hans": "兵库县",
+      "zh-Hant": "兵庫縣"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Ibaraki Prefecture",
+    "names": {
+      "ja": "茨城県",
+      "ko": "이바라키현",
+      "vi": "Ibaraki",
+      "id": "Prefektur Ibaraki",
+      "zh-Hans": "茨城县",
+      "zh-Hant": "茨城縣"
+    }
+  },
+  {
+    "code": "17",
+    "name": "Ishikawa Prefecture",
+    "names": {
+      "ja": "石川県",
+      "ko": "이시카와현",
+      "vi": "Ishikawa",
+      "id": "Prefektur Ishikawa",
+      "zh-Hans": "石川县",
+      "zh-Hant": "石川縣"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Iwate Prefecture",
+    "names": {
+      "ja": "岩手県",
+      "ko": "이와테현",
+      "vi": "Iwate",
+      "id": "Prefektur Iwate",
+      "zh-Hans": "岩手县",
+      "zh-Hant": "岩手縣"
+    }
+  },
+  {
+    "code": "37",
+    "name": "Kagawa Prefecture",
+    "names": {
+      "ja": "香川県",
+      "ko": "가가와현",
+      "vi": "Kagawa",
+      "id": "Prefektur Kagawa",
+      "zh-Hans": "香川县",
+      "zh-Hant": "香川縣"
+    }
+  },
+  {
+    "code": "46",
+    "name": "Kagoshima Prefecture",
+    "names": {
+      "ja": "鹿児島県",
+      "ko": "가고시마현",
+      "vi": "Kagoshima",
+      "id": "Prefektur Kagoshima",
+      "zh-Hans": "鹿儿岛县",
+      "zh-Hant": "鹿兒島縣"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Kanagawa Prefecture",
+    "names": {
+      "ja": "神奈川県",
+      "ko": "가나가와현",
+      "vi": "Kanagawa",
+      "id": "Prefektur Kanagawa",
+      "zh-Hans": "神奈川县",
+      "zh-Hant": "神奈川縣"
+    }
+  },
+  {
+    "code": "39",
+    "name": "Kōchi Prefecture",
+    "names": {
+      "ja": "高知県",
+      "ko": "고치현",
+      "vi": "Kōchi",
+      "id": "Prefektur Kōchi",
+      "zh-Hans": "高知县",
+      "zh-Hant": "高知縣"
+    }
+  },
+  {
+    "code": "43",
+    "name": "Kumamoto Prefecture",
+    "names": {
+      "ja": "熊本県",
+      "ko": "구마모토현",
+      "vi": "Kumamoto",
+      "id": "Prefektur Kumamoto",
+      "zh-Hans": "熊本县",
+      "zh-Hant": "熊本縣"
+    }
+  },
+  {
+    "code": "26",
+    "name": "Kyoto Prefecture",
+    "names": {
+      "ja": "京都府",
+      "ko": "교토부",
+      "vi": "Kyōto",
+      "id": "Prefektur Kyoto",
+      "zh-Hans": "京都府",
+      "zh-Hant": "京都府"
+    }
+  },
+  {
+    "code": "24",
+    "name": "Mie Prefecture",
+    "names": {
+      "ja": "三重県",
+      "ko": "미에현",
+      "vi": "Mie",
+      "id": "Prefektur Mie",
+      "zh-Hans": "三重县",
+      "zh-Hant": "三重縣"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Miyagi Prefecture",
+    "names": {
+      "ja": "宮城県",
+      "ko": "미야기현",
+      "vi": "Miyagi",
+      "id": "Prefektur Miyagi",
+      "zh-Hans": "宫城县",
+      "zh-Hant": "宮城縣"
+    }
+  },
+  {
+    "code": "45",
+    "name": "Miyazaki Prefecture",
+    "names": {
+      "ja": "宮崎県",
+      "ko": "미야자키현",
+      "vi": "Miyazaki",
+      "id": "Prefektur Miyazaki",
+      "zh-Hans": "宫崎县",
+      "zh-Hant": "宮崎縣"
+    }
+  },
+  {
+    "code": "20",
+    "name": "Nagano Prefecture",
+    "names": {
+      "ja": "長野県",
+      "ko": "나가노현",
+      "vi": "Nagano",
+      "id": "Prefektur Nagano",
+      "zh-Hans": "长野县",
+      "zh-Hant": "長野縣"
+    }
+  },
+  {
+    "code": "42",
+    "name": "Nagasaki Prefecture",
+    "names": {
+      "ja": "長崎県",
+      "ko": "나가사키현",
+      "vi": "Nagasaki",
+      "id": "Prefektur Nagasaki",
+      "zh-Hans": "长崎县",
+      "zh-Hant": "長崎縣"
+    }
+  },
+  {
+    "code": "29",
+    "name": "Nara Prefecture",
+    "names": {
+      "ja": "奈良県",
+      "ko": "나라현",
+      "vi": "Nara",
+      "id": "Prefektur Nara",
+      "zh-Hans": "奈良县",
+      "zh-Hant": "奈良縣"
+    }
+  },
+  {
+    "code": "15",
+    "name": "Niigata Prefecture",
+    "names": {
+      "ja": "新潟県",
+      "ko": "니가타현",
+      "vi": "Niigata",
+      "id": "Prefektur Niigata",
+      "zh-Hans": "新潟县",
+      "zh-Hant": "新潟縣"
+    }
+  },
+  {
+    "code": "44",
+    "name": "Ōita Prefecture",
+    "names": {
+      "ja": "大分県",
+      "ko": "오이타현",
+      "vi": "Ōita",
+      "id": "Prefektur Oita",
+      "zh-Hans": "大分县",
+      "zh-Hant": "大分縣"
+    }
+  },
+  {
+    "code": "33",
+    "name": "Okayama Prefecture",
+    "names": {
+      "ja": "岡山県",
+      "ko": "오카야마현",
+      "vi": "Okayama",
+      "id": "Prefektur Okayama",
+      "zh-Hans": "冈山县",
+      "zh-Hant": "岡山縣"
+    }
+  },
+  {
+    "code": "47",
+    "name": "Okinawa Prefecture",
+    "names": {
+      "ja": "沖縄県",
+      "ko": "오키나와현",
+      "vi": "Okinawa",
+      "id": "Prefektur Okinawa",
+      "zh-Hans": "冲绳县",
+      "zh-Hant": "沖繩縣"
+    }
+  },
+  {
+    "code": "27",
+    "name": "Osaka Prefecture",
+    "names": {
+      "ja": "大阪府",
+      "ko": "오사카부",
+      "vi": "Tỉnh Ōsaka",
+      "id": "Prefektur Osaka",
+      "zh-Hans": "大阪府",
+      "zh-Hant": "大阪府"
+    }
+  },
+  {
+    "code": "41",
+    "name": "Saga Prefecture",
+    "names": {
+      "ja": "佐賀県",
+      "ko": "사가현",
+      "vi": "Saga",
+      "id": "Prefektur Saga",
+      "zh-Hans": "佐贺县",
+      "zh-Hant": "佐賀縣"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Saitama Prefecture",
+    "names": {
+      "ja": "埼玉県",
+      "ko": "사이타마현",
+      "vi": "Saitama",
+      "id": "Prefektur Saitama",
+      "zh-Hans": "埼玉县",
+      "zh-Hant": "埼玉縣"
+    }
+  },
+  {
+    "code": "25",
+    "name": "Shiga Prefecture",
+    "names": {
+      "ja": "滋賀県",
+      "ko": "시가현",
+      "vi": "Shiga",
+      "id": "Prefektur Shiga",
+      "zh-Hans": "滋贺县",
+      "zh-Hant": "滋賀縣"
+    }
+  },
+  {
+    "code": "32",
+    "name": "Shimane Prefecture",
+    "names": {
+      "ja": "島根県",
+      "ko": "시마네현",
+      "vi": "Shimane",
+      "id": "Prefektur Shimane",
+      "zh-Hans": "岛根县",
+      "zh-Hant": "島根縣"
+    }
+  },
+  {
+    "code": "22",
+    "name": "Shizuoka Prefecture",
+    "names": {
+      "ja": "静岡県",
+      "ko": "시즈오카현",
+      "vi": "Shizuoka",
+      "id": "Prefektur Shizuoka",
+      "zh-Hans": "静冈县",
+      "zh-Hant": "靜岡縣"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Tochigi Prefecture",
+    "names": {
+      "ja": "栃木県",
+      "ko": "도치기현",
+      "vi": "Tochigi",
+      "id": "Prefektur Tochigi",
+      "zh-Hans": "栃木县",
+      "zh-Hant": "栃木縣"
+    }
+  },
+  {
+    "code": "36",
+    "name": "Tokushima Prefecture",
+    "names": {
+      "ja": "徳島県",
+      "ko": "도쿠시마현",
+      "vi": "Tokushima",
+      "id": "Prefektur Tokushima",
+      "zh-Hans": "德岛县",
+      "zh-Hant": "德島縣"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Tokyo",
+    "names": {
+      "ja": "東京都",
+      "ko": "도쿄도",
+      "vi": "Tokyo",
+      "id": "Tokyo",
+      "zh-Hans": "东京都",
+      "zh-Hant": "東京都"
+    }
+  },
+  {
+    "code": "31",
+    "name": "Tottori Prefecture",
+    "names": {
+      "ja": "鳥取県",
+      "ko": "돗토리현",
+      "vi": "Tottori",
+      "id": "Prefektur Tottori",
+      "zh-Hans": "鸟取县",
+      "zh-Hant": "鳥取縣"
+    }
+  },
+  {
+    "code": "16",
+    "name": "Toyama Prefecture",
+    "names": {
+      "ja": "富山県",
+      "ko": "도야마현",
+      "vi": "Toyama",
+      "id": "Prefektur Toyama",
+      "zh-Hans": "富山县",
+      "zh-Hant": "富山縣"
+    }
+  },
+  {
+    "code": "30",
+    "name": "Wakayama Prefecture",
+    "names": {
+      "ja": "和歌山県",
+      "ko": "와카야마현",
+      "vi": "Wakayama",
+      "id": "Prefektur Wakayama",
+      "zh-Hans": "和歌山县",
+      "zh-Hant": "和歌山縣"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Yamagata Prefecture",
+    "names": {
+      "ja": "山形県",
+      "ko": "야마가타현",
+      "vi": "Yamagata",
+      "id": "Prefektur Yamagata",
+      "zh-Hans": "山形县",
+      "zh-Hant": "山形縣"
+    }
+  },
+  {
+    "code": "35",
+    "name": "Yamaguchi Prefecture",
+    "names": {
+      "ja": "山口県",
+      "ko": "야마구치현",
+      "vi": "Yamaguchi",
+      "id": "Prefektur Yamaguchi",
+      "zh-Hans": "山口县",
+      "zh-Hant": "山口縣"
+    }
+  },
+  {
+    "code": "19",
+    "name": "Yamanashi Prefecture",
+    "names": {
+      "ja": "山梨県",
+      "ko": "야마나시현",
+      "vi": "Yamanashi",
+      "id": "Prefektur Yamanashi",
+      "zh-Hans": "山梨县",
+      "zh-Hant": "山梨縣"
+    }
+  }
+]

@@ -1,0 +1,447 @@
+[
+  {
+    "code": "AC",
+    "name": "Aceh",
+    "names": {
+      "ja": "アチェ州",
+      "ko": "아체주",
+      "id": "Aceh",
+      "zh-Hans": "亚齐",
+      "zh-Hant": "亞齊特區"
+    }
+  },
+  {
+    "code": "BA",
+    "name": "Bali",
+    "names": {
+      "ja": "バリ州",
+      "ko": "발리주",
+      "vi": "Bali",
+      "id": "Bali",
+      "zh-Hans": "巴厘省"
+    }
+  },
+  {
+    "code": "BB",
+    "name": "Bangka Belitung Islands",
+    "names": {
+      "ja": "バンカ・ブリトゥン州",
+      "ko": "방카벨리퉁주",
+      "vi": "Quần đảo Bangka-Belitung",
+      "id": "Kepulauan Bangka Belitung",
+      "zh-Hans": "邦加-勿里洞省",
+      "zh-Hant": "邦加-勿里洞省"
+    }
+  },
+  {
+    "code": "BT",
+    "name": "Banten",
+    "names": {
+      "ja": "バンテン州",
+      "ko": "반텐주",
+      "vi": "Banten",
+      "id": "Banten",
+      "zh-Hans": "万丹省",
+      "zh-Hant": "萬丹省"
+    }
+  },
+  {
+    "code": "BE",
+    "name": "Bengkulu",
+    "names": {
+      "ja": "ブンクル州",
+      "ko": "븡쿨루주",
+      "vi": "Bengkulu",
+      "id": "Bengkulu",
+      "zh-Hans": "明古鲁省",
+      "zh-Hant": "明古魯省"
+    }
+  },
+  {
+    "code": "JT",
+    "name": "Central Java",
+    "names": {
+      "ja": "中部ジャワ州",
+      "ko": "중앙자와주",
+      "vi": "Trung Java",
+      "id": "Jawa Tengah",
+      "zh-Hans": "中爪哇省",
+      "zh-Hant": "中爪哇省"
+    }
+  },
+  {
+    "code": "KT",
+    "name": "Central Kalimantan",
+    "names": {
+      "ja": "中部カリマンタン州",
+      "ko": "중앙칼리만탄주",
+      "vi": "Trung Kalimantan",
+      "id": "Kalimantan Tengah",
+      "zh-Hans": "中加里曼丹省",
+      "zh-Hant": "中加里曼丹"
+    }
+  },
+  {
+    "code": "PT",
+    "name": "Central Papua",
+    "names": {
+      "ja": "中部パプア州",
+      "ko": "중앙파푸아주",
+      "vi": "Trung Papua",
+      "id": "Papua Tengah",
+      "zh-Hans": "中巴布亚省",
+      "zh-Hant": "中巴布亞省"
+    }
+  },
+  {
+    "code": "ST",
+    "name": "Central Sulawesi",
+    "names": {
+      "ja": "中部スラウェシ州",
+      "ko": "중앙술라웨시주",
+      "vi": "Trung Sulawesi",
+      "id": "Sulawesi Tengah",
+      "zh-Hans": "中苏拉威西省"
+    }
+  },
+  {
+    "code": "JI",
+    "name": "East Java",
+    "names": {
+      "ja": "東ジャワ州",
+      "ko": "동자와주",
+      "vi": "Đông Java",
+      "id": "Jawa Timur",
+      "zh-Hans": "东爪哇省",
+      "zh-Hant": "東爪哇省"
+    }
+  },
+  {
+    "code": "KI",
+    "name": "East Kalimantan",
+    "names": {
+      "ja": "東カリマンタン州",
+      "ko": "동칼리만탄주",
+      "vi": "Đông Kalimantan",
+      "id": "Kalimantan Timur",
+      "zh-Hans": "东加里曼丹省",
+      "zh-Hant": "東加里曼丹省"
+    }
+  },
+  {
+    "code": "NT",
+    "name": "East Nusa Tenggara",
+    "names": {
+      "ja": "東ヌサ・トゥンガラ州",
+      "ko": "동누사틍가라주",
+      "vi": "Đông Nusa Tenggara",
+      "id": "Nusa Tenggara Timur",
+      "zh-Hans": "东努沙登加拉省",
+      "zh-Hant": "東努沙登加拉省"
+    }
+  },
+  {
+    "code": "GO",
+    "name": "Gorontalo",
+    "names": {
+      "ja": "ゴロンタロ州",
+      "ko": "고론탈로주",
+      "vi": "Gorontalo",
+      "id": "Gorontalo",
+      "zh-Hans": "哥伦打洛省",
+      "zh-Hant": "哥倫打洛"
+    }
+  },
+  {
+    "code": "PE",
+    "name": "Highland Papua",
+    "names": {
+      "ja": "山岳パプア州",
+      "ko": "파푸아고원주",
+      "vi": "Papua Cao nguyên",
+      "id": "Papua Pegunungan",
+      "zh-Hans": "高地巴布亚省",
+      "zh-Hant": "高地巴布亞省"
+    }
+  },
+  {
+    "code": "JK",
+    "name": "Jakarta",
+    "names": {
+      "ja": "ジャカルタ",
+      "ko": "자카르타",
+      "vi": "Jakarta",
+      "id": "DKI Jakarta",
+      "zh-Hans": "雅加达",
+      "zh-Hant": "雅加達"
+    }
+  },
+  {
+    "code": "JA",
+    "name": "Jambi",
+    "names": {
+      "ja": "ジャンビ州",
+      "ko": "잠비주",
+      "vi": "Jambi",
+      "id": "Jambi",
+      "zh-Hans": "占碑省",
+      "zh-Hant": "占碑省"
+    }
+  },
+  {
+    "code": "LA",
+    "name": "Lampung",
+    "names": {
+      "ja": "ランプン州",
+      "ko": "람풍주",
+      "vi": "Lampung",
+      "id": "Lampung",
+      "zh-Hans": "楠榜省",
+      "zh-Hant": "楠榜省"
+    }
+  },
+  {
+    "code": "MA",
+    "name": "Maluku",
+    "names": {
+      "ja": "マルク州",
+      "ko": "말루쿠주",
+      "vi": "Maluku",
+      "id": "Maluku",
+      "zh-Hans": "马鲁古省",
+      "zh-Hant": "馬魯古省"
+    }
+  },
+  {
+    "code": "KU",
+    "name": "North Kalimantan",
+    "names": {
+      "ja": "北カリマンタン州",
+      "ko": "북칼리만탄주",
+      "vi": "Bắc Kalimantan",
+      "id": "Kalimantan Utara",
+      "zh-Hans": "北加里曼丹省"
+    }
+  },
+  {
+    "code": "MU",
+    "name": "North Maluku",
+    "names": {
+      "ja": "北マルク州",
+      "ko": "북말루쿠주",
+      "vi": "Bắc Maluku",
+      "id": "Maluku Utara",
+      "zh-Hans": "北马鲁古省",
+      "zh-Hant": "北馬魯古省"
+    }
+  },
+  {
+    "code": "SA",
+    "name": "North Sulawesi",
+    "names": {
+      "ja": "北スラウェシ州",
+      "ko": "북술라웨시주",
+      "vi": "Bắc Sulawesi",
+      "id": "Sulawesi Utara",
+      "zh-Hans": "北苏拉威西省",
+      "zh-Hant": "北蘇拉威西省"
+    }
+  },
+  {
+    "code": "SU",
+    "name": "North Sumatra",
+    "names": {
+      "ja": "北スマトラ州",
+      "ko": "북수마트라주",
+      "vi": "Bắc Sumatera",
+      "id": "Sumatera Utara",
+      "zh-Hans": "北苏门答腊省",
+      "zh-Hant": "北蘇門答臘"
+    }
+  },
+  {
+    "code": "PA",
+    "name": "Papua",
+    "names": {
+      "ja": "パプア州",
+      "ko": "파푸아주",
+      "vi": "Papua",
+      "id": "Papua",
+      "zh-Hans": "巴布亚省",
+      "zh-Hant": "巴布亚省"
+    }
+  },
+  {
+    "code": "RI",
+    "name": "Riau",
+    "names": {
+      "ja": "リアウ州",
+      "ko": "리아우주",
+      "vi": "Riau",
+      "id": "Riau",
+      "zh-Hans": "廖内省",
+      "zh-Hant": "廖內省"
+    }
+  },
+  {
+    "code": "KR",
+    "name": "Riau Islands",
+    "names": {
+      "ja": "リアウ諸島州",
+      "ko": "리아우 제도주",
+      "vi": "Quần đảo Riau",
+      "id": "Kepulauan Riau",
+      "zh-Hans": "廖内群岛省",
+      "zh-Hant": "廖內羣島省"
+    }
+  },
+  {
+    "code": "KS",
+    "name": "South Kalimantan",
+    "names": {
+      "ja": "南カリマンタン州",
+      "ko": "남칼리만탄주",
+      "vi": "Nam Kalimantan",
+      "id": "Kalimantan Selatan",
+      "zh-Hans": "南加里曼丹省"
+    }
+  },
+  {
+    "code": "PS",
+    "name": "South Papua",
+    "names": {
+      "ja": "南パプア州",
+      "ko": "남파푸아주",
+      "vi": "Nam Papua",
+      "id": "Papua Selatan",
+      "zh-Hans": "南巴布亞省"
+    }
+  },
+  {
+    "code": "SN",
+    "name": "South Sulawesi",
+    "names": {
+      "ja": "南スラウェシ州",
+      "ko": "남술라웨시주",
+      "vi": "Nam Sulawesi",
+      "id": "Sulawesi Selatan",
+      "zh-Hans": "南苏拉威西省"
+    }
+  },
+  {
+    "code": "SS",
+    "name": "South Sumatra",
+    "names": {
+      "ja": "南スマトラ州",
+      "ko": "남수마트라주",
+      "vi": "Nam Sumatera",
+      "id": "Sumatera Selatan",
+      "zh-Hans": "南苏门答腊省"
+    }
+  },
+  {
+    "code": "SG",
+    "name": "Southeast Sulawesi",
+    "names": {
+      "ja": "南東スラウェシ州",
+      "ko": "동남술라웨시주",
+      "vi": "Đông Nam Sulawesi",
+      "id": "Sulawesi Tenggara",
+      "zh-Hans": "东南苏拉威西省",
+      "zh-Hant": "東南蘇拉威西省"
+    }
+  },
+  {
+    "code": "PD",
+    "name": "Southwest Papua",
+    "names": {
+      "ja": "南西パプア州",
+      "ko": "남서파푸아주",
+      "vi": "Tây Nam Papua",
+      "id": "Papua Barat Daya",
+      "zh-Hans": "西南巴布亚省",
+      "zh-Hant": "西南巴布亞省"
+    }
+  },
+  {
+    "code": "JB",
+    "name": "West Java",
+    "names": {
+      "ja": "西ジャワ州",
+      "ko": "자와바랏 주",
+      "vi": "tỉnh ở Indonesia",
+      "id": "Jawa Barat",
+      "zh-Hans": "西爪哇省",
+      "zh-Hant": "西爪哇省"
+    }
+  },
+  {
+    "code": "KB",
+    "name": "West Kalimantan",
+    "names": {
+      "ja": "西カリマンタン州",
+      "ko": "서칼리만탄주",
+      "vi": "Tây Kalimantan",
+      "id": "Kalimantan Barat",
+      "zh-Hans": "西加里曼丹省",
+      "zh-Hant": "西加里曼丹省"
+    }
+  },
+  {
+    "code": "NB",
+    "name": "West Nusa Tenggara",
+    "names": {
+      "ja": "西ヌサ・トゥンガラ州",
+      "ko": "서누사틍가라주",
+      "vi": "Nusa Tenggara Barat",
+      "id": "Nusa Tenggara Barat",
+      "zh-Hans": "西努沙登加拉省"
+    }
+  },
+  {
+    "code": "PB",
+    "name": "West Papua",
+    "names": {
+      "ja": "西パプア州",
+      "ko": "서파푸아주",
+      "vi": "Tây Papua",
+      "id": "Papua Barat",
+      "zh-Hans": "西巴布亞省",
+      "zh-Hant": "西巴布亞省"
+    }
+  },
+  {
+    "code": "SR",
+    "name": "West Sulawesi",
+    "names": {
+      "ja": "西スラウェシ州",
+      "ko": "서술라웨시주",
+      "vi": "Tây Sulawesi",
+      "id": "Sulawesi Barat",
+      "zh-Hans": "西苏拉威西省"
+    }
+  },
+  {
+    "code": "SB",
+    "name": "West Sumatra",
+    "names": {
+      "ja": "西スマトラ州",
+      "ko": "서수마트라주",
+      "vi": "Tây Sumatera",
+      "id": "Sumatera Barat",
+      "zh-Hans": "西苏门答腊省",
+      "zh-Hant": "西蘇門答臘省"
+    }
+  },
+  {
+    "code": "YO",
+    "name": "Yogyakarta",
+    "names": {
+      "ja": "ジョグジャカルタ特別州",
+      "ko": "욕야카르타",
+      "vi": "Yogyakarta",
+      "id": "DI Yogyakarta",
+      "zh-Hans": "日惹特区"
+    }
+  }
+]

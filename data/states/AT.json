@@ -1,0 +1,109 @@
+[
+  {
+    "code": "1",
+    "name": "Burgenland",
+    "names": {
+      "ja": "ブルゲンラント州",
+      "ko": "부르겐란트주",
+      "vi": "Burgenland",
+      "id": "Burgenland",
+      "zh-Hans": "布尔根兰州"
+    }
+  },
+  {
+    "code": "2",
+    "name": "Carinthia",
+    "names": {
+      "ja": "ケルンテン州",
+      "ko": "케른텐주",
+      "vi": "Kärnten",
+      "id": "Kärnten",
+      "zh-Hans": "克恩顿州",
+      "zh-Hant": "克恩頓州"
+    }
+  },
+  {
+    "code": "3",
+    "name": "Lower Austria",
+    "names": {
+      "ja": "ニーダーエスターライヒ州",
+      "ko": "니더외스터라이히주",
+      "vi": "Niederösterreich",
+      "id": "Austria Hilir",
+      "zh-Hans": "下奥地利州",
+      "zh-Hant": "下奧地利"
+    }
+  },
+  {
+    "code": "5",
+    "name": "Salzburg",
+    "names": {
+      "ja": "ザルツブルク州",
+      "ko": "잘츠부르크주",
+      "vi": "Salzburg",
+      "id": "Salzburg",
+      "zh-Hans": "萨尔茨堡州",
+      "zh-Hant": "薩爾茲堡州"
+    }
+  },
+  {
+    "code": "6",
+    "name": "Styria",
+    "names": {
+      "ja": "シュタイアーマルク州",
+      "ko": "슈타이어마르크주",
+      "vi": "Steiermark",
+      "id": "Stiria",
+      "zh-Hans": "施泰尔马克州",
+      "zh-Hant": "施泰爾馬克州"
+    }
+  },
+  {
+    "code": "7",
+    "name": "Tyrol",
+    "names": {
+      "ja": "チロル州",
+      "ko": "티롤주",
+      "vi": "Tirol",
+      "id": "Tirol",
+      "zh-Hans": "蒂罗尔州",
+      "zh-Hant": "提洛邦"
+    }
+  },
+  {
+    "code": "4",
+    "name": "Upper Austria",
+    "names": {
+      "ja": "オーバーエスターライヒ州",
+      "ko": "오버외스터라이히주",
+      "vi": "Oberösterreich",
+      "id": "Austria Hulu",
+      "zh-Hans": "上奥地利州",
+      "zh-Hant": "上奧地利邦"
+    }
+  },
+  {
+    "code": "9",
+    "name": "Vienna",
+    "names": {
+      "ja": "ウィーン",
+      "ko": "빈",
+      "vi": "Viên",
+      "id": "Wina",
+      "zh-Hans": "维也纳",
+      "zh-Hant": "維也納"
+    }
+  },
+  {
+    "code": "8",
+    "name": "Vorarlberg",
+    "names": {
+      "ja": "フォアアールベルク州",
+      "ko": "포어아를베르크주",
+      "vi": "Vorarlberg",
+      "id": "Vorarlberg",
+      "zh-Hans": "福拉尔贝格州",
+      "zh-Hant": "福拉爾貝格邦"
+    }
+  }
+]

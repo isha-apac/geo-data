@@ -1,0 +1,256 @@
+[
+  {
+    "code": "NSB",
+    "name": "Autonomous Region of Bougainville",
+    "names": {
+      "ja": "ブーゲンビル州",
+      "ko": "부건빌 자치주",
+      "vi": "Khu tự trị Bougainville",
+      "id": "Daerah Otonom Bougainville",
+      "zh-Hans": "布干维尔自治区"
+    }
+  },
+  {
+    "code": "CPM",
+    "name": "Central Province",
+    "names": {
+      "ja": "中央州",
+      "ko": "중앙주",
+      "vi": "Tỉnh Trung Ương",
+      "id": "Provinsi Tengah",
+      "zh-Hans": "中央省",
+      "zh-Hant": "中央省"
+    }
+  },
+  {
+    "code": "CPK",
+    "name": "Chimbu Province",
+    "names": {
+      "ja": "シンブ州",
+      "ko": "심부주",
+      "vi": "Simbu",
+      "id": "Provinsi Simbu",
+      "zh-Hans": "钦布省"
+    }
+  },
+  {
+    "code": "EBR",
+    "name": "East New Britain Province",
+    "names": {
+      "ja": "東ニューブリテン州",
+      "ko": "동뉴브리튼주",
+      "vi": "Đông New Britain",
+      "id": "Provinsi East New Britain",
+      "zh-Hans": "东新不列颠省",
+      "zh-Hant": "東新不列顛省"
+    }
+  },
+  {
+    "code": "ESW",
+    "name": "East Sepik Province",
+    "names": {
+      "ja": "東セピック州",
+      "ko": "동세픽주",
+      "vi": "Tỉnh Đông Sepik",
+      "id": "Provinsi Sepik Timur",
+      "zh-Hans": "东塞皮克省",
+      "zh-Hant": "東塞皮克省"
+    }
+  },
+  {
+    "code": "EHG",
+    "name": "Eastern Highlands Province",
+    "names": {
+      "ja": "東部山岳州",
+      "ko": "이스턴하일랜즈 주",
+      "vi": "Tỉnh Eastern Highlands",
+      "id": "Provinsi Dataran Tinggi Timur",
+      "zh-Hans": "东高地省",
+      "zh-Hant": "東高地省"
+    }
+  },
+  {
+    "code": "EPW",
+    "name": "Enga Province",
+    "names": {
+      "ja": "エンガ州",
+      "ko": "엥가주",
+      "vi": "Tỉnh Enga",
+      "id": "Provinsi Enga",
+      "zh-Hans": "恩加省",
+      "zh-Hant": "恩加省"
+    }
+  },
+  {
+    "code": "GPK",
+    "name": "Gulf Province",
+    "names": {
+      "ja": "湾岸州",
+      "ko": "걸프주",
+      "vi": "Gulf",
+      "id": "Provinsi Teluk",
+      "zh-Hans": "海湾省",
+      "zh-Hant": "海灣省"
+    }
+  },
+  {
+    "code": "HLA",
+    "name": "Hela Province",
+    "names": {
+      "ja": "ヘラ州",
+      "ko": "헬라주",
+      "zh-Hans": "赫拉省"
+    }
+  },
+  {
+    "code": "JWK",
+    "name": "Jiwaka Province",
+    "names": {
+      "ja": "ジワカ州",
+      "ko": "지와카주",
+      "zh-Hans": "吉瓦卡省"
+    }
+  },
+  {
+    "code": "MPM",
+    "name": "Madang Province",
+    "names": {
+      "ja": "マダン州",
+      "ko": "마당주",
+      "vi": "Tỉnh Madang",
+      "id": "Provinsi Madang",
+      "zh-Hans": "马当省",
+      "zh-Hant": "馬當省"
+    }
+  },
+  {
+    "code": "MRL",
+    "name": "Manus Province",
+    "names": {
+      "ja": "マヌス州",
+      "ko": "마누스주",
+      "vi": "Tỉnh Manus",
+      "id": "Provinsi Manus",
+      "zh-Hans": "马努斯省",
+      "zh-Hant": "馬努斯省"
+    }
+  },
+  {
+    "code": "MBA",
+    "name": "Milne Bay Province",
+    "names": {
+      "ja": "ミルン湾州",
+      "ko": "밀른베이주",
+      "vi": "Tỉnh Milne Bay",
+      "id": "Provinsi Teluk Milne",
+      "zh-Hans": "米尔恩湾省",
+      "zh-Hant": "米爾恩灣省"
+    }
+  },
+  {
+    "code": "MPL",
+    "name": "Morobe Province",
+    "names": {
+      "ja": "モロベ州",
+      "ko": "모로베주",
+      "vi": "Tỉnh Morobe",
+      "id": "Provinsi Morobe",
+      "zh-Hans": "莫雷贝省",
+      "zh-Hant": "莫雷貝省"
+    }
+  },
+  {
+    "code": "NIK",
+    "name": "New Ireland Province",
+    "names": {
+      "ja": "ニューアイルランド州",
+      "ko": "뉴아일랜드주",
+      "vi": "Tỉnh New Ireland",
+      "id": "Provinsi Irlandia Baru",
+      "zh-Hans": "新爱尔兰省",
+      "zh-Hant": "新愛爾蘭省"
+    }
+  },
+  {
+    "code": "NPP",
+    "name": "Oro Province",
+    "names": {
+      "ja": "オロ州",
+      "ko": "오로주",
+      "vi": "Tỉnh Oro",
+      "id": "Provinsi Oro",
+      "zh-Hans": "北部省",
+      "zh-Hant": "北部省"
+    }
+  },
+  {
+    "code": "NCD",
+    "name": "Port Moresby",
+    "names": {
+      "ja": "ポートモレスビー",
+      "ko": "포트모르즈비",
+      "vi": "Port Moresby",
+      "id": "Port Moresby",
+      "zh-Hans": "莫尔兹比港",
+      "zh-Hant": "莫士比港"
+    }
+  },
+  {
+    "code": "SAN",
+    "name": "Sandaun Province",
+    "names": {
+      "ja": "サンダウン州",
+      "ko": "산다운주",
+      "vi": "Tỉnh Sandaun",
+      "id": "Provinsi Sandaun",
+      "zh-Hans": "桑道恩省",
+      "zh-Hant": "桑道恩省"
+    }
+  },
+  {
+    "code": "SHM",
+    "name": "Southern Highlands Province",
+    "names": {
+      "ja": "南部山岳州",
+      "ko": "서던하일랜즈 주",
+      "vi": "Tỉnh Phía Nam Highlands",
+      "id": "Provinsi Pegunungan Selatan",
+      "zh-Hans": "南高地省",
+      "zh-Hant": "南高地省"
+    }
+  },
+  {
+    "code": "WBK",
+    "name": "West New Britain Province",
+    "names": {
+      "ja": "西ニューブリテン州",
+      "ko": "서뉴브리튼주",
+      "vi": "Tỉnh Tây New Britain",
+      "id": "Provinsi West New Britain",
+      "zh-Hans": "西新不列颠省"
+    }
+  },
+  {
+    "code": "WHM",
+    "name": "Western Highlands Province",
+    "names": {
+      "ja": "西部山岳州",
+      "ko": "웨스턴하일랜즈 주",
+      "vi": "Tỉnh Western Highlands",
+      "id": "Provinsi Dataran Tinggi Barat",
+      "zh-Hans": "西高地省",
+      "zh-Hant": "西高地省"
+    }
+  },
+  {
+    "code": "WPD",
+    "name": "Western Province",
+    "names": {
+      "ja": "西部州",
+      "ko": "서부주",
+      "id": "Provinsi Barat, Papua Nugini",
+      "zh-Hans": "西部省",
+      "zh-Hant": "西部省"
+    }
+  }
+]

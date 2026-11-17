@@ -1,0 +1,171 @@
+[
+  {
+    "code": "ARI",
+    "name": "Arima",
+    "names": {
+      "ja": "アリマ",
+      "ko": "아리마",
+      "vi": "Arima",
+      "id": "Arima",
+      "zh-Hans": "阿里马",
+      "zh-Hant": "阿里馬"
+    }
+  },
+  {
+    "code": "CHA",
+    "name": "Chaguanas",
+    "names": {
+      "ja": "チャグアナス",
+      "ko": "차과나스",
+      "vi": "Chaguanas",
+      "id": "Chaguanas",
+      "zh-Hans": "查瓜纳斯"
+    }
+  },
+  {
+    "code": "CTT",
+    "name": "Couva-Tabaquite-Talparo",
+    "names": {
+      "ja": "クーバ＝タバキテ＝タルパロ地域自治体",
+      "ko": "쿠바타바키테탈파로 지역",
+      "vi": "Khu liên kết chung Couva-Tabaquite-Talparo",
+      "id": "Korporasi Wilayah Couva-Tabaquite-Talparo",
+      "zh-Hans": "库瓦-塔瓦基特-塔尔帕罗地区"
+    }
+  },
+  {
+    "code": "DMN",
+    "name": "Diego Martin Regional Corporation",
+    "names": {
+      "ja": "ディエゴ・マーティン地域自治体",
+      "ko": "디에고마틴 지역",
+      "vi": "Khu liên kết chung Diego Martin",
+      "id": "Korporasi Wilayah Diego Martin",
+      "zh-Hans": "迭戈马丁地区"
+    }
+  },
+  {
+    "code": "MRC",
+    "name": "Mayaro-Rio Claro",
+    "names": {
+      "ja": "リオ・クラロー＝マヤロ",
+      "ko": "리오클라로마야로 지역",
+      "vi": "Khu liên kết chung Rio Claro-Mayaro",
+      "id": "Korporasi Wilayah Rio Claro-Mayaro",
+      "zh-Hans": "马亚罗-里奥克拉罗区"
+    }
+  },
+  {
+    "code": "PED",
+    "name": "Penal-Debe Regional Corporation",
+    "names": {
+      "ja": "ペナル＝デベ地域自治体",
+      "ko": "페날데베 지역",
+      "vi": "Khu liên kết chung Penal-Debe",
+      "id": "Korporasi Wilayah Penal-Debe",
+      "zh-Hans": "皮纳尔-德贝郡"
+    }
+  },
+  {
+    "code": "PTF",
+    "name": "Point Fortin",
+    "names": {
+      "ja": "ポイント・フォーティン",
+      "ko": "포인트포르틴",
+      "vi": "Point Fortin",
+      "id": "Point Fortin",
+      "zh-Hans": "波因特福廷"
+    }
+  },
+  {
+    "code": "POS",
+    "name": "Port of Spain",
+    "names": {
+      "ja": "ポートオブスペイン",
+      "ko": "포트오브스페인",
+      "vi": "Port of Spain",
+      "id": "Port of Spain",
+      "zh-Hans": "西班牙港",
+      "zh-Hant": "西班牙港"
+    }
+  },
+  {
+    "code": "PRT",
+    "name": "Princes Town",
+    "names": {
+      "ja": "プリンセス・タウン地域自治体",
+      "ko": "프린세스타운 지역",
+      "vi": "Khu liên kết chung Princes Town",
+      "id": "Korporasi Wilayah Princes Town",
+      "zh-Hans": "王子镇地区"
+    }
+  },
+  {
+    "code": "SFO",
+    "name": "San Fernando",
+    "names": {
+      "ja": "サンフェルナンド",
+      "ko": "샌퍼넌도",
+      "vi": "San Fernando, Trinidad và Tobago",
+      "id": "San Fernando, Trinidad dan Tobago",
+      "zh-Hans": "圣费尔南多",
+      "zh-Hant": "聖費爾南多 (千里達及托巴哥)"
+    }
+  },
+  {
+    "code": "SJL",
+    "name": "San Juan–Laventille",
+    "names": {
+      "ja": "サン・ファン＝ラヴェンティル地域自治体",
+      "ko": "산후안라벤틸 지역",
+      "vi": "Khu liên kết chung San Juan-Laventille",
+      "id": "Korporasi Wilayah San Juan-Laventille",
+      "zh-Hans": "圣胡安-拉文蒂尔区"
+    }
+  },
+  {
+    "code": "SGE",
+    "name": "Sangre Grande Regional Corporation",
+    "names": {
+      "ja": "サングレ・グランド地域自治体",
+      "ko": "상그레그란데 지역",
+      "vi": "Khu liên kết chung Sangre Grande",
+      "id": "Korporasi Wilayah Sangre Grande",
+      "zh-Hans": "大桑格雷地区"
+    }
+  },
+  {
+    "code": "SIP",
+    "name": "Siparia Regional Corporation",
+    "names": {
+      "ja": "シパリア地域自治体",
+      "ko": "시파리아 지역",
+      "vi": "Khu liên kết chung Siparia",
+      "id": "Korporasi Wilayah Siparia",
+      "zh-Hans": "锡帕里亚郡"
+    }
+  },
+  {
+    "code": "TOB",
+    "name": "Tobago",
+    "names": {
+      "ja": "トバゴ島",
+      "ko": "토바고섬",
+      "vi": "Tobago",
+      "id": "Tobago",
+      "zh-Hans": "多巴哥岛",
+      "zh-Hant": "多巴哥島"
+    }
+  },
+  {
+    "code": "TUP",
+    "name": "Tunapuna–Piarco",
+    "names": {
+      "ja": "マコヤ",
+      "ko": "투나푸나피아르코 지역",
+      "vi": "Khu liên kết chung Tunapuna-Piarco",
+      "id": "Korporasi Wilayah Tunapuna-Piarco",
+      "zh-Hans": "麦高耶"
+    }
+  }
+]

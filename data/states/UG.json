@@ -1,0 +1,1493 @@
+[
+  {
+    "code": "314",
+    "name": "Abim District",
+    "names": {
+      "ja": "アビム県",
+      "ko": "아빔구",
+      "vi": "Quận Abim",
+      "id": "Distrik Abim",
+      "zh-Hans": "阿比姆区",
+      "zh-Hant": "阿比姆區"
+    }
+  },
+  {
+    "code": "301",
+    "name": "Adjumani District",
+    "names": {
+      "ja": "アジュマニ県",
+      "ko": "아주마니구",
+      "vi": "Quận Adjumani",
+      "id": "Distrik Adjumani",
+      "zh-Hans": "阿朱马尼区"
+    }
+  },
+  {
+    "code": "322",
+    "name": "Agago District",
+    "names": {
+      "ja": "アガゴ県",
+      "ko": "아가고구",
+      "vi": "Quận Agago",
+      "id": "Distrik Agago",
+      "zh-Hans": "阿加戈区"
+    }
+  },
+  {
+    "code": "323",
+    "name": "Alebtong District",
+    "names": {
+      "ja": "アレブトング県",
+      "ko": "알레브통구",
+      "vi": "Quận Alebtong",
+      "id": "Distrik Alebtong",
+      "zh-Hans": "阿莱布通区"
+    }
+  },
+  {
+    "code": "315",
+    "name": "Amolatar District",
+    "names": {
+      "ja": "アモラタル県",
+      "ko": "아몰라타르구",
+      "vi": "Quận Amolatar",
+      "id": "Distrik Amolatar",
+      "zh-Hans": "阿莫拉塔尔区",
+      "zh-Hant": "阿莫拉塔爾區"
+    }
+  },
+  {
+    "code": "324",
+    "name": "Amudat District",
+    "names": {
+      "ja": "アムダット県",
+      "ko": "아무다트구",
+      "vi": "Quận Amudat",
+      "id": "Distrik Amudat",
+      "zh-Hans": "阿穆达特区"
+    }
+  },
+  {
+    "code": "216",
+    "name": "Amuria District",
+    "names": {
+      "ja": "アムリア県",
+      "ko": "아무리아구",
+      "vi": "Quận Amuria",
+      "id": "Distrik Amuria",
+      "zh-Hans": "阿穆里亚区",
+      "zh-Hant": "阿穆里亞區"
+    }
+  },
+  {
+    "code": "316",
+    "name": "Amuru District",
+    "names": {
+      "ja": "アムル県",
+      "ko": "아무루구",
+      "vi": "Quận Amuru",
+      "id": "Distrik Amuru",
+      "zh-Hans": "阿穆鲁区",
+      "zh-Hant": "阿穆魯區"
+    }
+  },
+  {
+    "code": "302",
+    "name": "Apac District",
+    "names": {
+      "ja": "アパッチ県",
+      "ko": "아파크구",
+      "vi": "Quận Apac",
+      "id": "Distrik Apac",
+      "zh-Hans": "阿帕克区"
+    }
+  },
+  {
+    "code": "303",
+    "name": "Arua District",
+    "names": {
+      "ja": "アルア県",
+      "ko": "아루아구",
+      "vi": "Quận Arua",
+      "id": "Distrik Arua",
+      "zh-Hans": "阿鲁阿区"
+    }
+  },
+  {
+    "code": "217",
+    "name": "Budaka District",
+    "names": {
+      "ja": "ブダカ県",
+      "ko": "부다카구",
+      "vi": "Quận Budaka",
+      "id": "Distrik Budaka",
+      "zh-Hans": "布达卡区",
+      "zh-Hant": "布達卡區"
+    }
+  },
+  {
+    "code": "218",
+    "name": "Bududa District",
+    "names": {
+      "ja": "ブドゥダ県",
+      "ko": "부두다구",
+      "vi": "Quận Bududa",
+      "id": "Distrik Bududa",
+      "zh-Hans": "布杜达区",
+      "zh-Hant": "布杜達區"
+    }
+  },
+  {
+    "code": "201",
+    "name": "Bugiri District",
+    "names": {
+      "ja": "ブギリ県",
+      "ko": "부기리구",
+      "id": "Distrik Bugiri",
+      "zh-Hans": "布吉里區"
+    }
+  },
+  {
+    "code": "235",
+    "name": "Bugweri",
+    "names": {}
+  },
+  {
+    "code": "420",
+    "name": "Buhweju District",
+    "names": {
+      "ja": "ブフウェジュ県",
+      "ko": "부흐웨주구",
+      "vi": "Quận Buhweju",
+      "id": "Distrik Buhweju",
+      "zh-Hans": "布惠朱区"
+    }
+  },
+  {
+    "code": "117",
+    "name": "Buikwe District",
+    "names": {
+      "ja": "ブイクウェ県",
+      "ko": "부이퀘구",
+      "vi": "Quận Buikwe",
+      "id": "Distrik Buikwe",
+      "zh-Hans": "布伊奎区",
+      "zh-Hant": "布伊奎區"
+    }
+  },
+  {
+    "code": "219",
+    "name": "Bukedea District",
+    "names": {
+      "ja": "ブケデア県",
+      "ko": "부케데아구",
+      "vi": "Quận Bukedea",
+      "id": "Distrik Bukedea",
+      "zh-Hans": "布凯德阿区",
+      "zh-Hant": "布凱德阿區"
+    }
+  },
+  {
+    "code": "118",
+    "name": "Bukomansimbi District",
+    "names": {
+      "ja": "ブコマンシンビ県",
+      "ko": "부코만심비구",
+      "vi": "Quận Bukomansimbi",
+      "id": "Distrik Bukomansimbi",
+      "zh-Hans": "布科曼辛比区",
+      "zh-Hant": "布科曼辛比區"
+    }
+  },
+  {
+    "code": "220",
+    "name": "Bukwo District",
+    "names": {
+      "ja": "ブクウォ県",
+      "ko": "부쿼구",
+      "vi": "Quận Bukwo",
+      "id": "Distrik Bukwo",
+      "zh-Hans": "布克瓦区",
+      "zh-Hant": "布克瓦區"
+    }
+  },
+  {
+    "code": "225",
+    "name": "Bulambuli District",
+    "names": {
+      "ja": "ブランブリ県",
+      "ko": "불람불리구",
+      "vi": "Quận Bulambuli",
+      "id": "Distrik Bulambuli",
+      "zh-Hans": "布兰布利区",
+      "zh-Hant": "布蘭布利區"
+    }
+  },
+  {
+    "code": "416",
+    "name": "Buliisa District",
+    "names": {
+      "ja": "ブリサ県",
+      "ko": "불리사구",
+      "vi": "Quận Buliisa",
+      "id": "Distrik Buliisa",
+      "zh-Hans": "布利萨区"
+    }
+  },
+  {
+    "code": "401",
+    "name": "Bundibugyo District",
+    "names": {
+      "ja": "ブンディブギョ県",
+      "ko": "분디부교구",
+      "vi": "Quận Bundibugyo",
+      "id": "Distrik Bundibugyo",
+      "zh-Hans": "本迪布焦区",
+      "zh-Hant": "本迪布焦區"
+    }
+  },
+  {
+    "code": "430",
+    "name": "Bunyangabu District",
+    "names": {
+      "ja": "ブニャンガブ県",
+      "zh-Hans": "本扬加布"
+    }
+  },
+  {
+    "code": "402",
+    "name": "Bushenyi District",
+    "names": {
+      "ja": "ブシェニ県",
+      "ko": "부셰니구",
+      "vi": "Quận Bushenyi",
+      "id": "Distrik Bushenyi",
+      "zh-Hans": "布谢尼区"
+    }
+  },
+  {
+    "code": "202",
+    "name": "Busia District",
+    "names": {
+      "ja": "ブシア県",
+      "ko": "부시아구",
+      "vi": "Quận Busia",
+      "id": "Distrik Busia",
+      "zh-Hans": "布西亚区"
+    }
+  },
+  {
+    "code": "221",
+    "name": "Butaleja District",
+    "names": {
+      "ja": "ブタレジャ県",
+      "ko": "부탈레자구",
+      "vi": "Quận Butaleja",
+      "id": "Distrik Butaleja",
+      "zh-Hans": "布塔莱贾区",
+      "zh-Hant": "布塔萊賈區"
+    }
+  },
+  {
+    "code": "119",
+    "name": "Butambala District",
+    "names": {
+      "ja": "ブタンバラ県",
+      "ko": "부탐발라구",
+      "vi": "Quận Butambala",
+      "id": "Distrik Butambala",
+      "zh-Hans": "布坦巴拉区",
+      "zh-Hant": "布坦巴拉區"
+    }
+  },
+  {
+    "code": "233",
+    "name": "Butebo District",
+    "names": {
+      "ja": "ブテボ県"
+    }
+  },
+  {
+    "code": "120",
+    "name": "Buvuma District",
+    "names": {
+      "ja": "ブヴァマ県",
+      "ko": "부부마구",
+      "vi": "Quận Buvuma",
+      "id": "Distrik Buvuma",
+      "zh-Hans": "布武马区",
+      "zh-Hant": "布武馬區"
+    }
+  },
+  {
+    "code": "226",
+    "name": "Buyende District",
+    "names": {
+      "ja": "ブイェンデ県",
+      "ko": "부옌데구",
+      "vi": "Quận Buyende",
+      "id": "Distrik Buyende",
+      "zh-Hans": "布延德区",
+      "zh-Hant": "布延德區"
+    }
+  },
+  {
+    "code": "C",
+    "name": "Central Region",
+    "names": {
+      "ja": "中央地域",
+      "ko": "중부주",
+      "vi": "Trung Uganda",
+      "id": "Region Tengah, Uganda",
+      "zh-Hans": "中部區"
+    }
+  },
+  {
+    "code": "317",
+    "name": "Dokolo District",
+    "names": {
+      "ja": "ドコロ県",
+      "ko": "도콜로구",
+      "vi": "Quận Dokolo",
+      "id": "Distrik Dokolo",
+      "zh-Hans": "多科洛区",
+      "zh-Hant": "多科洛區"
+    }
+  },
+  {
+    "code": "E",
+    "name": "Eastern Region",
+    "names": {
+      "ja": "東部地域",
+      "ko": "동부주",
+      "vi": "Đông Uganda",
+      "id": "Region Timur, Uganda",
+      "zh-Hans": "东部区",
+      "zh-Hant": "東部區"
+    }
+  },
+  {
+    "code": "121",
+    "name": "Gomba District",
+    "names": {
+      "ja": "ゴンバ県",
+      "ko": "곰바구",
+      "vi": "Quận Gomba",
+      "id": "Distrik Gomba",
+      "zh-Hans": "贡巴区",
+      "zh-Hant": "貢巴區"
+    }
+  },
+  {
+    "code": "304",
+    "name": "Gulu District",
+    "names": {
+      "ja": "グル県",
+      "ko": "굴루구",
+      "vi": "Quận Gulu",
+      "id": "Distrik Gulu",
+      "zh-Hans": "古卢区",
+      "zh-Hant": "古盧區"
+    }
+  },
+  {
+    "code": "403",
+    "name": "Hoima District",
+    "names": {
+      "ja": "ホイマ県",
+      "ko": "호이마구",
+      "vi": "Quận Hoima",
+      "id": "Distrik Hoima",
+      "zh-Hans": "霍伊马区",
+      "zh-Hant": "霍伊馬區"
+    }
+  },
+  {
+    "code": "417",
+    "name": "Ibanda District",
+    "names": {
+      "ja": "イバンダ県",
+      "ko": "이반다구",
+      "vi": "Quận Ibanda",
+      "id": "Distrik Ibanda",
+      "zh-Hans": "伊班达区",
+      "zh-Hant": "伊班達區"
+    }
+  },
+  {
+    "code": "203",
+    "name": "Iganga District",
+    "names": {
+      "ja": "イガンガ県",
+      "ko": "이강가구",
+      "vi": "Quận Iganga",
+      "id": "Distrik Iganga",
+      "zh-Hans": "伊甘加区"
+    }
+  },
+  {
+    "code": "418",
+    "name": "Isingiro District",
+    "names": {
+      "ja": "イシンギロ県",
+      "ko": "이싱기로구",
+      "vi": "Quận Isingiro",
+      "id": "Distrik Isingiro",
+      "zh-Hans": "伊辛吉罗区",
+      "zh-Hant": "伊辛吉羅區"
+    }
+  },
+  {
+    "code": "204",
+    "name": "Jinja District",
+    "names": {
+      "ja": "ジンジャ県",
+      "ko": "진자구",
+      "vi": "Quận Jinja",
+      "id": "Distrik Jinja",
+      "zh-Hans": "金贾区"
+    }
+  },
+  {
+    "code": "318",
+    "name": "Kaabong District",
+    "names": {
+      "ja": "カボング県",
+      "ko": "카봉구",
+      "vi": "Quận Kaabong",
+      "id": "Distrik Kaabong",
+      "zh-Hans": "卡邦区"
+    }
+  },
+  {
+    "code": "404",
+    "name": "Kabale District",
+    "names": {
+      "ja": "カバレ県",
+      "ko": "카발레구",
+      "vi": "Quận Kabale",
+      "id": "Distrik Kabale",
+      "zh-Hans": "卡巴莱区"
+    }
+  },
+  {
+    "code": "405",
+    "name": "Kabarole District",
+    "names": {
+      "ja": "カバロレ県",
+      "ko": "카바롤레구",
+      "vi": "Quận Kabarole",
+      "id": "Distrik Kabarole",
+      "zh-Hans": "卡巴罗莱区"
+    }
+  },
+  {
+    "code": "213",
+    "name": "Kaberamaido District",
+    "names": {
+      "ja": "カベラマイド県",
+      "ko": "카베라마이도구",
+      "vi": "Quận Kaberamaido",
+      "id": "Distrik Kaberamaido",
+      "zh-Hans": "卡贝拉马伊多区"
+    }
+  },
+  {
+    "code": "427",
+    "name": "Kagadi District",
+    "names": {
+      "ja": "カガディ県"
+    }
+  },
+  {
+    "code": "428",
+    "name": "Kakumiro District",
+    "names": {
+      "ja": "カクミロ県"
+    }
+  },
+  {
+    "code": "237",
+    "name": "Kalaki District",
+    "names": {
+      "ja": "カラキ県"
+    }
+  },
+  {
+    "code": "101",
+    "name": "Kalangala District",
+    "names": {
+      "ja": "カランガラ県",
+      "ko": "칼랑갈라구",
+      "vi": "Kalangala",
+      "id": "Distrik Kalangala",
+      "zh-Hans": "卡兰加拉区",
+      "zh-Hant": "卡蘭加拉區"
+    }
+  },
+  {
+    "code": "222",
+    "name": "Kaliro District",
+    "names": {
+      "ja": "カリロ県",
+      "ko": "칼리로구",
+      "vi": "Quận Kaliro",
+      "id": "Distrik Kaliro",
+      "zh-Hans": "卡利罗区",
+      "zh-Hant": "卡利羅區"
+    }
+  },
+  {
+    "code": "122",
+    "name": "Kalungu District",
+    "names": {
+      "ja": "カルング県",
+      "ko": "칼룽구구",
+      "vi": "Quận Kalungu",
+      "id": "Distrik Kalungu",
+      "zh-Hans": "卡伦古区",
+      "zh-Hant": "卡倫古區"
+    }
+  },
+  {
+    "code": "102",
+    "name": "Kampala District",
+    "names": {
+      "ja": "カンパラ県",
+      "ko": "캄팔라구",
+      "vi": "Quận Kampala",
+      "id": "Distrik Kampala",
+      "zh-Hans": "坎帕拉区"
+    }
+  },
+  {
+    "code": "205",
+    "name": "Kamuli District",
+    "names": {
+      "ja": "カムリ県",
+      "ko": "카물리구",
+      "vi": "Quận Kamuli",
+      "id": "Distrik Kamuli",
+      "zh-Hans": "卡穆利区"
+    }
+  },
+  {
+    "code": "413",
+    "name": "Kamwenge District",
+    "names": {
+      "ja": "カムウェンゲ県",
+      "ko": "캄웽게구",
+      "vi": "Quận Kamwenge",
+      "id": "Distrik Kamwenge",
+      "zh-Hans": "卡姆文盖区",
+      "zh-Hant": "卡姆文蓋區"
+    }
+  },
+  {
+    "code": "414",
+    "name": "Kanungu District",
+    "names": {
+      "ja": "カヌング県",
+      "ko": "카눙구구",
+      "vi": "Quận Kanungu",
+      "id": "Distrik Kanungu",
+      "zh-Hans": "卡农古区",
+      "zh-Hant": "卡農古區"
+    }
+  },
+  {
+    "code": "206",
+    "name": "Kapchorwa District",
+    "names": {
+      "ja": "カプチョルワ県",
+      "ko": "카프초르와구",
+      "vi": "Quận Kapchorwa",
+      "id": "Distrik Kapchorwa",
+      "zh-Hans": "卡普乔鲁瓦区"
+    }
+  },
+  {
+    "code": "236",
+    "name": "Kapelebyong",
+    "names": {}
+  },
+  {
+    "code": "335",
+    "name": "Karenga District",
+    "names": {
+      "ja": "カレンガ県"
+    }
+  },
+  {
+    "code": "126",
+    "name": "Kasanda",
+    "names": {}
+  },
+  {
+    "code": "406",
+    "name": "Kasese District",
+    "names": {
+      "ja": "カセセ県",
+      "ko": "카세세구",
+      "vi": "Quận Kasese",
+      "id": "Distrik Kasese",
+      "zh-Hans": "卡塞塞区"
+    }
+  },
+  {
+    "code": "207",
+    "name": "Katakwi District",
+    "names": {
+      "ja": "カタクイ県",
+      "ko": "카타퀴구",
+      "vi": "Quận Katakwi",
+      "id": "Distrik Katakwi",
+      "zh-Hans": "卡塔奎区"
+    }
+  },
+  {
+    "code": "112",
+    "name": "Kayunga District",
+    "names": {
+      "ja": "カユンガ県",
+      "ko": "카융가구",
+      "vi": "Quận Kayunga",
+      "id": "Distrik Kayunga",
+      "zh-Hans": "卡永加区",
+      "zh-Hant": "卡永加區"
+    }
+  },
+  {
+    "code": "433",
+    "name": "Kazo District",
+    "names": {
+      "ja": "カゾ県"
+    }
+  },
+  {
+    "code": "407",
+    "name": "Kibaale District",
+    "names": {
+      "ja": "キバレ県",
+      "ko": "키발레구",
+      "vi": "Quận Kibaale",
+      "id": "Distrik Kibaale",
+      "zh-Hans": "基巴莱区"
+    }
+  },
+  {
+    "code": "103",
+    "name": "Kiboga District",
+    "names": {
+      "ja": "キボガ県",
+      "ko": "키보가구",
+      "vi": "Quận Kiboga",
+      "id": "Distrik Kiboga",
+      "zh-Hans": "基博加区",
+      "zh-Hant": "基博加區"
+    }
+  },
+  {
+    "code": "227",
+    "name": "Kibuku District",
+    "names": {
+      "ja": "キブク県",
+      "ko": "키부쿠구",
+      "vi": "Quận Kibuku",
+      "id": "Distrik Kibuku",
+      "zh-Hans": "基布库区",
+      "zh-Hant": "基布庫區"
+    }
+  },
+  {
+    "code": "432",
+    "name": "Kikuube",
+    "names": {}
+  },
+  {
+    "code": "419",
+    "name": "Kiruhura District",
+    "names": {
+      "ja": "キルフラ県",
+      "ko": "키루후라구",
+      "id": "Distrik Kiruhura",
+      "zh-Hans": "基鲁胡拉区",
+      "zh-Hant": "基魯胡拉區"
+    }
+  },
+  {
+    "code": "421",
+    "name": "Kiryandongo District",
+    "names": {
+      "ja": "キリャンドンゴ県",
+      "ko": "키리안동고구",
+      "vi": "Quận Kiryandongo",
+      "id": "Distrik Kiryandongo",
+      "zh-Hans": "基尔扬东戈区"
+    }
+  },
+  {
+    "code": "408",
+    "name": "Kisoro District",
+    "names": {
+      "ja": "キソロ県",
+      "ko": "키소로구",
+      "id": "Distrik Kisoro",
+      "zh-Hans": "基索羅區",
+      "zh-Hant": "基索羅區"
+    }
+  },
+  {
+    "code": "434",
+    "name": "Kitagwenda District",
+    "names": {
+      "ja": "キタグウェンダ県"
+    }
+  },
+  {
+    "code": "305",
+    "name": "Kitgum District",
+    "names": {
+      "ja": "キトゥグム県",
+      "ko": "키트굼구",
+      "vi": "Quận Kitgum",
+      "id": "Distrik Kitgum",
+      "zh-Hans": "基特古姆区",
+      "zh-Hant": "基特古姆區"
+    }
+  },
+  {
+    "code": "319",
+    "name": "Koboko District",
+    "names": {
+      "ja": "コボコ県",
+      "ko": "코보코구",
+      "vi": "Quận Koboko",
+      "id": "Distrik Koboko",
+      "zh-Hans": "科博科区",
+      "zh-Hant": "科博科區"
+    }
+  },
+  {
+    "code": "325",
+    "name": "Kole District",
+    "names": {
+      "ja": "コレ県",
+      "ko": "콜레구",
+      "vi": "Quận Kole",
+      "id": "Distrik Kole",
+      "zh-Hans": "科莱区"
+    }
+  },
+  {
+    "code": "306",
+    "name": "Kotido District",
+    "names": {
+      "ja": "コティド県",
+      "ko": "코티도구",
+      "vi": "Quận Kotido",
+      "id": "Distrik Kotido",
+      "zh-Hans": "科蒂多区",
+      "zh-Hant": "科蒂多區"
+    }
+  },
+  {
+    "code": "208",
+    "name": "Kumi District",
+    "names": {
+      "ja": "クミ県",
+      "ko": "쿠미구",
+      "vi": "Quận Kumi",
+      "id": "Distrik Kumi",
+      "zh-Hans": "库米区",
+      "zh-Hant": "庫米區"
+    }
+  },
+  {
+    "code": "333",
+    "name": "Kwania",
+    "names": {}
+  },
+  {
+    "code": "228",
+    "name": "Kween District",
+    "names": {
+      "ja": "クウェエン県",
+      "ko": "퀜구",
+      "vi": "Quận Kween",
+      "id": "Distrik Kween",
+      "zh-Hans": "奎恩区",
+      "zh-Hant": "奎恩區"
+    }
+  },
+  {
+    "code": "123",
+    "name": "Kyankwanzi District",
+    "names": {
+      "ja": "キャンクァンジ県",
+      "ko": "키안콴지구",
+      "vi": "Quận Kyankwanzi",
+      "id": "Distrik Kyankwanzi",
+      "zh-Hans": "克扬宽齐区"
+    }
+  },
+  {
+    "code": "422",
+    "name": "Kyegegwa District",
+    "names": {
+      "ja": "キェゲグワ県",
+      "ko": "키에게과구",
+      "vi": "Quận Kyegegwa",
+      "id": "Distrik Kyegegwa",
+      "zh-Hans": "基埃盖瓜区"
+    }
+  },
+  {
+    "code": "415",
+    "name": "Kyenjojo District",
+    "names": {
+      "ja": "キエンジョジョ県",
+      "ko": "키엔조조구",
+      "vi": "Quận Kyenjojo",
+      "id": "Distrik Kyenjojo",
+      "zh-Hans": "基恩乔乔区",
+      "zh-Hant": "基恩喬喬區"
+    }
+  },
+  {
+    "code": "125",
+    "name": "Kyotera District",
+    "names": {
+      "ja": "キョテラ県"
+    }
+  },
+  {
+    "code": "326",
+    "name": "Lamwo District",
+    "names": {
+      "ja": "ランウォ県",
+      "ko": "람워구",
+      "vi": "Quận Lamwo",
+      "id": "Distrik Lamwo",
+      "zh-Hans": "兰沃区"
+    }
+  },
+  {
+    "code": "307",
+    "name": "Lira District",
+    "names": {
+      "ja": "リラ県",
+      "ko": "리라구",
+      "vi": "Quận Lira",
+      "id": "Distrik Lira",
+      "zh-Hans": "利拉区"
+    }
+  },
+  {
+    "code": "229",
+    "name": "Luuka District",
+    "names": {
+      "ja": "ルッカ県",
+      "ko": "루카구",
+      "vi": "Quận Luuka",
+      "id": "Distrik Luuka",
+      "zh-Hans": "卢卡区",
+      "zh-Hant": "盧卡區"
+    }
+  },
+  {
+    "code": "104",
+    "name": "Luwero District",
+    "names": {
+      "ja": "ルウェロ県",
+      "ko": "루웨로구",
+      "vi": "Quận Luwero",
+      "id": "Distrik Luwero",
+      "zh-Hans": "卢韦罗区",
+      "zh-Hant": "盧韋羅區"
+    }
+  },
+  {
+    "code": "124",
+    "name": "Lwengo District",
+    "names": {
+      "ja": "ルウェンゴ県",
+      "ko": "르웽고구",
+      "vi": "Quận Lwengo",
+      "id": "Distrik Lwengo",
+      "zh-Hans": "卢恩戈区",
+      "zh-Hant": "盧恩戈區"
+    }
+  },
+  {
+    "code": "114",
+    "name": "Lyantonde District",
+    "names": {
+      "ja": "リャントンデ県",
+      "ko": "리안톤데구",
+      "vi": "Quận Lyantonde",
+      "id": "Distrik Lyantonde",
+      "zh-Hans": "利安通德区",
+      "zh-Hant": "利安通德區"
+    }
+  },
+  {
+    "code": "336",
+    "name": "Madi-Okollo District",
+    "names": {}
+  },
+  {
+    "code": "223",
+    "name": "Manafwa District",
+    "names": {
+      "ja": "マナフワ県",
+      "ko": "마나프와구",
+      "vi": "Quận Manafwa",
+      "id": "Distrik Manafwa",
+      "zh-Hans": "马纳富阿区",
+      "zh-Hant": "馬納富阿區"
+    }
+  },
+  {
+    "code": "320",
+    "name": "Maracha District",
+    "names": {
+      "ja": "マラチャ県",
+      "ko": "마라차구",
+      "vi": "Quận Maracha",
+      "id": "Distrik Maracha",
+      "zh-Hans": "馬拉查區"
+    }
+  },
+  {
+    "code": "105",
+    "name": "Masaka District",
+    "names": {
+      "ja": "マサカ県",
+      "ko": "마사카구",
+      "vi": "Quận Masaka",
+      "id": "Distrik Masaka",
+      "zh-Hans": "马萨卡区",
+      "zh-Hant": "馬薩卡區"
+    }
+  },
+  {
+    "code": "409",
+    "name": "Masindi District",
+    "names": {
+      "ja": "マシンディ県",
+      "ko": "마신디구",
+      "vi": "Quận Masindi",
+      "id": "Distrik Masindi",
+      "zh-Hans": "马辛迪区",
+      "zh-Hant": "馬辛迪區"
+    }
+  },
+  {
+    "code": "214",
+    "name": "Mayuge District",
+    "names": {
+      "ja": "マユゲ県",
+      "ko": "마유게구",
+      "vi": "Quận Mayuge",
+      "id": "Distrik Mayuge",
+      "zh-Hans": "马尤盖区",
+      "zh-Hant": "馬尤蓋區"
+    }
+  },
+  {
+    "code": "209",
+    "name": "Mbale District",
+    "names": {
+      "ja": "ムバレ県",
+      "ko": "음발레구",
+      "vi": "Quận Mbale",
+      "id": "Distrik Mbale",
+      "zh-Hans": "姆巴莱区"
+    }
+  },
+  {
+    "code": "410",
+    "name": "Mbarara District",
+    "names": {
+      "ja": "ムバララ県",
+      "ko": "음바라라구",
+      "vi": "Quận Mbarara",
+      "id": "Distrik Mbarara",
+      "zh-Hans": "姆巴拉拉区",
+      "zh-Hant": "姆巴拉拉區"
+    }
+  },
+  {
+    "code": "423",
+    "name": "Mitooma District",
+    "names": {
+      "ja": "ミトマ県",
+      "ko": "미토마구",
+      "vi": "Quận Mitooma",
+      "id": "Distrik Mitooma",
+      "zh-Hans": "米托马区"
+    }
+  },
+  {
+    "code": "115",
+    "name": "Mityana District",
+    "names": {
+      "ja": "ミティアナ県",
+      "ko": "미티아나구",
+      "vi": "Quận Mityana",
+      "id": "Distrik Mityana",
+      "zh-Hans": "米特亚纳区"
+    }
+  },
+  {
+    "code": "308",
+    "name": "Moroto District",
+    "names": {
+      "ja": "モロト県",
+      "ko": "모로토구",
+      "vi": "Quận Moroto",
+      "id": "Distrik Moroto",
+      "zh-Hans": "莫罗托区",
+      "zh-Hant": "莫羅托區"
+    }
+  },
+  {
+    "code": "309",
+    "name": "Moyo District",
+    "names": {
+      "ja": "モヨ県",
+      "ko": "모요구",
+      "vi": "Quận Moyo",
+      "id": "Distrik Moyo",
+      "zh-Hans": "莫约区"
+    }
+  },
+  {
+    "code": "106",
+    "name": "Mpigi District",
+    "names": {
+      "ja": "ムピジ県",
+      "ko": "음피기구",
+      "vi": "Quận Mpigi",
+      "id": "Distrik Mpigi",
+      "zh-Hans": "姆皮吉区",
+      "zh-Hant": "姆皮吉區"
+    }
+  },
+  {
+    "code": "107",
+    "name": "Mubende District",
+    "names": {
+      "ja": "ムベンデ県",
+      "ko": "무벤데구",
+      "vi": "Quận Mubende",
+      "id": "Distrik Mubende",
+      "zh-Hans": "穆本德区",
+      "zh-Hant": "穆本德區"
+    }
+  },
+  {
+    "code": "108",
+    "name": "Mukono District",
+    "names": {
+      "ja": "ムコノ県",
+      "ko": "무코노구",
+      "vi": "Quận Mukono",
+      "id": "Distrik Mukono",
+      "zh-Hans": "穆科诺区",
+      "zh-Hant": "穆科諾區"
+    }
+  },
+  {
+    "code": "334",
+    "name": "Nabilatuk",
+    "names": {}
+  },
+  {
+    "code": "311",
+    "name": "Nakapiripirit District",
+    "names": {
+      "ja": "ナカピリピリ県",
+      "ko": "나카피리피리트구",
+      "vi": "Quận Nakapiripirit",
+      "id": "Distrik Nakapiripirit",
+      "zh-Hans": "纳卡皮里皮里特区",
+      "zh-Hant": "納卡皮里皮里特區"
+    }
+  },
+  {
+    "code": "116",
+    "name": "Nakaseke District",
+    "names": {
+      "ja": "ナカセケ県",
+      "ko": "나카세케구",
+      "vi": "Quận Nakaseke",
+      "id": "Distrik Nakaseke",
+      "zh-Hans": "纳卡塞凯区"
+    }
+  },
+  {
+    "code": "109",
+    "name": "Nakasongola District",
+    "names": {
+      "ja": "ナカソンゴラ県",
+      "ko": "나카송골라구",
+      "vi": "Quận Nakasongola",
+      "id": "Distrik Nakasongola",
+      "zh-Hans": "纳卡松戈拉区",
+      "zh-Hant": "納卡松戈拉區"
+    }
+  },
+  {
+    "code": "230",
+    "name": "Namayingo District",
+    "names": {
+      "ja": "ナマインゴ県",
+      "ko": "나마잉고구",
+      "vi": "Quận Namayingo",
+      "id": "Distrik Namayingo",
+      "zh-Hans": "纳马因戈区",
+      "zh-Hant": "納馬因戈區"
+    }
+  },
+  {
+    "code": "234",
+    "name": "Namisindwa District",
+    "names": {
+      "ja": "ナミシンドワ県"
+    }
+  },
+  {
+    "code": "224",
+    "name": "Namutumba District",
+    "names": {
+      "ja": "ナムトゥンバ県",
+      "ko": "나무툼바구",
+      "vi": "Quận Namutumba",
+      "id": "Distrik Namutumba",
+      "zh-Hans": "纳穆通巴区",
+      "zh-Hant": "納穆通巴區"
+    }
+  },
+  {
+    "code": "327",
+    "name": "Napak District",
+    "names": {
+      "ja": "ナパック県",
+      "ko": "나파크구",
+      "vi": "Quận Napak",
+      "id": "Distrik Napak",
+      "zh-Hans": "纳帕克区"
+    }
+  },
+  {
+    "code": "310",
+    "name": "Nebbi District",
+    "names": {
+      "ja": "ネビ県",
+      "ko": "네비구",
+      "vi": "Quận Nebbi",
+      "id": "Distrik Nebbi",
+      "zh-Hans": "内比区",
+      "zh-Hant": "內比區"
+    }
+  },
+  {
+    "code": "231",
+    "name": "Ngora District",
+    "names": {
+      "ja": "ンゴラ県",
+      "ko": "응고라구",
+      "vi": "Quận Ngora",
+      "id": "Distrik Ngora",
+      "zh-Hans": "恩戈拉区",
+      "zh-Hant": "恩戈拉區"
+    }
+  },
+  {
+    "code": "N",
+    "name": "Northern Region",
+    "names": {
+      "ja": "北部地域",
+      "ko": "북부주",
+      "vi": "Bắc Uganda",
+      "id": "Region Utara, Uganda",
+      "zh-Hans": "北部区",
+      "zh-Hant": "北部區"
+    }
+  },
+  {
+    "code": "424",
+    "name": "Ntoroko District",
+    "names": {
+      "ja": "ントロコ県",
+      "ko": "은토로코구",
+      "vi": "Quận Ntoroko",
+      "id": "Distrik Ntoroko",
+      "zh-Hans": "恩托罗科区"
+    }
+  },
+  {
+    "code": "411",
+    "name": "Ntungamo District",
+    "names": {
+      "ja": "ントゥンガモ県",
+      "ko": "은퉁가모구",
+      "vi": "Quận Ntungamo",
+      "id": "Distrik Ntungamo",
+      "zh-Hans": "恩通加莫区"
+    }
+  },
+  {
+    "code": "328",
+    "name": "Nwoya District",
+    "names": {
+      "ja": "ナウォヤ県",
+      "ko": "은워야구",
+      "vi": "Quận Nwoya",
+      "id": "Distrik Nwoya",
+      "zh-Hans": "恩沃亚区"
+    }
+  },
+  {
+    "code": "337",
+    "name": "Obongi District",
+    "names": {
+      "ja": "オボンギ県"
+    }
+  },
+  {
+    "code": "331",
+    "name": "Omoro District",
+    "names": {
+      "ja": "オモロ県"
+    }
+  },
+  {
+    "code": "329",
+    "name": "Otuke District",
+    "names": {
+      "ja": "オツケ県",
+      "ko": "오투케구",
+      "vi": "Quận Otuke",
+      "id": "Distrik Otuke",
+      "zh-Hans": "奥图凯区"
+    }
+  },
+  {
+    "code": "321",
+    "name": "Oyam District",
+    "names": {
+      "ja": "オヤム県",
+      "ko": "오얌구",
+      "vi": "Quận Oyam",
+      "id": "Distrik Oyam",
+      "zh-Hans": "奥扬区",
+      "zh-Hant": "奧揚區"
+    }
+  },
+  {
+    "code": "312",
+    "name": "Pader District",
+    "names": {
+      "ja": "パデル県",
+      "ko": "파데르구",
+      "id": "Distrik Pader",
+      "zh-Hans": "帕德爾區",
+      "zh-Hant": "帕德爾區"
+    }
+  },
+  {
+    "code": "332",
+    "name": "Pakwach District",
+    "names": {
+      "ja": "パクワチ県"
+    }
+  },
+  {
+    "code": "210",
+    "name": "Pallisa District",
+    "names": {
+      "ja": "パリサ県",
+      "ko": "팔리사구",
+      "vi": "Quận Pallisa",
+      "id": "Distrik Pallisa",
+      "zh-Hans": "帕利萨区",
+      "zh-Hant": "帕利薩區"
+    }
+  },
+  {
+    "code": "110",
+    "name": "Rakai District",
+    "names": {
+      "ja": "ラカイ県",
+      "ko": "라카이구",
+      "vi": "Quận Rakai",
+      "id": "Distrik Rakai",
+      "zh-Hans": "拉卡伊区",
+      "zh-Hant": "拉卡伊區"
+    }
+  },
+  {
+    "code": "429",
+    "name": "Rubanda District",
+    "names": {
+      "ja": "ルバンダ県"
+    }
+  },
+  {
+    "code": "425",
+    "name": "Rubirizi District",
+    "names": {
+      "ja": "ルビリジ県",
+      "ko": "루비리지구",
+      "vi": "Quận Rubirizi",
+      "id": "Distrik Rubirizi",
+      "zh-Hans": "鲁比里齐区"
+    }
+  },
+  {
+    "code": "431",
+    "name": "Rukiga District",
+    "names": {
+      "ja": "ルキガ県"
+    }
+  },
+  {
+    "code": "412",
+    "name": "Rukungiri District",
+    "names": {
+      "ja": "ルクンギリ県",
+      "ko": "루쿵기리구",
+      "vi": "Quận Rukungiri",
+      "id": "Distrik Rukungiri",
+      "zh-Hans": "鲁昆吉里区"
+    }
+  },
+  {
+    "code": "435",
+    "name": "Rwampara district",
+    "names": {
+      "ja": "ルワンパラ県"
+    }
+  },
+  {
+    "code": "232",
+    "name": "Serere District",
+    "names": {
+      "ja": "セレレ県",
+      "ko": "세레레구",
+      "vi": "Quận Serere",
+      "id": "Distrik Serere",
+      "zh-Hans": "塞雷雷区",
+      "zh-Hant": "塞雷雷區"
+    }
+  },
+  {
+    "code": "426",
+    "name": "Sheema District",
+    "names": {
+      "ja": "シェエマ県",
+      "ko": "셰마구",
+      "vi": "Quận Sheema",
+      "id": "Distrik Sheema",
+      "zh-Hans": "谢马区"
+    }
+  },
+  {
+    "code": "215",
+    "name": "Sironko District",
+    "names": {
+      "ja": "シロンコ県",
+      "ko": "시론코구",
+      "vi": "Quận Sironko",
+      "id": "Distrik Sironko",
+      "zh-Hans": "锡龙科区",
+      "zh-Hant": "錫龍科區"
+    }
+  },
+  {
+    "code": "211",
+    "name": "Soroti District",
+    "names": {
+      "ja": "ソロティ県",
+      "ko": "소로티구",
+      "vi": "Quận Soroti",
+      "id": "Distrik Soroti",
+      "zh-Hans": "索罗提区",
+      "zh-Hant": "索羅提區"
+    }
+  },
+  {
+    "code": "111",
+    "name": "Ssembabule District",
+    "names": {
+      "ja": "センバブレ県",
+      "ko": "셈바불레구",
+      "vi": "Quận Sembabule",
+      "id": "Distrik Sembabule",
+      "zh-Hans": "森巴布莱区",
+      "zh-Hant": "森巴布萊區"
+    }
+  },
+  {
+    "code": "212",
+    "name": "Tororo District",
+    "names": {
+      "ja": "トロロ県",
+      "ko": "토로로구",
+      "vi": "Quận Tororo",
+      "id": "Distrik Tororo",
+      "zh-Hans": "托罗罗区",
+      "zh-Hant": "托羅羅區"
+    }
+  },
+  {
+    "code": "113",
+    "name": "Wakiso District",
+    "names": {
+      "ja": "ワキソ県",
+      "ko": "와키소구",
+      "vi": "Quận Wakiso",
+      "id": "Distrik Wakiso",
+      "zh-Hans": "瓦基索区",
+      "zh-Hant": "瓦基索區"
+    }
+  },
+  {
+    "code": "W",
+    "name": "Western Region",
+    "names": {
+      "ja": "西部地域",
+      "ko": "서부주",
+      "vi": "Tây Uganda",
+      "id": "Region Barat, Uganda",
+      "zh-Hans": "西部区",
+      "zh-Hant": "西部區"
+    }
+  },
+  {
+    "code": "313",
+    "name": "Yumbe District",
+    "names": {
+      "ja": "ユンベ県",
+      "ko": "윰베구",
+      "vi": "Quận Yumbe",
+      "id": "Distrik Yumbe",
+      "zh-Hans": "永贝区",
+      "zh-Hant": "永貝區"
+    }
+  },
+  {
+    "code": "330",
+    "name": "Zombo District",
+    "names": {
+      "ja": "ゾンボ県",
+      "ko": "좀보구",
+      "vi": "Quận Zombo",
+      "id": "Distrik Zombo",
+      "zh-Hans": "宗博区"
+    }
+  }
+]

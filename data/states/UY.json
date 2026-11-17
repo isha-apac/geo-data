@@ -1,0 +1,215 @@
+[
+  {
+    "code": "AR",
+    "name": "Artigas Department",
+    "names": {
+      "ja": "アルティガス県",
+      "ko": "아르티가스주",
+      "vi": "Artigas",
+      "id": "Departemen Artigas",
+      "zh-Hans": "阿蒂加斯省"
+    }
+  },
+  {
+    "code": "CA",
+    "name": "Canelones Department",
+    "names": {
+      "ja": "カネロネス県",
+      "ko": "카넬로네스주",
+      "vi": "Khu vực hành chính Canelones",
+      "id": "Departemen Canelones",
+      "zh-Hans": "卡内洛内斯省"
+    }
+  },
+  {
+    "code": "CL",
+    "name": "Cerro Largo Department",
+    "names": {
+      "ja": "セロ・ラルゴ県",
+      "ko": "세로라르고주",
+      "vi": "Cerro Largo",
+      "id": "Departemen Cerro Largo",
+      "zh-Hans": "塞罗拉尔戈省"
+    }
+  },
+  {
+    "code": "CO",
+    "name": "Colonia Department",
+    "names": {
+      "ja": "コロニア県",
+      "ko": "콜로니아주",
+      "vi": "Colonia (tỉnh)",
+      "id": "Departemen Colonia",
+      "zh-Hans": "科洛尼亚省"
+    }
+  },
+  {
+    "code": "DU",
+    "name": "Durazno Department",
+    "names": {
+      "ja": "ドゥラスノ県",
+      "ko": "두라스노주",
+      "vi": "Durazno",
+      "id": "Departemen Durazno",
+      "zh-Hans": "杜拉斯诺省"
+    }
+  },
+  {
+    "code": "FS",
+    "name": "Flores Department",
+    "names": {
+      "ja": "フロレス県",
+      "ko": "플로레스주",
+      "vi": "Flores",
+      "id": "Departemen Flores",
+      "zh-Hans": "弗洛雷斯省"
+    }
+  },
+  {
+    "code": "FD",
+    "name": "Florida Department",
+    "names": {
+      "ja": "フロリダ県",
+      "ko": "플로리다주",
+      "vi": "Florida",
+      "id": "Departemen Florida",
+      "zh-Hans": "佛罗里达省"
+    }
+  },
+  {
+    "code": "LA",
+    "name": "Lavalleja Department",
+    "names": {
+      "ja": "ラバジェハ県",
+      "ko": "라바예하주",
+      "vi": "Lavalleja",
+      "id": "Departemen Lavalleja",
+      "zh-Hans": "拉瓦耶哈省",
+      "zh-Hant": "拉瓦耶哈省"
+    }
+  },
+  {
+    "code": "MA",
+    "name": "Maldonado Department",
+    "names": {
+      "ja": "マルドナド県",
+      "ko": "말도나도주",
+      "vi": "Maldonado",
+      "id": "Departemen Maldonado",
+      "zh-Hans": "马尔多纳多省",
+      "zh-Hant": "馬爾多納多省"
+    }
+  },
+  {
+    "code": "MO",
+    "name": "Montevideo Department",
+    "names": {
+      "ja": "モンテビデオ県",
+      "ko": "몬테비데오주",
+      "vi": "Montevideo",
+      "id": "Departemen Montevideo",
+      "zh-Hans": "蒙得维的亚省",
+      "zh-Hant": "蒙得維的亞省"
+    }
+  },
+  {
+    "code": "PA",
+    "name": "Paysandú Department",
+    "names": {
+      "ja": "パイサンドゥ県",
+      "ko": "파이산두주",
+      "vi": "Paysandú",
+      "id": "Departemen Paysandú",
+      "zh-Hans": "派桑杜省"
+    }
+  },
+  {
+    "code": "RN",
+    "name": "Río Negro Department",
+    "names": {
+      "ja": "リオ・ネグロ県",
+      "ko": "리오네그로주",
+      "vi": "Río Negro",
+      "id": "Departemen Río Negro",
+      "zh-Hans": "内格罗河省",
+      "zh-Hant": "內格羅河省"
+    }
+  },
+  {
+    "code": "RV",
+    "name": "Rivera Department",
+    "names": {
+      "ja": "リベラ県",
+      "ko": "리베라주",
+      "vi": "Rivera",
+      "id": "Departemen Rivera",
+      "zh-Hans": "里韦拉省"
+    }
+  },
+  {
+    "code": "RO",
+    "name": "Rocha Department",
+    "names": {
+      "ja": "ロチャ県",
+      "ko": "로차주",
+      "vi": "Rocha",
+      "id": "Departemen Rocha",
+      "zh-Hans": "罗恰省"
+    }
+  },
+  {
+    "code": "SA",
+    "name": "Salto Department",
+    "names": {
+      "ja": "サルト県",
+      "ko": "살토주",
+      "vi": "Salto",
+      "id": "Departemen Salto",
+      "zh-Hans": "萨尔托省"
+    }
+  },
+  {
+    "code": "SJ",
+    "name": "San José Department",
+    "names": {
+      "ja": "サン・ホセ県",
+      "ko": "산호세주",
+      "vi": "San José",
+      "id": "Departemen San José",
+      "zh-Hans": "圣何塞省"
+    }
+  },
+  {
+    "code": "SO",
+    "name": "Soriano Department",
+    "names": {
+      "ja": "ソリアノ県",
+      "ko": "소리아노주",
+      "vi": "Soriano",
+      "id": "Departemen Soriano",
+      "zh-Hans": "索里亚诺省"
+    }
+  },
+  {
+    "code": "TA",
+    "name": "Tacuarembó Department",
+    "names": {
+      "ja": "タクアレンボー県",
+      "ko": "타쿠아렘보 주",
+      "vi": "Khu vực hành chính Tacuarembó",
+      "id": "Departemen Tacuarembó",
+      "zh-Hans": "塔夸伦博省"
+    }
+  },
+  {
+    "code": "TT",
+    "name": "Treinta y Tres Department",
+    "names": {
+      "ja": "トレインタ・イ・トレス県",
+      "ko": "트레인타이트레스주",
+      "vi": "Treinta y Tres",
+      "id": "Departemen Treinta y Tres",
+      "zh-Hans": "三十三人省"
+    }
+  }
+]

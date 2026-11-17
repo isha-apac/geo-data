@@ -1,0 +1,73 @@
+[
+  {
+    "code": "MAP",
+    "name": "Malampa",
+    "names": {
+      "ja": "マランパ州",
+      "ko": "말람파주",
+      "vi": "Tỉnh Malampa",
+      "id": "Provinsi Malampa",
+      "zh-Hans": "马朗巴省",
+      "zh-Hant": "馬朗巴省"
+    }
+  },
+  {
+    "code": "PAM",
+    "name": "Penama",
+    "names": {
+      "ja": "ペナマ州",
+      "ko": "페나마주",
+      "vi": "Tỉnh Penama",
+      "id": "Provinsi Penama",
+      "zh-Hans": "彭纳马省",
+      "zh-Hant": "彭納馬省"
+    }
+  },
+  {
+    "code": "SAM",
+    "name": "Sanma",
+    "names": {
+      "ja": "サンマ州",
+      "ko": "산마주",
+      "vi": "Tỉnh Sanma",
+      "id": "Provinsi Sanma",
+      "zh-Hans": "桑马省",
+      "zh-Hant": "桑馬省"
+    }
+  },
+  {
+    "code": "SEE",
+    "name": "Shefa",
+    "names": {
+      "ja": "シェファ州",
+      "ko": "셰파주",
+      "vi": "Tỉnh Shefa",
+      "id": "Provinsi Shefa",
+      "zh-Hans": "谢法省",
+      "zh-Hant": "謝法省"
+    }
+  },
+  {
+    "code": "TAE",
+    "name": "Tafea",
+    "names": {
+      "ja": "タフェア州",
+      "ko": "타페아주",
+      "vi": "Tỉnh Tafea",
+      "id": "Provinsi Tafea",
+      "zh-Hans": "塔菲亚省"
+    }
+  },
+  {
+    "code": "TOB",
+    "name": "Torba",
+    "names": {
+      "ja": "トルバ州",
+      "ko": "토르바주",
+      "vi": "Tỉnh Torba",
+      "id": "Provinsi Torba",
+      "zh-Hans": "托尔巴省",
+      "zh-Hant": "托爾巴省"
+    }
+  }
+]

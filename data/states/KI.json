@@ -1,0 +1,33 @@
+[
+  {
+    "code": "G",
+    "name": "Gilbert Islands",
+    "names": {
+      "ja": "ギルバート諸島",
+      "ko": "길버트 제도",
+      "vi": "Quần đảo Gilbert",
+      "id": "Kepulauan Gilbert",
+      "zh-Hans": "吉尔伯特群岛",
+      "zh-Hant": "吉爾伯特群島"
+    }
+  },
+  {
+    "code": "L",
+    "name": "Line Islands",
+    "names": {
+      "ja": "ライン諸島"
+    }
+  },
+  {
+    "code": "P",
+    "name": "Phoenix Islands",
+    "names": {
+      "ja": "フェニックス諸島",
+      "ko": "피닉스 제도",
+      "vi": "Quần đảo Phoenix",
+      "id": "Kepulauan Phoenix",
+      "zh-Hans": "菲尼克斯群岛",
+      "zh-Hant": "鳳凰群島"
+    }
+  }
+]

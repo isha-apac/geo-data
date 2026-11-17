@@ -1,0 +1,176 @@
+[
+  {
+    "code": "AF",
+    "name": "Ahafo Region",
+    "names": {
+      "ja": "アハフォ州",
+      "ko": "아하포주",
+      "zh-Hans": "阿哈福區"
+    }
+  },
+  {
+    "code": "AH",
+    "name": "Ashanti Region",
+    "names": {
+      "ja": "アシャンティ州",
+      "ko": "아샨티주",
+      "vi": "Khu vực Ashanti",
+      "id": "Region Ashanti",
+      "zh-Hans": "阿散蒂地区",
+      "zh-Hant": "阿散蒂地區"
+    }
+  },
+  {
+    "code": "BE",
+    "name": "Bono East Region",
+    "names": {
+      "ja": "ボノ・イースト州",
+      "ko": "보노이스트주",
+      "zh-Hans": "博諾東區"
+    }
+  },
+  {
+    "code": "BO",
+    "name": "Bono Region",
+    "names": {
+      "ja": "ボノ州",
+      "ko": "보노주",
+      "zh-Hans": "博諾區"
+    }
+  },
+  {
+    "code": "CP",
+    "name": "Central Region",
+    "names": {
+      "ja": "セントラル州",
+      "ko": "중앙주",
+      "vi": "Khu vực Miền Trung",
+      "id": "Region Central",
+      "zh-Hans": "中部地区",
+      "zh-Hant": "中部地區"
+    }
+  },
+  {
+    "code": "EP",
+    "name": "Eastern Region",
+    "names": {
+      "ja": "イースタン州",
+      "ko": "동부주",
+      "vi": "Khu vực Eastern",
+      "id": "Region Eastern",
+      "zh-Hans": "东部地区",
+      "zh-Hant": "東部地區"
+    }
+  },
+  {
+    "code": "AA",
+    "name": "Greater Accra Region",
+    "names": {
+      "ja": "グレーター・アクラ州",
+      "ko": "그레이터아크라주",
+      "vi": "Khu vực Greater Accra",
+      "id": "Region Greater Accra",
+      "zh-Hans": "大阿克拉地区",
+      "zh-Hant": "大阿克拉地區"
+    }
+  },
+  {
+    "code": "NE",
+    "name": "North East Region",
+    "names": {
+      "ja": "ノース・イースト州",
+      "ko": "노스이스트주",
+      "id": "Region North East",
+      "zh-Hans": "東北區 (加納)"
+    }
+  },
+  {
+    "code": "NP",
+    "name": "Northern Region",
+    "names": {
+      "ja": "ノーザン州",
+      "ko": "북부주",
+      "vi": "Khu vực Miền Nam",
+      "id": "Region Northern",
+      "zh-Hans": "北部地区",
+      "zh-Hant": "北部地區"
+    }
+  },
+  {
+    "code": "OT",
+    "name": "Oti Region",
+    "names": {
+      "ja": "オティ州",
+      "ko": "오티주",
+      "zh-Hans": "奧蒂大區"
+    }
+  },
+  {
+    "code": "SV",
+    "name": "Savannah Region",
+    "names": {
+      "ja": "サバンナ州",
+      "ko": "사바나주",
+      "id": "Region Savannah",
+      "zh-Hans": "薩凡納大區",
+      "zh-Hant": "薩凡納大區"
+    }
+  },
+  {
+    "code": "UE",
+    "name": "Upper East Region",
+    "names": {
+      "ja": "アッパー・イースト州",
+      "ko": "어퍼이스트주",
+      "vi": "Vùng Thượng Đông",
+      "id": "Region Upper East",
+      "zh-Hans": "东北地区",
+      "zh-Hant": "東北地區"
+    }
+  },
+  {
+    "code": "UW",
+    "name": "Upper West Region",
+    "names": {
+      "ja": "アッパー・ウエスト州",
+      "ko": "어퍼웨스트주",
+      "vi": "Khu vực Thượng Tây",
+      "id": "Region Upper West",
+      "zh-Hans": "西北地区",
+      "zh-Hant": "西北地區"
+    }
+  },
+  {
+    "code": "TV",
+    "name": "Volta Region",
+    "names": {
+      "ja": "ヴォルタ州",
+      "ko": "볼타주",
+      "vi": "Khu vực Volta",
+      "id": "Region Volta",
+      "zh-Hans": "沃尔特地区",
+      "zh-Hant": "沃爾特地區"
+    }
+  },
+  {
+    "code": "WN",
+    "name": "Western North Region",
+    "names": {
+      "ja": "ウェスタン・ノース州",
+      "ko": "웨스턴노스주",
+      "zh-Hans": "西北區 (加納)"
+    }
+  },
+  {
+    "code": "WP",
+    "name": "Western Region",
+    "names": {
+      "ja": "ウェスタン州",
+      "ko": "서부주",
+      "vi": "Khu vực Phía Tây",
+      "id": "Region Western",
+      "zh-Hans": "西部地区",
+      "zh-Hant": "西部地區"
+    }
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "code": "02",
+    "name": "Central Province",
+    "names": {
+      "ja": "中央州",
+      "ko": "중부 주 (잠비아)",
+      "vi": "Tỉnh Miền Trung",
+      "id": "Provinsi Central",
+      "zh-Hans": "中央省 (赞比亚)"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Copperbelt Province",
+    "names": {
+      "ja": "カッパーベルト州",
+      "ko": "코퍼벨트주",
+      "vi": "Tỉnh Copperbelt",
+      "id": "Provinsi Copperbelt",
+      "zh-Hans": "铜带省"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Eastern Province",
+    "names": {
+      "ja": "東部州",
+      "ko": "동부주",
+      "vi": "Tỉnh Phía Đông",
+      "id": "Provinsi Timur, Zambia",
+      "zh-Hans": "东部省",
+      "zh-Hant": "東部省"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Luapula Province",
+    "names": {
+      "ja": "ルアプラ州",
+      "ko": "루아풀라주",
+      "vi": "Tỉnh Luapula",
+      "id": "Provinsi Luapula",
+      "zh-Hans": "卢阿普拉省"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Lusaka Province",
+    "names": {
+      "ja": "ルサカ州",
+      "ko": "루사카주",
+      "vi": "Tỉnh Lusaka",
+      "id": "Provinsi Lusaka",
+      "zh-Hans": "卢萨卡省",
+      "zh-Hant": "盧薩卡省"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Muchinga Province",
+    "names": {
+      "ja": "ムチンガ州",
+      "ko": "무칭가주",
+      "vi": "Tỉnh Muchinga",
+      "id": "Provinsi Muchinga",
+      "zh-Hans": "穆欽加省"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Northern Province",
+    "names": {
+      "ja": "北部州",
+      "ko": "북부주",
+      "vi": "Tỉnh Phía Bắc",
+      "id": "Provinsi Utara, Zambia",
+      "zh-Hans": "北部省"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Northwestern Province",
+    "names": {
+      "ja": "北西州",
+      "ko": "북서부주",
+      "vi": "Tỉnh Tây Bắc",
+      "id": "Provinsi Barat Laut, Zambia",
+      "zh-Hans": "西北省",
+      "zh-Hant": "西北省"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Southern Province",
+    "names": {
+      "ja": "南部州",
+      "ko": "남부주",
+      "vi": "Tỉnh Phía Nam",
+      "id": "Provinsi Selatan, Zambia",
+      "zh-Hans": "南部省",
+      "zh-Hant": "南部省"
+    }
+  },
+  {
+    "code": "01",
+    "name": "Western Province",
+    "names": {
+      "ja": "西部州",
+      "ko": "서부주",
+      "vi": "Tỉnh Phía Tây",
+      "id": "Provinsi Barat, Zambia",
+      "zh-Hans": "西部省",
+      "zh-Hant": "西部省"
+    }
+  }
+]

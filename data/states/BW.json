@@ -1,0 +1,176 @@
+[
+  {
+    "code": "CE",
+    "name": "Central District",
+    "names": {
+      "ja": "セントラル地区",
+      "ko": "중부구",
+      "vi": "Quận Miền Trung",
+      "id": "Distrik Central",
+      "zh-Hans": "中部区"
+    }
+  },
+  {
+    "code": "CH",
+    "name": "Chobe District",
+    "names": {
+      "ja": "チョベ地区",
+      "id": "Distrik Chobe",
+      "zh-Hans": "乔贝区"
+    }
+  },
+  {
+    "code": "FR",
+    "name": "Francistown",
+    "names": {
+      "ja": "フランシスタウン",
+      "ko": "프랜시스타운",
+      "vi": "Francistown",
+      "id": "Francistown",
+      "zh-Hans": "弗朗西斯敦"
+    }
+  },
+  {
+    "code": "GA",
+    "name": "Gaborone",
+    "names": {
+      "ja": "ハボローネ",
+      "ko": "가보로네",
+      "vi": "Gaborone",
+      "id": "Gaborone",
+      "zh-Hans": "哈博罗内",
+      "zh-Hant": "嘉柏隆里"
+    }
+  },
+  {
+    "code": "GH",
+    "name": "Ghanzi District",
+    "names": {
+      "ja": "ハンツィ地区",
+      "ko": "간지구",
+      "vi": "Quận Ghanzi",
+      "id": "Distrik Ghanzi",
+      "zh-Hans": "杭济区"
+    }
+  },
+  {
+    "code": "JW",
+    "name": "Jwaneng",
+    "names": {
+      "ja": "ジュワネン",
+      "ko": "주아넹",
+      "vi": "Jwaneng",
+      "id": "Jwaneng",
+      "zh-Hans": "朱瓦能"
+    }
+  },
+  {
+    "code": "KG",
+    "name": "Kgalagadi District",
+    "names": {
+      "ja": "カラハリ地区",
+      "ko": "칼라가디구",
+      "vi": "Quận Kgalagadi",
+      "id": "Distrik Kgalagadi",
+      "zh-Hans": "卡拉哈迪区"
+    }
+  },
+  {
+    "code": "KL",
+    "name": "Kgatleng District",
+    "names": {
+      "ja": "カトレン地区",
+      "ko": "카틀렝구",
+      "vi": "Quận Kgatleng",
+      "id": "Distrik Kgatleng",
+      "zh-Hans": "卡特伦区"
+    }
+  },
+  {
+    "code": "KW",
+    "name": "Kweneng District",
+    "names": {
+      "ja": "クウェネン地区",
+      "ko": "퀘넹구",
+      "vi": "Quận Kweneng",
+      "id": "Distrik Kweneng",
+      "zh-Hans": "奎嫩区"
+    }
+  },
+  {
+    "code": "LO",
+    "name": "Lobatse",
+    "names": {
+      "ja": "ロバツェ",
+      "ko": "로바체",
+      "vi": "Lobatse",
+      "id": "Lobatse",
+      "zh-Hans": "洛巴策"
+    }
+  },
+  {
+    "code": "NE",
+    "name": "North-East District",
+    "names": {
+      "ja": "ノースイースト地区",
+      "ko": "북동부구",
+      "vi": "Quận Đông-Bắc",
+      "id": "Distrik Timur Laut, Botswana",
+      "zh-Hans": "东北区"
+    }
+  },
+  {
+    "code": "NW",
+    "name": "North-West District",
+    "names": {
+      "ja": "ノースウェスト地区",
+      "ko": "북서부구",
+      "vi": "Quận Tây-Bắc",
+      "id": "Distrik Barat Laut, Botswana",
+      "zh-Hans": "西北区"
+    }
+  },
+  {
+    "code": "SP",
+    "name": "Selebi-Phikwe",
+    "names": {
+      "ja": "セレビ・ピクウェ",
+      "ko": "셀레비피퀘",
+      "vi": "Selebi-Phikwe",
+      "id": "Selebi-Phikwe",
+      "zh-Hans": "塞莱比-皮奎"
+    }
+  },
+  {
+    "code": "SE",
+    "name": "South-East District",
+    "names": {
+      "ja": "サウスイースト地区",
+      "ko": "남동부구",
+      "vi": "Quận Đông-Nam",
+      "id": "Distrik Tenggara, Botswana",
+      "zh-Hans": "东南区"
+    }
+  },
+  {
+    "code": "SO",
+    "name": "Southern District",
+    "names": {
+      "ja": "サザン地区",
+      "ko": "남부구",
+      "vi": "Quận Miền Nam",
+      "id": "Distrik Selatan, Botswana",
+      "zh-Hans": "南部区"
+    }
+  },
+  {
+    "code": "ST",
+    "name": "Sowa",
+    "names": {
+      "ja": "ソワ",
+      "ko": "소와, 보츠와나",
+      "vi": "Sowa, Botswana",
+      "id": "Sowa, Botswana"
+    }
+  }
+]

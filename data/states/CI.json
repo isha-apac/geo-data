@@ -1,0 +1,149 @@
+[
+  {
+    "code": "AB",
+    "name": "Abidjan",
+    "names": {
+      "ja": "アビジャン",
+      "ko": "아비장",
+      "vi": "Abidjan",
+      "id": "Abidjan",
+      "zh-Hans": "阿比让",
+      "zh-Hant": "阿必尚"
+    }
+  },
+  {
+    "code": "BS",
+    "name": "Bas-Sassandra District",
+    "names": {
+      "ja": "低サッサンドラ",
+      "ko": "바사상드라 지구",
+      "vi": "Quận Bas-Sassandra",
+      "id": "Distrik Bas-Sassandra",
+      "zh-Hans": "下薩桑德拉區"
+    }
+  },
+  {
+    "code": "CM",
+    "name": "Comoé District",
+    "names": {
+      "ja": "コモエ地方",
+      "ko": "코모에구",
+      "id": "Distrik Comoé",
+      "zh-Hans": "科莫埃區"
+    }
+  },
+  {
+    "code": "DN",
+    "name": "Denguélé District",
+    "names": {
+      "ja": "デンゲレ",
+      "ko": "뎅겔레 지구",
+      "vi": "Quận Denguélé",
+      "id": "Distrik Denguélé",
+      "zh-Hans": "登蓋萊區"
+    }
+  },
+  {
+    "code": "GD",
+    "name": "Gôh-Djiboua District",
+    "names": {
+      "ja": "ゴー＝ジブア地方",
+      "ko": "고지부아구",
+      "id": "Distrik Gôh-Djiboua",
+      "zh-Hans": "戈吉布阿區"
+    }
+  },
+  {
+    "code": "LC",
+    "name": "Lacs District",
+    "names": {
+      "ja": "ラック地方",
+      "ko": "라크구",
+      "id": "Distrik Lacs",
+      "zh-Hans": "湖泊區"
+    }
+  },
+  {
+    "code": "LG",
+    "name": "Lagunes District",
+    "names": {
+      "ja": "ラギューヌ地方",
+      "ko": "라귄구",
+      "id": "Distrik Lagunes",
+      "zh-Hans": "潟湖區"
+    }
+  },
+  {
+    "code": "MG",
+    "name": "Montagnes",
+    "names": {}
+  },
+  {
+    "code": "SM",
+    "name": "Sassandra-Marahoué District",
+    "names": {
+      "ja": "サッサンドラ＝マラウェ地方",
+      "ko": "사산드라마라우에구",
+      "id": "Distrik Sassandra-Marahoué",
+      "zh-Hans": "薩桑德拉-馬拉韋區",
+      "zh-Hant": "薩桑德拉-馬拉韋區"
+    }
+  },
+  {
+    "code": "SV",
+    "name": "Savanes District",
+    "names": {
+      "ja": "サヴァヌ",
+      "ko": "사반 지구",
+      "vi": "Quận Savanes",
+      "id": "Distrik Savanes",
+      "zh-Hans": "薩瓦內區",
+      "zh-Hant": "薩瓦內區"
+    }
+  },
+  {
+    "code": "VB",
+    "name": "Vallée du Bandama District",
+    "names": {
+      "ja": "バンダマ渓谷地方",
+      "ko": "발레뒤방다마 지구",
+      "vi": "Quận Vallée du Bandama",
+      "id": "Distrik Vallée du Bandama",
+      "zh-Hans": "邦達馬河谷區",
+      "zh-Hant": "邦達馬河谷區"
+    }
+  },
+  {
+    "code": "WR",
+    "name": "Woroba District",
+    "names": {
+      "ja": "ウォロバ地方",
+      "ko": "워로바구",
+      "id": "Distrik Woroba",
+      "zh-Hans": "沃羅巴區",
+      "zh-Hant": "沃羅巴區"
+    }
+  },
+  {
+    "code": "YM",
+    "name": "Yamoussoukro",
+    "names": {
+      "ja": "ヤムスクロ",
+      "ko": "야무수크로",
+      "vi": "Yamoussoukro",
+      "id": "Yamoussoukro",
+      "zh-Hans": "亚穆苏克罗",
+      "zh-Hant": "雅穆索戈"
+    }
+  },
+  {
+    "code": "ZZ",
+    "name": "Zanzan District",
+    "names": {
+      "ja": "ザンザン地方",
+      "ko": "잔잔구",
+      "id": "Distrik Zanzan",
+      "zh-Hans": "贊贊區"
+    }
+  }
+]

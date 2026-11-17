@@ -1,0 +1,366 @@
+[
+  {
+    "code": "01",
+    "name": "Arusha Region",
+    "names": {
+      "ja": "アルーシャ州",
+      "ko": "아루샤주",
+      "vi": "Arusha",
+      "id": "Wilayah Arusha",
+      "zh-Hans": "阿鲁沙区",
+      "zh-Hant": "阿魯沙區"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Dar es Salaam Region",
+    "names": {
+      "ja": "ダルエスサラーム州",
+      "ko": "다르에스살람주",
+      "vi": "Dar es Salaam",
+      "id": "Wilayah Dar es Salaam",
+      "zh-Hans": "达累斯萨拉姆区",
+      "zh-Hant": "達累斯薩拉姆區"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Dodoma Region",
+    "names": {
+      "ja": "ドドマ州",
+      "ko": "도도마주",
+      "vi": "Dodoma",
+      "id": "Region Dodoma",
+      "zh-Hans": "多多马區",
+      "zh-Hant": "杜篤瑪區"
+    }
+  },
+  {
+    "code": "27",
+    "name": "Geita Region",
+    "names": {
+      "ja": "ゲイタ州",
+      "ko": "게이타주",
+      "vi": "Khu vực Geita",
+      "id": "Wilayah Geita",
+      "zh-Hans": "盖塔区",
+      "zh-Hant": "蓋塔區"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Iringa Region",
+    "names": {
+      "ja": "イリンガ州",
+      "ko": "이링가주",
+      "vi": "Iringa",
+      "id": "Wilayah Iringa",
+      "zh-Hans": "伊林加区",
+      "zh-Hant": "伊林加區"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Kagera Region",
+    "names": {
+      "ja": "カゲラ州",
+      "ko": "카게라주",
+      "vi": "Kagera",
+      "id": "Region Kagera",
+      "zh-Hans": "卡盖拉区",
+      "zh-Hant": "卡蓋拉區"
+    }
+  },
+  {
+    "code": "28",
+    "name": "Katavi Region",
+    "names": {
+      "ja": "カタヴィ州",
+      "ko": "카타비주",
+      "vi": "Khu vực Katavi",
+      "id": "Wilayah Katavi",
+      "zh-Hans": "卡塔维区",
+      "zh-Hant": "卡塔維區"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Kigoma Region",
+    "names": {
+      "ja": "キゴマ州",
+      "ko": "키고마주",
+      "vi": "Kigoma",
+      "id": "Wilayah Kigoma",
+      "zh-Hans": "基戈马区"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Kilimanjaro Region",
+    "names": {
+      "ja": "キリマンジャロ州",
+      "ko": "킬리만자로주",
+      "vi": "Kilimanjaro",
+      "id": "Wilayah Kilimanjaro",
+      "zh-Hans": "乞力马扎罗区",
+      "zh-Hant": "乞力馬扎羅區"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Lindi Region",
+    "names": {
+      "ja": "リンディ州",
+      "ko": "린디주",
+      "vi": "Lindi",
+      "id": "Wilayah Lindi",
+      "zh-Hans": "林迪区",
+      "zh-Hant": "林迪區"
+    }
+  },
+  {
+    "code": "26",
+    "name": "Manyara Region",
+    "names": {
+      "ja": "マニャラ州",
+      "ko": "마냐라주",
+      "vi": "Manyara",
+      "id": "Wilayah Manyara",
+      "zh-Hans": "曼亚拉区",
+      "zh-Hant": "曼亞拉區"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Mara Region",
+    "names": {
+      "ja": "マラ州",
+      "ko": "마라주",
+      "vi": "Mara",
+      "id": "Wilayah Mara",
+      "zh-Hans": "马拉区",
+      "zh-Hant": "馬拉區"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Mbeya Region",
+    "names": {
+      "ja": "ムベヤ州",
+      "ko": "므베야주",
+      "vi": "Mbeya",
+      "id": "Wilayah Mbeya",
+      "zh-Hans": "姆贝亚区",
+      "zh-Hant": "姆貝亞區"
+    }
+  },
+  {
+    "code": "15",
+    "name": "Mjini Magharibi Region",
+    "names": {
+      "ja": "ザンジバル都市部・西部州",
+      "ko": "잔지바르 도시·서부주",
+      "vi": "Zanzibar West",
+      "id": "Wilayah Zanzibar Urban/Barat",
+      "zh-Hans": "尚西巴西区"
+    }
+  },
+  {
+    "code": "16",
+    "name": "Morogoro Region",
+    "names": {
+      "ja": "モロゴロ州",
+      "ko": "모로고로주",
+      "vi": "Morogoro",
+      "id": "Wilayah Morogoro",
+      "zh-Hans": "莫罗戈罗区",
+      "zh-Hant": "莫羅戈羅區"
+    }
+  },
+  {
+    "code": "17",
+    "name": "Mtwara Region",
+    "names": {
+      "ja": "ムトワラ州",
+      "ko": "므트와라주",
+      "vi": "Mtwara",
+      "id": "Wilayah Mtwara",
+      "zh-Hans": "姆特瓦拉区",
+      "zh-Hant": "姆特瓦拉區"
+    }
+  },
+  {
+    "code": "18",
+    "name": "Mwanza Region",
+    "names": {
+      "ja": "ムワンザ州",
+      "ko": "므완자주",
+      "vi": "Mwanza",
+      "id": "Wilayah Mwanza",
+      "zh-Hans": "姆万扎区",
+      "zh-Hant": "姆萬紮區"
+    }
+  },
+  {
+    "code": "29",
+    "name": "Njombe Region",
+    "names": {
+      "ja": "ンジョンベ州",
+      "ko": "느좀베주",
+      "vi": "Khu vực Njombe",
+      "id": "Wilayah Njombe",
+      "zh-Hans": "恩琼贝区"
+    }
+  },
+  {
+    "code": "06",
+    "name": "North Pemba Region",
+    "names": {
+      "ja": "ペンバ北部州",
+      "ko": "펨바 북부주",
+      "vi": "Pemba North",
+      "id": "Wilayah Pemba Utara",
+      "zh-Hans": "北奔巴区",
+      "zh-Hant": "北奔巴區"
+    }
+  },
+  {
+    "code": "19",
+    "name": "Pwani Region",
+    "names": {
+      "ja": "プワニ州",
+      "ko": "프와니주",
+      "vi": "Pwani",
+      "id": "Wilayah Pwani",
+      "zh-Hans": "滨海区",
+      "zh-Hant": "濱海區"
+    }
+  },
+  {
+    "code": "20",
+    "name": "Rukwa Region",
+    "names": {
+      "ja": "ルクワ州",
+      "ko": "루콰주",
+      "vi": "Rukwa",
+      "id": "Wilayah Rukwa",
+      "zh-Hans": "鲁夸区",
+      "zh-Hant": "魯夸區"
+    }
+  },
+  {
+    "code": "21",
+    "name": "Ruvuma Region",
+    "names": {
+      "ja": "ルヴマ州",
+      "ko": "루부마주",
+      "vi": "Ruvuma",
+      "id": "Wilayah Ruvuma",
+      "zh-Hans": "鲁伍马区",
+      "zh-Hant": "魯伍馬區"
+    }
+  },
+  {
+    "code": "22",
+    "name": "Shinyanga Region",
+    "names": {
+      "ja": "シニャンガ州",
+      "ko": "시니앙가주",
+      "vi": "Shinyanga",
+      "id": "Wilayah Shinyanga",
+      "zh-Hans": "欣延加区",
+      "zh-Hant": "欣延加區"
+    }
+  },
+  {
+    "code": "30",
+    "name": "Simiyu Region",
+    "names": {
+      "ja": "シミユ州",
+      "ko": "시미유주",
+      "vi": "Khu vực Simiyu",
+      "id": "Wilayah Simiyu",
+      "zh-Hans": "锡米尤区",
+      "zh-Hant": "錫米尤區"
+    }
+  },
+  {
+    "code": "23",
+    "name": "Singida Region",
+    "names": {
+      "ja": "シンギダ州",
+      "ko": "싱기다주",
+      "vi": "Singida",
+      "id": "Wilayah Singida",
+      "zh-Hans": "辛吉达区",
+      "zh-Hant": "辛吉達區"
+    }
+  },
+  {
+    "code": "31",
+    "name": "Songwe Region",
+    "names": {
+      "ja": "ソングウェ州",
+      "id": "Region Songwe",
+      "zh-Hans": "森圭區"
+    }
+  },
+  {
+    "code": "10",
+    "name": "South Pemba Region",
+    "names": {
+      "ja": "ペンバ南部州",
+      "ko": "펨바 남부주",
+      "vi": "Pemba South",
+      "id": "Wilayah Pemba Selatan",
+      "zh-Hans": "南奔巴区",
+      "zh-Hant": "南奔巴區"
+    }
+  },
+  {
+    "code": "24",
+    "name": "Tabora Region",
+    "names": {
+      "ja": "タボーラ州",
+      "ko": "타보라주",
+      "vi": "Tabora",
+      "id": "Wilayah Tabora",
+      "zh-Hans": "塔波拉区",
+      "zh-Hant": "塔波拉區"
+    }
+  },
+  {
+    "code": "25",
+    "name": "Tanga Region",
+    "names": {
+      "ja": "タンガ州",
+      "ko": "탕가주",
+      "vi": "Tanga",
+      "id": "Wilayah Tanga",
+      "zh-Hans": "坦噶区"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Unguja North Region",
+    "names": {
+      "ja": "ザンジバル北部州",
+      "ko": "잔지바르 북부주",
+      "vi": "Zanzibar North (vùng)",
+      "id": "Wilayah Utara Zanzibar",
+      "zh-Hans": "尚西巴北区",
+      "zh-Hant": "尚西巴北區"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Unguja South Region",
+    "names": {
+      "ja": "ザンジバル中部・南部州",
+      "ko": "잔지바르 중부·남부주",
+      "vi": "Zanzibar South and Central (vùng)",
+      "id": "Region Unguja Selatan",
+      "zh-Hans": "尚西巴南區"
+    }
+  }
+]

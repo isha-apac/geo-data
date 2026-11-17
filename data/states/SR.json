@@ -1,0 +1,121 @@
+[
+  {
+    "code": "BR",
+    "name": "Brokopondo District",
+    "names": {
+      "ja": "ブロコポンド",
+      "ko": "브로코폰도구",
+      "vi": "Quận Brokopondo",
+      "id": "Distrik Brokopondo",
+      "zh-Hans": "布罗科蓬多区",
+      "zh-Hant": "布羅科蓬多區"
+    }
+  },
+  {
+    "code": "CM",
+    "name": "Commewijne District",
+    "names": {
+      "ja": "コメウィン地方",
+      "ko": "코메베이너구",
+      "vi": "Quận Commewijne",
+      "id": "Distrik Commewijne",
+      "zh-Hans": "科默韦讷区",
+      "zh-Hant": "科默韋訥區"
+    }
+  },
+  {
+    "code": "CR",
+    "name": "Coronie District",
+    "names": {
+      "ja": "コロニー",
+      "ko": "코로니구",
+      "vi": "Quận Coronie",
+      "id": "Distrik Coronie",
+      "zh-Hans": "科罗尼区",
+      "zh-Hant": "科羅尼區"
+    }
+  },
+  {
+    "code": "MA",
+    "name": "Marowijne District",
+    "names": {
+      "ja": "マロウェイネ",
+      "ko": "마로베이너구",
+      "vi": "Quận Marowijne",
+      "id": "Distrik Marowijne",
+      "zh-Hans": "马罗韦讷区",
+      "zh-Hant": "馬羅韋訥區"
+    }
+  },
+  {
+    "code": "NI",
+    "name": "Nickerie District",
+    "names": {
+      "ja": "ニッケリ",
+      "ko": "니케리구",
+      "vi": "Quận Nickerie",
+      "id": "Distrik Nickerie",
+      "zh-Hans": "尼克里区",
+      "zh-Hant": "尼克里區"
+    }
+  },
+  {
+    "code": "PR",
+    "name": "Para District",
+    "names": {
+      "ja": "パラ",
+      "ko": "파라구",
+      "vi": "Quận Para",
+      "id": "Distrik Para",
+      "zh-Hans": "帕拉区",
+      "zh-Hant": "帕拉區"
+    }
+  },
+  {
+    "code": "PM",
+    "name": "Paramaribo District",
+    "names": {
+      "ja": "パラマリボ地方",
+      "ko": "파라마리보구",
+      "id": "Distrik Paramaribo",
+      "zh-Hans": "帕拉马里博区",
+      "zh-Hant": "帕拉馬里博區"
+    }
+  },
+  {
+    "code": "SA",
+    "name": "Saramacca District",
+    "names": {
+      "ja": "サラマッカ地方",
+      "ko": "사라마카구",
+      "vi": "Quận Saramacca",
+      "id": "Distrik Saramacca",
+      "zh-Hans": "萨拉马卡区",
+      "zh-Hant": "薩拉馬卡區"
+    }
+  },
+  {
+    "code": "SI",
+    "name": "Sipaliwini District",
+    "names": {
+      "ja": "シパリウィニ",
+      "ko": "시팔리비니구",
+      "vi": "Quận Sipaliwini",
+      "id": "Distrik Sipaliwini",
+      "zh-Hans": "锡帕利维尼区",
+      "zh-Hant": "錫帕利維尼區"
+    }
+  },
+  {
+    "code": "WA",
+    "name": "Wanica District",
+    "names": {
+      "ja": "ワニカ",
+      "ko": "바니카구",
+      "vi": "Quận Wanica",
+      "id": "Distrik Wanica",
+      "zh-Hans": "瓦尼卡区",
+      "zh-Hant": "瓦尼卡區"
+    }
+  }
+]

@@ -1,0 +1,358 @@
+[
+  {
+    "code": "14",
+    "name": "Bor District",
+    "names": {
+      "ja": "ボル郡",
+      "ko": "보르구",
+      "vi": "Quận Bor",
+      "id": "Distrik Bor",
+      "zh-Hans": "博尔区"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Braničevo District",
+    "names": {
+      "ja": "ブラニチェヴォ郡",
+      "ko": "브라니체보구",
+      "vi": "Quận Branicevo",
+      "id": "Distrik Braničevo",
+      "zh-Hans": "布拉尼切沃区",
+      "zh-Hant": "布拉尼切沃區"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Central Banat District",
+    "names": {
+      "ja": "中央バナト郡",
+      "ko": "중앙바나트구",
+      "vi": "Quận Trung Banat",
+      "id": "Distrik Central Banat",
+      "zh-Hans": "中巴纳特区"
+    }
+  },
+  {
+    "code": "00",
+    "name": "City of Belgrade",
+    "names": {
+      "zh-Hans": "贝尔格莱德区"
+    }
+  },
+  {
+    "code": "23",
+    "name": "Jablanica District",
+    "names": {
+      "ja": "ヤブラニツァ郡",
+      "ko": "야블라니차구",
+      "vi": "Quận Jablanica",
+      "id": "Distrik Jablanica",
+      "zh-Hans": "亚布拉尼察区",
+      "zh-Hant": "亞布拉尼察區"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Kolubara District",
+    "names": {
+      "ja": "コルバラ郡",
+      "ko": "콜루바라구",
+      "vi": "Quận Kolubara",
+      "id": "Distrik Kolubara",
+      "zh-Hans": "科卢巴拉区",
+      "zh-Hant": "科盧巴拉區"
+    }
+  },
+  {
+    "code": "KM",
+    "name": "Kosovo and Metohija",
+    "names": {
+      "ja": "コソボ・メトヒヤ自治州",
+      "ko": "코소보 메토히야 자치주",
+      "id": "Kosovo dan Metohija",
+      "zh-Hans": "科索沃和梅托希亚自治省",
+      "zh-Hant": "科索沃和梅托希亞自治省"
+    }
+  },
+  {
+    "code": "25",
+    "name": "Kosovo District",
+    "names": {
+      "ja": "コソボ郡",
+      "ko": "코소보구",
+      "id": "Distrik Kosovo",
+      "zh-Hans": "科索沃区"
+    }
+  },
+  {
+    "code": "29",
+    "name": "Kosovo-Pomoravlje District",
+    "names": {
+      "ko": "코소보포모라블레구",
+      "id": "Distrik Kosovo-Pomoravlje",
+      "zh-Hans": "科索沃波莫拉夫列区"
+    }
+  },
+  {
+    "code": "28",
+    "name": "Kosovska Mitrovica District",
+    "names": {
+      "ko": "코소브스카미트로비차구",
+      "id": "Distrik Kosovska Mitrovica",
+      "zh-Hans": "科索沃米特罗维察区"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Mačva District",
+    "names": {
+      "ja": "マチュヴァ郡",
+      "ko": "마치바구",
+      "vi": "Quận Macva",
+      "id": "Distrik Mačva",
+      "zh-Hans": "马奇瓦区",
+      "zh-Hant": "馬奇瓦區"
+    }
+  },
+  {
+    "code": "17",
+    "name": "Moravica District",
+    "names": {
+      "ja": "モラヴィツァ郡",
+      "ko": "모라비차구",
+      "vi": "Quận Moravica",
+      "id": "Distrik Moravica",
+      "zh-Hans": "摩拉维察区"
+    }
+  },
+  {
+    "code": "20",
+    "name": "Nišava District",
+    "names": {
+      "ja": "ニシャヴァ郡",
+      "ko": "니샤바구",
+      "vi": "Quận Nisava",
+      "id": "Distrik Nišava",
+      "zh-Hans": "尼沙瓦区",
+      "zh-Hant": "尼沙瓦區"
+    }
+  },
+  {
+    "code": "01",
+    "name": "North Bačka District",
+    "names": {
+      "ja": "北バチュカ郡",
+      "ko": "북바치카구",
+      "vi": "Quận Bắc Backa",
+      "id": "Distrik Bačka Utara",
+      "zh-Hans": "北巴奇卡区",
+      "zh-Hant": "北巴奇卡區"
+    }
+  },
+  {
+    "code": "03",
+    "name": "North Banat District",
+    "names": {
+      "ja": "北バナト郡",
+      "ko": "북바나트구",
+      "vi": "Quận Bắc Banat",
+      "id": "Distrik Banat Utara",
+      "zh-Hans": "北巴纳特区",
+      "zh-Hant": "北巴納特區"
+    }
+  },
+  {
+    "code": "24",
+    "name": "Pčinja District",
+    "names": {
+      "ja": "プチニャ郡",
+      "ko": "프치나구",
+      "vi": "Quận Pcinja",
+      "id": "Distrik Pčinja",
+      "zh-Hans": "普奇尼亚区",
+      "zh-Hant": "普奇尼亞區"
+    }
+  },
+  {
+    "code": "26",
+    "name": "Peć District",
+    "names": {
+      "ko": "페치구",
+      "zh-Hans": "佩奇区"
+    }
+  },
+  {
+    "code": "22",
+    "name": "Pirot District",
+    "names": {
+      "ja": "ピロト郡",
+      "ko": "피로트구",
+      "vi": "Quận Pirot",
+      "id": "Distrik Pirot",
+      "zh-Hans": "皮罗特区"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Podunavlje District",
+    "names": {
+      "ja": "ポドゥナヴリェ郡",
+      "ko": "포두나블레구",
+      "vi": "Quận Podunavlje",
+      "id": "Distrik Podunavlje",
+      "zh-Hans": "波杜纳夫列区"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Pomoravlje District",
+    "names": {
+      "ja": "ポモラヴリェ郡",
+      "ko": "포모라블레구",
+      "vi": "Quận Pomoravlje",
+      "id": "Distrik Pomoravlje",
+      "zh-Hans": "波莫拉夫列区",
+      "zh-Hant": "波莫拉夫列區"
+    }
+  },
+  {
+    "code": "27",
+    "name": "Prizren District (Serbia)",
+    "names": {
+      "ko": "프리즈렌구",
+      "id": "Distrik Prizren",
+      "zh-Hans": "普里兹伦区"
+    }
+  },
+  {
+    "code": "19",
+    "name": "Rasina District",
+    "names": {
+      "ja": "ラシナ郡",
+      "ko": "라시나구",
+      "vi": "Quận Rasina",
+      "id": "Distrik Rasina",
+      "zh-Hans": "拉西纳区",
+      "zh-Hant": "拉西納區"
+    }
+  },
+  {
+    "code": "18",
+    "name": "Raška District",
+    "names": {
+      "ja": "ラシュカ郡",
+      "ko": "라슈카구",
+      "vi": "Quận Raska",
+      "id": "Distrik Raška",
+      "zh-Hans": "拉什卡区",
+      "zh-Hant": "拉什卡區"
+    }
+  },
+  {
+    "code": "06",
+    "name": "South Bačka District",
+    "names": {
+      "ja": "南バチュカ郡",
+      "ko": "남바치카구",
+      "vi": "Quận Nam Backa",
+      "id": "Distrik Bačka Selatan",
+      "zh-Hans": "南巴奇卡区",
+      "zh-Hant": "南巴奇卡區"
+    }
+  },
+  {
+    "code": "04",
+    "name": "South Banat District",
+    "names": {
+      "ja": "南バナト郡",
+      "ko": "남바나트구",
+      "vi": "Quận Nam Banat",
+      "id": "Distrik Banat Selatan",
+      "zh-Hans": "南巴纳特区",
+      "zh-Hant": "南巴納特區"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Srem District",
+    "names": {
+      "ja": "スレム郡",
+      "ko": "스렘구",
+      "vi": "Syrmia",
+      "id": "Distrik Srem",
+      "zh-Hans": "斯雷姆区",
+      "zh-Hant": "斯雷姆區"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Šumadija District",
+    "names": {
+      "ja": "シュマディヤ郡",
+      "ko": "슈마디야구",
+      "vi": "Quận Sumadija",
+      "id": "Distrik Šumadija",
+      "zh-Hans": "舒马迪亚区"
+    }
+  },
+  {
+    "code": "21",
+    "name": "Toplica District",
+    "names": {
+      "ja": "トプリツァ郡",
+      "ko": "토플리차구",
+      "vi": "Quận Toplica",
+      "id": "Distrik Toplica",
+      "zh-Hans": "托普利察区",
+      "zh-Hant": "托普利察區"
+    }
+  },
+  {
+    "code": "VO",
+    "name": "Vojvodina",
+    "names": {
+      "ja": "ヴォイヴォディナ",
+      "ko": "보이보디나",
+      "vi": "Vojvodina",
+      "id": "Vojvodina",
+      "zh-Hans": "伏伊伏丁那自治省",
+      "zh-Hant": "伏伊伏丁那自治省"
+    }
+  },
+  {
+    "code": "05",
+    "name": "West Bačka District",
+    "names": {
+      "ja": "西バチュカ郡",
+      "ko": "서바치카구",
+      "vi": "Quận Tây Backa",
+      "id": "Distrik Bačka Barat",
+      "zh-Hans": "西巴奇卡区",
+      "zh-Hant": "西巴奇卡區"
+    }
+  },
+  {
+    "code": "15",
+    "name": "Zaječar District",
+    "names": {
+      "ja": "ザイェチャル郡",
+      "ko": "자예차르구",
+      "vi": "Quận Zajecar",
+      "id": "Distrik Zaječar",
+      "zh-Hans": "扎耶查尔区"
+    }
+  },
+  {
+    "code": "16",
+    "name": "Zlatibor District",
+    "names": {
+      "ja": "ズラティボル郡",
+      "ko": "즐라티보르구",
+      "vi": "Quận Zlatibor",
+      "id": "Distrik Zlatibor",
+      "zh-Hans": "兹拉蒂博尔区",
+      "zh-Hant": "茲拉蒂博爾區"
+    }
+  }
+]

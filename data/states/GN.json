@@ -1,0 +1,454 @@
+[
+  {
+    "code": "BE",
+    "name": "Beyla Prefecture",
+    "names": {
+      "ja": "ベイラ県",
+      "ko": "베일라 지방 행정 구역",
+      "vi": "Quận Beyla",
+      "id": "Prefektur Beyla",
+      "zh-Hans": "贝拉省"
+    }
+  },
+  {
+    "code": "BF",
+    "name": "Boffa Prefecture",
+    "names": {
+      "ja": "ボッファ県",
+      "ko": "보파 지방 행정 구역",
+      "vi": "Quận Boffa",
+      "id": "Prefektur Boffa",
+      "zh-Hans": "博法省"
+    }
+  },
+  {
+    "code": "BK",
+    "name": "Boké Prefecture",
+    "names": {
+      "ja": "ボケ県",
+      "zh-Hans": "博凱省"
+    }
+  },
+  {
+    "code": "B",
+    "name": "Boké Region",
+    "names": {
+      "ja": "ボケ州",
+      "ko": "보케주",
+      "vi": "Khu vực Boké",
+      "id": "Wilayah Boké",
+      "zh-Hans": "博凯大区",
+      "zh-Hant": "博凱大區"
+    }
+  },
+  {
+    "code": "C",
+    "name": "Conakry",
+    "names": {
+      "ja": "コナクリ",
+      "ko": "코나크리",
+      "vi": "Conakry",
+      "id": "Conakry",
+      "zh-Hans": "科纳克里",
+      "zh-Hant": "柯那克里"
+    }
+  },
+  {
+    "code": "CO",
+    "name": "Coyah Prefecture",
+    "names": {
+      "ja": "コヤ県",
+      "ko": "코야 지방 행정 구역",
+      "vi": "Quận Coyah",
+      "id": "Prefektur Coyah",
+      "zh-Hans": "科亚省"
+    }
+  },
+  {
+    "code": "DB",
+    "name": "Dabola Prefecture",
+    "names": {
+      "ja": "ダボラ県",
+      "ko": "다보라 지방 행정 구역",
+      "vi": "Tỉnh Dabola",
+      "id": "Prefektur Dabola",
+      "zh-Hans": "达波拉省"
+    }
+  },
+  {
+    "code": "DL",
+    "name": "Dalaba Prefecture",
+    "names": {
+      "ja": "ダラバ県",
+      "ko": "달라바 지방 행정 구역",
+      "vi": "Tỉnh Dalaba",
+      "id": "Prefektur Dalaba",
+      "zh-Hans": "达拉巴省",
+      "zh-Hant": "達拉巴省"
+    }
+  },
+  {
+    "code": "DI",
+    "name": "Dinguiraye Prefecture",
+    "names": {
+      "ja": "ダンギレ県",
+      "ko": "딩기라예 지방 행정 구역",
+      "vi": "Quận Dinguiraye",
+      "id": "Prefektur Dinguiraye",
+      "zh-Hans": "丁吉拉伊省"
+    }
+  },
+  {
+    "code": "DU",
+    "name": "Dubréka Prefecture",
+    "names": {
+      "ja": "ドュブレカ県",
+      "ko": "두브레카 지방 행정 구역",
+      "vi": "Quận Dubréka",
+      "id": "Prefektur Dubréka",
+      "zh-Hans": "杜布雷卡省"
+    }
+  },
+  {
+    "code": "FA",
+    "name": "Faranah Prefecture",
+    "names": {
+      "ja": "ファラナ県",
+      "zh-Hans": "法拉納省",
+      "zh-Hant": "法拉納省"
+    }
+  },
+  {
+    "code": "F",
+    "name": "Faranah Region",
+    "names": {
+      "ja": "ファラナ州",
+      "ko": "파라나주",
+      "id": "Region Faranah",
+      "zh-Hans": "法拉纳大区",
+      "zh-Hant": "法拉納大區"
+    }
+  },
+  {
+    "code": "FO",
+    "name": "Forécariah Prefecture",
+    "names": {
+      "ja": "フォレカリア県",
+      "zh-Hans": "福雷卡里亞省"
+    }
+  },
+  {
+    "code": "FR",
+    "name": "Fria Prefecture",
+    "names": {
+      "ja": "フリア県",
+      "ko": "프리아 지방 행정 구역",
+      "vi": "Quận Fria",
+      "id": "Prefektur Fria",
+      "zh-Hans": "弗里亚省"
+    }
+  },
+  {
+    "code": "GA",
+    "name": "Gaoual Prefecture",
+    "names": {
+      "ja": "ガワル県",
+      "ko": "가우알 지방 행정 구역",
+      "vi": "Quận Gaoual",
+      "id": "Prefektur Gaoual",
+      "zh-Hans": "加瓦尔省"
+    }
+  },
+  {
+    "code": "GU",
+    "name": "Guéckédou Prefecture",
+    "names": {
+      "ja": "ゲケドゥ県",
+      "ko": "게케두 지방 행정 구역",
+      "vi": "Quận Guéckédou",
+      "id": "Prefektur Guéckédou",
+      "zh-Hans": "盖凯杜省",
+      "zh-Hant": "蓋凱杜省"
+    }
+  },
+  {
+    "code": "KA",
+    "name": "Kankan Prefecture",
+    "names": {
+      "ja": "カンカン県",
+      "zh-Hans": "康康省"
+    }
+  },
+  {
+    "code": "K",
+    "name": "Kankan Region",
+    "names": {
+      "ja": "カンカン州",
+      "ko": "캉칸주",
+      "vi": "Khu vực Kankan",
+      "id": "Wilayah Kankan",
+      "zh-Hans": "康康大区",
+      "zh-Hant": "康康大區"
+    }
+  },
+  {
+    "code": "KE",
+    "name": "Kérouané Prefecture",
+    "names": {
+      "ja": "ケルワヌ県",
+      "ko": "케로우아네 지방 행정 구역",
+      "vi": "Quận Kérouané",
+      "id": "Prefektur Kérouané",
+      "zh-Hans": "凯鲁阿内省"
+    }
+  },
+  {
+    "code": "KD",
+    "name": "Kindia Prefecture",
+    "names": {
+      "ja": "キンディア県",
+      "zh-Hans": "金迪亞省",
+      "zh-Hant": "金迪亞省"
+    }
+  },
+  {
+    "code": "D",
+    "name": "Kindia Region",
+    "names": {
+      "ja": "キンディア州",
+      "ko": "킨디아주",
+      "vi": "Khu vực Kindia",
+      "id": "Wilayah Kindia",
+      "zh-Hans": "金迪亚大区",
+      "zh-Hant": "金迪亞大區"
+    }
+  },
+  {
+    "code": "KS",
+    "name": "Kissidougou Prefecture",
+    "names": {
+      "ja": "キシドゥグ県",
+      "ko": "키시두구 지방 행정 구역",
+      "vi": "Tỉnh Kissidougou",
+      "id": "Prefektur Kissidougou",
+      "zh-Hans": "基西杜古省",
+      "zh-Hant": "基西杜古省"
+    }
+  },
+  {
+    "code": "KB",
+    "name": "Koubia Prefecture",
+    "names": {
+      "ja": "クビア県",
+      "ko": "쿠비아 지방 행정 구역",
+      "vi": "Tỉnh Koubia",
+      "id": "Prefektur Koubia",
+      "zh-Hans": "库比亚省",
+      "zh-Hant": "庫比亞省"
+    }
+  },
+  {
+    "code": "KN",
+    "name": "Koundara Prefecture",
+    "names": {
+      "ja": "クンダラ県",
+      "ko": "쿤다라 지방 행정 구역",
+      "vi": "Tỉnh Koundara",
+      "id": "Prefektur Koundara",
+      "zh-Hans": "孔达拉省",
+      "zh-Hant": "孔達拉省"
+    }
+  },
+  {
+    "code": "KO",
+    "name": "Kouroussa Prefecture",
+    "names": {
+      "ja": "クールーサ県",
+      "ko": "쿠루사 지방 행정 구역",
+      "vi": "Tỉnh Kouroussa",
+      "id": "Prefektur Kouroussa",
+      "zh-Hans": "库鲁萨省",
+      "zh-Hant": "庫魯薩省"
+    }
+  },
+  {
+    "code": "LA",
+    "name": "Labé Prefecture",
+    "names": {
+      "ja": "ラベ県",
+      "ko": "라베 지방 행정 구역",
+      "vi": "Quận Labé",
+      "id": "Prefektur Labé",
+      "zh-Hans": "拉贝省",
+      "zh-Hant": "拉貝省"
+    }
+  },
+  {
+    "code": "L",
+    "name": "Labé Region",
+    "names": {
+      "ja": "ラベ州",
+      "ko": "라베주",
+      "id": "Region Labé",
+      "zh-Hans": "拉贝大区",
+      "zh-Hant": "拉貝大區"
+    }
+  },
+  {
+    "code": "LE",
+    "name": "Lélouma Prefecture",
+    "names": {
+      "ja": "レルーマ県",
+      "ko": "렐루마 지방 행정 구역",
+      "vi": "Tỉnh Lélouma",
+      "id": "Prefektur Lélouma",
+      "zh-Hans": "莱卢马省"
+    }
+  },
+  {
+    "code": "LO",
+    "name": "Lola Prefecture",
+    "names": {
+      "ja": "ローラ県",
+      "ko": "롤라 지방 행정 구역",
+      "vi": "Quận Lola",
+      "id": "Prefektur Lola",
+      "zh-Hans": "洛拉省",
+      "zh-Hant": "洛拉省"
+    }
+  },
+  {
+    "code": "MC",
+    "name": "Macenta Prefecture",
+    "names": {
+      "ja": "マサンタ県",
+      "ko": "마센타 지방 행정 구역",
+      "vi": "Quận Macenta",
+      "id": "Prefektur Macenta",
+      "zh-Hans": "马桑塔省"
+    }
+  },
+  {
+    "code": "ML",
+    "name": "Mali Prefecture",
+    "names": {
+      "ja": "マリ県",
+      "ko": "말리 지방 행정 구역",
+      "vi": "Tỉnh Mali",
+      "id": "Prefektur Mali",
+      "zh-Hans": "马里省",
+      "zh-Hant": "馬里省"
+    }
+  },
+  {
+    "code": "MM",
+    "name": "Mamou Prefecture",
+    "names": {
+      "ja": "マムー県",
+      "zh-Hans": "马木省",
+      "zh-Hant": "馬木省"
+    }
+  },
+  {
+    "code": "M",
+    "name": "Mamou Region",
+    "names": {
+      "ja": "マムー州",
+      "ko": "마무주",
+      "vi": "Khu vực Mamou",
+      "id": "Wilayah Mamou",
+      "zh-Hans": "马木大区",
+      "zh-Hant": "馬木大區"
+    }
+  },
+  {
+    "code": "MD",
+    "name": "Mandiana Prefecture",
+    "names": {
+      "ja": "マンディアナ県",
+      "ko": "만디아나 지방 행정 구역",
+      "vi": "Tỉnh Mandiana",
+      "id": "Prefektur Mandiana",
+      "zh-Hans": "芒贾纳省",
+      "zh-Hant": "芒賈納省"
+    }
+  },
+  {
+    "code": "NZ",
+    "name": "Nzérékoré Prefecture",
+    "names": {
+      "ja": "ンゼレコレ県",
+      "zh-Hans": "恩泽雷科雷省",
+      "zh-Hant": "恩澤雷科雷省"
+    }
+  },
+  {
+    "code": "N",
+    "name": "Nzérékoré Region",
+    "names": {
+      "ja": "ンゼレコレ州",
+      "ko": "은제레코레주",
+      "vi": "Khu vực Nzérékoré",
+      "id": "Wilayah Nzérékoré",
+      "zh-Hans": "恩泽雷科雷大区",
+      "zh-Hant": "恩澤雷科雷大區"
+    }
+  },
+  {
+    "code": "PI",
+    "name": "Pita Prefecture",
+    "names": {
+      "ja": "ピタ県",
+      "ko": "피타 지방 행정 구역",
+      "vi": "Tỉnh Pita",
+      "id": "Prefektur Pita",
+      "zh-Hans": "皮塔省"
+    }
+  },
+  {
+    "code": "SI",
+    "name": "Siguiri Prefecture",
+    "names": {
+      "ja": "シギリ県",
+      "ko": "시기리현",
+      "vi": "Quận Siguiri",
+      "id": "Prefektur Siguiri",
+      "zh-Hans": "锡吉里省",
+      "zh-Hant": "錫吉里省"
+    }
+  },
+  {
+    "code": "TE",
+    "name": "Télimélé Prefecture",
+    "names": {
+      "ja": "テリメレ県",
+      "ko": "텔리멜리 지방 행정 구역",
+      "vi": "Quận Télimélé",
+      "id": "Prefektur Télimélé",
+      "zh-Hans": "泰利梅莱省"
+    }
+  },
+  {
+    "code": "TO",
+    "name": "Tougué Prefecture",
+    "names": {
+      "ja": "トゥゲ県",
+      "ko": "투구 지방 행정 구역",
+      "vi": "Quận Tougué",
+      "id": "Prefektur Tougué",
+      "zh-Hans": "图盖省"
+    }
+  },
+  {
+    "code": "YO",
+    "name": "Yomou Prefecture",
+    "names": {
+      "ja": "ヨムー県",
+      "ko": "요무 지방 행정 구역",
+      "vi": "Quận Yomou",
+      "id": "Prefektur Yomou",
+      "zh-Hans": "约穆省",
+      "zh-Hant": "約穆省"
+    }
+  }
+]

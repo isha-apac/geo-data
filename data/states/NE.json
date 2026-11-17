@@ -1,0 +1,96 @@
+[
+  {
+    "code": "1",
+    "name": "Agadez Region",
+    "names": {
+      "ja": "アガデス州",
+      "ko": "아가데즈주",
+      "vi": "Khu vực Agadez",
+      "id": "Agadez (departemen)",
+      "zh-Hans": "阿加德兹大区"
+    }
+  },
+  {
+    "code": "2",
+    "name": "Diffa Region",
+    "names": {
+      "ja": "ディファ州",
+      "ko": "디파주",
+      "vi": "Khu vực Diffa",
+      "id": "Diffa",
+      "zh-Hans": "迪法大区",
+      "zh-Hant": "迪法大區"
+    }
+  },
+  {
+    "code": "3",
+    "name": "Dosso Region",
+    "names": {
+      "ja": "ドッソ州",
+      "ko": "도소주",
+      "vi": "Khu vực Dosso",
+      "id": "Dosso",
+      "zh-Hans": "多索大区",
+      "zh-Hant": "多索大區"
+    }
+  },
+  {
+    "code": "4",
+    "name": "Maradi Region",
+    "names": {
+      "ja": "マラディ州",
+      "ko": "마라디주",
+      "vi": "Khu vực Maradi",
+      "id": "Maradi",
+      "zh-Hans": "马拉迪大区",
+      "zh-Hant": "馬拉迪大區"
+    }
+  },
+  {
+    "code": "8",
+    "name": "Niamey",
+    "names": {
+      "ja": "ニアメ",
+      "ko": "니아메",
+      "vi": "Niamey",
+      "id": "Niamey",
+      "zh-Hans": "尼亚美",
+      "zh-Hant": "尼阿美"
+    }
+  },
+  {
+    "code": "5",
+    "name": "Tahoua Region",
+    "names": {
+      "ja": "タウア州",
+      "ko": "타우아주",
+      "vi": "Khu vực Tahoua",
+      "id": "Tahoua",
+      "zh-Hans": "塔瓦大区",
+      "zh-Hant": "塔瓦大區"
+    }
+  },
+  {
+    "code": "6",
+    "name": "Tillabéri Region",
+    "names": {
+      "ja": "ティラベリ州",
+      "ko": "틸라베리주",
+      "vi": "Khu vực Tillabéri",
+      "id": "Tillabéri",
+      "zh-Hans": "蒂拉贝里大区",
+      "zh-Hant": "蒂拉貝里大區"
+    }
+  },
+  {
+    "code": "7",
+    "name": "Zinder Region",
+    "names": {
+      "ja": "ザンデール州",
+      "ko": "잔데르 주",
+      "vi": "Khu vực Zinder",
+      "id": "Zinder",
+      "zh-Hans": "津德尔大区"
+    }
+  }
+]

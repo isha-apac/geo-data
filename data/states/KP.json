@@ -1,0 +1,158 @@
+[
+  {
+    "code": "04",
+    "name": "Chagang Province",
+    "names": {
+      "ja": "慈江道",
+      "ko": "자강도",
+      "vi": "Chagang",
+      "id": "Chagang",
+      "zh-Hans": "慈江道",
+      "zh-Hant": "慈江道"
+    }
+  },
+  {
+    "code": "15",
+    "name": "Kaesong",
+    "names": {
+      "ja": "開城特別市",
+      "ko": "개성시",
+      "vi": "Kaesong",
+      "id": "Kaesong",
+      "zh-Hans": "开城特级市",
+      "zh-Hant": "開城特級市"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Kangwon Province",
+    "names": {
+      "ja": "江原道",
+      "ko": "강원도",
+      "vi": "Kangwon",
+      "id": "Kangwon",
+      "zh-Hans": "江原道",
+      "zh-Hant": "江原道"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Nampo",
+    "names": {
+      "ja": "南浦特別市",
+      "ko": "남포시",
+      "vi": "Nampho",
+      "id": "Nampo",
+      "zh-Hans": "南浦特别市",
+      "zh-Hant": "南浦特別市"
+    }
+  },
+  {
+    "code": "09",
+    "name": "North Hamgyong Province",
+    "names": {
+      "ja": "咸鏡北道",
+      "ko": "함경북도",
+      "vi": "Hamgyong Bắc",
+      "id": "Hamgyong Utara",
+      "zh-Hans": "咸镜北道",
+      "zh-Hant": "咸鏡北道"
+    }
+  },
+  {
+    "code": "06",
+    "name": "North Hwanghae Province",
+    "names": {
+      "ja": "黄海北道",
+      "ko": "황해북도",
+      "vi": "Hwanghae Bắc",
+      "id": "Hwanghae Utara",
+      "zh-Hans": "黄海北道",
+      "zh-Hant": "黃海北道"
+    }
+  },
+  {
+    "code": "03",
+    "name": "North Pyongan Province",
+    "names": {
+      "ja": "平安北道",
+      "ko": "평안북도",
+      "vi": "Pyongan Bắc",
+      "id": "P'yŏngan Utara",
+      "zh-Hans": "平安北道",
+      "zh-Hant": "平安北道"
+    }
+  },
+  {
+    "code": "01",
+    "name": "Pyongyang",
+    "names": {
+      "ja": "平壌市",
+      "ko": "평양시",
+      "vi": "Bình Nhưỡng",
+      "id": "Pyongyang",
+      "zh-Hans": "平壤",
+      "zh-Hant": "平壤"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Rason",
+    "names": {
+      "ja": "羅先特別市",
+      "ko": "라선시",
+      "vi": "Rason",
+      "id": "Rason",
+      "zh-Hans": "罗先市",
+      "zh-Hant": "羅先市"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Ryanggang Province",
+    "names": {
+      "ja": "両江道",
+      "ko": "량강도",
+      "vi": "Ryanggang",
+      "id": "Ryanggang",
+      "zh-Hans": "两江道",
+      "zh-Hant": "兩江道"
+    }
+  },
+  {
+    "code": "08",
+    "name": "South Hamgyong Province",
+    "names": {
+      "ja": "咸鏡南道",
+      "ko": "함경남도",
+      "vi": "Hamgyong Nam",
+      "id": "Hamgyong Selatan",
+      "zh-Hans": "咸镜南道",
+      "zh-Hant": "咸鏡南道"
+    }
+  },
+  {
+    "code": "05",
+    "name": "South Hwanghae Province",
+    "names": {
+      "ja": "黄海南道",
+      "ko": "황해남도",
+      "vi": "Hwanghae Nam",
+      "id": "Hwanghae Selatan",
+      "zh-Hans": "黄海南道",
+      "zh-Hant": "黃海南道"
+    }
+  },
+  {
+    "code": "02",
+    "name": "South Pyongan Province",
+    "names": {
+      "ja": "平安南道",
+      "ko": "평안남도",
+      "vi": "Pyongan Nam",
+      "id": "Pyongan Selatan",
+      "zh-Hans": "平安南道",
+      "zh-Hant": "平安南道"
+    }
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "code": "CE",
+    "name": "Central Province",
+    "names": {
+      "ja": "中央州",
+      "ko": "중부주",
+      "vi": "Tỉnh Miền Trung",
+      "id": "Provinsi Tengah",
+      "zh-Hans": "中部群岛省",
+      "zh-Hant": "中部群島省"
+    }
+  },
+  {
+    "code": "CH",
+    "name": "Choiseul Province",
+    "names": {
+      "ja": "チョイスル州",
+      "ko": "슈아절주",
+      "vi": "Tỉnh Choiseul",
+      "id": "Provinsi Choiseul",
+      "zh-Hans": "舒瓦瑟尔省",
+      "zh-Hant": "舒瓦瑟爾省"
+    }
+  },
+  {
+    "code": "GU",
+    "name": "Guadalcanal Province",
+    "names": {
+      "ja": "ガダルカナル州",
+      "ko": "과달카날주",
+      "vi": "Tỉnh Guadalcanal",
+      "id": "Provinsi Guadalcanal",
+      "zh-Hans": "瓜达尔卡纳尔省",
+      "zh-Hant": "瓜達爾卡納爾省"
+    }
+  },
+  {
+    "code": "CT",
+    "name": "Honiara",
+    "names": {
+      "ja": "ホニアラ",
+      "ko": "호니아라",
+      "vi": "Honiara",
+      "id": "Honiara",
+      "zh-Hans": "霍尼亚拉",
+      "zh-Hant": "荷尼阿拉"
+    }
+  },
+  {
+    "code": "IS",
+    "name": "Isabel Province",
+    "names": {
+      "ja": "イサベル州",
+      "ko": "이사벨주",
+      "vi": "Tỉnh Isabel",
+      "id": "Provinsi Isabel",
+      "zh-Hans": "伊莎贝尔省",
+      "zh-Hant": "伊莎貝爾省"
+    }
+  },
+  {
+    "code": "MK",
+    "name": "Makira-Ulawa Province",
+    "names": {
+      "ja": "マキラ・ウラワ州",
+      "ko": "마키라울라와주",
+      "vi": "Makira-Ulawa",
+      "id": "Provinsi Makira-Ulawa",
+      "zh-Hans": "馬基拉-烏拉瓦省",
+      "zh-Hant": "馬基拉-烏拉瓦省"
+    }
+  },
+  {
+    "code": "ML",
+    "name": "Malaita Province",
+    "names": {
+      "ja": "マライタ州",
+      "ko": "말라이타 주",
+      "vi": "Tỉnh Malaita",
+      "id": "Provinsi Malaita",
+      "zh-Hans": "马莱塔省",
+      "zh-Hant": "馬萊塔省"
+    }
+  },
+  {
+    "code": "RB",
+    "name": "Rennell and Bellona Province",
+    "names": {
+      "ja": "レンネル・ベローナ州",
+      "ko": "렌넬벨로나주",
+      "vi": "Tỉnh Rennell và Bellona",
+      "id": "Provinsi Rennell dan Bellona",
+      "zh-Hans": "拉纳尔和贝罗纳省",
+      "zh-Hant": "拉納爾和貝羅納省"
+    }
+  },
+  {
+    "code": "TE",
+    "name": "Temotu Province",
+    "names": {
+      "ja": "テモツ州",
+      "ko": "테모투주",
+      "vi": "Temotu",
+      "id": "Provinsi Temotu",
+      "zh-Hans": "泰莫图省"
+    }
+  },
+  {
+    "code": "WE",
+    "name": "Western Province",
+    "names": {
+      "ja": "西部州",
+      "ko": "서부주",
+      "vi": "Tỉnh Phía Tây",
+      "id": "Provinsi Barat",
+      "zh-Hans": "西部省",
+      "zh-Hant": "西部省"
+    }
+  }
+]

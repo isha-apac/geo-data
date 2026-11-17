@@ -1,0 +1,86 @@
+[
+  {
+    "code": "A",
+    "name": "Alajuela Province",
+    "names": {
+      "ja": "アラフエラ州",
+      "ko": "알라후엘라주",
+      "vi": "Alajuela",
+      "id": "Provinsi Alajuela",
+      "zh-Hans": "阿拉胡埃拉省",
+      "zh-Hant": "阿拉胡埃拉省"
+    }
+  },
+  {
+    "code": "C",
+    "name": "Cartago Province",
+    "names": {
+      "ja": "カルタゴ州",
+      "ko": "카르타고주",
+      "vi": "Cartago",
+      "id": "Provinsi Cartago",
+      "zh-Hans": "卡塔戈省",
+      "zh-Hant": "卡塔戈省"
+    }
+  },
+  {
+    "code": "G",
+    "name": "Guanacaste Province",
+    "names": {
+      "ja": "グアナカステ州",
+      "ko": "과나카스테주",
+      "vi": "Guanacaste",
+      "id": "Provinsi Guanacaste",
+      "zh-Hans": "瓜纳卡斯特省",
+      "zh-Hant": "瓜納卡斯特省"
+    }
+  },
+  {
+    "code": "H",
+    "name": "Heredia Province",
+    "names": {
+      "ja": "エレディア州",
+      "ko": "에레디아주",
+      "vi": "Heredia",
+      "id": "Provinsi Heredia",
+      "zh-Hans": "埃雷迪亚省",
+      "zh-Hant": "埃雷迪亞省"
+    }
+  },
+  {
+    "code": "L",
+    "name": "Limón Province",
+    "names": {
+      "ja": "リモン州",
+      "ko": "리몬주",
+      "vi": "Limón",
+      "id": "Provinsi Limón",
+      "zh-Hans": "利蒙省",
+      "zh-Hant": "利蒙省"
+    }
+  },
+  {
+    "code": "P",
+    "name": "Puntarenas Province",
+    "names": {
+      "ja": "プンタレナス州",
+      "ko": "푼타레나스주",
+      "vi": "Puntarenas",
+      "id": "Provinsi Puntarenas",
+      "zh-Hans": "蓬塔雷纳斯省",
+      "zh-Hant": "蓬塔雷納斯省"
+    }
+  },
+  {
+    "code": "SJ",
+    "name": "San José Province",
+    "names": {
+      "ja": "サンホセ州",
+      "ko": "산호세주",
+      "vi": "San José",
+      "id": "Provinsi San José",
+      "zh-Hans": "圣何塞省",
+      "zh-Hant": "聖何塞省"
+    }
+  }
+]

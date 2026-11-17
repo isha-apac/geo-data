@@ -1,0 +1,169 @@
+[
+  {
+    "code": "AN",
+    "name": "Andijan Region",
+    "names": {
+      "ja": "アンディジャン州",
+      "ko": "안디잔주",
+      "vi": "Andijon",
+      "id": "Provinsi Andijan",
+      "zh-Hans": "安集延州",
+      "zh-Hant": "安集延州"
+    }
+  },
+  {
+    "code": "BU",
+    "name": "Bukhara Region",
+    "names": {
+      "ja": "ブハラ州",
+      "ko": "부하라주",
+      "vi": "Buxoro",
+      "id": "Provinsi Buxoro",
+      "zh-Hans": "布哈拉州",
+      "zh-Hant": "布哈拉州"
+    }
+  },
+  {
+    "code": "FA",
+    "name": "Fergana Region",
+    "names": {
+      "ja": "フェルガナ州",
+      "ko": "페르가나주",
+      "vi": "Farg'ona",
+      "id": "Provinsi Fergana",
+      "zh-Hans": "费尔干纳州",
+      "zh-Hant": "費爾干納州"
+    }
+  },
+  {
+    "code": "JI",
+    "name": "Jizzakh Region",
+    "names": {
+      "ja": "ジザフ州",
+      "ko": "지자흐주",
+      "vi": "Jizzax",
+      "id": "Provinsi Jizzakh",
+      "zh-Hans": "吉扎克州",
+      "zh-Hant": "吉扎克州"
+    }
+  },
+  {
+    "code": "QR",
+    "name": "Karakalpakstan",
+    "names": {
+      "ja": "カラカルパクスタン共和国",
+      "ko": "카라칼파크스탄 공화국",
+      "vi": "Qaraqalpaqstan",
+      "id": "Karakalpakstan",
+      "zh-Hans": "卡拉卡尔帕克斯坦共和国",
+      "zh-Hant": "卡拉卡爾帕克共和國"
+    }
+  },
+  {
+    "code": "NG",
+    "name": "Namangan Region",
+    "names": {
+      "ja": "ナマンガン州",
+      "ko": "나망간주",
+      "vi": "Namangan",
+      "id": "Provinsi Namangan",
+      "zh-Hans": "纳曼干州"
+    }
+  },
+  {
+    "code": "NW",
+    "name": "Navoiy Region",
+    "names": {
+      "ja": "ナヴァーイー州",
+      "ko": "나보이주",
+      "vi": "Navoiy",
+      "id": "Provinsi Navoiy",
+      "zh-Hans": "纳沃伊州",
+      "zh-Hant": "納沃伊州"
+    }
+  },
+  {
+    "code": "QA",
+    "name": "Qashqadaryo Region",
+    "names": {
+      "ja": "カシュカダリヤ州",
+      "ko": "카슈카다리야주",
+      "vi": "Qashqadaryo",
+      "id": "Provinsi Qashqadaryo",
+      "zh-Hans": "卡什卡达里亚州",
+      "zh-Hant": "卡什卡達里亞州"
+    }
+  },
+  {
+    "code": "SA",
+    "name": "Samarqand Region",
+    "names": {
+      "ja": "サマルカンド州",
+      "ko": "사마르칸트주",
+      "vi": "Samarqand",
+      "id": "Provinsi Samarqand",
+      "zh-Hans": "撒马尔罕州",
+      "zh-Hant": "撒馬爾罕州"
+    }
+  },
+  {
+    "code": "SI",
+    "name": "Sirdaryo Region",
+    "names": {
+      "ja": "シルダリヤ州",
+      "ko": "시르다리야주",
+      "vi": "Sirdaryo",
+      "id": "Provinsi Sirdaryo",
+      "zh-Hans": "锡尔河州",
+      "zh-Hant": "錫爾河州"
+    }
+  },
+  {
+    "code": "SU",
+    "name": "Surxondaryo Region",
+    "names": {
+      "ja": "スルハンダリヤ州",
+      "ko": "수르한다리야주",
+      "vi": "Surxondaryo",
+      "id": "Provinsi Surxondaryo",
+      "zh-Hans": "苏尔汉河州",
+      "zh-Hant": "蘇爾漢河州"
+    }
+  },
+  {
+    "code": "TK",
+    "name": "Tashkent",
+    "names": {
+      "ja": "タシュケント",
+      "ko": "타슈켄트",
+      "vi": "Tashkent",
+      "id": "Tashkent",
+      "zh-Hans": "塔什干",
+      "zh-Hant": "塔什干"
+    }
+  },
+  {
+    "code": "TO",
+    "name": "Tashkent Region",
+    "names": {
+      "ja": "タシュケント州",
+      "ko": "타슈켄트주",
+      "vi": "Toshkent",
+      "id": "Provinsi Toshkent",
+      "zh-Hans": "塔什干州",
+      "zh-Hant": "塔什干州"
+    }
+  },
+  {
+    "code": "XO",
+    "name": "Xorazm Region",
+    "names": {
+      "ja": "ホラズム州",
+      "ko": "호레즘주",
+      "vi": "Xorazm",
+      "id": "Provinsi Xorazm",
+      "zh-Hans": "花拉子模州",
+      "zh-Hant": "花拉子模州"
+    }
+  }
+]

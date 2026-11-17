@@ -1,0 +1,117 @@
+[
+  {
+    "code": "01",
+    "name": "Balzers",
+    "names": {
+      "ja": "バルザース",
+      "ko": "발처스",
+      "id": "Balzers",
+      "zh-Hans": "巴尔策斯"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Eschen",
+    "names": {
+      "ja": "エッシェン",
+      "ko": "에셴",
+      "id": "Eschen",
+      "zh-Hans": "埃申",
+      "zh-Hant": "埃申"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Gamprin",
+    "names": {
+      "ja": "ガンプリン",
+      "ko": "감프린",
+      "id": "Gamprin",
+      "zh-Hans": "甘普林"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Mauren",
+    "names": {
+      "ja": "マウレン",
+      "ko": "마우렌",
+      "id": "Mauren",
+      "zh-Hans": "毛伦"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Planken",
+    "names": {
+      "ja": "プランケン",
+      "ko": "플랑켄",
+      "id": "Planken",
+      "zh-Hans": "普兰肯"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Ruggell",
+    "names": {
+      "ja": "ルッゲル",
+      "ko": "루겔",
+      "id": "Ruggell",
+      "zh-Hans": "鲁格尔"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Schaan",
+    "names": {
+      "ja": "シャーン",
+      "ko": "샨",
+      "vi": "Schaan",
+      "id": "Schaan",
+      "zh-Hans": "沙恩"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Schellenberg",
+    "names": {
+      "ja": "シェレンベルク",
+      "ko": "셸렌베르크",
+      "id": "Schellenberg",
+      "zh-Hans": "施伦贝格"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Triesen",
+    "names": {
+      "ja": "トリーゼン",
+      "ko": "트리젠",
+      "id": "Triesen",
+      "zh-Hans": "特里森"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Triesenberg",
+    "names": {
+      "ja": "トリーゼンベルク",
+      "ko": "트리젠베르크",
+      "id": "Triesenberg",
+      "zh-Hans": "特里森貝格",
+      "zh-Hant": "特里森貝格"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Vaduz",
+    "names": {
+      "ja": "ファドゥーツ",
+      "ko": "파두츠",
+      "vi": "Vaduz",
+      "id": "Vaduz",
+      "zh-Hans": "瓦杜兹",
+      "zh-Hant": "華杜茲"
+    }
+  }
+]

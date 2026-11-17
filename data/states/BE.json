@@ -1,0 +1,150 @@
+[
+  {
+    "code": "VAN",
+    "name": "Antwerp",
+    "names": {
+      "ja": "アントウェルペン州",
+      "ko": "안트베르펜주",
+      "vi": "Antwerp",
+      "id": "Antwerpen",
+      "zh-Hans": "安特卫普省",
+      "zh-Hant": "安特衛普省"
+    }
+  },
+  {
+    "code": "BRU",
+    "name": "Brussels-Capital Region",
+    "names": {
+      "ja": "ブリュッセル首都圏地域",
+      "ko": "브뤼셀",
+      "vi": "Bruxelles",
+      "id": "Daerah Ibu Kota Brussel",
+      "zh-Hans": "布鲁塞尔首都大区",
+      "zh-Hant": "布魯塞爾首都大區"
+    }
+  },
+  {
+    "code": "VOV",
+    "name": "East Flanders",
+    "names": {
+      "ja": "オースト＝フランデレン州",
+      "ko": "오스트플란데런주",
+      "vi": "Oost-Vlaanderen",
+      "id": "Flanders Timur",
+      "zh-Hans": "东佛兰德省",
+      "zh-Hant": "東法蘭德斯省"
+    }
+  },
+  {
+    "code": "VBR",
+    "name": "Flemish Brabant",
+    "names": {
+      "ja": "フラームス＝ブラバント州",
+      "ko": "플람스브라반트주",
+      "vi": "Vlaams-Brabant",
+      "id": "Brabant Flanders",
+      "zh-Hans": "弗拉芒布拉班特省",
+      "zh-Hant": "佛拉芒布拉邦省"
+    }
+  },
+  {
+    "code": "VLG",
+    "name": "Flemish Region",
+    "names": {
+      "ja": "フランデレン地域",
+      "ko": "플라망 지역",
+      "vi": "Vùng Flemish",
+      "id": "Daerah Flandria",
+      "zh-Hans": "弗拉芒大区",
+      "zh-Hant": "佛萊明大區"
+    }
+  },
+  {
+    "code": "WHT",
+    "name": "Hainaut",
+    "names": {
+      "ja": "エノー州",
+      "ko": "에노주",
+      "vi": "Hainaut",
+      "id": "Hainaut",
+      "zh-Hans": "埃诺省"
+    }
+  },
+  {
+    "code": "WLG",
+    "name": "Liege",
+    "names": {
+      "ja": "リエージュ州",
+      "ko": "리에주주",
+      "vi": "Liège",
+      "id": "Liège",
+      "zh-Hans": "列日省"
+    }
+  },
+  {
+    "code": "VLI",
+    "name": "Limburg",
+    "names": {
+      "ja": "リンブルフ州",
+      "ko": "림뷔르흐주",
+      "vi": "Limburg",
+      "id": "Limburg",
+      "zh-Hans": "林堡省"
+    }
+  },
+  {
+    "code": "WLX",
+    "name": "Luxembourg Province",
+    "names": {
+      "ja": "リュクサンブール州",
+      "ko": "뤽상부르주",
+      "vi": "Luxembourg",
+      "id": "Luksemburg",
+      "zh-Hans": "卢森堡省"
+    }
+  },
+  {
+    "code": "WNA",
+    "name": "Namur",
+    "names": {
+      "ja": "ナミュール州",
+      "ko": "나뮈르주",
+      "vi": "Namur",
+      "id": "Namur",
+      "zh-Hans": "那慕尔省"
+    }
+  },
+  {
+    "code": "WAL",
+    "name": "Wallonia",
+    "names": {
+      "ja": "ワロン地域",
+      "ko": "왈롱",
+      "vi": "Wallonie",
+      "id": "Wallonia",
+      "zh-Hans": "瓦隆"
+    }
+  },
+  {
+    "code": "WBR",
+    "name": "Walloon Brabant",
+    "names": {
+      "ja": "ブラバン・ワロン州",
+      "ko": "브라방왈롱주",
+      "vi": "Walloon Brabant",
+      "id": "Brabant Wallonia",
+      "zh-Hans": "瓦隆布拉班特省"
+    }
+  },
+  {
+    "code": "VWV",
+    "name": "West Flanders",
+    "names": {
+      "ja": "ウェスト＝フランデレン州",
+      "ko": "베스트플란데런주",
+      "vi": "West-Vlaanderen",
+      "id": "Flanders Barat",
+      "zh-Hans": "西佛兰德省"
+    }
+  }
+]

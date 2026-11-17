@@ -1,0 +1,141 @@
+[
+  {
+    "code": "AG",
+    "name": "Agaléga",
+    "names": {
+      "ja": "アガレガ諸島",
+      "ko": "아갈레가 제도",
+      "vi": "Agaléga",
+      "id": "Agaléga",
+      "zh-Hans": "阿加莱加群岛",
+      "zh-Hant": "阿加萊加群島"
+    }
+  },
+  {
+    "code": "CC",
+    "name": "Cagados Carajos",
+    "names": {
+      "ja": "カルガドス・カラホス諸島",
+      "ko": "카르가도스 카라호스 제도",
+      "vi": "Cargados Carajos",
+      "id": "Cargados Carajos",
+      "zh-Hans": "圣布兰登群岛"
+    }
+  },
+  {
+    "code": "FL",
+    "name": "Flacq District",
+    "names": {
+      "ja": "フラック県",
+      "ko": "플라크구",
+      "vi": "Quận Flacq",
+      "id": "Distrik Flacq",
+      "zh-Hans": "弗拉克区",
+      "zh-Hant": "弗拉克區"
+    }
+  },
+  {
+    "code": "GP",
+    "name": "Grand Port District",
+    "names": {
+      "ja": "グラン・ポール県",
+      "ko": "그랑포르구",
+      "vi": "Quận Grand Port",
+      "id": "Distrik Grand Port",
+      "zh-Hans": "大港区",
+      "zh-Hant": "大港區"
+    }
+  },
+  {
+    "code": "MO",
+    "name": "Moka District",
+    "names": {
+      "ja": "モカ県",
+      "ko": "모카구",
+      "vi": "Quận Moka",
+      "id": "Distrik Moka",
+      "zh-Hans": "莫卡区",
+      "zh-Hant": "莫卡區"
+    }
+  },
+  {
+    "code": "PA",
+    "name": "Pamplemousses District",
+    "names": {
+      "ja": "パンプルムース県",
+      "ko": "팜플레무스구",
+      "vi": "Quận Pamplemousses",
+      "id": "Distrik Pamplemousses",
+      "zh-Hans": "庞普勒穆斯区"
+    }
+  },
+  {
+    "code": "PW",
+    "name": "Plaines Wilhems District",
+    "names": {
+      "ja": "プレーン・ウィルヘルム県",
+      "ko": "플랭윌렐름구",
+      "vi": "Quận Plaines Wilhems",
+      "id": "Distrik Plaines Wilhems",
+      "zh-Hans": "威廉平原区",
+      "zh-Hant": "威廉平原區"
+    }
+  },
+  {
+    "code": "PL",
+    "name": "Port Louis District",
+    "names": {
+      "ja": "ポートルイス県",
+      "ko": "포트루이스구",
+      "zh-Hans": "路易港區"
+    }
+  },
+  {
+    "code": "RR",
+    "name": "Rivière du Rempart District",
+    "names": {
+      "ja": "リヴィエール・デュ・ランパール県",
+      "ko": "리비에르뒤랑파르구",
+      "vi": "Quận Rivière du Rempart",
+      "id": "Distrik Rivière du Rempart",
+      "zh-Hans": "朗帕河区",
+      "zh-Hant": "朗帕河區"
+    }
+  },
+  {
+    "code": "BL",
+    "name": "Rivière Noire District",
+    "names": {
+      "ja": "ブラックリバー県",
+      "ko": "블랙리버 구",
+      "vi": "Quận Rivière Noire",
+      "id": "Distrik Rivière Noire",
+      "zh-Hans": "黑河区",
+      "zh-Hant": "黑河區"
+    }
+  },
+  {
+    "code": "RO",
+    "name": "Rodrigues",
+    "names": {
+      "ja": "ロドリゲス島",
+      "ko": "로드리게스섬",
+      "vi": "Rodrigues",
+      "id": "Rodrigues",
+      "zh-Hans": "罗德里格岛",
+      "zh-Hant": "羅德里格島"
+    }
+  },
+  {
+    "code": "SA",
+    "name": "Savanne District",
+    "names": {
+      "ja": "サバンナ県",
+      "ko": "사반구",
+      "vi": "Quận Savanne",
+      "id": "Distrik Savanne",
+      "zh-Hans": "萨凡纳区",
+      "zh-Hant": "薩凡納區"
+    }
+  }
+]

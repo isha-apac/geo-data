@@ -1,0 +1,195 @@
+[
+  {
+    "code": "42",
+    "name": "Agder",
+    "names": {
+      "ja": "アグデル県",
+      "ko": "아그데르주",
+      "zh-Hans": "阿格德尔郡",
+      "zh-Hant": "阿格德爾郡"
+    }
+  },
+  {
+    "code": "32",
+    "name": "Akershus",
+    "names": {
+      "ja": "アーケシュフース県",
+      "ko": "아케르스후스주",
+      "vi": "Akershus",
+      "id": "Akershus",
+      "zh-Hans": "阿克什胡斯郡",
+      "zh-Hant": "阿克什胡斯郡"
+    }
+  },
+  {
+    "code": "33",
+    "name": "Buskerud",
+    "names": {
+      "ja": "ブスケルー県",
+      "ko": "부스케루주",
+      "vi": "Buskerud",
+      "id": "Buskerud",
+      "zh-Hans": "布斯克吕郡",
+      "zh-Hant": "布斯克魯郡"
+    }
+  },
+  {
+    "code": "56",
+    "name": "Finnmark",
+    "names": {
+      "ja": "フィンマルク県",
+      "ko": "핀마르크주",
+      "vi": "Finnmark",
+      "id": "Finnmark",
+      "zh-Hans": "芬马克郡"
+    }
+  },
+  {
+    "code": "34",
+    "name": "Innlandet",
+    "names": {
+      "ja": "インラント県",
+      "ko": "인란데주",
+      "vi": "Innlandet",
+      "id": "Innlandet",
+      "zh-Hans": "內陸郡"
+    }
+  },
+  {
+    "code": "22",
+    "name": "Jan Mayen",
+    "names": {
+      "ja": "ヤンマイエン島",
+      "ko": "얀마옌섬",
+      "vi": "Jan Mayen",
+      "id": "Jan Mayen",
+      "zh-Hans": "扬马延",
+      "zh-Hant": "揚馬延"
+    }
+  },
+  {
+    "code": "15",
+    "name": "Møre og Romsdal",
+    "names": {
+      "ja": "ムーレ・オ・ロムスダール県",
+      "ko": "뫼레오그롬스달주",
+      "vi": "Møre og Romsdal",
+      "id": "Møre og Romsdal",
+      "zh-Hans": "默勒-鲁姆斯达尔郡",
+      "zh-Hant": "默勒-魯姆斯達爾郡"
+    }
+  },
+  {
+    "code": "18",
+    "name": "Nordland",
+    "names": {
+      "ja": "ヌールラン県",
+      "ko": "노를란주",
+      "vi": "Nordland",
+      "id": "Nordland",
+      "zh-Hans": "诺尔兰郡"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Oslo",
+    "names": {
+      "ja": "オスロ",
+      "ko": "오슬로",
+      "zh-Hans": "奥斯陆",
+      "zh-Hant": "奧斯陸"
+    }
+  },
+  {
+    "code": "31",
+    "name": "Østfold",
+    "names": {
+      "ja": "エストフォル県",
+      "ko": "외스트폴주",
+      "vi": "Østfold",
+      "id": "Østfold",
+      "zh-Hans": "东福尔郡"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Rogaland",
+    "names": {
+      "ja": "ローガラン県",
+      "ko": "로갈란주",
+      "vi": "Rogaland",
+      "id": "Rogaland",
+      "zh-Hans": "罗加兰郡",
+      "zh-Hant": "勒斯特蘭"
+    }
+  },
+  {
+    "code": "21",
+    "name": "Svalbard",
+    "names": {
+      "ja": "スヴァールバル諸島",
+      "ko": "스발바르 제도",
+      "vi": "Svalbard",
+      "id": "Svalbard",
+      "zh-Hans": "斯瓦尔巴",
+      "zh-Hant": "斯瓦巴"
+    }
+  },
+  {
+    "code": "40",
+    "name": "Telemark",
+    "names": {
+      "ja": "テレマルク県",
+      "ko": "텔레마르크주",
+      "vi": "Telemark",
+      "id": "Telemark",
+      "zh-Hans": "泰勒马克郡",
+      "zh-Hant": "泰勒馬克郡"
+    }
+  },
+  {
+    "code": "55",
+    "name": "Troms",
+    "names": {
+      "ja": "トロムス県",
+      "ko": "트롬스주",
+      "vi": "Troms",
+      "id": "Troms",
+      "zh-Hans": "特罗姆斯郡",
+      "zh-Hant": "特羅姆斯郡"
+    }
+  },
+  {
+    "code": "50",
+    "name": "Trøndelag",
+    "names": {
+      "ja": "トロンデラーグ県",
+      "ko": "트뢰넬라그",
+      "id": "Trøndelag",
+      "zh-Hans": "特伦德拉格郡",
+      "zh-Hant": "特倫德拉格郡"
+    }
+  },
+  {
+    "code": "39",
+    "name": "Vestfold",
+    "names": {
+      "ja": "ヴェストフォル県",
+      "ko": "베스트폴주",
+      "vi": "Vestfold",
+      "id": "Vestfold",
+      "zh-Hans": "西福尔郡",
+      "zh-Hant": "西福爾郡"
+    }
+  },
+  {
+    "code": "46",
+    "name": "Vestland",
+    "names": {
+      "ja": "ヴェストラン県",
+      "ko": "베스트란주",
+      "zh-Hans": "韋斯特蘭郡",
+      "zh-Hant": "韋斯特蘭郡"
+    }
+  }
+]

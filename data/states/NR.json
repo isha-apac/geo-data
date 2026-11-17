@@ -1,0 +1,167 @@
+[
+  {
+    "code": "01",
+    "name": "Aiwo District",
+    "names": {
+      "ja": "アイウォ地区",
+      "ko": "아이워구",
+      "vi": "Aiwo",
+      "id": "Aiwo",
+      "zh-Hans": "艾沃区",
+      "zh-Hant": "艾沃區"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Anabar District",
+    "names": {
+      "ja": "アナバー地区",
+      "ko": "아나바르구",
+      "vi": "Anabar",
+      "id": "Anabar",
+      "zh-Hans": "阿纳巴尔区",
+      "zh-Hant": "阿納巴爾區"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Anetan District",
+    "names": {
+      "ja": "アネタン地区",
+      "ko": "아네탄구",
+      "vi": "Anetan",
+      "id": "Anetan",
+      "zh-Hans": "阿内坦区",
+      "zh-Hant": "阿內坦區"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Anibare District",
+    "names": {
+      "ja": "アニバレ地区",
+      "ko": "아니바레구",
+      "vi": "Anibare",
+      "id": "Anibare",
+      "zh-Hans": "阿尼巴雷区",
+      "zh-Hant": "阿尼巴雷區"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Baiti District",
+    "names": {
+      "ja": "バイチ地区",
+      "ko": "바이티구",
+      "vi": "Baiti",
+      "id": "Baiti",
+      "zh-Hans": "拜齐区",
+      "zh-Hant": "拜齊區"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Boe District",
+    "names": {
+      "ja": "ボエ地区",
+      "ko": "보에구",
+      "vi": "Boe",
+      "id": "Boe",
+      "zh-Hans": "博埃区",
+      "zh-Hant": "博埃區"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Buada District",
+    "names": {
+      "ja": "ブアダ地区",
+      "ko": "부아다구",
+      "vi": "Buada",
+      "id": "Buada",
+      "zh-Hans": "布阿达区"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Denigomodu District",
+    "names": {
+      "ja": "デニゴムドゥ地区",
+      "ko": "데니고모두구",
+      "vi": "Denigomodu",
+      "id": "Denigomodu",
+      "zh-Hans": "代尼戈莫杜区"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Ewa District",
+    "names": {
+      "ja": "エウァ地区",
+      "ko": "에와구",
+      "vi": "Ewa",
+      "id": "Ewa",
+      "zh-Hans": "埃瓦区",
+      "zh-Hant": "埃瓦區"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Ijuw District",
+    "names": {
+      "ja": "イジュウ地区",
+      "ko": "이유브구",
+      "vi": "Ijuw",
+      "id": "Ijuw",
+      "zh-Hans": "伊朱乌区",
+      "zh-Hant": "伊朱烏區"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Meneng District",
+    "names": {
+      "ja": "メネン地区",
+      "ko": "메넹구",
+      "vi": "Meneng",
+      "id": "Meneng",
+      "zh-Hans": "梅嫩区",
+      "zh-Hant": "梅嫩區"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Nibok District",
+    "names": {
+      "ja": "ニボク地区",
+      "ko": "니보크구",
+      "vi": "Nibok",
+      "id": "Nibok",
+      "zh-Hans": "尼博克区",
+      "zh-Hant": "尼博克區"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Uaboe District",
+    "names": {
+      "ja": "ウアボエ地区",
+      "ko": "우아보에구",
+      "vi": "Uaboe",
+      "id": "Uaboe",
+      "zh-Hans": "瓦博埃区",
+      "zh-Hant": "瓦博埃區"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Yaren District",
+    "names": {
+      "ja": "ヤレン地区",
+      "ko": "야렌구",
+      "vi": "Yaren",
+      "id": "Yaren",
+      "zh-Hans": "亚伦区"
+    }
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "code": "FO",
+    "name": "Fontvieille",
+    "names": {
+      "ja": "フォンヴィエイユ",
+      "ko": "퐁비에유",
+      "zh-Hans": "芳特维耶"
+    }
+  },
+  {
+    "code": "JE",
+    "name": "Jardin Exotique",
+    "names": {}
+  },
+  {
+    "code": "CL",
+    "name": "La Colle",
+    "names": {
+      "ja": "ラ・コル",
+      "ko": "라콜",
+      "zh-Hans": "拉科勒",
+      "zh-Hant": "拉科勒"
+    }
+  },
+  {
+    "code": "CO",
+    "name": "La Condamine",
+    "names": {
+      "ja": "ラ・コンダミーヌ地区",
+      "ko": "라콩다민",
+      "id": "La Condamine",
+      "zh-Hans": "拉孔达米讷"
+    }
+  },
+  {
+    "code": "GA",
+    "name": "La Gare",
+    "names": {}
+  },
+  {
+    "code": "SO",
+    "name": "La Source",
+    "names": {}
+  },
+  {
+    "code": "LA",
+    "name": "Larvotto",
+    "names": {
+      "ja": "ラルヴォット",
+      "ko": "라르보토",
+      "zh-Hans": "拉沃托"
+    }
+  },
+  {
+    "code": "MA",
+    "name": "Malbousquet",
+    "names": {}
+  },
+  {
+    "code": "MO",
+    "name": "Monaco-Ville",
+    "names": {
+      "ja": "モナコ市",
+      "ko": "모나코빌",
+      "id": "Kota Monako",
+      "zh-Hans": "摩纳哥城"
+    }
+  },
+  {
+    "code": "MG",
+    "name": "Moneghetti",
+    "names": {
+      "ko": "모네게티",
+      "zh-Hans": "莫内盖蒂"
+    }
+  },
+  {
+    "code": "MC",
+    "name": "Monte Carlo",
+    "names": {
+      "ja": "モンテカルロ",
+      "ko": "몬테카를로",
+      "vi": "Monte Carlo",
+      "id": "Monte Carlo",
+      "zh-Hans": "蒙特卡洛",
+      "zh-Hant": "蒙特卡洛"
+    }
+  },
+  {
+    "code": "MU",
+    "name": "Moulins",
+    "names": {}
+  },
+  {
+    "code": "PH",
+    "name": "Port Hercules",
+    "names": {
+      "ja": "ポートエルキュール",
+      "zh-Hans": "赫库勒港",
+      "zh-Hant": "赫庫勒港"
+    }
+  },
+  {
+    "code": "SD",
+    "name": "Ravin de Sainte-Dévote",
+    "names": {}
+  },
+  {
+    "code": "SR",
+    "name": "Saint-Roman",
+    "names": {}
+  },
+  {
+    "code": "SP",
+    "name": "Spélugues",
+    "names": {}
+  },
+  {
+    "code": "VR",
+    "name": "Vallon de la Rousse",
+    "names": {}
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "code": "B",
+    "name": "Beni Department",
+    "names": {
+      "ja": "ベニ県",
+      "ko": "베니주",
+      "vi": "Khu vực hành chính Beni",
+      "id": "Departemen Beni",
+      "zh-Hans": "贝尼省",
+      "zh-Hant": "貝尼省"
+    }
+  },
+  {
+    "code": "H",
+    "name": "Chuquisaca Department",
+    "names": {
+      "ja": "チュキサカ県",
+      "ko": "추키사카주",
+      "vi": "Khu vực hành chính Chuquisaca",
+      "id": "Departemen Chuquisaca",
+      "zh-Hans": "丘基萨卡省",
+      "zh-Hant": "丘基薩卡省"
+    }
+  },
+  {
+    "code": "C",
+    "name": "Cochabamba Department",
+    "names": {
+      "ja": "コチャバンバ県",
+      "ko": "코차밤바주",
+      "vi": "Khu vực hành chính Cochabamba",
+      "id": "Departemen Cochabamba",
+      "zh-Hans": "科恰班巴省",
+      "zh-Hant": "科恰班巴省"
+    }
+  },
+  {
+    "code": "L",
+    "name": "La Paz Department",
+    "names": {
+      "ja": "ラパス県",
+      "ko": "라파스주",
+      "vi": "Khu vực hành chính La Paz",
+      "id": "Departemen La Paz",
+      "zh-Hans": "拉巴斯省",
+      "zh-Hant": "拉巴斯省"
+    }
+  },
+  {
+    "code": "O",
+    "name": "Oruro Department",
+    "names": {
+      "ja": "オルロ県",
+      "ko": "오루로주",
+      "vi": "Khu vực hành chính Oruro",
+      "id": "Departemen Oruro",
+      "zh-Hans": "奥鲁罗省"
+    }
+  },
+  {
+    "code": "N",
+    "name": "Pando Department",
+    "names": {
+      "ja": "パンド県",
+      "ko": "판도주",
+      "vi": "Pando",
+      "id": "Departemen Pando",
+      "zh-Hans": "潘多省",
+      "zh-Hant": "潘多省"
+    }
+  },
+  {
+    "code": "P",
+    "name": "Potosí Department",
+    "names": {
+      "ja": "ポトシ県",
+      "ko": "포토시주",
+      "vi": "Khu vực hành chính Potosi",
+      "id": "Departemen Potosí",
+      "zh-Hans": "波托西省",
+      "zh-Hant": "波托西省"
+    }
+  },
+  {
+    "code": "S",
+    "name": "Santa Cruz Department",
+    "names": {
+      "ja": "サンタクルス県",
+      "ko": "산타크루스주",
+      "vi": "Vùng Santa Cruz",
+      "id": "Departemen Santa Cruz",
+      "zh-Hans": "圣克鲁斯省",
+      "zh-Hant": "聖克魯斯省"
+    }
+  },
+  {
+    "code": "T",
+    "name": "Tarija Department",
+    "names": {
+      "ja": "タリハ県",
+      "ko": "타리하주",
+      "vi": "Khu vực hành chính Tarija",
+      "id": "Departemen Tarija",
+      "zh-Hans": "塔里哈省",
+      "zh-Hant": "塔里哈省"
+    }
+  }
+]

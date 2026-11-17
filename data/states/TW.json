@@ -1,0 +1,266 @@
+[
+  {
+    "code": "CHA",
+    "name": "Changhua County",
+    "names": {
+      "ja": "彰化県",
+      "ko": "장화현",
+      "vi": "Chương Hóa",
+      "id": "County Changhua",
+      "zh-Hans": "彰化县",
+      "zh-Hant": "彰化縣"
+    }
+  },
+  {
+    "code": "CYI",
+    "name": "Chiayi City",
+    "names": {
+      "ja": "嘉義市",
+      "ko": "자이시",
+      "vi": "Gia Nghĩa",
+      "id": "Kota Chiayi",
+      "zh-Hans": "嘉义市",
+      "zh-Hant": "嘉義市"
+    }
+  },
+  {
+    "code": "CYQ",
+    "name": "Chiayi County",
+    "names": {
+      "ja": "嘉義県",
+      "ko": "자이현",
+      "vi": "Gia Nghĩa",
+      "id": "Kabupaten Chiayi",
+      "zh-Hans": "嘉义县",
+      "zh-Hant": "嘉義縣"
+    }
+  },
+  {
+    "code": "HSZ",
+    "name": "Hsinchu City",
+    "names": {
+      "ja": "新竹市",
+      "ko": "신주시",
+      "vi": "Tân Trúc",
+      "id": "Kota Hsinchu",
+      "zh-Hans": "新竹市",
+      "zh-Hant": "新竹市"
+    }
+  },
+  {
+    "code": "HSQ",
+    "name": "Hsinchu County",
+    "names": {
+      "ja": "新竹県",
+      "ko": "신주현",
+      "vi": "Tân Trúc",
+      "id": "Kabupaten Hsinchu",
+      "zh-Hans": "新竹县",
+      "zh-Hant": "新竹縣"
+    }
+  },
+  {
+    "code": "HUA",
+    "name": "Hualien County",
+    "names": {
+      "ja": "花蓮県",
+      "ko": "화롄현",
+      "vi": "Hoa Liên",
+      "id": "Kabupaten Hualien",
+      "zh-Hans": "花莲县",
+      "zh-Hant": "花蓮縣"
+    }
+  },
+  {
+    "code": "KHH",
+    "name": "Kaohsiung",
+    "names": {
+      "ja": "高雄市",
+      "ko": "가오슝시",
+      "vi": "Cao Hùng",
+      "id": "Kota Kaohsiung",
+      "zh-Hans": "高雄市",
+      "zh-Hant": "高雄市"
+    }
+  },
+  {
+    "code": "KEE",
+    "name": "Keelung",
+    "names": {
+      "ja": "基隆市",
+      "ko": "지룽시",
+      "vi": "Cơ Long",
+      "id": "Kota Keelung",
+      "zh-Hans": "基隆市",
+      "zh-Hant": "基隆市"
+    }
+  },
+  {
+    "code": "KIN",
+    "name": "Kinmen County",
+    "names": {
+      "ja": "金門県",
+      "ko": "진먼현",
+      "vi": "Kim Môn",
+      "id": "County Kinmen",
+      "zh-Hans": "金门县",
+      "zh-Hant": "金門縣"
+    }
+  },
+  {
+    "code": "LIE",
+    "name": "Lienchiang County",
+    "names": {
+      "ja": "連江県",
+      "ko": "롄장현",
+      "vi": "Liên Giang",
+      "id": "Kepulauan Lienchiang",
+      "zh-Hans": "连江县",
+      "zh-Hant": "連江縣"
+    }
+  },
+  {
+    "code": "MIA",
+    "name": "Miaoli County",
+    "names": {
+      "ja": "苗栗県",
+      "ko": "먀오리현",
+      "vi": "Miêu Lật",
+      "id": "Kabupaten Miaoli",
+      "zh-Hans": "苗栗县",
+      "zh-Hant": "苗栗縣"
+    }
+  },
+  {
+    "code": "NAN",
+    "name": "Nantou County",
+    "names": {
+      "ja": "南投県",
+      "ko": "난터우현",
+      "vi": "Nam Đầu",
+      "id": "Kabupaten Nantou",
+      "zh-Hans": "南投县",
+      "zh-Hant": "南投縣"
+    }
+  },
+  {
+    "code": "NWT",
+    "name": "New Taipei City",
+    "names": {
+      "ja": "新北市",
+      "ko": "신베이시",
+      "vi": "Tân Bắc",
+      "id": "Taipei Baru",
+      "zh-Hans": "新北市",
+      "zh-Hant": "新北市"
+    }
+  },
+  {
+    "code": "PEN",
+    "name": "Penghu County",
+    "names": {
+      "ja": "澎湖県",
+      "ko": "펑후현",
+      "vi": "Bành Hồ",
+      "id": "Kabupaten Penghu",
+      "zh-Hans": "澎湖县",
+      "zh-Hant": "澎湖縣"
+    }
+  },
+  {
+    "code": "PIF",
+    "name": "Pingtung County",
+    "names": {
+      "ja": "屏東県",
+      "ko": "핑둥현",
+      "vi": "Bình Đông",
+      "id": "Kabupaten Pingtung",
+      "zh-Hans": "屏东县",
+      "zh-Hant": "屏東縣"
+    }
+  },
+  {
+    "code": "TXG",
+    "name": "Taichung",
+    "names": {
+      "ja": "台中市",
+      "ko": "타이중시",
+      "vi": "Đài Trung",
+      "id": "Kota Taichung",
+      "zh-Hans": "台中市",
+      "zh-Hant": "臺中市"
+    }
+  },
+  {
+    "code": "TNN",
+    "name": "Tainan",
+    "names": {
+      "ja": "台南市",
+      "ko": "타이난시",
+      "vi": "Đài Nam",
+      "id": "Kota Tainan",
+      "zh-Hans": "台南市",
+      "zh-Hant": "臺南市"
+    }
+  },
+  {
+    "code": "TPE",
+    "name": "Taipei",
+    "names": {
+      "ja": "台北市",
+      "ko": "타이베이시",
+      "vi": "Đài Bắc",
+      "id": "Taipei",
+      "zh-Hans": "台北市",
+      "zh-Hant": "臺北市"
+    }
+  },
+  {
+    "code": "TTT",
+    "name": "Taitung County",
+    "names": {
+      "ja": "台東県",
+      "ko": "타이둥현",
+      "vi": "Đài Đông",
+      "id": "Kabupaten Taitung",
+      "zh-Hans": "台东县",
+      "zh-Hant": "臺東縣"
+    }
+  },
+  {
+    "code": "TAO",
+    "name": "Taoyuan",
+    "names": {
+      "ja": "桃園市",
+      "ko": "타오위안시",
+      "vi": "Đào Viên",
+      "id": "Kabupaten Taoyuan",
+      "zh-Hans": "桃园市",
+      "zh-Hant": "桃園市"
+    }
+  },
+  {
+    "code": "ILA",
+    "name": "Yilan County",
+    "names": {
+      "ja": "宜蘭県",
+      "ko": "이란현",
+      "vi": "Nghi Lan",
+      "id": "Kabupaten Yilan",
+      "zh-Hans": "宜兰县",
+      "zh-Hant": "宜蘭縣"
+    }
+  },
+  {
+    "code": "YUN",
+    "name": "Yunlin County",
+    "names": {
+      "ja": "雲林県",
+      "ko": "윈린현",
+      "vi": "Vân Lâm",
+      "id": "Kabupaten Yunlin",
+      "zh-Hans": "云林县",
+      "zh-Hant": "雲林縣"
+    }
+  }
+]

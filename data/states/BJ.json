@@ -1,0 +1,136 @@
+[
+  {
+    "code": "AL",
+    "name": "Alibori Department",
+    "names": {
+      "ja": "アリボリ県",
+      "ko": "알리보리주",
+      "vi": "Alibori",
+      "id": "Departemen Alibori",
+      "zh-Hans": "阿黎博里省"
+    }
+  },
+  {
+    "code": "AK",
+    "name": "Atakora Department",
+    "names": {
+      "ja": "アタコラ県",
+      "ko": "아타코라주",
+      "vi": "Atakora",
+      "id": "Departemen Atakora",
+      "zh-Hans": "阿塔科拉省"
+    }
+  },
+  {
+    "code": "AQ",
+    "name": "Atlantique Department",
+    "names": {
+      "ja": "アトランティック県",
+      "ko": "아틀랑티크주",
+      "vi": "Atlantique",
+      "id": "Departemen Atlantique",
+      "zh-Hans": "大西洋省"
+    }
+  },
+  {
+    "code": "BO",
+    "name": "Borgou Department",
+    "names": {
+      "ja": "ボルグー県",
+      "ko": "보르구주",
+      "vi": "Borgou",
+      "id": "Departemen Borgou",
+      "zh-Hans": "博尔古省",
+      "zh-Hant": "博爾古省"
+    }
+  },
+  {
+    "code": "CO",
+    "name": "Collines department",
+    "names": {
+      "ja": "コリネス県",
+      "ko": "콜린주",
+      "vi": "Collines",
+      "id": "Departemen Collines",
+      "zh-Hans": "丘陵省"
+    }
+  },
+  {
+    "code": "DO",
+    "name": "Donga Department",
+    "names": {
+      "ja": "ドンガ県",
+      "ko": "동가주",
+      "vi": "Donga",
+      "id": "Departemen Donga",
+      "zh-Hans": "峡谷省"
+    }
+  },
+  {
+    "code": "KO",
+    "name": "Kouffo Department",
+    "names": {
+      "ja": "クッフォ県",
+      "ko": "쿠포주",
+      "vi": "Kouffo",
+      "id": "Departemen Kouffo",
+      "zh-Hans": "库福省"
+    }
+  },
+  {
+    "code": "LI",
+    "name": "Littoral",
+    "names": {
+      "ja": "リトラル県",
+      "ko": "리토랄주",
+      "vi": "Littoral",
+      "id": "Departemen Littoral",
+      "zh-Hans": "滨海省",
+      "zh-Hant": "濱海省"
+    }
+  },
+  {
+    "code": "MO",
+    "name": "Mono Department",
+    "names": {
+      "ja": "モノ県",
+      "ko": "모노주",
+      "vi": "Mono",
+      "id": "Departemen Mono",
+      "zh-Hans": "莫诺省"
+    }
+  },
+  {
+    "code": "OU",
+    "name": "Ouémé Department",
+    "names": {
+      "ja": "ウェメ県",
+      "ko": "우에메주",
+      "vi": "Khu vực hành chính Ouémé",
+      "id": "Departemen Ouémé",
+      "zh-Hans": "韦梅省"
+    }
+  },
+  {
+    "code": "PL",
+    "name": "Plateau Department",
+    "names": {
+      "ja": "プラトー県",
+      "ko": "플라토주",
+      "vi": "Plateaux",
+      "id": "Departemen Plateau",
+      "zh-Hans": "高原省"
+    }
+  },
+  {
+    "code": "ZO",
+    "name": "Zou Department",
+    "names": {
+      "ja": "ズー県",
+      "ko": "주주",
+      "vi": "Khu vực hành chính Zou",
+      "id": "Departemen Zou",
+      "zh-Hans": "祖省"
+    }
+  }
+]

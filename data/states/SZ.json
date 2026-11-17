@@ -1,0 +1,50 @@
+[
+  {
+    "code": "HH",
+    "name": "Hhohho Region",
+    "names": {
+      "ja": "ホホ",
+      "ko": "호호구",
+      "vi": "Quận Hhohho",
+      "id": "Distrik Hhohho",
+      "zh-Hans": "霍霍",
+      "zh-Hant": "霍霍"
+    }
+  },
+  {
+    "code": "LU",
+    "name": "Lubombo Region",
+    "names": {
+      "ja": "ルボンボ",
+      "ko": "루봄보구",
+      "vi": "Quận Lubombo",
+      "id": "Distrik Lubombo",
+      "zh-Hans": "卢邦博",
+      "zh-Hant": "盧邦博"
+    }
+  },
+  {
+    "code": "MA",
+    "name": "Manzini Region",
+    "names": {
+      "ja": "マンジニ地方",
+      "ko": "만지니구",
+      "vi": "Quận Manzini",
+      "id": "Distrik Manzini",
+      "zh-Hans": "曼齐尼区",
+      "zh-Hant": "曼齊尼"
+    }
+  },
+  {
+    "code": "SH",
+    "name": "Shiselweni Region",
+    "names": {
+      "ja": "シセルウェニ",
+      "ko": "시셀웨니구",
+      "vi": "Quận Shiselweni",
+      "id": "Distrik Shiselweni",
+      "zh-Hans": "希塞卢韦尼",
+      "zh-Hant": "希塞盧韋尼"
+    }
+  }
+]

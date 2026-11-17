@@ -1,0 +1,372 @@
+[
+  {
+    "code": "30",
+    "name": "Alborz Province",
+    "names": {
+      "ja": "アルボルズ州",
+      "ko": "알보르즈주",
+      "vi": "Tỉnh Alborz",
+      "id": "Provinsi Alborz",
+      "zh-Hans": "厄尔布尔士省",
+      "zh-Hant": "厄爾布爾士省"
+    }
+  },
+  {
+    "code": "24",
+    "name": "Ardabil Province",
+    "names": {
+      "ja": "アルダビール州",
+      "ko": "아르다빌주",
+      "vi": "Ardabil",
+      "id": "Provinsi Ardabil",
+      "zh-Hans": "阿尔达比勒省",
+      "zh-Hant": "阿爾達比勒省"
+    }
+  },
+  {
+    "code": "18",
+    "name": "Bushehr Province",
+    "names": {
+      "ja": "ブーシェフル州",
+      "ko": "부셰르주",
+      "vi": "Bushehr",
+      "id": "Provinsi Bushehr",
+      "zh-Hans": "布什尔省",
+      "zh-Hant": "布什爾省"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Chaharmahal and Bakhtiari Province",
+    "names": {
+      "ja": "チャハール＝マハール・バフティヤーリー州",
+      "ko": "차하르마할에바흐티아리주",
+      "vi": "Chaharmahal và Bakhtiari",
+      "id": "Provinsi Chaharmahal dan Bakhtiari",
+      "zh-Hans": "恰哈马哈勒－巴赫蒂亚里省",
+      "zh-Hant": "恰哈馬哈勒－巴赫蒂亞里省"
+    }
+  },
+  {
+    "code": "03",
+    "name": "East Azerbaijan Province",
+    "names": {
+      "ja": "東アーザルバーイジャーン州",
+      "ko": "동아제르바이잔주",
+      "vi": "Đông Azarbaijan",
+      "id": "Provinsi Azerbaijan Timur",
+      "zh-Hans": "东阿塞拜疆省",
+      "zh-Hant": "東阿塞拜疆省"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Fars Province",
+    "names": {
+      "ja": "ファールス州",
+      "ko": "파르스주",
+      "vi": "Fars",
+      "id": "Provinsi Fars",
+      "zh-Hans": "法尔斯省"
+    }
+  },
+  {
+    "code": "01",
+    "name": "Gilan Province",
+    "names": {
+      "ja": "ギーラーン州",
+      "ko": "길란주",
+      "vi": "Gilan",
+      "id": "Provinsi Gilan",
+      "zh-Hans": "吉兰省",
+      "zh-Hant": "吉蘭省"
+    }
+  },
+  {
+    "code": "27",
+    "name": "Golestan Province",
+    "names": {
+      "ja": "ゴレスターン州",
+      "ko": "골레스탄주",
+      "vi": "Golestan",
+      "id": "Provinsi Golestān",
+      "zh-Hans": "戈勒斯坦省",
+      "zh-Hant": "戈勒斯坦省"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Hamadan Province",
+    "names": {
+      "ja": "ハマダーン州",
+      "ko": "하마단주",
+      "vi": "Hamadan",
+      "id": "Provinsi Hamadān",
+      "zh-Hans": "哈马丹省",
+      "zh-Hant": "哈馬丹省"
+    }
+  },
+  {
+    "code": "22",
+    "name": "Hormozgan Province",
+    "names": {
+      "ja": "ホルモズガーン州",
+      "ko": "호르모즈간주",
+      "vi": "Hormozgan",
+      "id": "Provinsi Hormozgān",
+      "zh-Hans": "霍尔木兹甘省",
+      "zh-Hant": "霍爾木茲甘省"
+    }
+  },
+  {
+    "code": "16",
+    "name": "Ilam Province",
+    "names": {
+      "ja": "イーラーム州",
+      "ko": "일람주",
+      "vi": "Ilam",
+      "id": "Provinsi Īlām",
+      "zh-Hans": "伊拉姆省",
+      "zh-Hant": "伊拉姆省"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Isfahan Province",
+    "names": {
+      "ja": "エスファハーン州",
+      "ko": "이스파한주",
+      "vi": "Isfahan",
+      "id": "Provinsi Isfahan",
+      "zh-Hans": "伊斯法罕省",
+      "zh-Hant": "伊斯法罕省"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Kerman Province",
+    "names": {
+      "ja": "ケルマーン州",
+      "ko": "케르만주",
+      "vi": "Kerman",
+      "id": "Provinsi Kermān",
+      "zh-Hans": "克尔曼省",
+      "zh-Hant": "克爾曼省"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Kermanshah Province",
+    "names": {
+      "ja": "ケルマーンシャー州",
+      "ko": "케르만샤주",
+      "vi": "Kermanshah",
+      "id": "Provinsi Kermanshah",
+      "zh-Hans": "克尔曼沙阿省",
+      "zh-Hant": "克爾曼沙阿省"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Khuzestan Province",
+    "names": {
+      "ja": "フーゼスターン州",
+      "ko": "후제스탄주",
+      "vi": "Khuzestan",
+      "id": "Provinsi Khūzestān",
+      "zh-Hans": "胡齐斯坦省",
+      "zh-Hant": "胡齊斯坦省"
+    }
+  },
+  {
+    "code": "17",
+    "name": "Kohgiluyeh and Boyer-Ahmad Province",
+    "names": {
+      "ja": "コフギールーイェ・ブーイェル＝アフマド州",
+      "ko": "코길루예부예르아마드주",
+      "vi": "Tỉnh Kohgiluyeh và Boyer-Ahmad",
+      "id": "Provinsi Kohgiluyeh dan Boyer-Ahmad",
+      "zh-Hans": "科吉卢耶-博韦艾哈迈德省",
+      "zh-Hant": "科吉盧耶-博韋艾哈邁德省"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Kurdistan Province",
+    "names": {
+      "ja": "コルデスターン州",
+      "ko": "코르데스탄주",
+      "vi": "Kurdistan",
+      "id": "Provinsi Kurdistan",
+      "zh-Hans": "库尔德斯坦省",
+      "zh-Hant": "庫爾德斯坦省"
+    }
+  },
+  {
+    "code": "15",
+    "name": "Lorestan Province",
+    "names": {
+      "ja": "ロレスターン州",
+      "ko": "로레스탄주",
+      "vi": "Lorestan",
+      "id": "Provinsi Lorestān",
+      "zh-Hans": "洛雷斯坦省",
+      "zh-Hant": "洛雷斯坦省"
+    }
+  },
+  {
+    "code": "00",
+    "name": "Markazi Province",
+    "names": {
+      "ja": "マルキャズィー州",
+      "ko": "마르카지주",
+      "vi": "Markazi",
+      "id": "Provinsi Markazi",
+      "zh-Hans": "中央省",
+      "zh-Hant": "中央省"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Mazandaran Province",
+    "names": {
+      "ja": "マーザンダラーン州",
+      "ko": "마잔다란주",
+      "vi": "Mazandaran",
+      "id": "Provinsi Mazandaran",
+      "zh-Hans": "马赞德兰省",
+      "zh-Hant": "馬贊德蘭省"
+    }
+  },
+  {
+    "code": "28",
+    "name": "North Khorasan Province",
+    "names": {
+      "ja": "北ホラーサーン州",
+      "ko": "호라산에쇼말리 주",
+      "vi": "Tỉnh Bắc Khorasan",
+      "id": "Provinsi Khorasan Utara",
+      "zh-Hans": "北呼罗珊省",
+      "zh-Hant": "北呼羅珊省"
+    }
+  },
+  {
+    "code": "26",
+    "name": "Qazvin Province",
+    "names": {
+      "ja": "ガズヴィーン州",
+      "ko": "카즈빈주",
+      "vi": "Qazvin",
+      "id": "Provinsi Qazvīn",
+      "zh-Hans": "加兹温省",
+      "zh-Hant": "加茲溫省"
+    }
+  },
+  {
+    "code": "25",
+    "name": "Qom Province",
+    "names": {
+      "ja": "ゴム州",
+      "ko": "쿰주",
+      "vi": "Qom",
+      "id": "Provinsi Qom",
+      "zh-Hans": "库姆省",
+      "zh-Hant": "庫姆省"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Razavi Khorasan Province",
+    "names": {
+      "ja": "ラザヴィー・ホラーサーン州",
+      "ko": "호라산에라자비주",
+      "vi": "Razavi Khorasan",
+      "id": "Provinsi Razavi Khorasan",
+      "zh-Hans": "礼萨呼罗珊省"
+    }
+  },
+  {
+    "code": "20",
+    "name": "Semnan Province",
+    "names": {
+      "ja": "セムナーン州",
+      "ko": "셈난주",
+      "vi": "Semnan (tỉnh)",
+      "id": "Provinsi Semnān",
+      "zh-Hans": "塞姆南省",
+      "zh-Hant": "塞姆南省"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Sistan and Baluchestan Province",
+    "names": {
+      "ja": "スィースターン・バルーチェスターン州",
+      "ko": "시스탄오발루체스탄주",
+      "vi": "Tỉnh Sistan và Baluchestan",
+      "id": "Provinsi Sistan dan Baluchestan",
+      "zh-Hans": "锡斯坦和俾路支斯坦省",
+      "zh-Hant": "錫斯坦和俾路支斯坦省"
+    }
+  },
+  {
+    "code": "29",
+    "name": "South Khorasan Province",
+    "names": {
+      "ja": "南ホラーサーン州",
+      "ko": "호라산에조누비 주",
+      "vi": "Tỉnh Nam Khorasan",
+      "id": "Provinsi Khorasan Selatan",
+      "zh-Hans": "南呼罗珊省",
+      "zh-Hant": "南呼羅珊省"
+    }
+  },
+  {
+    "code": "23",
+    "name": "Tehran Province",
+    "names": {
+      "ja": "テヘラン州",
+      "ko": "테헤란주",
+      "vi": "Tehran",
+      "id": "Provinsi Tehran",
+      "zh-Hans": "德黑兰省",
+      "zh-Hant": "德黑蘭省"
+    }
+  },
+  {
+    "code": "04",
+    "name": "West Azerbaijan Province",
+    "names": {
+      "ja": "西アーザルバーイジャーン州",
+      "ko": "서아제르바이잔주",
+      "vi": "Tây Azerbaijan",
+      "id": "Provinsi Azarbaijan Barat",
+      "zh-Hans": "西阿塞拜疆省",
+      "zh-Hant": "西亞塞拜然省"
+    }
+  },
+  {
+    "code": "21",
+    "name": "Yazd Province",
+    "names": {
+      "ja": "ヤズド州",
+      "ko": "야즈드주",
+      "vi": "Yazd",
+      "id": "Provinsi Yazd",
+      "zh-Hans": "亚兹德省",
+      "zh-Hant": "亞茲德省"
+    }
+  },
+  {
+    "code": "19",
+    "name": "Zanjan Province",
+    "names": {
+      "ja": "ザンジャーン州",
+      "ko": "잔잔주",
+      "vi": "Zanjan",
+      "id": "Provinsi Zanjan",
+      "zh-Hans": "赞詹省",
+      "zh-Hant": "贊詹省"
+    }
+  }
+]

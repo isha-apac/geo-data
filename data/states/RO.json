@@ -1,0 +1,502 @@
+[
+  {
+    "code": "AB",
+    "name": "Alba County",
+    "names": {
+      "ja": "アルバ県",
+      "ko": "알바주",
+      "vi": "Alba",
+      "id": "Provinsi Alba",
+      "zh-Hans": "阿尔巴县",
+      "zh-Hant": "阿爾巴縣"
+    }
+  },
+  {
+    "code": "AR",
+    "name": "Arad County",
+    "names": {
+      "ja": "アラド県",
+      "ko": "아라드주",
+      "vi": "Arad",
+      "id": "Provinsi Arad",
+      "zh-Hans": "阿拉德县",
+      "zh-Hant": "阿拉德縣"
+    }
+  },
+  {
+    "code": "AG",
+    "name": "Argeș County",
+    "names": {
+      "ja": "アルジェシュ県",
+      "ko": "아르제슈주",
+      "vi": "Argeș",
+      "id": "Provinsi Argeș",
+      "zh-Hans": "阿尔杰什县",
+      "zh-Hant": "阿爾傑什縣"
+    }
+  },
+  {
+    "code": "BC",
+    "name": "Bacău County",
+    "names": {
+      "ja": "バカウ県",
+      "ko": "바커우주",
+      "vi": "Bacău",
+      "id": "Provinsi Bacău",
+      "zh-Hans": "巴克乌县",
+      "zh-Hant": "巴克烏縣"
+    }
+  },
+  {
+    "code": "BH",
+    "name": "Bihor County",
+    "names": {
+      "ja": "ビホル県",
+      "ko": "비호르주",
+      "vi": "Bihor",
+      "id": "Provinsi Bihor",
+      "zh-Hans": "比霍尔县",
+      "zh-Hant": "比霍爾縣"
+    }
+  },
+  {
+    "code": "BN",
+    "name": "Bistrița-Năsăud County",
+    "names": {
+      "ja": "ビストリツァ＝ナサウド県",
+      "ko": "비스트리차너서우드주",
+      "vi": "Bistrița-Năsăud",
+      "id": "Provinsi Bistrița-Năsăud",
+      "zh-Hans": "比斯特里察-讷瑟乌德县",
+      "zh-Hant": "比斯特里察-訥瑟烏德縣"
+    }
+  },
+  {
+    "code": "BT",
+    "name": "Botoșani County",
+    "names": {
+      "ja": "ボトシャニ県",
+      "ko": "보토샤니주",
+      "vi": "Botoșani",
+      "id": "Provinsi Botoșani",
+      "zh-Hans": "博托沙尼县",
+      "zh-Hant": "博托沙尼縣"
+    }
+  },
+  {
+    "code": "BR",
+    "name": "Brăila County",
+    "names": {
+      "ja": "ブライラ県",
+      "ko": "브러일라주",
+      "vi": "Hạt Brăila",
+      "id": "Provinsi Brăila",
+      "zh-Hans": "布勒伊拉县",
+      "zh-Hant": "布勒伊拉縣"
+    }
+  },
+  {
+    "code": "BV",
+    "name": "Brașov County",
+    "names": {
+      "ja": "ブラショフ県",
+      "ko": "브라쇼브주",
+      "vi": "Brașov",
+      "id": "Provinsi Brașov",
+      "zh-Hans": "布拉索夫县",
+      "zh-Hant": "布拉索夫縣"
+    }
+  },
+  {
+    "code": "B",
+    "name": "Bucharest",
+    "names": {
+      "ja": "ブカレスト",
+      "ko": "부쿠레슈티",
+      "vi": "Bucharest",
+      "id": "Bukares",
+      "zh-Hans": "布加勒斯特",
+      "zh-Hant": "布加勒斯特"
+    }
+  },
+  {
+    "code": "BZ",
+    "name": "Buzău County",
+    "names": {
+      "ja": "ブザウ県",
+      "ko": "부저우주",
+      "vi": "Hạt Buzau",
+      "id": "Provinsi Buzău",
+      "zh-Hans": "布泽乌县",
+      "zh-Hant": "布澤烏縣"
+    }
+  },
+  {
+    "code": "CL",
+    "name": "Călărași County",
+    "names": {
+      "ja": "カララシ県",
+      "ko": "컬러라시주",
+      "vi": "Hạt Calarasi",
+      "id": "Provinsi Călărași",
+      "zh-Hans": "克勒拉希县",
+      "zh-Hant": "克勒拉希縣"
+    }
+  },
+  {
+    "code": "CS",
+    "name": "Caraș-Severin County",
+    "names": {
+      "ja": "カラシュ＝セヴェリン県",
+      "ko": "카라슈세베린주",
+      "vi": "Hạt Caras-Severin",
+      "id": "Provinsi Caraș-Severin",
+      "zh-Hans": "卡拉什-塞维林县",
+      "zh-Hant": "卡拉什-塞維林縣"
+    }
+  },
+  {
+    "code": "CJ",
+    "name": "Cluj County",
+    "names": {
+      "ja": "クルジュ県",
+      "ko": "클루지주",
+      "vi": "Hạt Cluj",
+      "id": "Provinsi Cluj",
+      "zh-Hans": "克卢日县",
+      "zh-Hant": "克盧日縣"
+    }
+  },
+  {
+    "code": "CT",
+    "name": "Constanța County",
+    "names": {
+      "ja": "コンスタンツァ県",
+      "ko": "콘스탄차주",
+      "id": "Provinsi Constanța",
+      "zh-Hans": "康斯坦察县",
+      "zh-Hant": "康斯坦察縣"
+    }
+  },
+  {
+    "code": "CV",
+    "name": "Covasna County",
+    "names": {
+      "ja": "コヴァスナ県",
+      "ko": "코바스나주",
+      "vi": "Hạt Covasna",
+      "id": "Provinsi Covasna",
+      "zh-Hans": "科瓦斯纳县",
+      "zh-Hant": "科瓦斯納縣"
+    }
+  },
+  {
+    "code": "DB",
+    "name": "Dâmbovița County",
+    "names": {
+      "ja": "ドゥンボヴィツァ県",
+      "ko": "듬보비차주",
+      "vi": "Hạt Dambovita",
+      "id": "Provinsi Dâmbovița",
+      "zh-Hans": "登博维察县",
+      "zh-Hant": "登博維察縣"
+    }
+  },
+  {
+    "code": "DJ",
+    "name": "Dolj County",
+    "names": {
+      "ja": "ドルジュ県",
+      "ko": "돌지주",
+      "vi": "Hạt Dolj",
+      "id": "Provinsi Dolj",
+      "zh-Hans": "多尔日县",
+      "zh-Hant": "多爾日縣"
+    }
+  },
+  {
+    "code": "GL",
+    "name": "Galați County",
+    "names": {
+      "ja": "ガラツィ県",
+      "ko": "갈라치주",
+      "vi": "Hạt Galati",
+      "id": "Provinsi Galați",
+      "zh-Hans": "加拉茨县",
+      "zh-Hant": "加拉茨縣"
+    }
+  },
+  {
+    "code": "GR",
+    "name": "Giurgiu County",
+    "names": {
+      "ja": "ジュルジュ県",
+      "ko": "지우르지우주",
+      "vi": "Hạt Giurgiu",
+      "id": "Provinsi Giurgiu",
+      "zh-Hans": "久尔久县",
+      "zh-Hant": "久爾久縣"
+    }
+  },
+  {
+    "code": "GJ",
+    "name": "Gorj County",
+    "names": {
+      "ja": "ゴルジュ県",
+      "ko": "고르지주",
+      "vi": "Hạt Gorj",
+      "id": "Provinsi Gorj",
+      "zh-Hans": "戈尔日县",
+      "zh-Hant": "戈爾日縣"
+    }
+  },
+  {
+    "code": "HR",
+    "name": "Harghita County",
+    "names": {
+      "ja": "ハルギタ県",
+      "ko": "하르기타주",
+      "vi": "Hạt Harghita",
+      "id": "Provinsi Harghita",
+      "zh-Hans": "哈尔吉塔县",
+      "zh-Hant": "哈爾吉塔縣"
+    }
+  },
+  {
+    "code": "HD",
+    "name": "Hunedoara County",
+    "names": {
+      "ja": "フネドアラ県",
+      "ko": "후네도아라주",
+      "vi": "Hạt Hunedoara",
+      "id": "Provinsi Hunedoara",
+      "zh-Hans": "胡内多阿拉县",
+      "zh-Hant": "胡內多阿拉縣"
+    }
+  },
+  {
+    "code": "IL",
+    "name": "Ialomița County",
+    "names": {
+      "ja": "ヤロミツァ県",
+      "ko": "이알로미차주",
+      "vi": "Hạt Ialomita",
+      "id": "Provinsi Ialomița",
+      "zh-Hans": "雅洛米察县",
+      "zh-Hant": "雅洛米察縣"
+    }
+  },
+  {
+    "code": "IS",
+    "name": "Iași County",
+    "names": {
+      "ja": "ヤシ県",
+      "ko": "이아시주",
+      "vi": "Hạt Iasi",
+      "id": "Provinsi Iași",
+      "zh-Hans": "雅西县",
+      "zh-Hant": "雅西縣"
+    }
+  },
+  {
+    "code": "IF",
+    "name": "Ilfov County",
+    "names": {
+      "ja": "イルフォヴ県",
+      "ko": "일포브주",
+      "vi": "Hạt Ilfov",
+      "id": "Provinsi Ilfov",
+      "zh-Hans": "伊尔福夫县",
+      "zh-Hant": "伊爾福夫縣"
+    }
+  },
+  {
+    "code": "MM",
+    "name": "Maramureș County",
+    "names": {
+      "ja": "マラムレシュ県",
+      "ko": "마라무레슈주",
+      "id": "Provinsi Maramureș",
+      "zh-Hans": "马拉穆列什县",
+      "zh-Hant": "馬拉穆列什縣"
+    }
+  },
+  {
+    "code": "MH",
+    "name": "Mehedinți County",
+    "names": {
+      "ja": "メヘディンチ県",
+      "ko": "메헤딘치주",
+      "vi": "Hạt Mehedinti",
+      "id": "Provinsi Mehedinți",
+      "zh-Hans": "梅赫丁茨县",
+      "zh-Hant": "梅赫丁茨縣"
+    }
+  },
+  {
+    "code": "MS",
+    "name": "Mureș County",
+    "names": {
+      "ja": "ムレシュ県",
+      "ko": "무레슈주",
+      "vi": "Hạt Mures",
+      "id": "Provinsi Mureș",
+      "zh-Hans": "穆列什县",
+      "zh-Hant": "穆列什縣"
+    }
+  },
+  {
+    "code": "NT",
+    "name": "Neamț County",
+    "names": {
+      "ja": "ネアムツ県",
+      "ko": "네암츠주",
+      "vi": "Hạt Neamt",
+      "id": "Provinsi Neamț",
+      "zh-Hans": "尼亚姆茨县",
+      "zh-Hant": "尼亞姆茨縣"
+    }
+  },
+  {
+    "code": "OT",
+    "name": "Olt County",
+    "names": {
+      "ja": "オルト県",
+      "ko": "올트주",
+      "vi": "Hạt Olt",
+      "id": "Provinsi Olt",
+      "zh-Hans": "奥尔特县",
+      "zh-Hant": "奧爾特縣"
+    }
+  },
+  {
+    "code": "PH",
+    "name": "Prahova County",
+    "names": {
+      "ja": "プラホヴァ県",
+      "ko": "프라호바주",
+      "vi": "Hạt Prahova",
+      "id": "Provinsi Prahova",
+      "zh-Hans": "普拉霍瓦县",
+      "zh-Hant": "普拉霍瓦縣"
+    }
+  },
+  {
+    "code": "SJ",
+    "name": "Sălaj County",
+    "names": {
+      "ja": "サラージュ県",
+      "ko": "설라지주",
+      "vi": "Hạt Salaj",
+      "id": "Provinsi Sălaj",
+      "zh-Hans": "瑟拉日县",
+      "zh-Hant": "瑟拉日縣"
+    }
+  },
+  {
+    "code": "SM",
+    "name": "Satu Mare County",
+    "names": {
+      "ja": "サトゥ・マーレ県",
+      "ko": "사투마레주",
+      "vi": "Hạt Satu Mare",
+      "id": "Provinsi Satu Mare",
+      "zh-Hans": "萨图马雷县"
+    }
+  },
+  {
+    "code": "SB",
+    "name": "Sibiu County",
+    "names": {
+      "ja": "シビウ県",
+      "ko": "시비우주",
+      "vi": "Hạt Sibiu",
+      "id": "Provinsi Sibiu",
+      "zh-Hans": "锡比乌县",
+      "zh-Hant": "錫比烏縣"
+    }
+  },
+  {
+    "code": "SV",
+    "name": "Suceava County",
+    "names": {
+      "ja": "スチャヴァ県",
+      "ko": "수체아바주",
+      "vi": "Hạt Suceava",
+      "id": "Provinsi Suceava",
+      "zh-Hans": "苏恰瓦县",
+      "zh-Hant": "蘇恰瓦縣"
+    }
+  },
+  {
+    "code": "TR",
+    "name": "Teleorman County",
+    "names": {
+      "ja": "テレオルマン県",
+      "ko": "텔레오르만주",
+      "vi": "Hạt Teleorman",
+      "id": "Provinsi Teleorman",
+      "zh-Hans": "特列奥尔曼县",
+      "zh-Hant": "特列奧爾曼縣"
+    }
+  },
+  {
+    "code": "TM",
+    "name": "Timiș County",
+    "names": {
+      "ja": "ティミシュ県",
+      "ko": "티미슈주",
+      "vi": "Hạt Timis",
+      "id": "Provinsi Timiș",
+      "zh-Hans": "蒂米什县",
+      "zh-Hant": "蒂米什縣"
+    }
+  },
+  {
+    "code": "TL",
+    "name": "Tulcea County",
+    "names": {
+      "ja": "トゥルチャ県",
+      "ko": "툴체아주",
+      "vi": "Hạt Tulcea",
+      "id": "Provinsi Tulcea",
+      "zh-Hans": "图尔恰县",
+      "zh-Hant": "圖爾恰縣"
+    }
+  },
+  {
+    "code": "VL",
+    "name": "Vâlcea County",
+    "names": {
+      "ja": "ヴルチャ県",
+      "ko": "블체아주",
+      "vi": "Hạt Vâlcea",
+      "id": "Provinsi Vâlcea",
+      "zh-Hans": "沃尔恰县",
+      "zh-Hant": "沃爾恰縣"
+    }
+  },
+  {
+    "code": "VS",
+    "name": "Vaslui County",
+    "names": {
+      "ja": "ヴァスルイ県",
+      "ko": "바슬루이주",
+      "vi": "Hạt Vaslui",
+      "id": "Provinsi Vaslui",
+      "zh-Hans": "瓦斯卢伊县"
+    }
+  },
+  {
+    "code": "VN",
+    "name": "Vrancea County",
+    "names": {
+      "ja": "ヴランチャ県",
+      "ko": "브란체아주",
+      "vi": "Vrancea",
+      "id": "Provinsi Vrancea",
+      "zh-Hans": "弗朗恰县",
+      "zh-Hant": "弗朗恰縣"
+    }
+  }
+]

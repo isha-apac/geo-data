@@ -1,0 +1,258 @@
+[
+  {
+    "code": "01",
+    "name": "Andrijevica Municipality",
+    "names": {
+      "ja": "アンドリイェヴィツァ",
+      "ko": "안드리예비차 지방 자치제",
+      "vi": "Đô thị tự trị Andrijevica",
+      "id": "Kotamadya Andrijevica",
+      "zh-Hans": "安德里耶維察市鎮",
+      "zh-Hant": "安德里耶維察市鎮"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Bar Municipality",
+    "names": {
+      "ja": "バール",
+      "ko": "바 지방 자치제",
+      "vi": "Đô thị tự trị Bar",
+      "id": "Kotamadya Bar",
+      "zh-Hans": "巴爾市鎮"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Berane Municipality",
+    "names": {
+      "ja": "ベラネ",
+      "ko": "베라네 지방 자치제",
+      "vi": "Đô thị tự trị Berane",
+      "id": "Kotamadya Berane",
+      "zh-Hans": "貝拉內市鎮"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Bijelo Polje Municipality",
+    "names": {
+      "ja": "ビイェロ・ポリェ",
+      "ko": "비옐로폴레",
+      "vi": "Đô thị tự trị Bijelo Polje",
+      "id": "Bijelo Polje",
+      "zh-Hans": "比耶洛波列市鎮"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Budva Municipality",
+    "names": {
+      "ja": "ブドヴァ",
+      "ko": "부드바 지방 자치제",
+      "vi": "Đô thị tự trị Budva",
+      "id": "Kotamadya Budva",
+      "zh-Hans": "布德瓦市鎮"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Danilovgrad Municipality",
+    "names": {
+      "ja": "ダニロヴグラード",
+      "ko": "다닐로브그라드 지방 자치제",
+      "vi": "Đô thị tự trị Danilovgrad",
+      "id": "Kotamadya Danilovgrad",
+      "zh-Hans": "達尼洛夫格勒市鎮",
+      "zh-Hant": "達尼洛夫格勒市鎮"
+    }
+  },
+  {
+    "code": "22",
+    "name": "Gusinje Municipality",
+    "names": {
+      "id": "Munisipalitas Gusinje",
+      "zh-Hans": "古西涅市鎮"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Herceg Novi Municipality",
+    "names": {
+      "ja": "ヘルツェグ・ノヴィ",
+      "ko": "헤르체그노비",
+      "vi": "Đô thị tự trị Herceg Novi",
+      "id": "Kotamadya Herceg Novi",
+      "zh-Hans": "新海尔采格市镇",
+      "zh-Hant": "新海爾采格市鎮"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Kolašin Municipality",
+    "names": {
+      "ja": "コラシン",
+      "ko": "콜라신 지방 자치제",
+      "vi": "Đô thị tự trị Kolasin",
+      "id": "Kotamadya Kolašin",
+      "zh-Hans": "科拉欣市鎮"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Kotor Municipality",
+    "names": {
+      "id": "Munisipalitas Kotor",
+      "zh-Hans": "科托尔市镇",
+      "zh-Hant": "科托爾市鎮"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Mojkovac Municipality",
+    "names": {
+      "ja": "モイコヴァツ",
+      "ko": "모이코바츠 지방 자치제",
+      "vi": "Đô thị tự trị Mojkovac",
+      "id": "Kotamadya Mojkovac",
+      "zh-Hans": "莫伊科瓦茨市鎮"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Nikšić Municipality",
+    "names": {
+      "ja": "ニクシチ",
+      "ko": "닉시치 지방 자치제",
+      "vi": "Đô thị tự trị Niksić",
+      "id": "Kotamadya Nikšić",
+      "zh-Hans": "尼克希奇市鎮"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Old Royal Capital Cetinje",
+    "names": {
+      "ja": "ツェティニェ",
+      "ko": "체티녜 지방 자치제",
+      "vi": "Đô thị tự trị Cetinje",
+      "id": "Kotamadya Cetinje",
+      "zh-Hans": "采蒂涅王家旧都"
+    }
+  },
+  {
+    "code": "23",
+    "name": "Petnjica Municipality",
+    "names": {
+      "id": "Munisipalitas Petnjica",
+      "zh-Hans": "佩特尼察市鎮"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Plav Municipality",
+    "names": {
+      "ja": "プラヴ",
+      "ko": "플라브 지방 자치제",
+      "vi": "Đô thị tự trị Plav",
+      "id": "Kotamadya Plav",
+      "zh-Hans": "普拉夫市鎮"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Pljevlja Municipality",
+    "names": {
+      "ja": "プリェヴリャ",
+      "ko": "플레블라 지방 자치제",
+      "vi": "Đô thị tự trị Pljevlja",
+      "id": "Kotamadya Pljevlja",
+      "zh-Hans": "普列夫利亞市鎮"
+    }
+  },
+  {
+    "code": "15",
+    "name": "Plužine Municipality",
+    "names": {
+      "ja": "プルジネ",
+      "ko": "플루지네 지방 자치제",
+      "vi": "Đô thị tự trị Pluzine",
+      "id": "Kotamadya Plužine",
+      "zh-Hans": "普盧日內市鎮"
+    }
+  },
+  {
+    "code": "16",
+    "name": "Podgorica Capital City",
+    "names": {
+      "id": "Munisipalitas Podgorica",
+      "zh-Hans": "波德戈里察首都市"
+    }
+  },
+  {
+    "code": "17",
+    "name": "Rožaje Municipality",
+    "names": {
+      "id": "Munisipalitas Rožaje",
+      "zh-Hans": "羅扎耶市鎮",
+      "zh-Hant": "羅扎耶市鎮"
+    }
+  },
+  {
+    "code": "18",
+    "name": "Šavnik Municipality",
+    "names": {
+      "ja": "シャヴニク",
+      "ko": "샤브니크 지방 자치제",
+      "vi": "Đô thị tự trị Savnik",
+      "id": "Kotamadya Šavnik",
+      "zh-Hans": "沙夫尼克市鎮"
+    }
+  },
+  {
+    "code": "19",
+    "name": "Tivat Municipality",
+    "names": {
+      "id": "Kota praja Tivat",
+      "zh-Hans": "蒂瓦特市鎮"
+    }
+  },
+  {
+    "code": "24",
+    "name": "Tuzi Municipality",
+    "names": {
+      "id": "Munisipalitas Tuzi",
+      "zh-Hans": "图齐市镇"
+    }
+  },
+  {
+    "code": "20",
+    "name": "Ulcinj Municipality",
+    "names": {
+      "ja": "ウルツィニ",
+      "ko": "울치니 지방 자치제",
+      "vi": "Đô thị tự trị Ulcinj",
+      "id": "Kotamadya Ulcinj",
+      "zh-Hans": "乌尔齐尼市镇"
+    }
+  },
+  {
+    "code": "21",
+    "name": "Žabljak Municipality",
+    "names": {
+      "ja": "ジャブリャク",
+      "ko": "자블라크 지방 자치제",
+      "vi": "Đô thị tự trị Zabljak",
+      "id": "Kotamadya Žabljak",
+      "zh-Hans": "扎布利亞克市鎮"
+    }
+  },
+  {
+    "code": "25",
+    "name": "Zeta Municipality",
+    "names": {
+      "zh-Hans": "泽塔市镇",
+      "zh-Hant": "澤塔市鎮"
+    }
+  }
+]

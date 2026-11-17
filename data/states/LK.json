@@ -1,0 +1,378 @@
+[
+  {
+    "code": "52",
+    "name": "Ampara District",
+    "names": {
+      "ja": "アンパーラ県",
+      "ko": "암파라구",
+      "vi": "Quận Ampara",
+      "id": "Distrik Ampara",
+      "zh-Hans": "安帕赖区"
+    }
+  },
+  {
+    "code": "71",
+    "name": "Anuradhapura District",
+    "names": {
+      "ja": "アヌラーダプラ県",
+      "ko": "아누라다푸라구",
+      "zh-Hans": "阿努拉德普勒區"
+    }
+  },
+  {
+    "code": "81",
+    "name": "Badulla District",
+    "names": {
+      "ja": "バドゥッラ県",
+      "ko": "바둘라구",
+      "vi": "Quận Badulla",
+      "id": "Distrik Badulla",
+      "zh-Hans": "巴杜勒区"
+    }
+  },
+  {
+    "code": "51",
+    "name": "Batticaloa District",
+    "names": {
+      "ja": "バッティカロア県",
+      "ko": "바티칼로아구",
+      "id": "Distrik Batticaloa",
+      "zh-Hans": "拜蒂克洛區"
+    }
+  },
+  {
+    "code": "2",
+    "name": "Central Province",
+    "names": {
+      "ja": "中部州",
+      "ko": "중부주",
+      "vi": "Tỉnh Trung Tâm, Sri Lanka",
+      "id": "Provinsi Tengah, Sri Lanka",
+      "zh-Hans": "中央省"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Colombo District",
+    "names": {
+      "ja": "コロンボ県",
+      "ko": "콜롬보구",
+      "id": "Distrik Kolombo",
+      "zh-Hans": "科伦坡区"
+    }
+  },
+  {
+    "code": "5",
+    "name": "Eastern Province",
+    "names": {
+      "ja": "東部州",
+      "ko": "동부주",
+      "vi": "Tỉnh Phía Đông",
+      "id": "Provinsi Timur, Sri Lanka",
+      "zh-Hans": "东部省",
+      "zh-Hant": "東部省"
+    }
+  },
+  {
+    "code": "31",
+    "name": "Galle District",
+    "names": {
+      "ja": "ゴール県",
+      "ko": "갈구",
+      "vi": "Quận Galle",
+      "id": "Distrik Galle",
+      "zh-Hans": "加勒区",
+      "zh-Hant": "加勒區"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Gampaha District",
+    "names": {
+      "ja": "ガンパハ県",
+      "ko": "감파하구",
+      "vi": "Quận Gampaha",
+      "id": "Distrik Gampaha",
+      "zh-Hans": "加姆珀哈区"
+    }
+  },
+  {
+    "code": "33",
+    "name": "Hambantota District",
+    "names": {
+      "ja": "ハンバントタ県",
+      "ko": "함반토타구",
+      "vi": "Quận Hambantota",
+      "id": "Distrik Hambantota",
+      "zh-Hans": "汉班托特区",
+      "zh-Hant": "漢班托特區"
+    }
+  },
+  {
+    "code": "41",
+    "name": "Jaffna District",
+    "names": {
+      "ja": "ジャフナ県",
+      "ko": "자프나구",
+      "zh-Hans": "贾夫纳区",
+      "zh-Hant": "賈夫納區"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Kalutara District",
+    "names": {
+      "ja": "カルタラ県",
+      "ko": "칼루타라구",
+      "vi": "Quận Kalutara",
+      "id": "Distrik Kalutara",
+      "zh-Hans": "卡卢特勒区"
+    }
+  },
+  {
+    "code": "21",
+    "name": "Kandy District",
+    "names": {
+      "ja": "キャンディ県",
+      "ko": "캔디구",
+      "id": "Distrik Kandy",
+      "zh-Hans": "康提区",
+      "zh-Hant": "康提區"
+    }
+  },
+  {
+    "code": "92",
+    "name": "Kegalle District",
+    "names": {
+      "ja": "ケーガッラ県",
+      "ko": "케갈레구",
+      "vi": "Quận Kegalle",
+      "id": "Distrik Kegalle",
+      "zh-Hans": "凯格勒区",
+      "zh-Hant": "凱格勒區"
+    }
+  },
+  {
+    "code": "42",
+    "name": "Kilinochchi District",
+    "names": {
+      "ja": "キリノッチ県",
+      "ko": "킬리노치치구",
+      "vi": "Quận Kilinochchi",
+      "id": "Distrik Kilinochchi",
+      "zh-Hans": "基利诺奇区",
+      "zh-Hant": "基利諾奇區"
+    }
+  },
+  {
+    "code": "61",
+    "name": "Kurunegala District",
+    "names": {
+      "ja": "クルネーガラ県",
+      "ko": "쿠루네갈라구",
+      "vi": "Quận Kurunegala",
+      "id": "Distrik Kurunegala",
+      "zh-Hans": "库鲁内格勒区"
+    }
+  },
+  {
+    "code": "43",
+    "name": "Mannar District",
+    "names": {
+      "ja": "マンナール県",
+      "ko": "만나르구",
+      "vi": "Quận Mannar",
+      "id": "Distrik Mannar",
+      "zh-Hans": "马纳尔区"
+    }
+  },
+  {
+    "code": "22",
+    "name": "Matale District",
+    "names": {
+      "ja": "マータレー県",
+      "ko": "마탈레구",
+      "vi": "Quận Matale",
+      "id": "Distrik Matale",
+      "zh-Hans": "马特莱区"
+    }
+  },
+  {
+    "code": "32",
+    "name": "Matara District",
+    "names": {
+      "ja": "マータラ県",
+      "ko": "마타라구",
+      "vi": "Quận Matara",
+      "id": "Matara, Sri Lanka",
+      "zh-Hans": "马特勒区",
+      "zh-Hant": "馬特勒區"
+    }
+  },
+  {
+    "code": "82",
+    "name": "Monaragala District",
+    "names": {
+      "ja": "モナラーガラ県",
+      "ko": "모나라갈라구",
+      "id": "Distrik Monaragala",
+      "zh-Hans": "莫讷勒格勒区"
+    }
+  },
+  {
+    "code": "45",
+    "name": "Mullaitivu District",
+    "names": {
+      "ja": "ムッライッティーヴー県",
+      "ko": "물라이티부구",
+      "vi": "Quận Mullaitivu",
+      "id": "Distrik Mullaitivu",
+      "zh-Hans": "穆莱蒂武区",
+      "zh-Hant": "穆萊蒂武區"
+    }
+  },
+  {
+    "code": "7",
+    "name": "North Central Province",
+    "names": {
+      "ja": "北中部州",
+      "ko": "중북부주",
+      "vi": "Tỉnh Trung Bắc",
+      "id": "Provinsi Tengah Utara, Sri Lanka",
+      "zh-Hans": "北中省",
+      "zh-Hant": "北中省"
+    }
+  },
+  {
+    "code": "6",
+    "name": "North Western Province",
+    "names": {
+      "ja": "北西部州",
+      "ko": "북서부주",
+      "id": "Provinsi Barat Laut, Sri Lanka",
+      "zh-Hans": "西北省",
+      "zh-Hant": "西北省"
+    }
+  },
+  {
+    "code": "4",
+    "name": "Northern Province",
+    "names": {
+      "ja": "北部州",
+      "ko": "북부주",
+      "vi": "Tỉnh Phía Bắc, Sri Lanka",
+      "id": "Provinsi Utara, Sri Lanka",
+      "zh-Hans": "北部省"
+    }
+  },
+  {
+    "code": "23",
+    "name": "Nuwara Eliya District",
+    "names": {
+      "ja": "ヌワラ・エリヤ県",
+      "ko": "누와라엘리야구",
+      "vi": "Quận Nuwara Eliya",
+      "id": "Distrik Nuwara Eliya",
+      "zh-Hans": "努沃勒埃利耶区",
+      "zh-Hant": "努沃勒埃利耶區"
+    }
+  },
+  {
+    "code": "72",
+    "name": "Polonnaruwa District",
+    "names": {
+      "ja": "ポロンナルワ県",
+      "ko": "폴론나루와구",
+      "vi": "Quận Polonnaruwa",
+      "id": "Distrik Polonnaruwa",
+      "zh-Hans": "波隆纳鲁沃区"
+    }
+  },
+  {
+    "code": "62",
+    "name": "Puttalam District",
+    "names": {
+      "ja": "プッタラム県",
+      "ko": "푸탈람구",
+      "vi": "Quận Puttalam",
+      "id": "Distrik Puttalam",
+      "zh-Hans": "普塔勒姆区"
+    }
+  },
+  {
+    "code": "91",
+    "name": "Ratnapura district",
+    "names": {
+      "ja": "ラトゥナプラ県",
+      "ko": "라트나푸라구",
+      "vi": "Quận Ratnapura",
+      "id": "Distrik Ratnapura",
+      "zh-Hans": "拉特纳普勒区",
+      "zh-Hant": "拉特納普勒區"
+    }
+  },
+  {
+    "code": "9",
+    "name": "Sabaragamuwa Province",
+    "names": {
+      "ja": "サバラガムワ州",
+      "ko": "사바라가무와주",
+      "id": "Provinsi Sabaragamuwa",
+      "zh-Hans": "萨伯勒格穆沃省",
+      "zh-Hant": "薩伯勒格穆沃省"
+    }
+  },
+  {
+    "code": "3",
+    "name": "Southern Province",
+    "names": {
+      "ja": "南部州",
+      "ko": "남부주",
+      "id": "Provinsi Selatan, Sri Lanka",
+      "zh-Hans": "南部省",
+      "zh-Hant": "南部省"
+    }
+  },
+  {
+    "code": "53",
+    "name": "Trincomalee District",
+    "names": {
+      "ja": "トリンコマリー県",
+      "ko": "트링코말리구",
+      "zh-Hans": "亭可馬里區",
+      "zh-Hant": "亭可馬里區"
+    }
+  },
+  {
+    "code": "8",
+    "name": "Uva Province",
+    "names": {
+      "ja": "ウバ州",
+      "ko": "우바주",
+      "id": "Provinsi Uva",
+      "zh-Hans": "乌沃省",
+      "zh-Hant": "烏沃省"
+    }
+  },
+  {
+    "code": "44",
+    "name": "Vavuniya District",
+    "names": {
+      "ja": "バブニヤ県",
+      "ko": "바부니야구",
+      "id": "Distrik Vavuniya",
+      "zh-Hans": "瓦武尼亞區"
+    }
+  },
+  {
+    "code": "1",
+    "name": "Western Province",
+    "names": {
+      "ja": "西部州",
+      "ko": "서부주",
+      "id": "Provinsi Barat, Sri Lanka",
+      "zh-Hans": "西部省",
+      "zh-Hant": "西部省"
+    }
+  }
+]

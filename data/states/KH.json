@@ -1,0 +1,300 @@
+[
+  {
+    "code": "1",
+    "name": "Banteay Meanchey Province",
+    "names": {
+      "ja": "バンテイメンチェイ州",
+      "ko": "반테아이메안체이주",
+      "vi": "Banteay Meanchey",
+      "id": "Provinsi Banteay Meanchey",
+      "zh-Hans": "班迭棉吉省"
+    }
+  },
+  {
+    "code": "2",
+    "name": "Battambang Province",
+    "names": {
+      "ja": "バタンバン州",
+      "ko": "바탐방주",
+      "vi": "Battambang",
+      "id": "Provinsi Battambang",
+      "zh-Hans": "马德望省",
+      "zh-Hant": "馬德望"
+    }
+  },
+  {
+    "code": "3",
+    "name": "Kampong Cham Province",
+    "names": {
+      "ja": "コンポンチャム州",
+      "ko": "캄퐁참주",
+      "vi": "Kampong Cham",
+      "id": "Provinsi Kampong Cham",
+      "zh-Hans": "磅湛省",
+      "zh-Hant": "磅湛省"
+    }
+  },
+  {
+    "code": "4",
+    "name": "Kampong Chhnang Province",
+    "names": {
+      "ja": "コンポンチュナン州",
+      "ko": "캄퐁치낭주",
+      "vi": "Kampong Chhnang",
+      "id": "Kampong Chhnang",
+      "zh-Hans": "磅清扬省",
+      "zh-Hant": "磅清揚省"
+    }
+  },
+  {
+    "code": "5",
+    "name": "Kampong Speu Province",
+    "names": {
+      "ja": "コンポンスプー州",
+      "ko": "캄퐁스페우주",
+      "vi": "Kampong Speu",
+      "id": "Provinsi Kampong Speu",
+      "zh-Hans": "磅士卑省",
+      "zh-Hant": "磅士卑省"
+    }
+  },
+  {
+    "code": "6",
+    "name": "Kampong Thom Province",
+    "names": {
+      "ja": "コンポントム州",
+      "ko": "캄퐁톰주",
+      "vi": "Kampong Thom",
+      "id": "Provinsi Kampong Thom",
+      "zh-Hans": "磅同省",
+      "zh-Hant": "磅同省"
+    }
+  },
+  {
+    "code": "7",
+    "name": "Kampot Province",
+    "names": {
+      "ja": "カンポット州",
+      "ko": "캄포트주",
+      "vi": "Kam pốt",
+      "id": "Provinsi Kampot",
+      "zh-Hans": "贡布省",
+      "zh-Hant": "貢布省"
+    }
+  },
+  {
+    "code": "8",
+    "name": "Kandal Province",
+    "names": {
+      "ja": "カンダル州",
+      "ko": "칸달주",
+      "vi": "Kandal",
+      "id": "Provinsi Kandal",
+      "zh-Hans": "干丹省",
+      "zh-Hant": "干丹省"
+    }
+  },
+  {
+    "code": "23",
+    "name": "Kep Province",
+    "names": {
+      "ja": "ケップ",
+      "ko": "케프",
+      "vi": "Kep",
+      "id": "Kep",
+      "zh-Hans": "白马省",
+      "zh-Hant": "白馬省"
+    }
+  },
+  {
+    "code": "9",
+    "name": "Koh Kong Province",
+    "names": {
+      "ja": "ココン州",
+      "ko": "코콩주",
+      "vi": "Koh Kong",
+      "id": "Provinsi Koh Kong",
+      "zh-Hans": "戈公省",
+      "zh-Hant": "戈公省"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Kratié Province",
+    "names": {
+      "ja": "クラチエ州",
+      "ko": "크라티에주",
+      "vi": "Kratié",
+      "id": "Kratié",
+      "zh-Hans": "桔井省",
+      "zh-Hant": "桔井省"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Mondulkiri Province",
+    "names": {
+      "ja": "モンドルキリ州",
+      "ko": "몬둘키리주",
+      "vi": "Mondulkiri",
+      "id": "Provinsi Mondulkiri",
+      "zh-Hans": "蒙多基里省",
+      "zh-Hant": "蒙多基里省"
+    }
+  },
+  {
+    "code": "22",
+    "name": "Oddar Meanchey Province",
+    "names": {
+      "ja": "ウドーミアンチェイ州",
+      "ko": "오다르메안체이주",
+      "vi": "Oddar Meancheay",
+      "id": "Provinsi Oddar Meanchey",
+      "zh-Hans": "奥多棉吉省"
+    }
+  },
+  {
+    "code": "24",
+    "name": "Pailin Province",
+    "names": {
+      "ja": "パイリン",
+      "ko": "파일린",
+      "vi": "Pailin",
+      "id": "Pailin",
+      "zh-Hans": "拜林省",
+      "zh-Hant": "拜林省"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Phnom Penh",
+    "names": {
+      "ja": "プノンペン",
+      "ko": "프놈펜",
+      "vi": "Phnôm Pênh",
+      "id": "Phnom Penh",
+      "zh-Hans": "金边",
+      "zh-Hant": "金邊"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Preah Vihear Province",
+    "names": {
+      "ja": "プリアヴィヒア州",
+      "ko": "프레아비헤아르주",
+      "vi": "Preah Vihear",
+      "id": "Provinsi Preah Vihear",
+      "zh-Hans": "柏威夏省",
+      "zh-Hant": "柏威夏省"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Prey Veng Province",
+    "names": {
+      "ja": "プレイベン州",
+      "ko": "프레이벵주",
+      "vi": "Prey Veng",
+      "id": "Provinsi Prey Veng",
+      "zh-Hans": "波萝勉省",
+      "zh-Hant": "波蘿勉省"
+    }
+  },
+  {
+    "code": "15",
+    "name": "Pursat Province",
+    "names": {
+      "ja": "ポーサット州",
+      "ko": "푸르사트주",
+      "vi": "Pursat",
+      "id": "Provinsi Pursat",
+      "zh-Hans": "菩萨省",
+      "zh-Hant": "菩薩省"
+    }
+  },
+  {
+    "code": "16",
+    "name": "Ratanakiri Province",
+    "names": {
+      "ja": "ラタナキリ州",
+      "ko": "라타나키리주",
+      "vi": "Ratanakiri",
+      "id": "Provinsi Ratanakiri",
+      "zh-Hans": "腊塔纳基里省",
+      "zh-Hant": "臘塔納基里省"
+    }
+  },
+  {
+    "code": "17",
+    "name": "Siem Reap Province",
+    "names": {
+      "ja": "シェムリアップ州",
+      "ko": "시엠레아프주",
+      "vi": "Xiêm Riệp",
+      "id": "Provinsi Siem Reap",
+      "zh-Hans": "暹粒省",
+      "zh-Hant": "暹粒省"
+    }
+  },
+  {
+    "code": "18",
+    "name": "Sihanoukville Province",
+    "names": {
+      "ja": "シアヌークビル",
+      "ko": "시아누크빌",
+      "vi": "Sihanoukville",
+      "id": "Sihanoukville",
+      "zh-Hans": "西哈努克省",
+      "zh-Hant": "施亞努省"
+    }
+  },
+  {
+    "code": "19",
+    "name": "Stung Treng Province",
+    "names": {
+      "ja": "ストゥントレン州",
+      "ko": "스퉁트렝주",
+      "vi": "Stung Treng",
+      "id": "Provinsi Stung Treng",
+      "zh-Hans": "上丁省",
+      "zh-Hant": "上丁省"
+    }
+  },
+  {
+    "code": "20",
+    "name": "Svay Rieng Province",
+    "names": {
+      "ja": "スヴァイリエン州",
+      "ko": "스바이리엥주",
+      "vi": "Svay Rieng",
+      "id": "Provinsi Svay Rieng",
+      "zh-Hans": "柴桢省",
+      "zh-Hant": "柴楨省"
+    }
+  },
+  {
+    "code": "21",
+    "name": "Takéo Province",
+    "names": {
+      "ja": "タケオ州",
+      "ko": "타케오주",
+      "vi": "Takéo",
+      "id": "Provinsi Takéo",
+      "zh-Hans": "茶胶省",
+      "zh-Hant": "茶膠省"
+    }
+  },
+  {
+    "code": "25",
+    "name": "Tbong Khmum Province",
+    "names": {
+      "ja": "トボンクムン州",
+      "ko": "트봉크뭄주",
+      "vi": "Tbong Khmum",
+      "id": "Provinsi Tboung Khmum",
+      "zh-Hans": "特本克蒙省",
+      "zh-Hant": "特本克蒙省"
+    }
+  }
+]

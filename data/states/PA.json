@@ -1,0 +1,164 @@
+[
+  {
+    "code": "1",
+    "name": "Bocas del Toro Province",
+    "names": {
+      "ja": "ボカス・デル・トーロ県",
+      "ko": "보카스델토로주",
+      "vi": "Bocas del Toro",
+      "id": "Provinsi Bocas del Toro",
+      "zh-Hans": "博卡斯德尔托罗省",
+      "zh-Hant": "博卡斯德爾托羅省"
+    }
+  },
+  {
+    "code": "4",
+    "name": "Chiriquí Province",
+    "names": {
+      "ja": "チリキ県",
+      "ko": "치리키주",
+      "vi": "Tỉnh Chiriquí",
+      "id": "Provinsi Chiriquí",
+      "zh-Hans": "奇里基省",
+      "zh-Hant": "奇里基省"
+    }
+  },
+  {
+    "code": "2",
+    "name": "Coclé Province",
+    "names": {
+      "ja": "コクレ県",
+      "ko": "코클레주",
+      "vi": "Tỉnh Coclé",
+      "id": "Provinsi Coclé",
+      "zh-Hans": "科克莱省",
+      "zh-Hant": "科克萊省"
+    }
+  },
+  {
+    "code": "3",
+    "name": "Colón Province",
+    "names": {
+      "ja": "コロン県",
+      "ko": "콜론주",
+      "vi": "Tỉnh Colón",
+      "id": "Provinsi Colón",
+      "zh-Hans": "科隆省",
+      "zh-Hant": "科隆省"
+    }
+  },
+  {
+    "code": "5",
+    "name": "Darién Province",
+    "names": {
+      "ja": "ダリエン県",
+      "ko": "다리엔주",
+      "vi": "Tỉnh Darién",
+      "id": "Provinsi Darién",
+      "zh-Hans": "达连省",
+      "zh-Hant": "達連省"
+    }
+  },
+  {
+    "code": "EM",
+    "name": "Emberá-Wounaan Comarca",
+    "names": {
+      "ja": "エンベラ自治区",
+      "ko": "엠베라워우난 특구",
+      "vi": "Emberá-Wounaan Comarca",
+      "id": "Emberá-Wounaan Comarca",
+      "zh-Hans": "恩贝拉-沃南原住民区",
+      "zh-Hant": "恩貝拉-沃南原住民區"
+    }
+  },
+  {
+    "code": "KY",
+    "name": "Guna Yala",
+    "names": {
+      "ja": "クナ・ヤラ自治区",
+      "ko": "구나얄라 특구",
+      "vi": "Guna Yala",
+      "id": "Guna Yala",
+      "zh-Hans": "古纳亚拉原住民区",
+      "zh-Hant": "古納亞拉原住民區"
+    }
+  },
+  {
+    "code": "6",
+    "name": "Herrera Province",
+    "names": {
+      "ja": "エレーラ県",
+      "ko": "에레라주",
+      "vi": "Tỉnh Herrera",
+      "id": "Provinsi Herrera",
+      "zh-Hans": "埃雷拉省",
+      "zh-Hant": "埃雷拉省"
+    }
+  },
+  {
+    "code": "7",
+    "name": "Los Santos Province",
+    "names": {
+      "ja": "ロス・サントス県",
+      "ko": "로스산토스주",
+      "vi": "Tỉnh Los Santos",
+      "id": "Provinsi Los Santos",
+      "zh-Hans": "洛斯桑托斯省",
+      "zh-Hant": "洛斯桑托斯省"
+    }
+  },
+  {
+    "code": "NT",
+    "name": "Naso Tjër-Di Region",
+    "names": {
+      "ja": "ナソ・ティエル・ディ自治県",
+      "zh-Hans": "纳索特尔迪原住民区"
+    }
+  },
+  {
+    "code": "NB",
+    "name": "Ngöbe-Buglé Comarca",
+    "names": {
+      "ja": "ノベ・ブグレ自治区",
+      "ko": "응가베부글레 특구",
+      "vi": "Ngobe-Buglé Comarca",
+      "id": "Ngöbe-Buglé Comarca",
+      "zh-Hans": "恩戈韦-布格莱原住民区",
+      "zh-Hant": "恩戈韋-布格萊原住民區"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Panamá Oeste Province",
+    "names": {
+      "ja": "西パナマ県",
+      "ko": "서파나마주",
+      "id": "Provinsi Panamá Oeste",
+      "zh-Hans": "西巴拿馬省"
+    }
+  },
+  {
+    "code": "8",
+    "name": "Panamá Province",
+    "names": {
+      "ja": "パナマ県",
+      "ko": "파나마주",
+      "vi": "Panamá",
+      "id": "Provinsi Panamá",
+      "zh-Hans": "巴拿马省",
+      "zh-Hant": "巴拿馬省"
+    }
+  },
+  {
+    "code": "9",
+    "name": "Veraguas Province",
+    "names": {
+      "ja": "ベラグアス県",
+      "ko": "베라과스주",
+      "vi": "Veraguas",
+      "id": "Provinsi Veraguas",
+      "zh-Hans": "贝拉瓜斯省",
+      "zh-Hant": "貝拉瓜斯省"
+    }
+  }
+]

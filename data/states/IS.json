@@ -1,0 +1,554 @@
+[
+  {
+    "code": "AKN",
+    "name": "Akraneskaupstaður",
+    "names": {}
+  },
+  {
+    "code": "AKU",
+    "name": "Akureyri",
+    "names": {
+      "ja": "アークレイリ",
+      "ko": "아쿠레이리",
+      "vi": "Akureyri",
+      "id": "Akureyri",
+      "zh-Hans": "阿克雷里",
+      "zh-Hant": "阿克雷里"
+    }
+  },
+  {
+    "code": "ARN",
+    "name": "Árneshreppur",
+    "names": {
+      "id": "Árneshreppur",
+      "zh-Hans": "奥尔内斯区"
+    }
+  },
+  {
+    "code": "ASA",
+    "name": "Ásahreppur",
+    "names": {
+      "id": "Ásahreppur",
+      "zh-Hans": "奥萨区"
+    }
+  },
+  {
+    "code": "BLA",
+    "name": "Bláskógabyggð",
+    "names": {
+      "id": "Bláskógabyggð",
+      "zh-Hans": "布劳斯科加比格兹"
+    }
+  },
+  {
+    "code": "BOL",
+    "name": "Bolungarvíkurkaupstaður",
+    "names": {}
+  },
+  {
+    "code": "BOG",
+    "name": "Borgarbyggð",
+    "names": {
+      "ja": "ボルガルビッグズ",
+      "zh-Hans": "博尔加比格兹"
+    }
+  },
+  {
+    "code": "1",
+    "name": "Capital Region",
+    "names": {
+      "ja": "大レイキャヴィーク",
+      "ko": "회뷔드보르가르스바이디",
+      "vi": "Khu vực Thủ đô",
+      "id": "Wilayah Reykjavík Raya",
+      "zh-Hans": "首都区",
+      "zh-Hant": "首都區"
+    }
+  },
+  {
+    "code": "DAB",
+    "name": "Dalabyggð",
+    "names": {
+      "id": "Dalabyggð",
+      "zh-Hans": "达拉比格兹"
+    }
+  },
+  {
+    "code": "DAV",
+    "name": "Dalvíkurbyggð",
+    "names": {
+      "ja": "ダールヴィークルビッグズ",
+      "id": "Dalvíkurbyggð",
+      "zh-Hans": "达尔维屈比格兹",
+      "zh-Hant": "達爾維克"
+    }
+  },
+  {
+    "code": "7",
+    "name": "Eastern Region",
+    "names": {
+      "ja": "東アイスランド",
+      "ko": "외이스튀를란드",
+      "vi": "Khu vực Eastern",
+      "id": "Austurland",
+      "zh-Hans": "东部区",
+      "zh-Hant": "東部區"
+    }
+  },
+  {
+    "code": "EOM",
+    "name": "Eyja- og Miklaholtshreppur",
+    "names": {
+      "id": "Eyja- og Miklaholtshreppur",
+      "zh-Hans": "埃亚-米克拉霍尔特区"
+    }
+  },
+  {
+    "code": "EYF",
+    "name": "Eyjafjarðarsveit",
+    "names": {
+      "id": "Eyjafjarðarsveit",
+      "zh-Hans": "埃亚峡湾乡"
+    }
+  },
+  {
+    "code": "FJL",
+    "name": "Fjallabyggð",
+    "names": {
+      "id": "Fjallabyggð",
+      "zh-Hans": "菲亚德拉比格兹"
+    }
+  },
+  {
+    "code": "FJD",
+    "name": "Fjarðabyggð",
+    "names": {
+      "ja": "フィヤルザビッグズ",
+      "id": "Fjarðabyggð",
+      "zh-Hans": "菲亚扎比格兹"
+    }
+  },
+  {
+    "code": "FLR",
+    "name": "Fljótsdalshreppur",
+    "names": {
+      "id": "Fljótsdalshreppur",
+      "zh-Hans": "弗廖斯达尔区"
+    }
+  },
+  {
+    "code": "FLA",
+    "name": "Flóahreppur",
+    "names": {
+      "id": "Flóahreppur",
+      "zh-Hans": "弗洛阿区"
+    }
+  },
+  {
+    "code": "GAR",
+    "name": "Garðabær",
+    "names": {
+      "ja": "ガルザバイル",
+      "ko": "가르다바이르",
+      "vi": "Garðabær",
+      "id": "Garðabær",
+      "zh-Hans": "加尔扎拜尔"
+    }
+  },
+  {
+    "code": "GOG",
+    "name": "Grímsnes- og Grafningshreppur",
+    "names": {}
+  },
+  {
+    "code": "GRN",
+    "name": "Grindavíkurbær",
+    "names": {
+      "id": "Grindavíkurbær"
+    }
+  },
+  {
+    "code": "GRU",
+    "name": "Grundarfjarðarbær",
+    "names": {
+      "ja": "グルンダルフィヨルズル",
+      "id": "Grundarfjarðarbær"
+    }
+  },
+  {
+    "code": "GRY",
+    "name": "Grýtubakkahreppur",
+    "names": {}
+  },
+  {
+    "code": "HAF",
+    "name": "Hafnarfjörður",
+    "names": {
+      "ja": "ハフナルフィヨルズゥル",
+      "ko": "하프나르피외르뒤르",
+      "vi": "Hafnarfjörður",
+      "id": "Hafnarfjörður",
+      "zh-Hans": "哈布纳菲厄泽",
+      "zh-Hant": "哈布納菲厄澤"
+    }
+  },
+  {
+    "code": "HRG",
+    "name": "Hörgársveit",
+    "names": {}
+  },
+  {
+    "code": "SHF",
+    "name": "Hornafjörður",
+    "names": {}
+  },
+  {
+    "code": "HRU",
+    "name": "Hrunamannahreppur",
+    "names": {}
+  },
+  {
+    "code": "HUG",
+    "name": "Húnabyggð",
+    "names": {
+      "zh-Hans": "胡纳比格兹"
+    }
+  },
+  {
+    "code": "HUV",
+    "name": "Húnaþing vestra",
+    "names": {
+      "id": "Húnaþing vestra",
+      "zh-Hans": "西胡纳辛"
+    }
+  },
+  {
+    "code": "HVA",
+    "name": "Hvalfjarðarsveit",
+    "names": {}
+  },
+  {
+    "code": "HVE",
+    "name": "Hveragerðisbær",
+    "names": {
+      "ja": "クヴェラゲルジ",
+      "ko": "크베라게르디",
+      "id": "Hveragerði",
+      "zh-Hans": "惠拉盖尔济",
+      "zh-Hant": "惠拉蓋爾濟"
+    }
+  },
+  {
+    "code": "ISA",
+    "name": "Ísafjörður",
+    "names": {}
+  },
+  {
+    "code": "KAL",
+    "name": "Kaldrananeshreppur",
+    "names": {}
+  },
+  {
+    "code": "KJO",
+    "name": "Kjósarhreppur",
+    "names": {}
+  },
+  {
+    "code": "KOP",
+    "name": "Kópavogur",
+    "names": {
+      "ja": "コーパヴォグル",
+      "ko": "코파보귀르",
+      "vi": "Kópavogsbær",
+      "id": "Kópavogur",
+      "zh-Hans": "科帕沃于尔",
+      "zh-Hant": "科帕沃于爾"
+    }
+  },
+  {
+    "code": "LAN",
+    "name": "Langanesbyggð",
+    "names": {}
+  },
+  {
+    "code": "MOS",
+    "name": "Mosfellsbær",
+    "names": {}
+  },
+  {
+    "code": "MUL",
+    "name": "Múlaþing",
+    "names": {
+      "zh-Hans": "穆拉辛"
+    }
+  },
+  {
+    "code": "MYR",
+    "name": "Mýrdalshreppur",
+    "names": {}
+  },
+  {
+    "code": "NOR",
+    "name": "Norðurþing",
+    "names": {}
+  },
+  {
+    "code": "6",
+    "name": "Northeastern Region",
+    "names": {
+      "ja": "北アイスランド東部",
+      "ko": "노르뒤를란드 에이스트라",
+      "vi": "Khu vực Đông Bắc",
+      "id": "Norðurland eystra",
+      "zh-Hans": "东北区",
+      "zh-Hant": "東北區"
+    }
+  },
+  {
+    "code": "5",
+    "name": "Northwestern Region",
+    "names": {
+      "ja": "北アイスランド西部",
+      "ko": "노르뒤를란드 베스트라",
+      "vi": "Khu vực Tây Bắc",
+      "id": "Norðurland vestra",
+      "zh-Hans": "西北区",
+      "zh-Hant": "西北區"
+    }
+  },
+  {
+    "code": "SOL",
+    "name": "Ölfus",
+    "names": {
+      "id": "Ölfus",
+      "zh-Hans": "厄尔菲斯"
+    }
+  },
+  {
+    "code": "RGE",
+    "name": "Rangárþing eystra",
+    "names": {
+      "ja": "ラゥングアゥルシンク・エイストラ",
+      "id": "Rangárþing eystra",
+      "zh-Hans": "东朗高尔辛"
+    }
+  },
+  {
+    "code": "RGY",
+    "name": "Rangárþing ytra",
+    "names": {
+      "id": "Rangárþing ytra",
+      "zh-Hans": "外朗高尔辛"
+    }
+  },
+  {
+    "code": "RHH",
+    "name": "Reykhólahreppur",
+    "names": {}
+  },
+  {
+    "code": "RKN",
+    "name": "Reykjanesbær",
+    "names": {}
+  },
+  {
+    "code": "RKV",
+    "name": "Reykjavík",
+    "names": {
+      "ja": "レイキャヴィーク",
+      "ko": "레이캬비크",
+      "vi": "Rây-ki-a-vích",
+      "id": "Reykjavík",
+      "zh-Hans": "雷克雅未克",
+      "zh-Hant": "雷克雅未克"
+    }
+  },
+  {
+    "code": "SEL",
+    "name": "Seltjarnarnes",
+    "names": {
+      "ja": "セルチャルトナルネース",
+      "ko": "셀티아르드나르네스",
+      "id": "Seltjarnarnes",
+      "zh-Hans": "塞尔蒂亚纳内斯"
+    }
+  },
+  {
+    "code": "SKF",
+    "name": "Skaftárhreppur",
+    "names": {}
+  },
+  {
+    "code": "SKG",
+    "name": "Skagabyggð",
+    "names": {}
+  },
+  {
+    "code": "SKR",
+    "name": "Skagafjörður",
+    "names": {
+      "ja": "スカーガフィヨルズル",
+      "id": "Skagafjörður",
+      "zh-Hans": "斯卡加菲厄泽"
+    }
+  },
+  {
+    "code": "SOG",
+    "name": "Skeiða- og Gnúpverjahreppur",
+    "names": {}
+  },
+  {
+    "code": "SKO",
+    "name": "Skorradalshreppur",
+    "names": {}
+  },
+  {
+    "code": "SNF",
+    "name": "Snæfellsbær",
+    "names": {}
+  },
+  {
+    "code": "2",
+    "name": "Southern Peninsula Region",
+    "names": {
+      "ja": "南西アイスランド",
+      "ko": "쉬뒤르네스",
+      "vi": "Khu vực Phía Nam Peninsula",
+      "id": "Provinsi Semenanjung Selatan",
+      "zh-Hans": "南半岛区",
+      "zh-Hant": "南半島區"
+    }
+  },
+  {
+    "code": "8",
+    "name": "Southern Region",
+    "names": {
+      "ja": "南アイスランド",
+      "ko": "쉬뒤를란드",
+      "vi": "Khu vực Southern",
+      "id": "Suðurland",
+      "zh-Hans": "南部区",
+      "zh-Hant": "南部區"
+    }
+  },
+  {
+    "code": "STR",
+    "name": "Strandabyggð",
+    "names": {
+      "id": "Strandabyggð",
+      "zh-Hans": "斯特兰达比格兹"
+    }
+  },
+  {
+    "code": "STY",
+    "name": "Stykkishólmur",
+    "names": {}
+  },
+  {
+    "code": "SDV",
+    "name": "Súðavíkurhreppur",
+    "names": {
+      "id": "Súðavíkurhreppur",
+      "zh-Hans": "苏扎维克区"
+    }
+  },
+  {
+    "code": "SDN",
+    "name": "Suðurnesjabær",
+    "names": {
+      "id": "Suðurnesjabær",
+      "zh-Hans": "南半岛镇"
+    }
+  },
+  {
+    "code": "SBT",
+    "name": "Svalbardsstrandarhreppur",
+    "names": {}
+  },
+  {
+    "code": "SFA",
+    "name": "Sveitarfélagið Árborg",
+    "names": {
+      "ja": "アゥルボルグ",
+      "id": "Árborg",
+      "zh-Hans": "阿堡"
+    }
+  },
+  {
+    "code": "SSS",
+    "name": "Sveitarfélagið Skagaströnd",
+    "names": {}
+  },
+  {
+    "code": "TAL",
+    "name": "Tálknafjarðarhreppur",
+    "names": {}
+  },
+  {
+    "code": "TJO",
+    "name": "Tjörneshreppur",
+    "names": {
+      "id": "Tjörneshreppur",
+      "zh-Hans": "蒂约尔内斯区"
+    }
+  },
+  {
+    "code": "VEM",
+    "name": "Vestmannaeyjar",
+    "names": {
+      "ja": "ヴェストマン諸島",
+      "ko": "베스트만나에이야르 제도",
+      "vi": "Vestmannaeyjar",
+      "id": "Vestmannaeyjar",
+      "zh-Hans": "韦斯特曼纳埃亚尔",
+      "zh-Hant": "韋斯特曼納埃亞爾"
+    }
+  },
+  {
+    "code": "VER",
+    "name": "Vesturbyggð",
+    "names": {}
+  },
+  {
+    "code": "SVG",
+    "name": "Vogar",
+    "names": {
+      "id": "Vogar",
+      "zh-Hans": "沃加尔"
+    }
+  },
+  {
+    "code": "VOP",
+    "name": "Vopnafjarðarhreppur",
+    "names": {}
+  },
+  {
+    "code": "3",
+    "name": "Western Region",
+    "names": {
+      "ja": "西アイスランド",
+      "ko": "베스튀를란드",
+      "vi": "Khu vực Phía Tây",
+      "id": "Vesturland",
+      "zh-Hans": "西部区",
+      "zh-Hant": "西部區"
+    }
+  },
+  {
+    "code": "4",
+    "name": "Westfjords",
+    "names": {
+      "ja": "西部フィヨルド",
+      "ko": "베스트피르디르",
+      "vi": "Khu vực Westfjords",
+      "id": "Vestfirðir",
+      "zh-Hans": "西峡湾区",
+      "zh-Hant": "西峽灣區"
+    }
+  },
+  {
+    "code": "THG",
+    "name": "Þingeyjarsveit",
+    "names": {}
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "code": "26",
+    "name": "Busan",
+    "names": {
+      "ja": "釜山広域市",
+      "ko": "부산광역시",
+      "vi": "Busan",
+      "id": "Busan",
+      "zh-Hans": "釜山",
+      "zh-Hant": "釜山"
+    }
+  },
+  {
+    "code": "27",
+    "name": "Daegu",
+    "names": {
+      "ja": "大邱広域市",
+      "ko": "대구광역시",
+      "vi": "Daegu",
+      "id": "Daegu",
+      "zh-Hans": "大邱",
+      "zh-Hant": "大邱廣域市"
+    }
+  },
+  {
+    "code": "30",
+    "name": "Daejeon",
+    "names": {
+      "ja": "大田広域市",
+      "ko": "대전광역시",
+      "vi": "Daejeon",
+      "id": "Daejeon",
+      "zh-Hans": "大田广域市",
+      "zh-Hant": "大田廣域市"
+    }
+  },
+  {
+    "code": "42",
+    "name": "Gangwon Province",
+    "names": {
+      "ja": "江原特別自治道",
+      "ko": "강원특별자치도",
+      "vi": "Gangwon",
+      "id": "Gangwon",
+      "zh-Hans": "江原道",
+      "zh-Hant": "江原道"
+    }
+  },
+  {
+    "code": "41",
+    "name": "Gyeonggi Province",
+    "names": {
+      "ja": "京畿道",
+      "ko": "경기도",
+      "vi": "Gyeonggi",
+      "id": "Gyeonggi",
+      "zh-Hans": "京畿道",
+      "zh-Hant": "京畿道"
+    }
+  },
+  {
+    "code": "28",
+    "name": "Incheon",
+    "names": {
+      "ja": "仁川広域市",
+      "ko": "인천광역시",
+      "vi": "Incheon",
+      "id": "Incheon",
+      "zh-Hans": "仁川",
+      "zh-Hant": "仁川"
+    }
+  },
+  {
+    "code": "49",
+    "name": "Jeju Province",
+    "names": {
+      "ja": "済州特別自治道",
+      "ko": "제주특별자치도",
+      "vi": "Jeju",
+      "id": "Jeju",
+      "zh-Hans": "济州特别自治道",
+      "zh-Hant": "濟州特別自治道"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Jeonnam-Gwangju Integrated Special City",
+    "names": {
+      "ko": "전남광주통합특별시"
+    }
+  },
+  {
+    "code": "43",
+    "name": "North Chungcheong",
+    "names": {
+      "ja": "忠清北道",
+      "ko": "충청북도",
+      "vi": "Chungcheong Bắc",
+      "id": "Chungcheong Utara",
+      "zh-Hans": "忠清北道",
+      "zh-Hant": "忠清北道"
+    }
+  },
+  {
+    "code": "47",
+    "name": "North Gyeongsang",
+    "names": {
+      "ja": "慶尚北道",
+      "ko": "경상북도",
+      "vi": "Gyeongsang Bắc",
+      "id": "Gyeongsang Utara",
+      "zh-Hans": "庆尚北道",
+      "zh-Hant": "慶尚北道"
+    }
+  },
+  {
+    "code": "45",
+    "name": "North Jeolla",
+    "names": {
+      "ja": "全北特別自治道",
+      "ko": "전북특별자치도",
+      "vi": "Jeonbuk",
+      "id": "Jeolla Utara",
+      "zh-Hans": "全北特別自治道",
+      "zh-Hant": "全北特別自治道"
+    }
+  },
+  {
+    "code": "50",
+    "name": "Sejong",
+    "names": {
+      "ja": "世宗特別自治市",
+      "ko": "세종특별자치시",
+      "vi": "Sejong",
+      "id": "Kota Sejong",
+      "zh-Hans": "世宗特別自治市",
+      "zh-Hant": "世宗特別自治市"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Seoul",
+    "names": {
+      "ja": "ソウル特別市",
+      "ko": "서울특별시",
+      "vi": "Seoul",
+      "id": "Seoul",
+      "zh-Hans": "首尔",
+      "zh-Hant": "首爾"
+    }
+  },
+  {
+    "code": "44",
+    "name": "South Chungcheong",
+    "names": {
+      "ja": "忠清南道",
+      "ko": "충청남도",
+      "vi": "Chungcheong Nam",
+      "id": "Chungcheong Selatan",
+      "zh-Hans": "忠清南道",
+      "zh-Hant": "忠清南道"
+    }
+  },
+  {
+    "code": "48",
+    "name": "South Gyeongsang",
+    "names": {
+      "ja": "慶尚南道",
+      "ko": "경상남도",
+      "vi": "Gyeongsang Nam",
+      "id": "Gyeongsang Selatan",
+      "zh-Hans": "庆尚南道",
+      "zh-Hant": "慶尚南道"
+    }
+  },
+  {
+    "code": "31",
+    "name": "Ulsan",
+    "names": {
+      "ja": "蔚山広域市",
+      "ko": "울산광역시",
+      "vi": "Ulsan",
+      "id": "Ulsan",
+      "zh-Hans": "蔚山广域市",
+      "zh-Hant": "蔚山廣域市"
+    }
+  }
+]

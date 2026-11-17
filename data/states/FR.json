@@ -1,0 +1,1457 @@
+[
+  {
+    "code": "01",
+    "name": "Ain",
+    "names": {
+      "ja": "アン県",
+      "ko": "앵주",
+      "vi": "Ain",
+      "id": "Ain",
+      "zh-Hans": "安省",
+      "zh-Hant": "安省"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Aisne",
+    "names": {
+      "ja": "エーヌ県",
+      "ko": "엔주",
+      "vi": "Aisne",
+      "id": "Aisne",
+      "zh-Hans": "埃纳省",
+      "zh-Hant": "埃納省"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Allier",
+    "names": {
+      "ja": "アリエ県",
+      "ko": "알리에주",
+      "vi": "Allier",
+      "id": "Allier",
+      "zh-Hans": "阿列省",
+      "zh-Hant": "阿列省"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Alpes-de-Haute-Provence",
+    "names": {
+      "ja": "アルプ＝ド＝オート＝プロヴァンス県",
+      "ko": "알프드오트프로방스주",
+      "vi": "Alpes-de-Haute-Provence",
+      "id": "Alpes-de-Haute-Provence",
+      "zh-Hans": "上普罗旺斯阿尔卑斯省",
+      "zh-Hant": "上普羅旺斯阿爾卑斯省"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Alpes-Maritimes",
+    "names": {
+      "ja": "アルプ＝マリティーム県",
+      "ko": "알프마리팀주",
+      "vi": "Alpes-Maritimes",
+      "id": "Alpes-Maritimes",
+      "zh-Hans": "滨海阿尔卑斯省",
+      "zh-Hant": "濱海阿爾卑斯省"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Ardèche",
+    "names": {
+      "ja": "アルデシュ県",
+      "ko": "아르데슈주",
+      "vi": "Ardèche",
+      "id": "Ardèche",
+      "zh-Hans": "阿尔代什省",
+      "zh-Hant": "阿爾代什省"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Ardennes",
+    "names": {
+      "ja": "アルデンヌ県",
+      "ko": "아르덴주",
+      "vi": "Ardennes",
+      "id": "Ardennes",
+      "zh-Hans": "阿登省",
+      "zh-Hant": "阿登省"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Ariège",
+    "names": {
+      "ja": "アリエージュ県",
+      "ko": "아리에주주",
+      "vi": "Ariège",
+      "id": "Ariège",
+      "zh-Hans": "阿列日省",
+      "zh-Hant": "阿列日省"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Aube",
+    "names": {
+      "ja": "オーブ県",
+      "ko": "오브주",
+      "vi": "Aube",
+      "id": "Aube",
+      "zh-Hans": "奥布省",
+      "zh-Hant": "奧佈省"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Aude",
+    "names": {
+      "ja": "オード県",
+      "ko": "오드주",
+      "vi": "Aude",
+      "id": "Aude",
+      "zh-Hans": "奥德省",
+      "zh-Hant": "奧德省"
+    }
+  },
+  {
+    "code": "ARA",
+    "name": "Auvergne-Rhône-Alpes",
+    "names": {
+      "ja": "オーヴェルニュ＝ローヌ＝アルプ地域圏",
+      "ko": "오베르뉴론알프",
+      "vi": "Auvergne-Rhône-Alpes",
+      "id": "Auvergne-Rhône-Alpes",
+      "zh-Hans": "奥弗涅-罗讷-阿尔卑斯大区",
+      "zh-Hant": "奧弗涅-隆-阿爾卑斯大區"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Aveyron",
+    "names": {
+      "ja": "アヴェロン県",
+      "ko": "아베롱주",
+      "vi": "Aveyron",
+      "id": "Aveyron",
+      "zh-Hans": "阿韦龙省",
+      "zh-Hant": "阿韋龍省"
+    }
+  },
+  {
+    "code": "67",
+    "name": "Bas-Rhin",
+    "names": {
+      "ja": "バ＝ラン県",
+      "ko": "바랭주",
+      "vi": "Bas-Rhin",
+      "id": "Bas-Rhin",
+      "zh-Hans": "下萊茵省"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Bouches-du-Rhône",
+    "names": {
+      "ja": "ブーシュ＝デュ＝ローヌ県",
+      "ko": "부슈뒤론주",
+      "vi": "Bouches-du-Rhône",
+      "id": "Bouches-du-Rhône",
+      "zh-Hans": "罗讷河口省",
+      "zh-Hant": "隆河河口省"
+    }
+  },
+  {
+    "code": "BFC",
+    "name": "Bourgogne-Franche-Comté",
+    "names": {
+      "ja": "ブルゴーニュ＝フランシュ＝コンテ地域圏",
+      "ko": "부르고뉴프랑슈콩테",
+      "vi": "Bourgogne-Franche-Comté",
+      "id": "Bourgogne-Franche-Comté",
+      "zh-Hans": "勃艮第-弗朗什-孔泰大区",
+      "zh-Hant": "勃艮第-法蘭琪-康堤大區"
+    }
+  },
+  {
+    "code": "BRE",
+    "name": "Brittany",
+    "names": {
+      "ja": "ブルターニュ地域圏",
+      "ko": "브르타뉴",
+      "vi": "Bretagne",
+      "id": "Bretonia",
+      "zh-Hans": "布列塔尼大区",
+      "zh-Hant": "布列塔尼大區"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Calvados",
+    "names": {
+      "ja": "カルヴァドス県",
+      "ko": "칼바도스주",
+      "vi": "Calvados",
+      "id": "Calvados",
+      "zh-Hans": "卡尔瓦多斯省",
+      "zh-Hant": "卡爾瓦多斯省"
+    }
+  },
+  {
+    "code": "15",
+    "name": "Cantal",
+    "names": {
+      "ja": "カンタル県",
+      "ko": "캉탈주",
+      "vi": "Cantal",
+      "id": "Cantal",
+      "zh-Hans": "康塔尔省",
+      "zh-Hant": "康塔爾省"
+    }
+  },
+  {
+    "code": "CVL",
+    "name": "Centre-Val de Loire",
+    "names": {
+      "ja": "サントル＝ヴァル・ド・ロワール地域圏",
+      "ko": "상트르",
+      "vi": "Centre-Val de Loire",
+      "id": "Centre",
+      "zh-Hans": "中央-卢瓦尔河谷大区",
+      "zh-Hant": "中央-羅亞爾河谷大區"
+    }
+  },
+  {
+    "code": "16",
+    "name": "Charente",
+    "names": {
+      "ja": "シャラント県",
+      "ko": "샤랑트주",
+      "vi": "Charente",
+      "id": "Charente",
+      "zh-Hans": "夏朗德省",
+      "zh-Hant": "夏朗德省"
+    }
+  },
+  {
+    "code": "17",
+    "name": "Charente-Maritime",
+    "names": {
+      "ja": "シャラント＝マリティーム県",
+      "ko": "샤랑트마리팀주",
+      "vi": "Charente-Maritime",
+      "id": "Charente-Maritime",
+      "zh-Hans": "滨海夏朗德省",
+      "zh-Hant": "濱海夏朗德省"
+    }
+  },
+  {
+    "code": "18",
+    "name": "Cher",
+    "names": {
+      "ja": "シェール県",
+      "ko": "셰르주",
+      "vi": "Cher, Centre",
+      "id": "Cher",
+      "zh-Hans": "谢尔省",
+      "zh-Hant": "謝爾省"
+    }
+  },
+  {
+    "code": "CP",
+    "name": "Clipperton Island",
+    "names": {
+      "ja": "クリッパートン島",
+      "ko": "클리퍼턴섬",
+      "vi": "Clipperton",
+      "id": "Pulau Clipperton",
+      "zh-Hans": "克利珀顿岛",
+      "zh-Hant": "克利珀頓島"
+    }
+  },
+  {
+    "code": "19",
+    "name": "Corrèze",
+    "names": {
+      "ja": "コレーズ県",
+      "ko": "코레즈주",
+      "vi": "Corrèze",
+      "id": "Corrèze",
+      "zh-Hans": "科雷兹省",
+      "zh-Hant": "科雷茲省"
+    }
+  },
+  {
+    "code": "2A",
+    "name": "Corse-du-Sud",
+    "names": {
+      "ja": "コルス＝デュ＝シュド県",
+      "ko": "코르스뒤쉬드주",
+      "vi": "Corse-du-Sud",
+      "id": "Corse-du-Sud",
+      "zh-Hans": "南科西嘉省",
+      "zh-Hant": "南科西嘉省"
+    }
+  },
+  {
+    "code": "20R",
+    "name": "Corsica",
+    "names": {
+      "ja": "コルシカ島",
+      "ko": "코르시카",
+      "vi": "Corse",
+      "id": "Korsika",
+      "zh-Hans": "科西嘉",
+      "zh-Hant": "科西嘉"
+    }
+  },
+  {
+    "code": "21",
+    "name": "Côte-d’Or",
+    "names": {
+      "ja": "コート＝ドール県",
+      "ko": "코트도르주",
+      "vi": "Côte-d’Or",
+      "id": "Côte-d’Or",
+      "zh-Hans": "科多尔省",
+      "zh-Hant": "科多爾省"
+    }
+  },
+  {
+    "code": "22",
+    "name": "Côtes-d'Armor",
+    "names": {
+      "ja": "コート＝ダルモール県",
+      "ko": "코트다르모르주",
+      "vi": "Côtes-d'Armor",
+      "id": "Côtes-d'Armor",
+      "zh-Hans": "阿摩尔滨海省",
+      "zh-Hant": "阿摩爾濱海省"
+    }
+  },
+  {
+    "code": "23",
+    "name": "Creuse",
+    "names": {
+      "ja": "クルーズ県",
+      "ko": "크뢰즈주",
+      "vi": "Creuse",
+      "id": "Creuse",
+      "zh-Hans": "克勒兹省",
+      "zh-Hant": "克勒茲省"
+    }
+  },
+  {
+    "code": "69",
+    "name": "departmental district of the Rhône",
+    "names": {
+      "zh-Hans": "省级行政区"
+    }
+  },
+  {
+    "code": "79",
+    "name": "Deux-Sèvres",
+    "names": {
+      "ja": "ドゥー＝セーヴル県",
+      "ko": "되세브르주",
+      "vi": "Deux-Sèvres",
+      "id": "Deux-Sèvres",
+      "zh-Hans": "德塞夫勒省",
+      "zh-Hant": "德塞夫勒省"
+    }
+  },
+  {
+    "code": "24",
+    "name": "Dordogne",
+    "names": {
+      "ja": "ドルドーニュ県",
+      "ko": "도르도뉴주",
+      "vi": "Dordogne",
+      "id": "Dordogne",
+      "zh-Hans": "多尔多涅省",
+      "zh-Hant": "多爾多涅省"
+    }
+  },
+  {
+    "code": "25",
+    "name": "Doubs",
+    "names": {
+      "ja": "ドゥー県",
+      "ko": "두주",
+      "vi": "Doubs",
+      "id": "Doubs",
+      "zh-Hans": "杜省",
+      "zh-Hant": "杜省"
+    }
+  },
+  {
+    "code": "26",
+    "name": "Drôme",
+    "names": {
+      "ja": "ドローム県",
+      "ko": "드롬주",
+      "vi": "Drôme",
+      "id": "Drôme",
+      "zh-Hans": "德龙省",
+      "zh-Hant": "德龍省"
+    }
+  },
+  {
+    "code": "91",
+    "name": "Essonne",
+    "names": {
+      "ja": "エソンヌ県",
+      "ko": "에손주",
+      "vi": "Essonne",
+      "id": "Essonne",
+      "zh-Hans": "埃松省"
+    }
+  },
+  {
+    "code": "27",
+    "name": "Eure",
+    "names": {
+      "ja": "ウール県",
+      "ko": "외르주",
+      "vi": "Eure",
+      "id": "Eure",
+      "zh-Hans": "厄尔省",
+      "zh-Hant": "厄爾省"
+    }
+  },
+  {
+    "code": "28",
+    "name": "Eure-et-Loir",
+    "names": {
+      "ja": "ウール＝エ＝ロワール県",
+      "ko": "외르에루아르주",
+      "vi": "Eure-et-Loir",
+      "id": "Eure-et-Loir",
+      "zh-Hans": "厄尔-卢瓦省",
+      "zh-Hant": "厄爾-盧瓦省"
+    }
+  },
+  {
+    "code": "6AE",
+    "name": "European Collectivity of Alsace",
+    "names": {
+      "zh-Hans": "阿尔萨斯欧洲集体"
+    }
+  },
+  {
+    "code": "29",
+    "name": "Finistère",
+    "names": {
+      "ja": "フィニステール県",
+      "ko": "피니스테르주",
+      "vi": "Finistère",
+      "id": "Finistère",
+      "zh-Hans": "菲尼斯泰尔省",
+      "zh-Hant": "菲尼斯泰爾省"
+    }
+  },
+  {
+    "code": "973",
+    "name": "French Guiana",
+    "names": {
+      "ja": "フランス領ギアナ",
+      "ko": "프랑스령 기아나",
+      "vi": "Guyane thuộc Pháp",
+      "id": "Guyana Prancis",
+      "zh-Hans": "法属圭亚那",
+      "zh-Hant": "法屬圭亞那"
+    }
+  },
+  {
+    "code": "PF",
+    "name": "French Polynesia",
+    "names": {
+      "ja": "フランス領ポリネシア",
+      "ko": "프랑스령 폴리네시아",
+      "vi": "Polynésie thuộc Pháp",
+      "id": "Polinesia Prancis",
+      "zh-Hans": "法属波利尼西亚",
+      "zh-Hant": "法屬玻里尼西亞"
+    }
+  },
+  {
+    "code": "TF",
+    "name": "French Southern and Antarctic Lands",
+    "names": {
+      "ja": "フランス領南方・南極地域",
+      "ko": "프랑스령 남방 및 남극 지역",
+      "vi": "Vùng đất phía Nam và châu Nam Cực thuộc Pháp",
+      "id": "Daratan Selatan dan Antarktika Perancis",
+      "zh-Hans": "法属南部和南极领地",
+      "zh-Hant": "法屬南部和南極領地"
+    }
+  },
+  {
+    "code": "30",
+    "name": "Gard",
+    "names": {
+      "ja": "ガール県",
+      "ko": "가르주",
+      "vi": "Gard",
+      "id": "Gard",
+      "zh-Hans": "加尔省",
+      "zh-Hant": "加爾省"
+    }
+  },
+  {
+    "code": "32",
+    "name": "Gers",
+    "names": {
+      "ja": "ジェール県",
+      "ko": "제르주",
+      "vi": "Gers",
+      "id": "Gers",
+      "zh-Hans": "热尔省",
+      "zh-Hant": "熱爾省"
+    }
+  },
+  {
+    "code": "33",
+    "name": "Gironde",
+    "names": {
+      "ja": "ジロンド県",
+      "ko": "지롱드주",
+      "vi": "Gironde",
+      "id": "Gironde",
+      "zh-Hans": "吉伦特省",
+      "zh-Hant": "吉倫特省"
+    }
+  },
+  {
+    "code": "GES",
+    "name": "Grand Est",
+    "names": {
+      "ja": "グラン・テスト地域圏",
+      "ko": "그랑테스트",
+      "vi": "Grand Est",
+      "id": "Grand Est",
+      "zh-Hans": "大东部大区",
+      "zh-Hant": "大東部大區"
+    }
+  },
+  {
+    "code": "971",
+    "name": "Guadeloupe",
+    "names": {
+      "ja": "グアドループ",
+      "ko": "과들루프",
+      "vi": "Guadeloupe",
+      "id": "Guadeloupe",
+      "zh-Hans": "瓜德罗普",
+      "zh-Hant": "瓜德羅普"
+    }
+  },
+  {
+    "code": "68",
+    "name": "Haut-Rhin",
+    "names": {
+      "ja": "オー＝ラン県",
+      "ko": "오랭주",
+      "vi": "Haut-Rhin",
+      "id": "Haut-Rhin",
+      "zh-Hans": "上莱茵省"
+    }
+  },
+  {
+    "code": "2B",
+    "name": "Haute-Corse",
+    "names": {
+      "ja": "オート＝コルス県",
+      "ko": "오트코르스주",
+      "vi": "Haute-Corse",
+      "id": "Haute-Corse",
+      "zh-Hans": "上科西嘉省",
+      "zh-Hant": "上科西嘉省"
+    }
+  },
+  {
+    "code": "31",
+    "name": "Haute-Garonne",
+    "names": {
+      "ja": "オート＝ガロンヌ県",
+      "ko": "오트가론주",
+      "vi": "Haute-Garonne",
+      "id": "Haute-Garonne",
+      "zh-Hans": "上加龙省",
+      "zh-Hant": "上加龍省"
+    }
+  },
+  {
+    "code": "43",
+    "name": "Haute-Loire",
+    "names": {
+      "ja": "オート＝ロワール県",
+      "ko": "오트루아르주",
+      "vi": "Haute-Loire",
+      "id": "Haute-Loire",
+      "zh-Hans": "上卢瓦尔省",
+      "zh-Hant": "上羅亞爾省"
+    }
+  },
+  {
+    "code": "52",
+    "name": "Haute-Marne",
+    "names": {
+      "ja": "オート＝マルヌ県",
+      "ko": "오트마른주",
+      "vi": "Haute-Marne",
+      "id": "Haute-Marne",
+      "zh-Hans": "上马恩省",
+      "zh-Hant": "上馬恩省"
+    }
+  },
+  {
+    "code": "70",
+    "name": "Haute-Saône",
+    "names": {
+      "ja": "オート＝ソーヌ県",
+      "ko": "오트손주",
+      "vi": "Haute-Saône",
+      "id": "Haute-Saône",
+      "zh-Hans": "上索恩省"
+    }
+  },
+  {
+    "code": "74",
+    "name": "Haute-Savoie",
+    "names": {
+      "ja": "オート＝サヴォワ県",
+      "ko": "오트사부아주",
+      "vi": "Haute-Savoie",
+      "id": "Haute-Savoie",
+      "zh-Hans": "上萨瓦省",
+      "zh-Hant": "上薩瓦省"
+    }
+  },
+  {
+    "code": "87",
+    "name": "Haute-Vienne",
+    "names": {
+      "ja": "オート＝ヴィエンヌ県",
+      "ko": "오트비엔주",
+      "vi": "Haute-Vienne",
+      "id": "Haute-Vienne",
+      "zh-Hans": "上维埃纳省",
+      "zh-Hant": "上维埃纳省"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Hautes-Alpes",
+    "names": {
+      "ja": "オート＝アルプ県",
+      "ko": "오트잘프주",
+      "vi": "Hautes-Alpes",
+      "id": "Hautes-Alpes",
+      "zh-Hans": "上阿尔卑斯省",
+      "zh-Hant": "上阿爾卑斯省"
+    }
+  },
+  {
+    "code": "65",
+    "name": "Hautes-Pyrénées",
+    "names": {
+      "ja": "オート＝ピレネー県",
+      "ko": "오트피레네주",
+      "vi": "Hautes-Pyrénées",
+      "id": "Hautes-Pyrénées",
+      "zh-Hans": "上比利牛斯省"
+    }
+  },
+  {
+    "code": "HDF",
+    "name": "Hauts-de-France",
+    "names": {
+      "ja": "オー＝ド＝フランス地域圏",
+      "ko": "오드프랑스",
+      "vi": "Hauts-de-France",
+      "id": "Hauts-de-France",
+      "zh-Hans": "上法兰西大区",
+      "zh-Hant": "上法蘭西大區"
+    }
+  },
+  {
+    "code": "92",
+    "name": "Hauts-de-Seine",
+    "names": {
+      "ja": "オー＝ド＝セーヌ県",
+      "ko": "오드센주",
+      "vi": "Hauts-de-Seine",
+      "id": "Hauts-de-Seine",
+      "zh-Hans": "上塞纳省"
+    }
+  },
+  {
+    "code": "34",
+    "name": "Hérault",
+    "names": {
+      "ja": "エロー県",
+      "ko": "에로주",
+      "vi": "Hérault",
+      "id": "Hérault",
+      "zh-Hans": "埃罗省",
+      "zh-Hant": "埃羅省"
+    }
+  },
+  {
+    "code": "IDF",
+    "name": "Île-de-France",
+    "names": {
+      "ja": "イル＝ド＝フランス地域圏",
+      "ko": "일드프랑스",
+      "vi": "Île-de-France",
+      "id": "Île-de-France",
+      "zh-Hans": "法兰西岛大区",
+      "zh-Hant": "法蘭西島大區"
+    }
+  },
+  {
+    "code": "35",
+    "name": "Ille-et-Vilaine",
+    "names": {
+      "ja": "イル＝エ＝ヴィレーヌ県",
+      "ko": "일에빌렌주",
+      "vi": "Ille-et-Vilaine",
+      "id": "Ille-et-Vilaine",
+      "zh-Hans": "伊勒-维莱讷省",
+      "zh-Hant": "伊勒-維連省"
+    }
+  },
+  {
+    "code": "36",
+    "name": "Indre",
+    "names": {
+      "ja": "アンドル県",
+      "ko": "앵드르주",
+      "vi": "Indre",
+      "id": "Indre",
+      "zh-Hans": "安德尔省",
+      "zh-Hant": "安德爾省"
+    }
+  },
+  {
+    "code": "37",
+    "name": "Indre-et-Loire",
+    "names": {
+      "ja": "アンドル＝エ＝ロワール県",
+      "ko": "앵드르에루아르주",
+      "vi": "Indre-et-Loire",
+      "id": "Indre-et-Loire",
+      "zh-Hans": "安德尔-卢瓦尔省",
+      "zh-Hant": "安德爾-羅亞爾省"
+    }
+  },
+  {
+    "code": "38",
+    "name": "Isère",
+    "names": {
+      "ja": "イゼール県",
+      "ko": "이제르주",
+      "vi": "Isère",
+      "id": "Isère",
+      "zh-Hans": "伊泽尔省",
+      "zh-Hant": "伊澤爾省"
+    }
+  },
+  {
+    "code": "39",
+    "name": "Jura",
+    "names": {
+      "ja": "ジュラ県",
+      "ko": "쥐라주",
+      "vi": "Jura, Franche-Comté",
+      "id": "Jura",
+      "zh-Hans": "汝拉省",
+      "zh-Hant": "侏羅省"
+    }
+  },
+  {
+    "code": "40",
+    "name": "Landes",
+    "names": {
+      "ja": "ランド県",
+      "ko": "랑드주",
+      "vi": "Landes",
+      "id": "Landes",
+      "zh-Hans": "朗德省",
+      "zh-Hant": "朗德省"
+    }
+  },
+  {
+    "code": "41",
+    "name": "Loir-et-Cher",
+    "names": {
+      "ja": "ロワール＝エ＝シェール県",
+      "ko": "루아르에셰르주",
+      "vi": "Loir-et-Cher",
+      "id": "Loir-et-Cher",
+      "zh-Hans": "卢瓦-谢尔省",
+      "zh-Hant": "盧瓦-謝爾省"
+    }
+  },
+  {
+    "code": "42",
+    "name": "Loire",
+    "names": {
+      "ja": "ロワール県",
+      "ko": "루아르주",
+      "vi": "Loire",
+      "id": "Loire",
+      "zh-Hans": "卢瓦尔省",
+      "zh-Hant": "盧瓦爾省"
+    }
+  },
+  {
+    "code": "44",
+    "name": "Loire-Atlantique",
+    "names": {
+      "ja": "ロワール＝アトランティック県",
+      "ko": "루아르아틀랑티크주",
+      "vi": "Loire-Atlantique",
+      "id": "Loire-Atlantique",
+      "zh-Hans": "大西洋卢瓦尔省",
+      "zh-Hant": "大西洋盧瓦爾省"
+    }
+  },
+  {
+    "code": "45",
+    "name": "Loiret",
+    "names": {
+      "ja": "ロワレ県",
+      "ko": "루아레주",
+      "vi": "Loiret",
+      "id": "Loiret",
+      "zh-Hans": "卢瓦雷省",
+      "zh-Hant": "盧瓦雷省"
+    }
+  },
+  {
+    "code": "46",
+    "name": "Lot",
+    "names": {
+      "ja": "ロット県",
+      "ko": "로트주",
+      "vi": "Lot, Midi-Pyrénées",
+      "id": "Lot",
+      "zh-Hans": "洛特省",
+      "zh-Hant": "洛特省"
+    }
+  },
+  {
+    "code": "47",
+    "name": "Lot-et-Garonne",
+    "names": {
+      "ja": "ロット＝エ＝ガロンヌ県",
+      "ko": "로트에가론주",
+      "vi": "Lot-et-Garonne",
+      "id": "Lot-et-Garonne",
+      "zh-Hans": "洛特-加龙省",
+      "zh-Hant": "洛特-加龍省"
+    }
+  },
+  {
+    "code": "48",
+    "name": "Lozère",
+    "names": {
+      "ja": "ロゼール県",
+      "ko": "로제르주",
+      "vi": "Lozère",
+      "id": "Lozère",
+      "zh-Hans": "洛泽尔省",
+      "zh-Hant": "洛澤爾省"
+    }
+  },
+  {
+    "code": "49",
+    "name": "Maine-et-Loire",
+    "names": {
+      "ja": "メーヌ＝エ＝ロワール県",
+      "ko": "멘에루아르주",
+      "vi": "Maine-et-Loire",
+      "id": "Maine-et-Loire",
+      "zh-Hans": "曼恩-卢瓦尔省",
+      "zh-Hant": "曼恩-盧瓦爾省"
+    }
+  },
+  {
+    "code": "50",
+    "name": "Manche",
+    "names": {
+      "ja": "マンシュ県",
+      "ko": "망슈주",
+      "vi": "Manche",
+      "id": "Manche",
+      "zh-Hans": "芒什省",
+      "zh-Hant": "芒什省"
+    }
+  },
+  {
+    "code": "51",
+    "name": "Marne",
+    "names": {
+      "ja": "マルヌ県",
+      "ko": "마른주",
+      "vi": "Marne",
+      "id": "Marne",
+      "zh-Hans": "马恩省",
+      "zh-Hant": "馬恩省"
+    }
+  },
+  {
+    "code": "972",
+    "name": "Martinique",
+    "names": {
+      "ja": "マルティニーク",
+      "ko": "마르티니크",
+      "vi": "Martinique",
+      "id": "Pulau Martinik",
+      "zh-Hans": "马提尼克",
+      "zh-Hant": "馬丁尼克"
+    }
+  },
+  {
+    "code": "53",
+    "name": "Mayenne",
+    "names": {
+      "ja": "マイエンヌ県",
+      "ko": "마옌주",
+      "vi": "Mayenne",
+      "id": "Mayenne",
+      "zh-Hans": "马耶讷省",
+      "zh-Hant": "馬耶訥省"
+    }
+  },
+  {
+    "code": "976",
+    "name": "Mayotte",
+    "names": {
+      "ja": "マヨット",
+      "ko": "마요트",
+      "vi": "Mayotte",
+      "id": "Mayotte",
+      "zh-Hans": "马约特",
+      "zh-Hant": "马约特"
+    }
+  },
+  {
+    "code": "69M",
+    "name": "Métropole de Lyon",
+    "names": {}
+  },
+  {
+    "code": "54",
+    "name": "Meurthe-et-Moselle",
+    "names": {
+      "ja": "ムルト＝エ＝モゼル県",
+      "ko": "뫼르테모젤주",
+      "vi": "Meurthe-et-Moselle",
+      "id": "Meurthe-et-Moselle",
+      "zh-Hans": "默尔特-摩泽尔省"
+    }
+  },
+  {
+    "code": "55",
+    "name": "Meuse",
+    "names": {
+      "ja": "ムーズ県",
+      "ko": "뫼즈주",
+      "vi": "Meuse",
+      "id": "Meuse",
+      "zh-Hans": "默兹省"
+    }
+  },
+  {
+    "code": "56",
+    "name": "Morbihan",
+    "names": {
+      "ja": "モルビアン県",
+      "ko": "모르비앙주",
+      "vi": "Morbihan",
+      "id": "Morbihan",
+      "zh-Hans": "莫尔比昂省"
+    }
+  },
+  {
+    "code": "57",
+    "name": "Moselle",
+    "names": {
+      "ja": "モゼル県",
+      "ko": "모젤주",
+      "vi": "Moselle",
+      "id": "Moselle",
+      "zh-Hans": "摩泽尔省",
+      "zh-Hant": "摩澤爾省"
+    }
+  },
+  {
+    "code": "NC",
+    "name": "New Caledonia",
+    "names": {
+      "ja": "ニューカレドニア",
+      "ko": "누벨칼레도니",
+      "vi": "Nouvelle-Calédonie",
+      "id": "Kaledonia Baru",
+      "zh-Hans": "新喀里多尼亚",
+      "zh-Hant": "新喀里多尼亞"
+    }
+  },
+  {
+    "code": "58",
+    "name": "Nièvre",
+    "names": {
+      "ja": "ニエーヴル県",
+      "ko": "니에브르주",
+      "vi": "Nièvre",
+      "id": "Nièvre",
+      "zh-Hans": "涅夫勒省"
+    }
+  },
+  {
+    "code": "59",
+    "name": "Nord",
+    "names": {
+      "ja": "ノール県",
+      "ko": "노르주",
+      "vi": "Nord, Nord-Pas-de-Calais",
+      "id": "Nord",
+      "zh-Hans": "北部省",
+      "zh-Hant": "諾爾省"
+    }
+  },
+  {
+    "code": "NOR",
+    "name": "Normandy",
+    "names": {
+      "ja": "ノルマンディー地域圏",
+      "ko": "노르망디",
+      "vi": "Normandie",
+      "id": "Normandia",
+      "zh-Hans": "诺曼底大区",
+      "zh-Hant": "諾曼第大區"
+    }
+  },
+  {
+    "code": "NAQ",
+    "name": "Nouvelle-Aquitaine",
+    "names": {
+      "ja": "ヌーヴェル＝アキテーヌ地域圏",
+      "ko": "누벨아키텐",
+      "vi": "Nouvelle-Aquitaine",
+      "id": "Aquitaine-Baru",
+      "zh-Hans": "新阿基坦大区",
+      "zh-Hant": "新亞奎丹大區"
+    }
+  },
+  {
+    "code": "OCC",
+    "name": "Occitania",
+    "names": {
+      "ja": "オクシタニア地域圏",
+      "ko": "옥시타니",
+      "vi": "Occitanie",
+      "id": "Occitania",
+      "zh-Hans": "奥克西塔尼大区",
+      "zh-Hant": "奧克西塔尼大區"
+    }
+  },
+  {
+    "code": "60",
+    "name": "Oise",
+    "names": {
+      "ja": "オワーズ県",
+      "ko": "우아즈주",
+      "vi": "Oise",
+      "id": "Oise",
+      "zh-Hans": "瓦兹省",
+      "zh-Hant": "瓦茲省"
+    }
+  },
+  {
+    "code": "61",
+    "name": "Orne",
+    "names": {
+      "ja": "オルヌ県",
+      "ko": "오른주",
+      "vi": "Orne",
+      "id": "Orne",
+      "zh-Hans": "奥恩省"
+    }
+  },
+  {
+    "code": "75C",
+    "name": "Paris",
+    "names": {
+      "ja": "パリ",
+      "ko": "파리",
+      "vi": "Paris",
+      "id": "Paris",
+      "zh-Hans": "巴黎",
+      "zh-Hant": "巴黎"
+    }
+  },
+  {
+    "code": "62",
+    "name": "Pas-de-Calais",
+    "names": {
+      "ja": "パ＝ド＝カレー県",
+      "ko": "파드칼레주",
+      "vi": "Pas-de-Calais",
+      "id": "Pas-de-Calais",
+      "zh-Hans": "加来海峡省",
+      "zh-Hant": "加萊海峽"
+    }
+  },
+  {
+    "code": "PDL",
+    "name": "Pays de la Loire",
+    "names": {
+      "ja": "ペイ・ド・ラ・ロワール地域圏",
+      "ko": "페이드라루아르",
+      "vi": "Pays de la Loire",
+      "id": "Pays de la Loire",
+      "zh-Hans": "卢瓦尔河地区大区",
+      "zh-Hant": "羅亞爾河地區大區"
+    }
+  },
+  {
+    "code": "PAC",
+    "name": "Provence-Alpes-Côte d'Azur",
+    "names": {
+      "ja": "プロヴァンス＝アルプ＝コート・ダジュール地域圏",
+      "ko": "프로방스알프코트다쥐르",
+      "vi": "Provence-Alpes-Côte d'Azur",
+      "id": "Provence-Alpes-Côte d'Azur",
+      "zh-Hans": "普罗旺斯-阿尔卑斯-蔚蓝海岸大区",
+      "zh-Hant": "普羅旺斯-阿爾卑斯-蔚藍海岸大區"
+    }
+  },
+  {
+    "code": "63",
+    "name": "Puy-de-Dôme",
+    "names": {
+      "ja": "ピュイ＝ド＝ドーム県",
+      "ko": "퓌드돔주",
+      "vi": "Puy-de-Dôme",
+      "id": "Puy-de-Dôme",
+      "zh-Hans": "多姆山省",
+      "zh-Hant": "多姆山省"
+    }
+  },
+  {
+    "code": "64",
+    "name": "Pyrénées-Atlantiques",
+    "names": {
+      "ja": "ピレネー＝アトランティック県",
+      "ko": "피레네자틀랑티크주",
+      "vi": "Pyrénées-Atlantiques",
+      "id": "Pyrénées-Atlantiques",
+      "zh-Hans": "大西洋比利牛斯省",
+      "zh-Hant": "大西洋比利牛斯省"
+    }
+  },
+  {
+    "code": "66",
+    "name": "Pyrénées-Orientales",
+    "names": {
+      "ja": "ピレネー＝オリアンタル県",
+      "ko": "피레네오리앙탈 주",
+      "vi": "Pyrénées-Orientales",
+      "id": "Pyrénées-Orientales",
+      "zh-Hans": "东比利牛斯省",
+      "zh-Hant": "東比利牛斯省"
+    }
+  },
+  {
+    "code": "974",
+    "name": "Réunion",
+    "names": {
+      "ja": "レユニオン",
+      "ko": "레위니옹",
+      "vi": "Réunion",
+      "id": "Réunion",
+      "zh-Hans": "留尼汪",
+      "zh-Hant": "留尼旺"
+    }
+  },
+  {
+    "code": "BL",
+    "name": "Saint Barthélemy",
+    "names": {
+      "ja": "サン・バルテルミー島",
+      "ko": "생바르텔레미",
+      "vi": "Saint-Barthélemy",
+      "id": "Saint-Barthélemy",
+      "zh-Hans": "圣巴泰勒米",
+      "zh-Hant": "聖巴瑟米"
+    }
+  },
+  {
+    "code": "PM",
+    "name": "Saint Pierre and Miquelon",
+    "names": {
+      "ja": "サンピエール島・ミクロン島",
+      "ko": "생피에르 미클롱",
+      "vi": "Saint-Pierre và Miquelon",
+      "id": "Saint Pierre dan Miquelon",
+      "zh-Hans": "圣皮埃尔和密克隆",
+      "zh-Hant": "聖皮埃與密克隆群島"
+    }
+  },
+  {
+    "code": "MF",
+    "name": "Saint-Martin",
+    "names": {
+      "ja": "サン・マルタン",
+      "ko": "생마르탱",
+      "vi": "Saint-Martin",
+      "id": "Saint Martin",
+      "zh-Hans": "法属圣马丁",
+      "zh-Hant": "法屬聖馬丁"
+    }
+  },
+  {
+    "code": "71",
+    "name": "Saône-et-Loire",
+    "names": {
+      "ja": "ソーヌ＝エ＝ロワール県",
+      "ko": "손에루아르주",
+      "vi": "Saône-et-Loire",
+      "id": "Saône-et-Loire",
+      "zh-Hans": "索恩-卢瓦尔省",
+      "zh-Hant": "索恩-盧瓦爾省"
+    }
+  },
+  {
+    "code": "72",
+    "name": "Sarthe",
+    "names": {
+      "ja": "サルト県",
+      "ko": "사르트주",
+      "vi": "Sarthe",
+      "id": "Sarthe",
+      "zh-Hans": "萨尔特省"
+    }
+  },
+  {
+    "code": "73",
+    "name": "Savoie",
+    "names": {
+      "ja": "サヴォワ",
+      "ko": "사부아주",
+      "vi": "Savoie",
+      "id": "Savoie",
+      "zh-Hans": "萨瓦省",
+      "zh-Hant": "薩瓦省"
+    }
+  },
+  {
+    "code": "77",
+    "name": "Seine-et-Marne",
+    "names": {
+      "ja": "セーヌ＝エ＝マルヌ県",
+      "ko": "센에마른",
+      "vi": "Seine-et-Marne",
+      "id": "Seine-et-Marne",
+      "zh-Hans": "塞纳-马恩省",
+      "zh-Hant": "塞納-馬恩省"
+    }
+  },
+  {
+    "code": "76",
+    "name": "Seine-Maritime",
+    "names": {
+      "ja": "セーヌ＝マリティーム県",
+      "ko": "센마리팀주",
+      "vi": "Seine-Maritime",
+      "id": "Seine-Maritime",
+      "zh-Hans": "滨海塞纳省",
+      "zh-Hant": "濱海塞納省"
+    }
+  },
+  {
+    "code": "93",
+    "name": "Seine-Saint-Denis",
+    "names": {
+      "ja": "セーヌ＝サン＝ドニ県",
+      "ko": "센생드니주",
+      "vi": "Seine-Saint-Denis",
+      "id": "Seine-Saint-Denis",
+      "zh-Hans": "塞纳-圣但尼省",
+      "zh-Hant": "塞納-聖但尼省"
+    }
+  },
+  {
+    "code": "80",
+    "name": "Somme",
+    "names": {
+      "ja": "ソンム県",
+      "ko": "솜주",
+      "vi": "Somme",
+      "id": "Somme",
+      "zh-Hans": "索姆省"
+    }
+  },
+  {
+    "code": "81",
+    "name": "Tarn",
+    "names": {
+      "ja": "タルヌ県",
+      "ko": "타른주",
+      "vi": "Tarn",
+      "id": "Tarn",
+      "zh-Hans": "塔恩省",
+      "zh-Hant": "塔恩省"
+    }
+  },
+  {
+    "code": "82",
+    "name": "Tarn-et-Garonne",
+    "names": {
+      "ja": "タルヌ＝エ＝ガロンヌ県",
+      "ko": "타른에가론주",
+      "vi": "Tarn-et-Garonne",
+      "id": "Tarn-et-Garonne",
+      "zh-Hans": "塔恩-加龙省"
+    }
+  },
+  {
+    "code": "90",
+    "name": "Territoire de Belfort",
+    "names": {
+      "ja": "テリトワール・ド・ベルフォール県",
+      "ko": "테리투아르드벨포르주",
+      "vi": "Lãnh thổ Belfort",
+      "id": "Territoire de Belfort",
+      "zh-Hans": "贝尔福地区省"
+    }
+  },
+  {
+    "code": "95",
+    "name": "Val-d'Oise",
+    "names": {
+      "ja": "ヴァル＝ドワーズ県",
+      "ko": "발두아즈주",
+      "vi": "Val-d'Oise",
+      "id": "Val-d'Oise",
+      "zh-Hans": "瓦兹河谷省",
+      "zh-Hant": "瓦茲河谷省"
+    }
+  },
+  {
+    "code": "94",
+    "name": "Val-de-Marne",
+    "names": {
+      "ja": "ヴァル＝ド＝マルヌ県",
+      "ko": "발드마른주",
+      "vi": "Val-de-Marne",
+      "id": "Val-de-Marne",
+      "zh-Hans": "马恩河谷省",
+      "zh-Hant": "馬恩河谷省"
+    }
+  },
+  {
+    "code": "83",
+    "name": "Var",
+    "names": {
+      "ja": "ヴァール県",
+      "ko": "바르주",
+      "vi": "Var",
+      "id": "Var",
+      "zh-Hans": "瓦尔省",
+      "zh-Hant": "瓦爾省"
+    }
+  },
+  {
+    "code": "84",
+    "name": "Vaucluse",
+    "names": {
+      "ja": "ヴォクリューズ県",
+      "ko": "보클뤼즈주",
+      "vi": "Vaucluse",
+      "id": "Vaucluse",
+      "zh-Hans": "沃克吕兹省",
+      "zh-Hant": "沃克呂茲省"
+    }
+  },
+  {
+    "code": "85",
+    "name": "Vendée",
+    "names": {
+      "ja": "ヴァンデ県",
+      "ko": "방데주",
+      "vi": "Vendée",
+      "id": "Vendée",
+      "zh-Hans": "旺代省",
+      "zh-Hant": "旺代省"
+    }
+  },
+  {
+    "code": "86",
+    "name": "Vienne",
+    "names": {
+      "ja": "ヴィエンヌ県",
+      "ko": "비엔주",
+      "vi": "Vienne",
+      "id": "Vienne",
+      "zh-Hans": "维埃纳省",
+      "zh-Hant": "維埃納省"
+    }
+  },
+  {
+    "code": "88",
+    "name": "Vosges",
+    "names": {
+      "ja": "ヴォージュ県",
+      "ko": "보주주",
+      "vi": "Vosges",
+      "id": "Vosges",
+      "zh-Hans": "孚日省",
+      "zh-Hant": "弗日省"
+    }
+  },
+  {
+    "code": "WF",
+    "name": "Wallis and Futuna",
+    "names": {
+      "ja": "ウォリス・フツナ",
+      "ko": "왈리스 푸투나",
+      "vi": "Wallis và Futuna",
+      "id": "Wallis dan Futuna",
+      "zh-Hans": "瓦利斯和富图纳",
+      "zh-Hant": "瓦利斯和富圖納"
+    }
+  },
+  {
+    "code": "89",
+    "name": "Yonne",
+    "names": {
+      "ja": "ヨンヌ県",
+      "ko": "욘주",
+      "vi": "Yonne",
+      "id": "Yonne",
+      "zh-Hans": "约讷省"
+    }
+  },
+  {
+    "code": "78",
+    "name": "Yvelines",
+    "names": {
+      "ja": "イヴリーヌ県",
+      "ko": "이블린주",
+      "vi": "Yvelines",
+      "id": "Yvelines",
+      "zh-Hans": "伊夫林省",
+      "zh-Hant": "伊夫林"
+    }
+  }
+]

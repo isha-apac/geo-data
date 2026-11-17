@@ -1,0 +1,47 @@
+[
+  {
+    "code": "DEV",
+    "name": "Devonshire",
+    "names": {}
+  },
+  {
+    "code": "HA",
+    "name": "Hamilton",
+    "names": {}
+  },
+  {
+    "code": "PAG",
+    "name": "Paget",
+    "names": {}
+  },
+  {
+    "code": "PEM",
+    "name": "Pembroke",
+    "names": {}
+  },
+  {
+    "code": "SGE",
+    "name": "Saint George's",
+    "names": {}
+  },
+  {
+    "code": "SAN",
+    "name": "Sandys",
+    "names": {}
+  },
+  {
+    "code": "SMI",
+    "name": "Smith's",
+    "names": {}
+  },
+  {
+    "code": "SOU",
+    "name": "Southampton",
+    "names": {}
+  },
+  {
+    "code": "WAR",
+    "name": "Warwick",
+    "names": {}
+  }
+]

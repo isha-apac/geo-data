@@ -1,0 +1,766 @@
+[
+  {
+    "code": "AGD",
+    "name": "Agadir-Ida-Ou-Tanane Prefecture",
+    "names": {
+      "ja": "アガディール＝イダ＝オ＝タナネ県"
+    }
+  },
+  {
+    "code": "HAO",
+    "name": "Al Haouz Province",
+    "names": {
+      "ja": "ハオウズ",
+      "zh-Hans": "豪兹省",
+      "zh-Hant": "豪茲省"
+    }
+  },
+  {
+    "code": "HOC",
+    "name": "Al Hoceima Province",
+    "names": {
+      "ja": "アル・ホセイマ州",
+      "id": "Provinsi Al Hoceïma",
+      "zh-Hans": "胡塞马省",
+      "zh-Hant": "胡塞馬省"
+    }
+  },
+  {
+    "code": "AOU",
+    "name": "Aousserd Province",
+    "names": {
+      "ja": "アウサード州",
+      "zh-Hans": "奧塞爾德省",
+      "zh-Hant": "奧塞爾德省"
+    }
+  },
+  {
+    "code": "ASZ",
+    "name": "Assa-Zag Province",
+    "names": {
+      "ja": "アサ・ザグ州",
+      "zh-Hans": "阿薩-扎格省",
+      "zh-Hant": "阿薩-扎格省"
+    }
+  },
+  {
+    "code": "AZI",
+    "name": "Azilal Province",
+    "names": {
+      "ja": "アジラル州",
+      "zh-Hans": "艾濟拉勒省"
+    }
+  },
+  {
+    "code": "BES",
+    "name": "Ben Slimane Province",
+    "names": {
+      "ja": "ベン・スリマン州",
+      "zh-Hans": "本蘇萊曼省"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Béni Mellal-Khénifra",
+    "names": {
+      "ja": "ベニ・メラル＝ヘニフラ地方",
+      "ko": "베니멜랄케니프라 지방",
+      "id": "Béni Mellal-Khénifra",
+      "zh-Hans": "貝尼邁拉勒-海尼夫拉省"
+    }
+  },
+  {
+    "code": "BEM",
+    "name": "Béni-Mellal Province",
+    "names": {
+      "ja": "ベニ・メラル州",
+      "zh-Hans": "貝尼邁拉勒省",
+      "zh-Hant": "貝尼邁拉勒省"
+    }
+  },
+  {
+    "code": "BER",
+    "name": "Berkane Province",
+    "names": {
+      "ja": "ベルカンヌ州",
+      "zh-Hans": "拜尔坎省",
+      "zh-Hant": "拜爾坎省"
+    }
+  },
+  {
+    "code": "BRR",
+    "name": "Berrechid Province",
+    "names": {
+      "ja": "ベレチド州",
+      "zh-Hans": "拜賴希德省"
+    }
+  },
+  {
+    "code": "BOD",
+    "name": "Boujdour Province",
+    "names": {
+      "ja": "ブジュール州",
+      "zh-Hans": "布支杜爾省",
+      "zh-Hant": "布支杜爾省"
+    }
+  },
+  {
+    "code": "BOM",
+    "name": "Boulemane Province",
+    "names": {
+      "ja": "ブルマーヌ州",
+      "zh-Hans": "布勒曼省"
+    }
+  },
+  {
+    "code": "CAS",
+    "name": "Casablanca Prefecture",
+    "names": {
+      "ja": "カサブランカ県"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Casablanca-Settat",
+    "names": {
+      "ja": "カサブランカ＝セタット地方",
+      "ko": "카사블랑카세타트 지방",
+      "id": "Casablanca-Settat",
+      "zh-Hans": "卡薩布蘭卡-塞塔特大區",
+      "zh-Hant": "卡薩布蘭卡-塞塔特大區"
+    }
+  },
+  {
+    "code": "CHE",
+    "name": "Chefchaouen Province",
+    "names": {
+      "ja": "シャウエン州",
+      "zh-Hans": "舍夫沙万省",
+      "zh-Hant": "舍夫沙萬省"
+    }
+  },
+  {
+    "code": "CHI",
+    "name": "Chichaoua (Province)",
+    "names": {
+      "ja": "シカウア州",
+      "zh-Hans": "希沙瓦省"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Dakhla-Oued Ed-Dahab",
+    "names": {
+      "ja": "ダフラ＝オウィド・エッ＝ダハブ地方",
+      "ko": "다클라웨드에드다하브 지방",
+      "id": "Dakhla-Oued Ed-Dahab",
+      "zh-Hans": "达赫拉-乌德埃德达哈布"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Drâa-Tafilalet",
+    "names": {
+      "ja": "ドラア＝タフィラルト地方",
+      "ko": "드라타필랄레트 지방",
+      "id": "Drâa-Tafilalet",
+      "zh-Hans": "德拉-塔菲拉勒特大區"
+    }
+  },
+  {
+    "code": "DRI",
+    "name": "Driouch Province",
+    "names": {
+      "ja": "ドリオウチュ州",
+      "zh-Hans": "德利欧奇省",
+      "zh-Hant": "德利歐奇省"
+    }
+  },
+  {
+    "code": "HAJ",
+    "name": "El Hajeb Province",
+    "names": {
+      "ja": "ハジェブ州",
+      "zh-Hans": "哈杰卜省",
+      "zh-Hant": "哈傑卜省"
+    }
+  },
+  {
+    "code": "JDI",
+    "name": "El Jadida Province",
+    "names": {
+      "ja": "アル・ジャディーダ州",
+      "zh-Hans": "傑迪代省"
+    }
+  },
+  {
+    "code": "ERR",
+    "name": "Errachidia Province",
+    "names": {
+      "ja": "エルラシディア州",
+      "zh-Hans": "拉希迪耶省"
+    }
+  },
+  {
+    "code": "ESM",
+    "name": "Es Semara Province",
+    "names": {
+      "ja": "スマラ州",
+      "zh-Hans": "塞馬拉省"
+    }
+  },
+  {
+    "code": "ESI",
+    "name": "Essaouira Province",
+    "names": {
+      "ja": "エッサウィラ州",
+      "zh-Hans": "索维拉省",
+      "zh-Hant": "索維拉省"
+    }
+  },
+  {
+    "code": "FAH",
+    "name": "Fahs Anjra Province",
+    "names": {
+      "ja": "ファフス・アンジュラ州",
+      "zh-Hans": "法希安杰拉省",
+      "zh-Hant": "法希安傑拉省"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Fès-Meknès",
+    "names": {
+      "ja": "フェズ＝メクネス地方",
+      "ko": "페스메크네스 지방",
+      "id": "Fès-Meknès",
+      "zh-Hans": "非斯-梅克内斯大区"
+    }
+  },
+  {
+    "code": "FES",
+    "name": "Fez Prefecture",
+    "names": {
+      "ja": "フェズ",
+      "ko": "페즈",
+      "vi": "Fez (Tỉnh)",
+      "id": "Fez (Prefecture)",
+      "zh-Hans": "费兹（县）"
+    }
+  },
+  {
+    "code": "FIG",
+    "name": "Figuig Province",
+    "names": {
+      "ja": "フィギグ州",
+      "zh-Hans": "菲吉格省"
+    }
+  },
+  {
+    "code": "FQH",
+    "name": "Fquih Ben Salah Province",
+    "names": {
+      "ja": "フキレ・ベンヌ・サラ州",
+      "zh-Hans": "弗基赫拜尼塞拉赫省"
+    }
+  },
+  {
+    "code": "GUE",
+    "name": "Guelmim Province",
+    "names": {
+      "ja": "ゲルミン州",
+      "ko": "구엘밈 프로빈스",
+      "vi": "Tỉnh Guelmim",
+      "id": "Guelmim Province",
+      "zh-Hans": "瓜尔米姆省"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Guelmim-Oued Noun",
+    "names": {
+      "ja": "ゲルミン＝オウィド・ノウン地方",
+      "ko": "겔밈웨드눈 지방",
+      "id": "Guelmim-Oued Noun",
+      "zh-Hans": "蓋勒敏-農河大區"
+    }
+  },
+  {
+    "code": "GUF",
+    "name": "Guercif Province",
+    "names": {
+      "ja": "ゲルシフ州",
+      "zh-Hans": "盖尔西夫省",
+      "zh-Hant": "蓋爾西夫省"
+    }
+  },
+  {
+    "code": "IFR",
+    "name": "Ifrane Province",
+    "names": {
+      "ja": "イフレン州",
+      "zh-Hans": "伊夫兰省",
+      "zh-Hant": "伊夫蘭省"
+    }
+  },
+  {
+    "code": "INE",
+    "name": "Inezgane-Aït Melloul Prefecture",
+    "names": {
+      "ja": "イネガーヌ・アイト・メロウル県",
+      "zh-Hans": "伊奈兹甘-阿伊特迈卢勒省"
+    }
+  },
+  {
+    "code": "JRA",
+    "name": "Jerada Province",
+    "names": {
+      "ja": "ジェラダ州",
+      "zh-Hans": "杰拉达省",
+      "zh-Hant": "傑拉達省"
+    }
+  },
+  {
+    "code": "KES",
+    "name": "Kelaat Sraghna Province",
+    "names": {
+      "ja": "エル・ケッラ・デ・スラーナ州",
+      "zh-Hans": "克拉德斯拉格纳省",
+      "zh-Hant": "克拉德斯拉格納省"
+    }
+  },
+  {
+    "code": "KEN",
+    "name": "Kénitra Province",
+    "names": {
+      "ja": "ケニトラ州",
+      "zh-Hans": "盖尼特拉省",
+      "zh-Hant": "蓋尼特拉省"
+    }
+  },
+  {
+    "code": "KHE",
+    "name": "Khémisset Province",
+    "names": {
+      "ja": "ケミセット州",
+      "zh-Hans": "海米萨特省",
+      "zh-Hant": "海米薩特省"
+    }
+  },
+  {
+    "code": "KHN",
+    "name": "Khénifra Province",
+    "names": {
+      "ja": "ヘニフラ州",
+      "zh-Hans": "海尼夫拉省"
+    }
+  },
+  {
+    "code": "KHO",
+    "name": "Khouribga Province",
+    "names": {
+      "ja": "クーリブカ州",
+      "id": "Provinsi Khouribga",
+      "zh-Hans": "胡里卜蓋省"
+    }
+  },
+  {
+    "code": "LAA",
+    "name": "Laâyoune Province",
+    "names": {
+      "ja": "アイウン州",
+      "zh-Hans": "阿尤恩省"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Laâyoune-Sakia El Hamra",
+    "names": {
+      "ja": "赤い足の目",
+      "ko": "라윤사키아엘함라 지방",
+      "id": "Laâyoune-Sakia El Hamra",
+      "zh-Hans": "阿尤恩-萨基亚-阿姆拉大区"
+    }
+  },
+  {
+    "code": "LAR",
+    "name": "Larache Province",
+    "names": {
+      "ja": "アライシュ州",
+      "zh-Hans": "拉腊什省",
+      "zh-Hant": "拉臘什省"
+    }
+  },
+  {
+    "code": "MDF",
+    "name": "M'diq-Fnideq Prefecture",
+    "names": {
+      "ja": "メディック・フニデク県",
+      "zh-Hans": "迈迪格-费尼迪克专区",
+      "zh-Hant": "邁迪格-費尼迪克專區"
+    }
+  },
+  {
+    "code": "MAR",
+    "name": "Marrakesh Prefecture",
+    "names": {
+      "ja": "マラケシュ県"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Marrakesh-Safi",
+    "names": {
+      "ja": "マラケシュ＝サフィ地方",
+      "ko": "마라케시사피 지방",
+      "id": "Marrakesh-Safi",
+      "zh-Hans": "马拉喀什-萨菲大区"
+    }
+  },
+  {
+    "code": "MED",
+    "name": "Mediouna Province",
+    "names": {
+      "ja": "メディウナ州",
+      "zh-Hans": "梅久那省"
+    }
+  },
+  {
+    "code": "MEK",
+    "name": "Meknès Prefecture",
+    "names": {
+      "ja": "メクネス県",
+      "zh-Hans": "梅克內斯省"
+    }
+  },
+  {
+    "code": "MID",
+    "name": "Midelt Province",
+    "names": {
+      "ja": "ミデルト州",
+      "zh-Hans": "米德勒特省"
+    }
+  },
+  {
+    "code": "MOH",
+    "name": "Mohammedia Prefecture",
+    "names": {
+      "ja": "モハメディア県"
+    }
+  },
+  {
+    "code": "MOU",
+    "name": "Moulay Yacoub Province",
+    "names": {
+      "ja": "ムーレイ・ヤコブ州",
+      "zh-Hans": "穆莱雅各布省",
+      "zh-Hant": "穆萊雅各布省"
+    }
+  },
+  {
+    "code": "NAD",
+    "name": "Nador Province",
+    "names": {
+      "ja": "ナドール州",
+      "ko": "나도르주",
+      "zh-Hans": "纳祖尔省",
+      "zh-Hant": "納祖爾省"
+    }
+  },
+  {
+    "code": "NOU",
+    "name": "Nouaceur Province",
+    "names": {
+      "ja": "ノウアセウル州",
+      "zh-Hans": "諾瓦瑟爾省",
+      "zh-Hant": "諾瓦瑟爾省"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Oriental",
+    "names": {
+      "ja": "オリアンタル地方",
+      "ko": "오리앙탈 지방",
+      "id": "Oriental (Maroko)",
+      "zh-Hans": "东部大区"
+    }
+  },
+  {
+    "code": "OUA",
+    "name": "Ouarzazate Province",
+    "names": {
+      "ja": "ワルザザート州",
+      "zh-Hans": "瓦爾扎扎特省"
+    }
+  },
+  {
+    "code": "OUD",
+    "name": "Oued Ed-Dahab Province",
+    "names": {
+      "ja": "オウィド・エッ＝ダハブ州",
+      "ko": "우에드 에드 다합 주",
+      "vi": "Oued Ed-Dahab Tỉnh",
+      "id": "Provinsi Oued Ed-Dahab",
+      "zh-Hans": "黃金谷地省"
+    }
+  },
+  {
+    "code": "OUZ",
+    "name": "Ouezzane Province",
+    "names": {
+      "ja": "ウェザーン州",
+      "zh-Hans": "沃赞省",
+      "zh-Hant": "沃贊省"
+    }
+  },
+  {
+    "code": "OUJ",
+    "name": "Oujda-Angad Prefecture",
+    "names": {
+      "ja": "ウジダ・アンガ県",
+      "zh-Hans": "乌季达-安加得专区",
+      "zh-Hant": "烏季達-安加得專區"
+    }
+  },
+  {
+    "code": "RAB",
+    "name": "Rabat Prefecture",
+    "names": {
+      "ja": "ラバト県"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Rabat-Salé-Kénitra",
+    "names": {
+      "ja": "ラバト＝サレ＝ケニトラ地方",
+      "ko": "라바트살레케니트라 지방",
+      "id": "Rabat-Salé-Kénitra",
+      "zh-Hans": "拉巴特-塞拉-盖尼特拉大区"
+    }
+  },
+  {
+    "code": "REH",
+    "name": "Rhamna Province",
+    "names": {
+      "ja": "レハムナ州",
+      "zh-Hans": "赖哈姆纳省",
+      "zh-Hant": "賴哈姆納省"
+    }
+  },
+  {
+    "code": "SAF",
+    "name": "Safi Province",
+    "names": {
+      "ja": "サフィ州",
+      "zh-Hans": "萨菲省",
+      "zh-Hant": "薩菲省"
+    }
+  },
+  {
+    "code": "SAL",
+    "name": "Salé Prefecture",
+    "names": {
+      "ja": "サレ県"
+    }
+  },
+  {
+    "code": "SEF",
+    "name": "Sefrou Province",
+    "names": {
+      "ja": "セフル州",
+      "zh-Hans": "塞夫鲁省",
+      "zh-Hant": "塞夫魯省"
+    }
+  },
+  {
+    "code": "SET",
+    "name": "Settat Province",
+    "names": {
+      "ja": "セタト州",
+      "zh-Hans": "塞塔特省"
+    }
+  },
+  {
+    "code": "CHT",
+    "name": "Shtouka Ait Baha Province",
+    "names": {
+      "ja": "チュトウカ・アイト・バハ州",
+      "zh-Hans": "希圖卡阿伊特巴哈省"
+    }
+  },
+  {
+    "code": "SIB",
+    "name": "Sidi Bennour Province",
+    "names": {
+      "ja": "シディベヌール州",
+      "zh-Hans": "西迪·本努尔省"
+    }
+  },
+  {
+    "code": "SIF",
+    "name": "Sidi Ifni Province",
+    "names": {
+      "ja": "シディ・イフニー州",
+      "zh-Hans": "西迪伊夫尼省"
+    }
+  },
+  {
+    "code": "SIK",
+    "name": "Sidi Kacem Province",
+    "names": {
+      "ja": "シディ・カセム州",
+      "zh-Hans": "西迪卡塞姆省"
+    }
+  },
+  {
+    "code": "SIL",
+    "name": "Sidi Slimane Province",
+    "names": {
+      "ja": "シーディ スリマネ州",
+      "zh-Hans": "西迪苏莱曼省",
+      "zh-Hant": "西迪蘇萊曼省"
+    }
+  },
+  {
+    "code": "SKH",
+    "name": "Skhirat-Témara Prefecture",
+    "names": {
+      "ja": "Skhirat-Témara県",
+      "zh-Hans": "斯希拉特-特马拉专区",
+      "zh-Hant": "斯希拉特-特馬拉專區"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Souss-Massa",
+    "names": {
+      "ja": "スース＝マサ地方",
+      "ko": "수스마사 지방",
+      "id": "Souss-Massa",
+      "zh-Hans": "蘇斯-馬塞大區",
+      "zh-Hant": "蘇斯-馬塞大區"
+    }
+  },
+  {
+    "code": "TNT",
+    "name": "Tan-Tan Province",
+    "names": {
+      "ja": "タンタン州",
+      "zh-Hans": "坦坦省"
+    }
+  },
+  {
+    "code": "TNG",
+    "name": "Tangier-Assilah Prefecture",
+    "names": {
+      "ja": "タンジェ・アシラー県",
+      "zh-Hans": "丹吉尔-艾西拉专区",
+      "zh-Hant": "丹吉爾-艾西拉專區"
+    }
+  },
+  {
+    "code": "01",
+    "name": "Tangier-Tetouan-Al Hoceima",
+    "names": {
+      "ja": "タンジェ＝テトゥアン＝アル・ホセイマ地方",
+      "ko": "탕헤르테투안알호세이마 지방",
+      "id": "Tanger-Tetouan-Al Hoceima",
+      "zh-Hans": "丹吉尔-得土安-胡塞马大区"
+    }
+  },
+  {
+    "code": "TAO",
+    "name": "Taounate Province",
+    "names": {
+      "ja": "タウナト州",
+      "zh-Hans": "陶纳特省",
+      "zh-Hant": "陶納特省"
+    }
+  },
+  {
+    "code": "TAI",
+    "name": "Taourirt Province",
+    "names": {
+      "ja": "タウリル州",
+      "zh-Hans": "陶里尔特省",
+      "zh-Hant": "陶里爾特省"
+    }
+  },
+  {
+    "code": "TAF",
+    "name": "Tarfaya Province",
+    "names": {
+      "ja": "タルファヤ州",
+      "zh-Hans": "塔尔法亚省"
+    }
+  },
+  {
+    "code": "TAR",
+    "name": "Taroudant Province",
+    "names": {
+      "ja": "タルーダント州",
+      "zh-Hans": "塔魯丹特省",
+      "zh-Hant": "塔魯丹特省"
+    }
+  },
+  {
+    "code": "TAT",
+    "name": "Tata Province",
+    "names": {
+      "ja": "タタ州",
+      "zh-Hans": "塔塔省"
+    }
+  },
+  {
+    "code": "TAZ",
+    "name": "Taza Province",
+    "names": {
+      "ja": "ターザ州",
+      "zh-Hans": "塔扎省"
+    }
+  },
+  {
+    "code": "TET",
+    "name": "Tétouan Province",
+    "names": {
+      "ja": "テトゥアン州",
+      "zh-Hans": "得土安省",
+      "zh-Hant": "得土安省"
+    }
+  },
+  {
+    "code": "TIN",
+    "name": "Tinghir Province",
+    "names": {
+      "ja": "ティンジル州",
+      "zh-Hans": "廷吉爾省"
+    }
+  },
+  {
+    "code": "TIZ",
+    "name": "Tiznit Province",
+    "names": {
+      "ja": "ティーズニート州",
+      "zh-Hans": "提茲尼特省"
+    }
+  },
+  {
+    "code": "YUS",
+    "name": "Youssoufia Province",
+    "names": {
+      "ja": "ユスーフィーア州",
+      "zh-Hans": "优素菲耶省",
+      "zh-Hant": "優素菲耶省"
+    }
+  },
+  {
+    "code": "ZAG",
+    "name": "Zagora Province",
+    "names": {
+      "ja": "ザゴラ州",
+      "zh-Hans": "扎古拉省"
+    }
+  }
+]

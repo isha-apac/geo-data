@@ -1,0 +1,91 @@
+[
+  {
+    "code": "AK",
+    "name": "Akkar Governorate",
+    "names": {
+      "ja": "アッカール県",
+      "ko": "아카르주",
+      "zh-Hans": "阿卡尔省"
+    }
+  },
+  {
+    "code": "BH",
+    "name": "Baalbek-Hermel Governorate",
+    "names": {
+      "ja": "バールベック＝ヘルメル県",
+      "ko": "바알베크헤르멜주",
+      "zh-Hans": "巴勒貝克-希爾米勒省"
+    }
+  },
+  {
+    "code": "BA",
+    "name": "Beirut Governorate",
+    "names": {
+      "ja": "ベイルート県",
+      "ko": "베이루트주",
+      "vi": "Beirut",
+      "id": "Kegubernuran Beirut",
+      "zh-Hans": "贝鲁特省",
+      "zh-Hant": "貝魯特省"
+    }
+  },
+  {
+    "code": "BI",
+    "name": "Beqaa Governorate",
+    "names": {
+      "ja": "ベッカー県",
+      "ko": "베카주",
+      "vi": "Beqaa",
+      "id": "Kegubernuran Bekaa",
+      "zh-Hans": "贝卡省",
+      "zh-Hant": "貝卡省"
+    }
+  },
+  {
+    "code": "JL",
+    "name": "Mount Lebanon Governorate",
+    "names": {
+      "ja": "山岳レバノン県",
+      "ko": "레바논산주",
+      "vi": "Núi Liban",
+      "id": "Kegubernuran Gunung Lebanon",
+      "zh-Hans": "黎巴嫩山省",
+      "zh-Hant": "黎巴嫩山省"
+    }
+  },
+  {
+    "code": "NA",
+    "name": "Nabatieh Governorate",
+    "names": {
+      "ja": "ナバティーエ県",
+      "ko": "나바티예주",
+      "vi": "Nabatieh",
+      "id": "Kegubernuran Nabatiye",
+      "zh-Hans": "奈拜提耶省",
+      "zh-Hant": "奈拜提耶省"
+    }
+  },
+  {
+    "code": "AS",
+    "name": "North Governorate",
+    "names": {
+      "ja": "北レバノン県",
+      "ko": "북부주",
+      "vi": "Tỉnh Bắc",
+      "id": "Kegubernuran Utara",
+      "zh-Hans": "北部省",
+      "zh-Hant": "北部省"
+    }
+  },
+  {
+    "code": "JA",
+    "name": "South Governorate",
+    "names": {
+      "ja": "南レバノン県",
+      "ko": "남부주",
+      "vi": "Tỉnh Nam",
+      "id": "Kegubernuran Selatan",
+      "zh-Hans": "南部省"
+    }
+  }
+]

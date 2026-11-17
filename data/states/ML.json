@@ -1,0 +1,126 @@
+[
+  {
+    "code": "BKO",
+    "name": "Bamako",
+    "names": {
+      "ja": "バマコ",
+      "ko": "바마코",
+      "vi": "Bamako",
+      "id": "Bamako",
+      "zh-Hans": "巴马科",
+      "zh-Hant": "巴馬科"
+    }
+  },
+  {
+    "code": "7",
+    "name": "Gao Region",
+    "names": {
+      "ja": "ガオ州",
+      "ko": "가오주",
+      "vi": "Khu vực Gao",
+      "id": "Region Gao",
+      "zh-Hans": "加奥区",
+      "zh-Hant": "加奧區"
+    }
+  },
+  {
+    "code": "1",
+    "name": "Kayes Region",
+    "names": {
+      "ja": "カイ州",
+      "ko": "케스주",
+      "vi": "Khu vực Kayes",
+      "id": "Region Kayes",
+      "zh-Hans": "卡伊区",
+      "zh-Hant": "卡伊區"
+    }
+  },
+  {
+    "code": "8",
+    "name": "Kidal Region",
+    "names": {
+      "ja": "キダル州",
+      "ko": "키달주",
+      "vi": "Khu vực Kidal",
+      "id": "Region Kidal",
+      "zh-Hans": "基达尔区",
+      "zh-Hant": "基達爾區"
+    }
+  },
+  {
+    "code": "2",
+    "name": "Koulikoro Region",
+    "names": {
+      "ja": "クリコロ州",
+      "ko": "쿨리코로주",
+      "vi": "Khu vực Koulikoro",
+      "id": "Region Koulikoro",
+      "zh-Hans": "库利科罗区"
+    }
+  },
+  {
+    "code": "9",
+    "name": "Ménaka Region",
+    "names": {
+      "ja": "メナカ州",
+      "zh-Hans": "馬里行政區",
+      "zh-Hant": "馬里行政區"
+    }
+  },
+  {
+    "code": "5",
+    "name": "Mopti Region",
+    "names": {
+      "ja": "モプティ州",
+      "ko": "몹티주",
+      "vi": "Khu vực Mopti",
+      "id": "Region Mopti",
+      "zh-Hans": "莫普提区",
+      "zh-Hant": "莫普提區"
+    }
+  },
+  {
+    "code": "4",
+    "name": "Ségou Region",
+    "names": {
+      "ja": "セグー州",
+      "ko": "세구주",
+      "vi": "Khu vực Ségou",
+      "id": "Region Ségou",
+      "zh-Hans": "塞古区",
+      "zh-Hant": "塞古區"
+    }
+  },
+  {
+    "code": "3",
+    "name": "Sikasso Region",
+    "names": {
+      "ja": "シカソ州",
+      "ko": "시카소주",
+      "vi": "Khu vực Sikasso",
+      "id": "Region Sikasso",
+      "zh-Hans": "锡卡索区",
+      "zh-Hant": "錫卡索區"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Taoudénit Region",
+    "names": {
+      "ja": "タウデニ州",
+      "zh-Hans": "陶代尼区"
+    }
+  },
+  {
+    "code": "6",
+    "name": "Timbuktu Region",
+    "names": {
+      "ja": "トンブクトゥ州",
+      "ko": "통북투주",
+      "vi": "Khu vực Tombouctou",
+      "id": "Region Timbuktu",
+      "zh-Hans": "通布图区",
+      "zh-Hant": "通布圖區"
+    }
+  }
+]

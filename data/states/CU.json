@@ -1,0 +1,191 @@
+[
+  {
+    "code": "15",
+    "name": "Artemisa Province",
+    "names": {
+      "ja": "アルテミサ州",
+      "ko": "아르테미사주",
+      "vi": "Artemisa",
+      "id": "Provinsi Artemisa",
+      "zh-Hans": "阿特米萨省",
+      "zh-Hant": "阿特米薩省"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Camagüey Province",
+    "names": {
+      "ja": "カマグエイ州",
+      "ko": "카마궤이주",
+      "vi": "Camagüey",
+      "id": "Provinsi Camagüey",
+      "zh-Hans": "卡马圭省",
+      "zh-Hant": "卡馬圭省"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Ciego de Ávila Province",
+    "names": {
+      "ja": "シエゴ・デ・アビラ州",
+      "ko": "시에고데아빌라주",
+      "vi": "Ciego de Ávila",
+      "id": "Provinsi Ciego de Ávila",
+      "zh-Hans": "谢戈德阿维拉省",
+      "zh-Hant": "謝戈德阿維拉省"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Cienfuegos Province",
+    "names": {
+      "ja": "シエンフエゴス州",
+      "ko": "시엔푸에고스주",
+      "vi": "Cienfuegos",
+      "id": "Provinsi Cienfuegos",
+      "zh-Hans": "西恩富戈斯省",
+      "zh-Hant": "西恩富戈斯省"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Granma Province",
+    "names": {
+      "ja": "グランマ州",
+      "ko": "그란마주",
+      "vi": "Granma",
+      "id": "Provinsi Granma",
+      "zh-Hans": "格拉玛省",
+      "zh-Hant": "格拉瑪省"
+    }
+  },
+  {
+    "code": "14",
+    "name": "Guantánamo Province",
+    "names": {
+      "ja": "グアンタナモ州",
+      "ko": "관타나모주",
+      "vi": "Guantánamo",
+      "id": "Provinsi Guantánamo",
+      "zh-Hans": "关塔那摩省",
+      "zh-Hant": "關塔那摩省"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Havana Province",
+    "names": {
+      "ja": "ラ・アバーナ州",
+      "id": "Provinsi Havana",
+      "zh-Hans": "哈瓦那省",
+      "zh-Hant": "哈瓦那省"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Holguín Province",
+    "names": {
+      "ja": "オルギン州",
+      "ko": "올긴주",
+      "vi": "Holguín",
+      "id": "Provinsi Holguín",
+      "zh-Hans": "奥尔金省",
+      "zh-Hant": "奧爾金省"
+    }
+  },
+  {
+    "code": "99",
+    "name": "Isla de la Juventud",
+    "names": {
+      "ja": "青年の島",
+      "ko": "후벤투드섬",
+      "vi": "Isla de la Juventud",
+      "id": "Isla de la Juventud",
+      "zh-Hans": "青年岛",
+      "zh-Hant": "青年島"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Las Tunas Province",
+    "names": {
+      "ja": "ラス・トゥーナス州",
+      "ko": "라스투나스주",
+      "vi": "Las Tunas",
+      "id": "Provinsi Las Tunas",
+      "zh-Hans": "拉斯图纳斯省",
+      "zh-Hant": "拉斯圖納斯省"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Matanzas Province",
+    "names": {
+      "ja": "マタンサス州",
+      "ko": "마탄사스주",
+      "vi": "Matanzas",
+      "id": "Provinsi Matanzas",
+      "zh-Hans": "马坦萨斯省",
+      "zh-Hant": "馬坦薩斯省"
+    }
+  },
+  {
+    "code": "16",
+    "name": "Mayabeque Province",
+    "names": {
+      "ja": "マヤベケ州",
+      "ko": "마야베케주",
+      "vi": "Mayabeque",
+      "id": "Provinsi Mayabeque",
+      "zh-Hans": "马亚韦克省"
+    }
+  },
+  {
+    "code": "01",
+    "name": "Pinar del Río Province",
+    "names": {
+      "ja": "ピナール・デル・リオ州",
+      "ko": "피나르델리오주",
+      "vi": "Pinar del Río",
+      "id": "Provinsi Pinar del Río",
+      "zh-Hans": "比那尔德里奥省",
+      "zh-Hant": "比那爾德里奧省"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Sancti Spíritus Province",
+    "names": {
+      "ja": "サンクティ・スピリトゥス州",
+      "ko": "상크티스피리투스주",
+      "vi": "Sancti Spíritus",
+      "id": "Provinsi Sancti Spíritus",
+      "zh-Hans": "圣斯皮里图斯省",
+      "zh-Hant": "聖斯皮里圖斯省"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Santiago de Cuba Province",
+    "names": {
+      "ja": "サンティアゴ・デ・クーバ州",
+      "ko": "산티아고데쿠바주",
+      "vi": "Santiago de Cuba",
+      "id": "Provinsi Santiago de Cuba",
+      "zh-Hans": "圣地亚哥省",
+      "zh-Hant": "聖地亞哥省"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Villa Clara Province",
+    "names": {
+      "ja": "ビジャ・クララ州",
+      "ko": "비야클라라주",
+      "vi": "Villa Clara",
+      "id": "Provinsi Villa Clara",
+      "zh-Hans": "比亚克拉拉省",
+      "zh-Hant": "比亞克拉拉省"
+    }
+  }
+]

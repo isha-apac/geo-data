@@ -1,0 +1,264 @@
+[
+  {
+    "code": "BG",
+    "name": "Bahr el Gazel",
+    "names": {
+      "ja": "バル・エル＝ガゼル州",
+      "ko": "바르엘가젤주",
+      "vi": "Khu vực Bahr el Gazel",
+      "id": "Wilayah Bahr el Gazel",
+      "zh-Hans": "加扎勒河区",
+      "zh-Hant": "加扎勒河區"
+    }
+  },
+  {
+    "code": "BA",
+    "name": "Batha Region",
+    "names": {
+      "ja": "バタ州",
+      "ko": "바타주",
+      "vi": "Khu vực Batha",
+      "id": "Region Batha",
+      "zh-Hans": "巴塔区"
+    }
+  },
+  {
+    "code": "BO",
+    "name": "Borkou",
+    "names": {
+      "ja": "ボルク州",
+      "ko": "보르쿠주",
+      "vi": "Khu vực Borkou",
+      "id": "Wilayah Borkou",
+      "zh-Hans": "博尔库区",
+      "zh-Hant": "博爾庫區"
+    }
+  },
+  {
+    "code": "CB",
+    "name": "Chari-Baguirmi Region",
+    "names": {
+      "ja": "シャリ＝バギルミ州",
+      "ko": "샤리바기르미주",
+      "vi": "Khu vực Chari-Baguirmi",
+      "id": "Region Chari-Baguirmi",
+      "zh-Hans": "沙里-巴吉尔米区",
+      "zh-Hant": "沙里-巴吉爾米區"
+    }
+  },
+  {
+    "code": "EE",
+    "name": "Ennedi-Est",
+    "names": {
+      "ja": "東エネディ州",
+      "id": "Provinsi Ennedi Est",
+      "zh-Hans": "东恩内迪区"
+    }
+  },
+  {
+    "code": "EO",
+    "name": "Ennedi-Ouest",
+    "names": {
+      "ja": "西エネディ州",
+      "id": "Provinsi Ennedi Ouest",
+      "zh-Hans": "西恩內迪區"
+    }
+  },
+  {
+    "code": "GR",
+    "name": "Guéra Region",
+    "names": {
+      "ja": "ゲラ州",
+      "ko": "게라주",
+      "vi": "Khu vực Guera",
+      "id": "Wilayah Guéra",
+      "zh-Hans": "盖拉区"
+    }
+  },
+  {
+    "code": "HL",
+    "name": "Hadjer-Lamis",
+    "names": {
+      "ja": "ハジェル＝ラミ州",
+      "ko": "하제르라미주",
+      "vi": "Khu vực Hadjer-Lamis",
+      "id": "Region Hadjer-Lamis",
+      "zh-Hans": "哈杰尔-拉密区",
+      "zh-Hant": "哈傑爾-拉密區"
+    }
+  },
+  {
+    "code": "KA",
+    "name": "Kanem Region",
+    "names": {
+      "ja": "カネム州",
+      "ko": "카넴주",
+      "vi": "Khu vực Kanem",
+      "id": "Region Kanem",
+      "zh-Hans": "加奈姆区",
+      "zh-Hant": "加奈姆區"
+    }
+  },
+  {
+    "code": "LC",
+    "name": "Lac Region",
+    "names": {
+      "ja": "ラク州",
+      "ko": "라크주",
+      "vi": "Khu vực Lac",
+      "id": "Region Lac",
+      "zh-Hans": "湖区",
+      "zh-Hant": "湖區"
+    }
+  },
+  {
+    "code": "LO",
+    "name": "Logone Occidental Region",
+    "names": {
+      "ja": "ロゴン・オクシデンタル州",
+      "ko": "로곤옥시당탈주",
+      "vi": "Khu vực Logone Occidental",
+      "id": "Region Logone Occidental",
+      "zh-Hans": "西洛贡区"
+    }
+  },
+  {
+    "code": "LR",
+    "name": "Logone Oriental Region",
+    "names": {
+      "ja": "ロゴン・オリエンタル州",
+      "ko": "로곤오리앙탈주",
+      "vi": "Khu vực Logone Oriental",
+      "id": "Region Logone Oriental",
+      "zh-Hans": "东洛贡区"
+    }
+  },
+  {
+    "code": "MA",
+    "name": "Mandoul Region",
+    "names": {
+      "ja": "マンドゥル州",
+      "ko": "망둘주",
+      "vi": "Khu vực Mandoul",
+      "id": "Region Mandoul",
+      "zh-Hans": "芒杜尔区"
+    }
+  },
+  {
+    "code": "ME",
+    "name": "Mayo-Kebbi Est Region",
+    "names": {
+      "ja": "東マヨ・ケッビ州",
+      "ko": "마요케비에스트주",
+      "vi": "Khu vực Mayo-Kebbi Est",
+      "id": "Region Mayo-Kebbi Est",
+      "zh-Hans": "东凯比河区",
+      "zh-Hant": "東凱比河區"
+    }
+  },
+  {
+    "code": "MO",
+    "name": "Mayo-Kebbi Ouest Region",
+    "names": {
+      "ja": "西マヨ・ケッビ州",
+      "ko": "마요케비우에스트주",
+      "vi": "Khu vực Mayo-Kebbi Ouest",
+      "id": "Region Mayo-Kebbi Ouest",
+      "zh-Hans": "西凯比河区",
+      "zh-Hant": "西凱比河區"
+    }
+  },
+  {
+    "code": "MC",
+    "name": "Moyen-Chari Region",
+    "names": {
+      "ja": "モワイヤン・シャリ州",
+      "ko": "무아얭샤리주",
+      "vi": "Khu vực Moyen-Chari",
+      "id": "Region Moyen-Chari",
+      "zh-Hans": "中沙里区"
+    }
+  },
+  {
+    "code": "ND",
+    "name": "N'Djamena",
+    "names": {
+      "ja": "ンジャメナ",
+      "ko": "은자메나",
+      "vi": "N'Djamena",
+      "id": "N'Djamena",
+      "zh-Hans": "恩贾梅纳",
+      "zh-Hant": "恩賈梅納"
+    }
+  },
+  {
+    "code": "OD",
+    "name": "Ouaddaï Region",
+    "names": {
+      "ja": "ワダイ州",
+      "ko": "와다이주",
+      "vi": "Khu vực Ouaddai",
+      "id": "Region Ouaddaï",
+      "zh-Hans": "瓦达伊区",
+      "zh-Hant": "瓦達伊區"
+    }
+  },
+  {
+    "code": "SA",
+    "name": "Salamat Region",
+    "names": {
+      "ja": "サラマト州",
+      "ko": "살라마트주",
+      "vi": "Khu vực Salamat",
+      "id": "Region Salamat",
+      "zh-Hans": "萨拉马特区"
+    }
+  },
+  {
+    "code": "SI",
+    "name": "Sila Region",
+    "names": {
+      "ja": "シラ州",
+      "ko": "실라주",
+      "vi": "Khu vực Sila",
+      "id": "Wilayah Sila",
+      "zh-Hans": "西拉区",
+      "zh-Hant": "西拉區"
+    }
+  },
+  {
+    "code": "TA",
+    "name": "Tandjilé Region",
+    "names": {
+      "ja": "タンジレ州",
+      "ko": "탕질레주",
+      "vi": "Khu vực Tandjilé",
+      "id": "Region Tandjilé",
+      "zh-Hans": "坦吉莱区",
+      "zh-Hant": "坦吉萊區"
+    }
+  },
+  {
+    "code": "TI",
+    "name": "Tibesti Region",
+    "names": {
+      "ja": "ティベスティ州",
+      "ko": "티베스티주",
+      "vi": "Khu vựcTibesti",
+      "id": "Wilayah Tibesti",
+      "zh-Hans": "提贝斯提区"
+    }
+  },
+  {
+    "code": "WF",
+    "name": "Wadi Fira Region",
+    "names": {
+      "ja": "ワジ・フィラ州",
+      "ko": "와디피라주",
+      "vi": "Khu vực Wadi Fira",
+      "id": "Region Wadi Fira",
+      "zh-Hans": "瓦迪菲拉区",
+      "zh-Hant": "瓦迪菲拉區"
+    }
+  }
+]

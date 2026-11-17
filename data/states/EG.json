@@ -1,0 +1,306 @@
+[
+  {
+    "code": "ALX",
+    "name": "Alexandria Governorate",
+    "names": {
+      "ja": "アレクサンドリア県",
+      "ko": "알렉산드리아주",
+      "vi": "Alexandria",
+      "id": "Kegubernuran Aleksandria",
+      "zh-Hans": "亚历山大省",
+      "zh-Hant": "亞歷山大省"
+    }
+  },
+  {
+    "code": "ASN",
+    "name": "Aswan Governorate",
+    "names": {
+      "ja": "アスワン県",
+      "ko": "아스완주",
+      "vi": "Aswan",
+      "id": "Kegubernuran Aswan",
+      "zh-Hans": "阿斯旺省"
+    }
+  },
+  {
+    "code": "AST",
+    "name": "Asyut Governorate",
+    "names": {
+      "ja": "アシュート県",
+      "ko": "아시우트주",
+      "vi": "Tỉnh Asyut",
+      "id": "Kegubernuran Asyut",
+      "zh-Hans": "艾斯尤特省"
+    }
+  },
+  {
+    "code": "BH",
+    "name": "Beheira Governorate",
+    "names": {
+      "ja": "ブハイラ県",
+      "ko": "베헤이라주",
+      "vi": "Tỉnh Beheira",
+      "id": "Kegubernuran Beheira",
+      "zh-Hans": "布海拉省"
+    }
+  },
+  {
+    "code": "BNS",
+    "name": "Beni Suef Governorate",
+    "names": {
+      "ja": "ベニ・スエフ県",
+      "ko": "베니수에프주",
+      "vi": "Tỉnh Beni Suef",
+      "id": "Kegubernuran Beni Suef",
+      "zh-Hans": "贝尼苏韦夫省"
+    }
+  },
+  {
+    "code": "C",
+    "name": "Cairo Governorate",
+    "names": {
+      "ja": "カイロ県",
+      "ko": "카이로주",
+      "vi": "Cairo",
+      "id": "Kegubernuran Kairo",
+      "zh-Hans": "开罗省"
+    }
+  },
+  {
+    "code": "DK",
+    "name": "Dakahlia Governorate",
+    "names": {
+      "ja": "ダカフリーヤ県",
+      "ko": "다칼리야주",
+      "vi": "tỉnh Dakahlia",
+      "id": "Kegubernuran Ad Daqahliyah",
+      "zh-Hans": "代盖赫利耶省",
+      "zh-Hant": "代蓋赫利耶省"
+    }
+  },
+  {
+    "code": "DT",
+    "name": "Damietta Governorate",
+    "names": {
+      "ja": "ディムヤート県",
+      "ko": "다미에타주",
+      "vi": "Tỉnh Damietta",
+      "id": "Kegubernuran Tamiat",
+      "zh-Hans": "杜姆亚特省"
+    }
+  },
+  {
+    "code": "FYM",
+    "name": "Faiyum Governorate",
+    "names": {
+      "ja": "ファイユーム県",
+      "ko": "파이윰주",
+      "zh-Hans": "法尤姆省",
+      "zh-Hant": "法尤姆省"
+    }
+  },
+  {
+    "code": "GH",
+    "name": "Gharbia Governorate",
+    "names": {
+      "ja": "ガルビーヤ県",
+      "ko": "가르비야주",
+      "vi": "Tỉnh Gharbia",
+      "id": "Kegubernuran Al Gharbiyah",
+      "zh-Hans": "西部省"
+    }
+  },
+  {
+    "code": "GZ",
+    "name": "Giza Governorate",
+    "names": {
+      "ja": "ギーザ県",
+      "ko": "기자주",
+      "vi": "Giza",
+      "id": "Kegubernuran Giza",
+      "zh-Hans": "吉萨省",
+      "zh-Hant": "吉薩省"
+    }
+  },
+  {
+    "code": "IS",
+    "name": "Ismailia Governorate",
+    "names": {
+      "ja": "イスマイリア県",
+      "ko": "이스마일리아주",
+      "vi": "Tỉnh Ismailia",
+      "id": "Kegubernuran Ismailia",
+      "zh-Hans": "伊斯梅利亚省"
+    }
+  },
+  {
+    "code": "KFS",
+    "name": "Kafr el-Sheikh Governorate",
+    "names": {
+      "ja": "カフル・アッシャイフ県",
+      "ko": "카프르엘셰이크주",
+      "vi": "Tỉnh Kafr el-Sheikh",
+      "id": "Kegubernuran Kafr El Sheikh",
+      "zh-Hans": "谢赫村省",
+      "zh-Hant": "謝赫村省"
+    }
+  },
+  {
+    "code": "LX",
+    "name": "Luxor Governorate",
+    "names": {
+      "ja": "ルクソール県",
+      "ko": "룩소르주",
+      "id": "Kegubernuran Luxor",
+      "zh-Hans": "卢克索省",
+      "zh-Hant": "盧克索省"
+    }
+  },
+  {
+    "code": "MT",
+    "name": "Matruh Governorate",
+    "names": {
+      "ja": "マトルーフ県",
+      "ko": "마트루주",
+      "vi": "Tỉnh Matrouh",
+      "id": "Kegubernuran Matruh",
+      "zh-Hans": "马特鲁省"
+    }
+  },
+  {
+    "code": "MN",
+    "name": "Minya Governorate",
+    "names": {
+      "ja": "ミニヤー県",
+      "ko": "미니아주",
+      "vi": "Tỉnh Minya",
+      "id": "Al Minya",
+      "zh-Hans": "明亚省",
+      "zh-Hant": "明亞省"
+    }
+  },
+  {
+    "code": "MNF",
+    "name": "Monufia Governorate",
+    "names": {
+      "ja": "ミヌーフィーヤ県",
+      "ko": "무누피아주",
+      "vi": "Tỉnh Monufia",
+      "id": "Kegubernuran Al Minufiyah",
+      "zh-Hans": "米努夫省",
+      "zh-Hant": "米努夫省"
+    }
+  },
+  {
+    "code": "WAD",
+    "name": "New Valley Governorate",
+    "names": {
+      "ja": "ニューバレー県",
+      "ko": "알와디알자디드주",
+      "vi": "Tỉnh New Valley",
+      "id": "Al Wadi al Jadid",
+      "zh-Hans": "新河谷省"
+    }
+  },
+  {
+    "code": "SIN",
+    "name": "North Sinai Governorate",
+    "names": {
+      "ja": "北シナイ県",
+      "ko": "샤말시나주",
+      "vi": "Tỉnh Bắc Sinai",
+      "id": "Kegubernuran Syamal Sina'",
+      "zh-Hans": "北西奈省"
+    }
+  },
+  {
+    "code": "PTS",
+    "name": "Port Said Governorate",
+    "names": {
+      "ja": "ポートサイド県",
+      "ko": "포트사이드주",
+      "vi": "Tỉnh Port Said",
+      "id": "Kegubernuran Bur Sa'id",
+      "zh-Hans": "塞得港省"
+    }
+  },
+  {
+    "code": "KB",
+    "name": "Qalyubia Governorate",
+    "names": {
+      "ja": "カリュービーヤ県",
+      "ko": "칼리우비야주",
+      "vi": "Tỉnh Qalyubia",
+      "id": "Kegubernuran Al Qalyubiyah",
+      "zh-Hans": "盖卢比尤省"
+    }
+  },
+  {
+    "code": "KN",
+    "name": "Qena Governorate",
+    "names": {
+      "ja": "ケナ県",
+      "ko": "케나주",
+      "vi": "Tỉnh Qena",
+      "id": "Kegubernuran Qina",
+      "zh-Hans": "基纳省"
+    }
+  },
+  {
+    "code": "BA",
+    "name": "Red Sea Governorate",
+    "names": {
+      "ja": "紅海県",
+      "ko": "홍해주",
+      "vi": "Biển Đỏ",
+      "id": "Kegubernuran Laut Merah",
+      "zh-Hans": "红海省"
+    }
+  },
+  {
+    "code": "SHR",
+    "name": "Sharqia Governorate",
+    "names": {
+      "ja": "シャルキーヤ県",
+      "ko": "샤르키야주",
+      "vi": "Tỉnh Al Sharqia",
+      "id": "Kegubernuran Asy Syarqiyah",
+      "zh-Hans": "东部省",
+      "zh-Hant": "東部省"
+    }
+  },
+  {
+    "code": "SHG",
+    "name": "Sohag Governorate",
+    "names": {
+      "ja": "ソハーグ県",
+      "ko": "소하그주",
+      "vi": "Tỉnh Sohag",
+      "id": "Kegubernuran Suhaj",
+      "zh-Hans": "索哈杰省"
+    }
+  },
+  {
+    "code": "JS",
+    "name": "South Sinai Governorate",
+    "names": {
+      "ja": "南シナイ県",
+      "ko": "자누브시나주",
+      "vi": "Tỉnh Nam Sinai",
+      "id": "Janub Sina'",
+      "zh-Hans": "南西奈省"
+    }
+  },
+  {
+    "code": "SUZ",
+    "name": "Suez Governorate",
+    "names": {
+      "ja": "スエズ県",
+      "ko": "수에즈주",
+      "vi": "Tỉnh Suez",
+      "id": "Kegubernuran Suez",
+      "zh-Hans": "苏伊士省",
+      "zh-Hant": "蘇伊士省"
+    }
+  }
+]

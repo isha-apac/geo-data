@@ -1,0 +1,179 @@
+[
+  {
+    "code": "BTH",
+    "name": "Bethlehem Governorate",
+    "names": {
+      "ja": "ベツレヘム",
+      "ko": "베들레헴주",
+      "vi": "Tỉnh Bethlehem",
+      "id": "Kegubernuran Bethlehem",
+      "zh-Hans": "伯利恒省"
+    }
+  },
+  {
+    "code": "DEB",
+    "name": "Deir al-Balah Governorate",
+    "names": {
+      "ja": "ディール・バラフ",
+      "ko": "데이르알발라주",
+      "vi": "Tỉnh Deir al-Balah",
+      "id": "Kegubernuran Deir al-Balah",
+      "zh-Hans": "代尔拜莱赫省"
+    }
+  },
+  {
+    "code": "GZA",
+    "name": "Gaza Governorate",
+    "names": {
+      "ja": "ガザ県",
+      "ko": "가자주",
+      "id": "Kegubernuran Gaza",
+      "zh-Hans": "加沙省"
+    }
+  },
+  {
+    "code": "HBN",
+    "name": "Hebron Governorate",
+    "names": {
+      "ja": "ヘブロン",
+      "ko": "헤브론주",
+      "vi": "Tỉnh Hebron",
+      "id": "Kegubernuran Hebron",
+      "zh-Hans": "希伯伦省"
+    }
+  },
+  {
+    "code": "JEN",
+    "name": "Jenin Governorate",
+    "names": {
+      "ja": "ジェニーン",
+      "ko": "제닌주",
+      "id": "Kegubernuran Jenin",
+      "zh-Hans": "杰宁省"
+    }
+  },
+  {
+    "code": "JRH",
+    "name": "Jericho Governorate",
+    "names": {
+      "ja": "エリコ",
+      "ko": "예리코주",
+      "id": "Kegubernuran Yerikho",
+      "zh-Hans": "杰里科省"
+    }
+  },
+  {
+    "code": "KYS",
+    "name": "Khan Yunis Governorate",
+    "names": {
+      "ja": "ハーン・ユーニス",
+      "ko": "칸유니스주",
+      "id": "Kegubernuran Khan Yunis",
+      "zh-Hans": "汗尤尼斯省",
+      "zh-Hant": "汗尤尼斯省"
+    }
+  },
+  {
+    "code": "NBS",
+    "name": "Nablus Governorate",
+    "names": {
+      "ja": "ナーブルス",
+      "ko": "나블루스주",
+      "vi": "Tỉnh Nablus",
+      "id": "Kegubernuran Nablus",
+      "zh-Hans": "纳布卢斯省",
+      "zh-Hant": "納布盧斯省"
+    }
+  },
+  {
+    "code": "NGZ",
+    "name": "North Gaza Governorate",
+    "names": {
+      "ja": "北ガザ県",
+      "ko": "북가자주",
+      "vi": "Tỉnh Bắc Gaza",
+      "id": "Kegubernuran Gaza Utara",
+      "zh-Hans": "北加沙省"
+    }
+  },
+  {
+    "code": "QQA",
+    "name": "Qalqilya Governorate",
+    "names": {
+      "ja": "カルキーリヤ",
+      "ko": "칼킬리야주",
+      "vi": "Tỉnh Qalqilya",
+      "id": "Kegubernuran Qalqilya",
+      "zh-Hans": "盖勒吉利耶省",
+      "zh-Hant": "蓋勒吉利耶省"
+    }
+  },
+  {
+    "code": "JEM",
+    "name": "Quds Governorate",
+    "names": {
+      "ja": "エルサレム県",
+      "ko": "예루살렘주",
+      "id": "Kegubernuran Yerusalem",
+      "zh-Hans": "耶路撒冷省",
+      "zh-Hant": "耶路撒冷省"
+    }
+  },
+  {
+    "code": "RFH",
+    "name": "Rafah Governorate",
+    "names": {
+      "ja": "ラファハ",
+      "ko": "라파주",
+      "id": "Kegubernuran Rafah",
+      "zh-Hans": "拉法赫省",
+      "zh-Hant": "拉法赫省"
+    }
+  },
+  {
+    "code": "RBH",
+    "name": "Ramallah and al-Bireh Governorate",
+    "names": {
+      "ja": "ラマッラー・アル＝ビーレ県",
+      "ko": "라말라알비레주",
+      "vi": "Tỉnh Ramallah và al-Bireh",
+      "id": "Kegubernuran Ramallah dan al-Bireh",
+      "zh-Hans": "拉姆安拉和比雷赫省",
+      "zh-Hant": "拉姆安拉和比雷赫省"
+    }
+  },
+  {
+    "code": "SLT",
+    "name": "Salfit Governorate",
+    "names": {
+      "ja": "サルフィート",
+      "ko": "살피트주",
+      "vi": "Tỉnh Salfit",
+      "id": "Kegubernuran Salfit",
+      "zh-Hans": "萨尔费特省"
+    }
+  },
+  {
+    "code": "TBS",
+    "name": "Tubas Governorate",
+    "names": {
+      "ja": "トゥーバース",
+      "ko": "투바스주",
+      "id": "Kegubernuran Tubas",
+      "zh-Hans": "图巴斯省",
+      "zh-Hant": "圖巴斯省"
+    }
+  },
+  {
+    "code": "TKM",
+    "name": "Tulkarm Governorate",
+    "names": {
+      "ja": "トゥールカリム県",
+      "ko": "툴카름주",
+      "vi": "Tỉnh Tulkarm",
+      "id": "Kegubernuran Tulkarm",
+      "zh-Hans": "图勒凯尔姆省",
+      "zh-Hant": "圖勒凱爾姆省"
+    }
+  }
+]

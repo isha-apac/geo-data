@@ -1,0 +1,187 @@
+[
+  {
+    "code": "01",
+    "name": "Christ Church Nichola Town Parish",
+    "names": {
+      "ja": "キリスト・チャーチ・ニコラ・タウン教区",
+      "ko": "크라이스트처치니컬라타운구",
+      "vi": "Giáo xứ Christ Church Nichola Town",
+      "id": "Paroki Christ Church Nichola Town",
+      "zh-Hans": "基督教会尼古拉镇区"
+    }
+  },
+  {
+    "code": "N",
+    "name": "Nevis",
+    "names": {
+      "ja": "ネイビス島",
+      "ko": "네비스섬",
+      "vi": "Nevis",
+      "id": "Nevis",
+      "zh-Hans": "尼维斯",
+      "zh-Hant": "尼維斯"
+    }
+  },
+  {
+    "code": "02",
+    "name": "Saint Anne Sandy Point Parish",
+    "names": {
+      "ja": "セントアン・サンディポイント",
+      "ko": "세인트앤샌디포인트구",
+      "vi": "Giáo xứ Saint Anne Sandy Point",
+      "id": "Paroki Saint Anne Sandy Point",
+      "zh-Hans": "圣安娜沙角区",
+      "zh-Hant": "聖安娜沙角區"
+    }
+  },
+  {
+    "code": "03",
+    "name": "Saint George Basseterre Parish",
+    "names": {
+      "ja": "セントジョージ・バセテール",
+      "ko": "세인트조지바스테르구",
+      "vi": "Giáo xứ Saint George Basseterre",
+      "id": "Paroki Saint George Basseterre",
+      "zh-Hans": "圣乔治巴塞特莱区",
+      "zh-Hant": "聖喬治巴塞特萊區"
+    }
+  },
+  {
+    "code": "04",
+    "name": "Saint George Gingerland Parish",
+    "names": {
+      "ja": "セント・ジョージ・ジンジャーランド教区",
+      "ko": "세인트조지진절랜드구",
+      "vi": "Giáo xứ Saint George Gingerland",
+      "id": "Paroki Saint George Gingerland",
+      "zh-Hans": "圣乔治金哲兰区",
+      "zh-Hant": "聖喬治金哲蘭區"
+    }
+  },
+  {
+    "code": "05",
+    "name": "Saint James Windward Parish",
+    "names": {
+      "ja": "セントジェームズ・ウィンドワード",
+      "ko": "세인트제임스윈드워드구",
+      "vi": "Giáo xứ Saint James Windward",
+      "id": "Paroki Saint James Windward",
+      "zh-Hans": "圣詹姆斯温沃德区"
+    }
+  },
+  {
+    "code": "06",
+    "name": "Saint John Capisterre Parish",
+    "names": {
+      "ja": "セント・ジョン・キャピスタ教区",
+      "ko": "세인트존카피스테르구",
+      "vi": "Giáo xứ Saint John Capisterre",
+      "id": "Paroki Saint John Capisterre",
+      "zh-Hans": "圣约翰卡皮斯特莱区"
+    }
+  },
+  {
+    "code": "07",
+    "name": "Saint John Figtree Parish",
+    "names": {
+      "ja": "セント・ジョン・フィグツリー教区",
+      "ko": "세인트존피그트리구",
+      "vi": "Giáo xứ Saint John Figtree",
+      "id": "Paroki Saint John Figtree",
+      "zh-Hans": "圣约翰费格特里区"
+    }
+  },
+  {
+    "code": "K",
+    "name": "Saint Kitts",
+    "names": {
+      "ja": "セントクリストファー島",
+      "ko": "세인트키츠섬",
+      "vi": "Saint Kitts",
+      "id": "Saint Kitts",
+      "zh-Hans": "圣基茨岛",
+      "zh-Hant": "聖基茨島"
+    }
+  },
+  {
+    "code": "08",
+    "name": "Saint Mary Cayon Parish",
+    "names": {
+      "ja": "セント・メアリー・カヨン教区",
+      "ko": "세인트메리카욘구",
+      "vi": "Giáo xứ Saint Mary Cayon",
+      "id": "Paroki Saint Mary Cayon",
+      "zh-Hans": "圣玛丽卡永区",
+      "zh-Hant": "聖瑪麗卡永區"
+    }
+  },
+  {
+    "code": "09",
+    "name": "Saint Paul Capisterre Parish",
+    "names": {
+      "ja": "セント・ポール・キャピスタ教区",
+      "ko": "세인트폴카피스테르구",
+      "vi": "Giáo xứ Saint Paul Capisterre",
+      "id": "Paroki Saint Paul Capisterre",
+      "zh-Hans": "圣保罗卡皮斯特莱区"
+    }
+  },
+  {
+    "code": "10",
+    "name": "Saint Paul Charlestown Parish",
+    "names": {
+      "ja": "セント・ポール・チャールスタウン教区",
+      "ko": "세인트폴찰스타운구",
+      "vi": "Giáo xứ Saint Paul Charlestown",
+      "id": "Paroki Saint Paul Charlestown",
+      "zh-Hans": "圣保罗查尔斯敦区",
+      "zh-Hant": "聖保羅查爾斯敦區"
+    }
+  },
+  {
+    "code": "11",
+    "name": "Saint Peter Basseterre Parish",
+    "names": {
+      "ja": "セントピーター・バセテール",
+      "ko": "세인트피터바스테르구",
+      "vi": "Giáo xứ Saint Peter Basseterre",
+      "id": "Paroki Saint Peter Basseterre",
+      "zh-Hans": "圣彼得巴塞特莱区"
+    }
+  },
+  {
+    "code": "12",
+    "name": "Saint Thomas Lowland Parish",
+    "names": {
+      "ja": "セント・トーマス・ロウランド教区",
+      "ko": "세인트토머스롤런드구",
+      "vi": "Giáo xứ Saint Thomas Lowland",
+      "id": "Paroki Saint Thomas Lowland",
+      "zh-Hans": "圣托马斯低地区",
+      "zh-Hant": "聖托馬斯低地區"
+    }
+  },
+  {
+    "code": "13",
+    "name": "Saint Thomas Middle Island Parish",
+    "names": {
+      "ja": "セント・トーマス・ミドル・アイランド教区",
+      "ko": "세인트토머스미들아일랜드구",
+      "vi": "Giáo xứ Saint Thomas Middle Island",
+      "id": "Paroki Saint Thomas Middle Island",
+      "zh-Hans": "圣托马斯米德艾兰区",
+      "zh-Hant": "聖托馬斯米德艾蘭區"
+    }
+  },
+  {
+    "code": "15",
+    "name": "Trinity Palmetto Point Parish",
+    "names": {
+      "ja": "トリニティ・パルメット・ポイント教区",
+      "ko": "트리니티팰머토포인트구",
+      "vi": "Giáo xứ Trinity Palmetto Point",
+      "id": "Paroki Trinity Palmetto Point",
+      "zh-Hans": "特立尼提帕美托角区"
+    }
+  }
+]

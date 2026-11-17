@@ -1,0 +1,116 @@
+[
+  {
+    "code": "AN",
+    "name": "Annobón Province",
+    "names": {
+      "ja": "アンノボン県",
+      "ko": "안노본주",
+      "vi": "Tỉnh Annobón",
+      "id": "Provinsi Annobón",
+      "zh-Hans": "安诺本省"
+    }
+  },
+  {
+    "code": "BN",
+    "name": "Bioko Norte",
+    "names": {
+      "ja": "北ビオコ県",
+      "ko": "북비오코주",
+      "vi": "Tỉnh Bioko Norte",
+      "id": "Provinsi Bioko Norte",
+      "zh-Hans": "北比奥科省",
+      "zh-Hant": "北比奧科省"
+    }
+  },
+  {
+    "code": "BS",
+    "name": "Bioko Sur",
+    "names": {
+      "ja": "南ビオコ県",
+      "ko": "남비오코주",
+      "vi": "Tỉnh Bioko Sur",
+      "id": "Provinsi Bioko Sur",
+      "zh-Hans": "南比奥科省",
+      "zh-Hant": "南比奧科省"
+    }
+  },
+  {
+    "code": "CS",
+    "name": "Centro Sur",
+    "names": {
+      "ja": "中南部県",
+      "ko": "중남부주",
+      "vi": "Tỉnh Centro Sur",
+      "id": "Provinsi Centro Sur",
+      "zh-Hans": "中南省",
+      "zh-Hant": "中南省"
+    }
+  },
+  {
+    "code": "DJ",
+    "name": "Djibloho",
+    "names": {
+      "ja": "ジブロホ県",
+      "ko": "지블로호",
+      "id": "Djibloho",
+      "zh-Hans": "吉布劳省",
+      "zh-Hant": "吉布勞省"
+    }
+  },
+  {
+    "code": "I",
+    "name": "Insular Region",
+    "names": {
+      "ja": "島嶼地方",
+      "ko": "적도 기니 도서 지방",
+      "zh-Hans": "海岛大区"
+    }
+  },
+  {
+    "code": "KN",
+    "name": "Kie-ntem",
+    "names": {
+      "ja": "キエンテム県",
+      "ko": "키에은템주",
+      "vi": "Tỉnh Kié-Ntem",
+      "id": "Provinsi Kié-Ntem",
+      "zh-Hans": "基埃恩特姆省",
+      "zh-Hant": "基埃恩特姆省"
+    }
+  },
+  {
+    "code": "LI",
+    "name": "Litoral",
+    "names": {
+      "ja": "リトラル県",
+      "ko": "리토랄주",
+      "vi": "Tỉnh Litoral",
+      "id": "Provinsi Litoral",
+      "zh-Hans": "海岸省",
+      "zh-Hant": "海岸省"
+    }
+  },
+  {
+    "code": "C",
+    "name": "Río Muni",
+    "names": {
+      "ja": "リオ・ムニ",
+      "ko": "리오무니",
+      "vi": "Río Muni",
+      "zh-Hans": "大陆大区",
+      "zh-Hant": "大陸大區"
+    }
+  },
+  {
+    "code": "WN",
+    "name": "Wele-Nzas",
+    "names": {
+      "ja": "ウェレンザス県",
+      "ko": "웰레은사스주",
+      "vi": "Tỉnh Wele-Nzas",
+      "id": "Provinsi Wele-Nzas",
+      "zh-Hans": "韦莱恩萨斯省",
+      "zh-Hant": "韋萊恩薩斯省"
+    }
+  }
+]

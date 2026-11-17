@@ -1,0 +1,178 @@
+[
+  {
+    "code": "BM",
+    "name": "Bomi County",
+    "names": {
+      "ja": "ボミ郡",
+      "ko": "보미주",
+      "vi": "Hạt Bomi",
+      "id": "Bomi County",
+      "zh-Hans": "博米县",
+      "zh-Hant": "伯米縣"
+    }
+  },
+  {
+    "code": "BG",
+    "name": "Bong County",
+    "names": {
+      "ja": "ボン郡",
+      "ko": "봉주",
+      "vi": "Hạt Bong",
+      "id": "Bong County",
+      "zh-Hans": "邦县",
+      "zh-Hant": "邦縣"
+    }
+  },
+  {
+    "code": "GP",
+    "name": "Gbarpolu County",
+    "names": {
+      "ja": "バルポル郡",
+      "ko": "바르폴루주",
+      "vi": "Hạt Gbarpolu",
+      "id": "Gbarpolu County",
+      "zh-Hans": "巴波卢州"
+    }
+  },
+  {
+    "code": "GB",
+    "name": "Grand Bassa County",
+    "names": {
+      "ja": "グランドバッサ郡",
+      "ko": "그랜드바사주",
+      "vi": "Hạt Grand Bassa",
+      "id": "Grand Bassa County",
+      "zh-Hans": "大巴萨县",
+      "zh-Hant": "大巴薩縣"
+    }
+  },
+  {
+    "code": "CM",
+    "name": "Grand Cape Mount County",
+    "names": {
+      "ja": "グランドケープマウント郡",
+      "ko": "그랜드케이프마운트주",
+      "vi": "Hạt Grand Cape Mount",
+      "id": "Grand Cape Mount County",
+      "zh-Hans": "大角山县",
+      "zh-Hant": "大角山縣"
+    }
+  },
+  {
+    "code": "GG",
+    "name": "Grand Gedeh County",
+    "names": {
+      "ja": "グランドゲデ郡",
+      "ko": "그랜드게데주",
+      "vi": "Hạt Grand Gedeh",
+      "id": "Grand Gedeh County",
+      "zh-Hans": "大吉德州"
+    }
+  },
+  {
+    "code": "GK",
+    "name": "Grand Kru County",
+    "names": {
+      "ja": "グランドクル郡",
+      "ko": "그랜드크루주",
+      "vi": "Hạt Grand Kru",
+      "id": "Grand Kru County",
+      "zh-Hans": "大克鲁县"
+    }
+  },
+  {
+    "code": "LO",
+    "name": "Lofa County",
+    "names": {
+      "ja": "ロファ郡",
+      "ko": "로파주",
+      "vi": "Hạt Lofa",
+      "id": "Lofa County",
+      "zh-Hans": "洛法县",
+      "zh-Hant": "洛法縣"
+    }
+  },
+  {
+    "code": "MG",
+    "name": "Margibi County",
+    "names": {
+      "ja": "マージビ郡",
+      "ko": "마르지비주",
+      "vi": "Hạt Margibi",
+      "id": "Margibi County",
+      "zh-Hans": "马吉比县",
+      "zh-Hant": "馬吉比縣"
+    }
+  },
+  {
+    "code": "MY",
+    "name": "Maryland County",
+    "names": {
+      "ja": "メリーランド郡",
+      "ko": "메릴랜드주",
+      "vi": "Hạt Maryland",
+      "id": "Maryland County",
+      "zh-Hans": "马里兰县",
+      "zh-Hant": "馬里蘭縣"
+    }
+  },
+  {
+    "code": "MO",
+    "name": "Montserrado County",
+    "names": {
+      "ja": "モンセラード郡",
+      "ko": "몽세라도주",
+      "vi": "Montserrado",
+      "id": "Montserrado County",
+      "zh-Hans": "蒙特塞拉多县",
+      "zh-Hant": "蒙特塞拉多縣"
+    }
+  },
+  {
+    "code": "NI",
+    "name": "Nimba",
+    "names": {
+      "ja": "ニンバ郡",
+      "ko": "님바주",
+      "vi": "Nimba",
+      "id": "Nimba",
+      "zh-Hans": "宁巴县",
+      "zh-Hant": "寧巴縣"
+    }
+  },
+  {
+    "code": "RI",
+    "name": "River Cess County",
+    "names": {
+      "ja": "リバーセス郡",
+      "ko": "리버세스주",
+      "vi": "Hạt Rivercess",
+      "id": "Rivercess County",
+      "zh-Hans": "里弗塞斯县"
+    }
+  },
+  {
+    "code": "RG",
+    "name": "River Gee County",
+    "names": {
+      "ja": "リバージー郡",
+      "ko": "리버지주",
+      "vi": "Hạt River Gee",
+      "id": "River Gee County",
+      "zh-Hans": "吉河县",
+      "zh-Hant": "吉河縣"
+    }
+  },
+  {
+    "code": "SI",
+    "name": "Sinoe County",
+    "names": {
+      "ja": "シノエ郡",
+      "ko": "시노에주",
+      "vi": "Hạt Sinoe",
+      "id": "Sinoe County",
+      "zh-Hans": "锡诺县",
+      "zh-Hant": "錫諾縣"
+    }
+  }
+]

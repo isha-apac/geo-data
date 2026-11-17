@@ -1,0 +1,281 @@
+[
+  {
+    "code": "B",
+    "name": "Barlavento Islands",
+    "names": {
+      "ja": "バルラヴェント諸島",
+      "ko": "바를라벤투 제도",
+      "id": "Kepulauan Barlavento",
+      "zh-Hans": "向风群岛",
+      "zh-Hant": "向風群島"
+    }
+  },
+  {
+    "code": "BV",
+    "name": "Boa Vista",
+    "names": {
+      "ja": "ボア・ヴィスタ",
+      "ko": "보아비스타시",
+      "vi": "Boa Vista",
+      "id": "Boa Vista",
+      "zh-Hans": "博阿维斯塔",
+      "zh-Hant": "博阿維斯塔"
+    }
+  },
+  {
+    "code": "BR",
+    "name": "Brava",
+    "names": {
+      "ja": "ブラヴァ",
+      "ko": "브라바시",
+      "vi": "Brava",
+      "id": "Brava",
+      "zh-Hans": "布拉瓦",
+      "zh-Hant": "布拉瓦"
+    }
+  },
+  {
+    "code": "MA",
+    "name": "Maio",
+    "names": {
+      "ja": "マイオ",
+      "ko": "마이우시",
+      "zh-Hans": "马尤",
+      "zh-Hant": "馬尤"
+    }
+  },
+  {
+    "code": "MO",
+    "name": "Mosteiros",
+    "names": {
+      "ja": "モシュテイホシュ",
+      "ko": "모스테이루스시",
+      "vi": "Mosteiros",
+      "id": "Mosteiros",
+      "zh-Hans": "莫什泰鲁什"
+    }
+  },
+  {
+    "code": "PA",
+    "name": "Paul",
+    "names": {
+      "ja": "パウル",
+      "ko": "파울시",
+      "vi": "Paul",
+      "id": "Paul",
+      "zh-Hans": "保罗",
+      "zh-Hant": "保羅"
+    }
+  },
+  {
+    "code": "PN",
+    "name": "Porto Novo",
+    "names": {
+      "ja": "ポルト・ノボ",
+      "ko": "포르투노부시",
+      "vi": "Porto Novo",
+      "id": "Porto Novo",
+      "zh-Hans": "波多诺伏",
+      "zh-Hant": "波多諾伏"
+    }
+  },
+  {
+    "code": "PR",
+    "name": "Praia",
+    "names": {
+      "ja": "プライア市",
+      "ko": "프라이아시",
+      "vi": "Praia",
+      "id": "Praia",
+      "zh-Hans": "普拉亚",
+      "zh-Hant": "普拉亞"
+    }
+  },
+  {
+    "code": "RB",
+    "name": "Ribeira Brava Municipality",
+    "names": {
+      "ja": "リベイラ・ブラヴァ",
+      "ko": "히베이라브라바시",
+      "vi": "Ribeira Brava",
+      "id": "Ribeira Brava",
+      "zh-Hans": "里贝拉布拉瓦"
+    }
+  },
+  {
+    "code": "RG",
+    "name": "Ribeira Grande",
+    "names": {
+      "ja": "リベイラ・グランデ",
+      "ko": "히베이라그란드시",
+      "vi": "Ribeira Grande",
+      "id": "Ribeira Grande",
+      "zh-Hans": "大里贝拉",
+      "zh-Hant": "大里貝拉"
+    }
+  },
+  {
+    "code": "RS",
+    "name": "Ribeira Grande de Santiago",
+    "names": {
+      "ja": "リベイラ・グランデ・デ・サンティアゴ",
+      "ko": "히베이라그란드드산티아구시",
+      "vi": "Ribeira Grande de Santiago",
+      "id": "Ribeira Grande de Santiago",
+      "zh-Hans": "圣地亚哥岛大里贝拉",
+      "zh-Hant": "聖地亞哥島大里貝拉"
+    }
+  },
+  {
+    "code": "SL",
+    "name": "Sal",
+    "names": {
+      "ja": "サル",
+      "ko": "살시",
+      "vi": "Sal",
+      "id": "Sal",
+      "zh-Hans": "萨尔",
+      "zh-Hant": "薩爾"
+    }
+  },
+  {
+    "code": "CA",
+    "name": "Santa Catarina",
+    "names": {
+      "ja": "サンタ・カタリナ",
+      "ko": "산타카타리나시",
+      "vi": "Santa Catarina",
+      "id": "Santa Catarina",
+      "zh-Hans": "圣卡塔琳娜",
+      "zh-Hant": "聖卡塔琳娜"
+    }
+  },
+  {
+    "code": "CF",
+    "name": "Santa Catarina do Fogo",
+    "names": {
+      "ja": "サンタ・カタリナ・ド・フォゴ",
+      "ko": "산타카타리나두포구시",
+      "vi": "Santa Catarina do Fogo",
+      "id": "Santa Catarina do Fogo",
+      "zh-Hans": "福古岛圣卡塔琳娜",
+      "zh-Hant": "福古島聖卡塔琳娜"
+    }
+  },
+  {
+    "code": "CR",
+    "name": "Santa Cruz",
+    "names": {
+      "ja": "サンタ・クルス",
+      "ko": "산타크루스시",
+      "vi": "Santa Cruz",
+      "id": "Santa Cruz",
+      "zh-Hans": "圣克鲁什",
+      "zh-Hant": "聖克魯什"
+    }
+  },
+  {
+    "code": "SD",
+    "name": "São Domingos",
+    "names": {
+      "ja": "サン・ドミンゴス",
+      "ko": "상도밍구스시",
+      "vi": "Sao Domingos",
+      "id": "São Domingos",
+      "zh-Hans": "圣多明戈斯",
+      "zh-Hant": "聖多明戈斯"
+    }
+  },
+  {
+    "code": "SF",
+    "name": "São Filipe",
+    "names": {
+      "ja": "サン・フィリペ",
+      "ko": "상필리프시",
+      "vi": "São Filipe",
+      "id": "São Filipe",
+      "zh-Hans": "圣菲利佩"
+    }
+  },
+  {
+    "code": "SO",
+    "name": "São Lourenço dos Órgãos",
+    "names": {
+      "ja": "サン・ローレンソ・ドス・オルガンス",
+      "ko": "상로렌수두스오르강스시",
+      "vi": "Sao Lourenco dos Orgaos",
+      "id": "São Lourenço dos Órgãos",
+      "zh-Hans": "圣洛伦索-杜什奥尔冈什",
+      "zh-Hant": "聖洛倫索-杜什奧爾岡什"
+    }
+  },
+  {
+    "code": "SM",
+    "name": "São Miguel",
+    "names": {
+      "ja": "サン・ミゲル",
+      "ko": "상미겔시",
+      "id": "São Miguel, Tanjung Verde",
+      "zh-Hans": "圣米格尔",
+      "zh-Hant": "聖米格爾"
+    }
+  },
+  {
+    "code": "SS",
+    "name": "São Salvador do Mundo",
+    "names": {
+      "ja": "サン・サルバドル・ド・ムンド",
+      "ko": "상살바도르두문두시",
+      "vi": "São Salvador do Mundo",
+      "id": "São Salvador do Mundo",
+      "zh-Hans": "圣萨尔瓦多-杜蒙杜",
+      "zh-Hant": "聖薩爾瓦多-杜蒙杜"
+    }
+  },
+  {
+    "code": "SV",
+    "name": "São Vicente",
+    "names": {
+      "ja": "サン・ビセンテ",
+      "ko": "상비센트시",
+      "vi": "Sao Vicente",
+      "id": "São Vicente",
+      "zh-Hans": "圣维森特"
+    }
+  },
+  {
+    "code": "S",
+    "name": "Sotavento Islands",
+    "names": {
+      "ja": "ソタヴェント諸島",
+      "ko": "소타벤투 제도",
+      "id": "Kepulauan Sotavento",
+      "zh-Hans": "背风群岛",
+      "zh-Hant": "背風群島"
+    }
+  },
+  {
+    "code": "TA",
+    "name": "Tarrafal",
+    "names": {
+      "ja": "タラファル",
+      "ko": "타하팔시",
+      "vi": "Tarrafal",
+      "id": "Tarrafal",
+      "zh-Hans": "塔拉法尔",
+      "zh-Hant": "塔拉法爾"
+    }
+  },
+  {
+    "code": "TS",
+    "name": "Tarrafal de São Nicolau",
+    "names": {
+      "ja": "タラファル・デ・サン・ニコラウ",
+      "ko": "타하팔드상니콜라우시",
+      "vi": "Tarrafal de Sao Nicolau",
+      "id": "Tarrafal de São Nicolau",
+      "zh-Hans": "圣尼古劳岛塔拉法尔",
+      "zh-Hant": "聖尼古勞島塔拉法爾"
+    }
+  }
+]

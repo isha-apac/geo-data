@@ -1,0 +1,74 @@
+[
+  {
+    "code": "B",
+    "name": "Banjul",
+    "names": {
+      "ja": "バンジュール",
+      "ko": "반줄",
+      "vi": "Banjul",
+      "id": "Banjul",
+      "zh-Hans": "班珠尔",
+      "zh-Hant": "班珠爾"
+    }
+  },
+  {
+    "code": "M",
+    "name": "Central River Division",
+    "names": {
+      "ja": "ガンビア川中流地方",
+      "ko": "센트럴리버구",
+      "vi": "Khu vực Trung lưu Sông",
+      "id": "Central River Division",
+      "zh-Hans": "中河区",
+      "zh-Hant": "中河區"
+    }
+  },
+  {
+    "code": "L",
+    "name": "Lower River Division",
+    "names": {
+      "ja": "ガンビア川下流地方",
+      "ko": "로어리버구",
+      "vi": "Phân vùng Hạ nguồn Sông",
+      "id": "Lower River Division",
+      "zh-Hans": "下河区",
+      "zh-Hant": "下河區"
+    }
+  },
+  {
+    "code": "N",
+    "name": "North Bank Division",
+    "names": {
+      "ja": "ノースバンク地方",
+      "ko": "노스뱅크구",
+      "vi": "Phân vùng North Bank",
+      "id": "Divisi North Bank",
+      "zh-Hans": "北岸区",
+      "zh-Hant": "北岸區"
+    }
+  },
+  {
+    "code": "U",
+    "name": "Upper River Division",
+    "names": {
+      "ja": "ガンビア川上流地方",
+      "ko": "어퍼리버구",
+      "vi": "Phân vùng Thượng nguồn Sông",
+      "id": "Upper River Division",
+      "zh-Hans": "上河区",
+      "zh-Hant": "上河區"
+    }
+  },
+  {
+    "code": "W",
+    "name": "West Coast Division",
+    "names": {
+      "ja": "西部地方",
+      "ko": "웨스트코스트구",
+      "vi": "Phân Vùng West Coast",
+      "id": "Divisi Pantai Barat, Gambia",
+      "zh-Hans": "西部区",
+      "zh-Hant": "西部區"
+    }
+  }
+]

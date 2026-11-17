@@ -1,0 +1,121 @@
+[
+  {
+    "code": "D",
+    "name": "Berea District",
+    "names": {
+      "ja": "ベレア県",
+      "ko": "베레아구",
+      "vi": "Quận Berea",
+      "id": "Distrik Berea",
+      "zh-Hans": "伯里亚区",
+      "zh-Hant": "伯里亞區"
+    }
+  },
+  {
+    "code": "B",
+    "name": "Butha-Buthe District",
+    "names": {
+      "ja": "ブータ・ブーテ県",
+      "ko": "부타부테구",
+      "vi": "Quận Butha-Buthe",
+      "id": "Distrik Butha-Buthe",
+      "zh-Hans": "布塔-布泰区"
+    }
+  },
+  {
+    "code": "C",
+    "name": "Leribe District",
+    "names": {
+      "ja": "レリベ県",
+      "ko": "레리베구",
+      "vi": "Quận Leribe",
+      "id": "Distrik Leribe",
+      "zh-Hans": "莱里贝区",
+      "zh-Hant": "萊里貝區"
+    }
+  },
+  {
+    "code": "E",
+    "name": "Mafeteng District",
+    "names": {
+      "ja": "マフェテング県",
+      "ko": "마페텡구",
+      "vi": "Quận Mafeteng",
+      "id": "Distrik Mafeteng",
+      "zh-Hans": "马费滕区",
+      "zh-Hant": "馬費滕區"
+    }
+  },
+  {
+    "code": "A",
+    "name": "Maseru District",
+    "names": {
+      "ja": "マセル県",
+      "ko": "마세루구",
+      "vi": "Quận Maseru",
+      "id": "Distrik Maseru",
+      "zh-Hans": "马塞卢区",
+      "zh-Hant": "馬塞盧區"
+    }
+  },
+  {
+    "code": "F",
+    "name": "Mohale's Hoek District",
+    "names": {
+      "ja": "モハレス・フーク県",
+      "ko": "모할레스후크구",
+      "vi": "Quận Mohale's Hoek",
+      "id": "Distrik Mohale's Hoek",
+      "zh-Hans": "莫哈莱斯胡克区",
+      "zh-Hant": "莫哈萊斯胡克區"
+    }
+  },
+  {
+    "code": "J",
+    "name": "Mokhotlong District",
+    "names": {
+      "ja": "モコトロング県",
+      "ko": "모코틀롱구",
+      "vi": "Quận Mokhotlong",
+      "id": "Distrik Mokhotlong",
+      "zh-Hans": "莫霍特隆区",
+      "zh-Hant": "莫霍特隆區"
+    }
+  },
+  {
+    "code": "H",
+    "name": "Qacha's Nek District",
+    "names": {
+      "ja": "クァクハスネック県",
+      "ko": "카차스네크구",
+      "vi": "Quận Qacha's Nek",
+      "id": "Distrik Qacha's Nek",
+      "zh-Hans": "加查斯内克区",
+      "zh-Hant": "加查斯內克區"
+    }
+  },
+  {
+    "code": "G",
+    "name": "Quthing District",
+    "names": {
+      "ja": "クティング県",
+      "ko": "쿠팅구",
+      "vi": "Quận Quthing",
+      "id": "Distrik Quthing",
+      "zh-Hans": "古廷区",
+      "zh-Hant": "古廷區"
+    }
+  },
+  {
+    "code": "K",
+    "name": "Thaba-Tseka District",
+    "names": {
+      "ja": "ターバ・ツェーカ県",
+      "ko": "타바체카구",
+      "vi": "Quận Thaba-Tseka",
+      "id": "Distrik Thaba-Tseka",
+      "zh-Hans": "塔巴-采卡区",
+      "zh-Hant": "塔巴-采卡區"
+    }
+  }
+]

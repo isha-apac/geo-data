@@ -1,0 +1,216 @@
+[
+  {
+    "code": "GD",
+    "name": "Al Qadarif",
+    "names": {
+      "ja": "ガダーレフ州",
+      "ko": "알카다리프주",
+      "vi": "Al Qadarif",
+      "id": "Al Qadarif",
+      "zh-Hans": "加达里夫州",
+      "zh-Hant": "加達里夫州"
+    }
+  },
+  {
+    "code": "NB",
+    "name": "Blue Nile State",
+    "names": {
+      "ja": "青ナイル州",
+      "ko": "청나일주",
+      "vi": "Nin Xanh",
+      "id": "Nil Biru",
+      "zh-Hans": "青尼罗州",
+      "zh-Hant": "青尼羅州"
+    }
+  },
+  {
+    "code": "DC",
+    "name": "Central Darfur",
+    "names": {
+      "ja": "中部ダルフール州",
+      "ko": "중앙다르푸르주",
+      "vi": "Miền Trung Darfur",
+      "id": "Darfur Tengah",
+      "zh-Hans": "中达尔富尔州",
+      "zh-Hant": "中達爾富爾州"
+    }
+  },
+  {
+    "code": "DE",
+    "name": "East Darfur",
+    "names": {
+      "ja": "東ダルフール州",
+      "ko": "동다르푸르주",
+      "vi": "Đông Darfur",
+      "id": "Darfur Timur",
+      "zh-Hans": "东达尔富尔州",
+      "zh-Hant": "东達爾富爾州"
+    }
+  },
+  {
+    "code": "GZ",
+    "name": "Gezira",
+    "names": {
+      "ja": "ジャジーラ州",
+      "ko": "알자지라주",
+      "vi": "Al Jazirah",
+      "id": "Al Jazirah",
+      "zh-Hans": "杰济拉州",
+      "zh-Hant": "傑濟拉州"
+    }
+  },
+  {
+    "code": "KA",
+    "name": "Kassala",
+    "names": {
+      "ja": "カッサラ州",
+      "ko": "카살라주",
+      "vi": "Kassala",
+      "id": "Kassala",
+      "zh-Hans": "卡萨拉州",
+      "zh-Hant": "卡薩拉州"
+    }
+  },
+  {
+    "code": "KH",
+    "name": "Khartoum",
+    "names": {
+      "ja": "ハルツーム州",
+      "ko": "하르툼주",
+      "vi": "Khartoum",
+      "id": "Khartum",
+      "zh-Hans": "喀土穆州",
+      "zh-Hant": "喀土穆州"
+    }
+  },
+  {
+    "code": "DN",
+    "name": "North Darfur",
+    "names": {
+      "ja": "北ダルフール州",
+      "ko": "북다르푸르주",
+      "vi": "Bắc Darfur",
+      "id": "Darfur Utara",
+      "zh-Hans": "北达尔富尔州",
+      "zh-Hant": "北達爾富爾州"
+    }
+  },
+  {
+    "code": "KN",
+    "name": "North Kordofan",
+    "names": {
+      "ja": "北コルドファン州",
+      "ko": "북쿠르두판주",
+      "vi": "Bắc Kurdufan",
+      "id": "Kurdufan Utara",
+      "zh-Hans": "北科尔多凡州",
+      "zh-Hant": "北科爾多凡州"
+    }
+  },
+  {
+    "code": "NO",
+    "name": "Northern State",
+    "names": {
+      "ja": "北部州",
+      "ko": "북부주",
+      "vi": "Khu vực Phía Bắc",
+      "id": "Asy-Syamaliyah",
+      "zh-Hans": "北部州",
+      "zh-Hant": "北部州"
+    }
+  },
+  {
+    "code": "RS",
+    "name": "Red Sea",
+    "names": {
+      "ja": "紅海州",
+      "ko": "홍해주",
+      "vi": "Biển Đỏ",
+      "id": "Laut Merah",
+      "zh-Hans": "红海州",
+      "zh-Hant": "紅海州"
+    }
+  },
+  {
+    "code": "NR",
+    "name": "River Nile",
+    "names": {
+      "ja": "ナイル川州",
+      "ko": "나일주",
+      "vi": "Sông Nin",
+      "id": "Sungai Nil",
+      "zh-Hans": "尼罗州",
+      "zh-Hant": "尼羅州"
+    }
+  },
+  {
+    "code": "SI",
+    "name": "Sennar",
+    "names": {
+      "ja": "センナール州",
+      "ko": "센나르주",
+      "vi": "Sennar",
+      "id": "Sannar",
+      "zh-Hans": "森纳尔州",
+      "zh-Hant": "森納爾州"
+    }
+  },
+  {
+    "code": "DS",
+    "name": "South Darfur",
+    "names": {
+      "ja": "南ダルフール州",
+      "ko": "남다르푸르주",
+      "vi": "Nam Darfur",
+      "id": "Darfur Selatan",
+      "zh-Hans": "南达尔富尔州",
+      "zh-Hant": "南達爾富爾州"
+    }
+  },
+  {
+    "code": "KS",
+    "name": "South Kordofan",
+    "names": {
+      "ja": "南コルドファン州",
+      "ko": "남쿠르두판주",
+      "vi": "Nam Kordofan",
+      "id": "Kurdufan Selatan",
+      "zh-Hans": "南科尔多凡州",
+      "zh-Hant": "南科爾多凡州"
+    }
+  },
+  {
+    "code": "DW",
+    "name": "West Darfur",
+    "names": {
+      "ja": "西ダルフール州",
+      "ko": "서다르푸르주",
+      "vi": "Bang West Darfur",
+      "id": "Darfur Barat",
+      "zh-Hans": "西达尔富尔州",
+      "zh-Hant": "西達爾富爾州"
+    }
+  },
+  {
+    "code": "GK",
+    "name": "West Kordofan",
+    "names": {
+      "ja": "西コルドファン州",
+      "ko": "서쿠르두판주",
+      "id": "Kurdufan Barat",
+      "zh-Hans": "西科尔多凡州"
+    }
+  },
+  {
+    "code": "NW",
+    "name": "White Nile",
+    "names": {
+      "ja": "白ナイル州",
+      "ko": "백나일주",
+      "vi": "Nin Trắng",
+      "id": "Nil Putih",
+      "zh-Hans": "白尼罗州",
+      "zh-Hant": "白尼羅州"
+    }
+  }
+]

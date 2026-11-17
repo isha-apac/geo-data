@@ -1,0 +1,86 @@
+[
+  {
+    "code": "JK",
+    "name": "Azad Kashmir",
+    "names": {
+      "ja": "アザド・カシミール",
+      "ko": "아자드 카슈미르",
+      "vi": "Azad Kashmir",
+      "id": "Azad Kashmir",
+      "zh-Hans": "阿扎德克什米尔",
+      "zh-Hant": "自由喀什米爾"
+    }
+  },
+  {
+    "code": "BA",
+    "name": "Balochistan",
+    "names": {
+      "ja": "バローチスターン州",
+      "ko": "발루치스탄주",
+      "vi": "Balochistan",
+      "id": "Balochistan",
+      "zh-Hans": "俾路支省",
+      "zh-Hant": "俾路支省"
+    }
+  },
+  {
+    "code": "GB",
+    "name": "Gilgit-Baltistan",
+    "names": {
+      "ja": "ギルギット・バルティスタン州",
+      "ko": "길기트발티스탄",
+      "vi": "Gilgit-Baltistan",
+      "id": "Gilgit-Baltistan",
+      "zh-Hans": "吉尔吉特－巴尔蒂斯坦",
+      "zh-Hant": "吉爾吉特－巴爾蒂斯坦"
+    }
+  },
+  {
+    "code": "IS",
+    "name": "Islamabad Capital Territory",
+    "names": {
+      "ja": "イスラーマーバード首都圏",
+      "ko": "이슬라마바드 수도권",
+      "vi": "Lãnh thổ Thủ đô Islamabad",
+      "id": "Wilayah Ibu Kota Islamabad",
+      "zh-Hans": "伊斯兰堡首都区",
+      "zh-Hant": "伊斯蘭堡首都區"
+    }
+  },
+  {
+    "code": "KP",
+    "name": "Khyber Pakhtunkhwa",
+    "names": {
+      "ja": "カイバル・パクトゥンクワ州",
+      "ko": "카이베르파크툰크와주",
+      "vi": "Khyber Pakhtunkhwa",
+      "id": "Khyber Pakhtunkhwa",
+      "zh-Hans": "开伯尔-普什图省",
+      "zh-Hant": "開伯爾-普什圖省"
+    }
+  },
+  {
+    "code": "PB",
+    "name": "Punjab",
+    "names": {
+      "ja": "パンジャーブ州",
+      "ko": "펀자브주",
+      "vi": "Punjab",
+      "id": "Punjab",
+      "zh-Hans": "旁遮普省",
+      "zh-Hant": "旁遮普省"
+    }
+  },
+  {
+    "code": "SD",
+    "name": "Sindh",
+    "names": {
+      "ja": "シンド州",
+      "ko": "신드주",
+      "vi": "Sindh",
+      "id": "Sindh",
+      "zh-Hans": "信德省",
+      "zh-Hant": "信德省"
+    }
+  }
+]
