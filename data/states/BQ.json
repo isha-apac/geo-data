@@ -1,6 +1,6 @@
 [
   {
-    "code": "BQ1",
+    "code": "BO",
     "name": "Bonaire",
     "names": {
       "ja": "ボネール島",
@@ -12,7 +12,7 @@
     }
   },
   {
-    "code": "BQ2",
+    "code": "SA",
     "name": "Saba",
     "names": {
       "ja": "サバ島",
@@ -24,7 +24,7 @@
     }
   },
   {
-    "code": "BQ3",
+    "code": "SE",
     "name": "Sint Eustatius",
     "names": {
       "ja": "シント・ユースタティウス島",

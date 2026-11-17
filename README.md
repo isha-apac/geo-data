@@ -35,7 +35,7 @@ Install a tagged release straight from GitHub (no npm registry needed):
 
 ```json
 "dependencies": {
-  "@isha-apac/geo-data": "github:isha-apac/geo-data#v1.0.0"
+  "@isha-apac/geo-data": "github:isha-apac/geo-data#v1.1.0"
 }
 ```
 
@@ -48,7 +48,8 @@ and fetch only the country you need (iso-apac does this; see its `angular.json`)
 2. CI runs `npm run check`. It fails on invalid data (duplicate codes, empty names, a country
    whose states were pasted from another, …) and lists countries that differ from
    [@countrystatecity/countries-browser](https://www.npmjs.com/package/@countrystatecity/countries-browser).
-3. After merging, tag a release (`v1.1.0`) and bump the tag in each app.
+3. After merging, add the release to [CHANGELOG.md](CHANGELOG.md), tag it (`v1.2.0`) and bump the
+   tag in each app. Call out any changed codes: apps store them.
 
 To compare with Wikidata as well:
 
@@ -82,18 +83,14 @@ Changes made by hand in the first release:
 
 ## Open review items
 
-Found by `npm run check:wikidata`, not yet changed because existing codes are stored by apps:
+Found by `npm run check:wikidata`:
 
-- **India**: ISO now uses `TS` (Telangana), `CG` (Chhattisgarh) and `OD` (Odisha); this data
-  still has `TG`, `CT` and `OR`.
-- **Mongolia**: Ulaanbaatar is `1` in ISO, `001` here.
-- **Caribbean Netherlands**: ISO codes are `BO`, `SA`, `SE`; this data has `BQ1`–`BQ3`.
 - **Korea**: `12` (Jeonnam-Gwangju Integrated Special City) has no Wikidata entry yet; confirm
   the merger is in effect.
-- Names: some Wikidata translations are inconsistent (e.g. Indonesian "Provinsi …" prefixes for
-  Vietnamese provinces) and Traditional Chinese is missing for 21 Vietnamese provinces.
 - About 60 other countries, mostly territories and European countries, differ from Wikidata in
   which subdivision level is listed.
+- Indonesian names use administrative prefixes ("Provinsi …", "Distrik …"), which is normal
+  Indonesian usage. They were made consistent for Vietnam only.
 
 ## License
 

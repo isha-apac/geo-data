@@ -155,6 +155,18 @@
     }
   },
   {
+    "code": "053",
+    "name": "Ömnögovi Province",
+    "names": {
+      "ja": "ウムヌゴビ県",
+      "ko": "우므느고비도",
+      "vi": "Ömnögovi",
+      "id": "Provinsi Ömnögovi",
+      "zh-Hans": "南戈壁省",
+      "zh-Hant": "南戈壁省"
+    }
+  },
+  {
     "code": "035",
     "name": "Orkhon Province",
     "names": {
@@ -176,18 +188,6 @@
       "id": "Provinsi Övörkhangai",
       "zh-Hans": "前杭爱省",
       "zh-Hant": "前杭愛省"
-    }
-  },
-  {
-    "code": "053",
-    "name": "Province of Umnugobi",
-    "names": {
-      "ja": "ウムヌゴビ県",
-      "ko": "우므느고비도",
-      "vi": "Ömnögovi",
-      "id": "Provinsi Ömnögovi",
-      "zh-Hans": "南戈壁省",
-      "zh-Hant": "南戈壁省"
     }
   },
   {
@@ -227,7 +227,7 @@
     }
   },
   {
-    "code": "001",
+    "code": "1",
     "name": "Ulaanbaatar",
     "names": {
       "ja": "ウランバートル",
